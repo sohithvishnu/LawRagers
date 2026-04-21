@@ -1,78 +1,93 @@
-# ⚖️ Legal RAG: Case Law Argument Validator (PoC)
+# ⚖️ Legal Scribe: AI-Powered Analysis Workspace
 
 ## 📖 Overview
-This project is a Proof of Concept (PoC) for an AI-powered legal validation tool utilizing Retrieval-Augmented Generation (RAG). 
+**Legal Scribe** is a professional-grade legal research and analysis workspace. It leverages **Retrieval-Augmented Generation (RAG)** to connect binding New York precedent with a lawyer's private matter files.
 
-Traditional legal research relies heavily on exact keyword matching (Boolean searches). This system allows a lawyer to input a drafted legal argument or thesis in plain English. The system then uses **semantic vector search** to understand the *concept* of the argument and retrieves specific, relevant binding precedents from the New York Court of Appeals to support or challenge the premise.
+Unlike traditional keyword-based research, Legal Scribe provides a **persistent, conversational, and visual environment**. It builds a cumulative "Semantic Network" of a case, allowing attorneys to visualize how precedents interconnect with their arguments while maintaining isolated, persistent sessions in a local SQLite database.
 
 ## ✨ Key Features
-* **Semantic Search:** Finds relevant case law based on meaning, overcoming differences in judicial vocabulary (e.g., matching "precipitation" with "storm").
-* **100% Local Vector Database:** Uses ChromaDB to store and query embeddings locally without relying on paid, external cloud databases.
-* **Apple Silicon Accelerated:** Fully optimized to use Apple's Metal Performance Shaders (MPS), shifting the heavy embedding workload from the CPU to the Mac's built-in GPU.
-* **Context-Aware Chunking:** Parses Harvard Caselaw Access Project (CAP) structured JSON files to separate non-binding headnotes from binding judicial opinions, chunking the text by paragraph to preserve legal context.
-
-
+* **Isolated Matter Management:** A persistent "Lobby" for managing distinct legal matters. Each matter has its own isolated vector space to prevent data leakage between cases.
+* **Dual-RAG Architecture:** Simultaneously queries the New York Court of Appeals (binding law) and private user uploads (PDF/Text) to provide contextually grounded legal memos.
+* **Cumulative Knowledge Graph:** An interactive, Obsidian-inspired network that identifies "Anchor Cases"—precedents that are repeatedly relevant across a chat history.
+* **Graph Checkpoints (Time Travel):** Every AI response saves a snapshot of the graph. Users can "rewind" the visual network to any point in the chat history.
+* **Streaming IRAC Memo:** Character-by-character streaming of legal memos in Markdown format, following the industry-standard IRAC (Issue, Rule, Application, Conclusion) structure.
+* **Persistent Memory:** Complete chat history and session metadata are stored in a local SQLite database for seamless continuity.
 
 ## 🛠️ Technology Stack
-* **Frontend UI:** Streamlit
-* **Vector Database:** ChromaDB
-* **Embeddings:** `all-MiniLM-L6-v2` (via HuggingFace `sentence-transformers`)
-* **Hardware Acceleration:** PyTorch (MPS/Apple Silicon)
-* **Data Source:** Harvard Caselaw Access Project (New York Reports, 3d Series)
+* **Frontend:** Expo (React Native for Web)
+* **Backend API:** FastAPI (Python)
+* **AI Engine:** Ollama (Llama 3)
+* **Vector Database:** ChromaDB (Semantic Search)
+* **Relational Database:** SQLite (Session & Chat History)
+* **Hardware Acceleration:** PyTorch (MPS / Apple Silicon)
+* **Document Parsing:** PyPDF2
 
 ---
 
-## 🚀 How to Install and Run
+## 🚀 Installation & Setup
 
 ### 1. Prerequisites
-Ensure you have Python 3.9+ installed. It is highly recommended to use a virtual environment (like Anaconda or `venv`).
+* **Python 3.9+**
+* **Node.js & npm** (for Expo)
+* **Ollama** installed and running on your Mac.
 
-### 2. Install Dependencies
-Run the following command in your terminal to install the required packages:
+### 2. Install Backend Dependencies
+Run the following in your project root:
 ```bash
-pip install streamlit chromadb torch sentence-transformers
+pip install fastapi uvicorn chromadb torch sentence-transformers ollama python-multipart PyPDF2
 ```
-*(Note: Our scripts automatically force the `transformers` library to bypass TensorFlow and use PyTorch to prevent local dependency conflicts).*
+### 3. Install Frontend Dependencies
 
-### 3. Data Preparation
-This PoC requires raw JSON/JSONL data from the Harvard Caselaw Access Project.
-
-1. Create a directory named `data/extracted_json` in the root of this project.
-2. Download the New York Reports (`ny3d`) archive from Harvard CAP.
-3. Extract the `.json` files representing the individual cases into the `data/extracted_json` folder.
-
-### 4. Build the Vector Database (Backend)
-Before you can search, you must embed the case law into the local vector database. Run the indexing script:
+Navigate to your legal-dashboard folder:
 
 ```bash
-python build_index.py
+npx expo install react-native-svg react-native-markdown-display @expo/vector-icons expo-document-picker
 ```
 
-**What this does:**
-* Reads the raw JSON files.
-* Targets the `casebody -> opinions` structure.
-* Chunks the text by paragraph.
-* Converts the text into vector embeddings using your Mac's GPU (MPS).
-* Saves the vectors locally into a folder called `chroma_db`.
+### 🏗️ How to Run
 
-### 5. Launch the User Interface (Frontend)
-Once the database is built, start the Streamlit web application:
+Step 1: Start Ollama
+
+Ensure Llama 3 is available and the server is listening:
+
+``` bash
+ollama run llama3
+```
+Step 2: Start the Python API (Backend)
+
+In your project root:
 
 ```bash
-streamlit run app.py
+python -m uvicorn api:app --reload
 ```
+The backend will initialize the legal_sessions.db (SQLite) and the chroma_db (Vector) folders.
 
-This will open a web browser at http://localhost:8501.
+Step 3: Start the Expo Dashboard (Frontend)
 
-### 🧪 Example Test Queries
-Try pasting these arguments into the UI to see the semantic search in action:
+In the legal-dashboard folder:
 
-#### Premises Liability (Storm in Progress):
+```bash
+npx expo start -w
+```
+This will launch the Legal Scribe Lobby in your web browser.
 
-"A property owner is not liable for injuries caused by a slip and fall on snow or ice if the accident occurred while the winter storm was still ongoing."
+### 📁 Workflow: Managing a Matter
+The Lobby: Upon launch, select "Create New Matter" or pick an existing session from the persistent sidebar.
 
-#### Strict Liability (Dog Bites):
+Configuration: Define your matter name, select your databases (e.g., NY Precedent), and upload your initial case files (PDF/Text).
 
-"To hold a landlord strictly liable for an injury caused by a tenant's domestic animal, the plaintiff must prove that the animal had vicious propensities and the landlord knew about them."
+The Workspace: * Pane 1 (Chat): Ask follow-up questions or draft arguments. Watch the AI stream its memo character-by-character.
 
+Pane 2 (Graph): Visualize the semantic connections. Use "View Graph Checkpoint" on old messages to see the network's history.
 
+Pane 3 (Viewer): Select nodes in the graph to read the full text of the court opinion or uploaded source.
+
+### 🧪 Suggested Testing Scenario
+
+Create Matter: "Smith Premises Liability"
+
+Upload: A PDF of a witness deposition.
+
+Query: "Based on the uploaded deposition and NY Law, does the 'Storm in Progress' doctrine apply to the slip and fall that occurred at 2:00 PM?"
+
+Follow-up: "How does this change if the plaintiff testifies it had stopped snowing an hour prior?"

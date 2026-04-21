@@ -1,3 +1,19 @@
 chroma_db
 data
 .idea
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Databases & Vector Stores
+legal_sessions.db
+chroma_db/
+
+# Expo / Node
+node_modules/
+.expo/
+dist/
+web-build/
