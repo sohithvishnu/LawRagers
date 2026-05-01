@@ -238,44 +238,58 @@ export default function Index() {
     return { label: 'Contextual', color: '#64748B', bg: '#F1F5F9' }; 
   };
 
+  const renderGraphEdges = () => {
+    const CENTER = 150;
+    return (
+      <Svg style={StyleSheet.absoluteFill}>
+        {cases.map((c, index) => {
+          const hitMultiplier = c.hitCount ? Math.max(1, 4 - c.hitCount) : 3;
+          const radius = 40 + (index * 15 * hitMultiplier);
+          const angle = index * ((2 * Math.PI) / cases.length);
+          const x = CENTER + radius * Math.cos(angle);
+          const y = CENTER + radius * Math.sin(angle);
+          const isSelected = selectedCase?.id === c.id;
+          const isCriticalNode = c.hitCount && c.hitCount > 1;
+          return (
+            <Line
+              key={c.id}
+              x1={CENTER} y1={CENTER} x2={x} y2={y}
+              stroke={isSelected ? "#2563EB" : (isCriticalNode ? "#D97706" : "#E2E8F0")}
+              strokeWidth={isSelected || isCriticalNode ? 2 : 1}
+              strokeDasharray={isSelected || isCriticalNode ? "" : "4,4"}
+            />
+          );
+        })}
+      </Svg>
+    );
+  };
+
   const renderGraphNodes = () => {
     const CENTER = 150;
     return cases.map((c, index) => {
-      const hitMultiplier = c.hitCount ? Math.max(1, 4 - c.hitCount) : 3; 
-      const radius = 40 + (index * 15 * hitMultiplier); 
-      const angle = index * ((2 * Math.PI) / cases.length); 
+      const hitMultiplier = c.hitCount ? Math.max(1, 4 - c.hitCount) : 3;
+      const radius = 40 + (index * 15 * hitMultiplier);
+      const angle = index * ((2 * Math.PI) / cases.length);
       const x = CENTER + radius * Math.cos(angle);
       const y = CENTER + radius * Math.sin(angle);
-      
       const isSelected = selectedCase?.id === c.id;
-      const isCriticalNode = c.hitCount && c.hitCount > 1; 
+      const isCriticalNode = c.hitCount && c.hitCount > 1;
       const rel = getRelevance(index);
-
       return (
-        <React.Fragment key={c.id}>
-          <Svg style={StyleSheet.absoluteFill}>
-            <Line 
-              x1={CENTER} y1={CENTER} x2={x} y2={y} 
-              stroke={isSelected ? "#2563EB" : (isCriticalNode ? "#D97706" : "#E2E8F0")} 
-              strokeWidth={isSelected || isCriticalNode ? 2 : 1} 
-              strokeDasharray={isSelected || isCriticalNode ? "" : "4,4"} 
-            />
-          </Svg>
-          <TouchableOpacity style={[styles.nodeWrapper, { left: x - 15, top: y - 15 }]} onPress={() => setSelectedCase(c)} activeOpacity={0.7}>
-            <View style={[
-              styles.graphNode, 
-              { borderColor: isSelected ? '#2563EB' : (isCriticalNode ? '#D97706' : rel.color), backgroundColor: rel.bg, transform: [{ scale: isCriticalNode ? 1.3 : 1 }] }
-            ]}>
-              <View style={[styles.nodeDot, { backgroundColor: isSelected ? '#2563EB' : (isCriticalNode ? '#D97706' : rel.color) }]} />
-            </View>
-            <View style={styles.nodeLabelContainer}>
-              <Text style={[styles.nodeLabelText, isSelected && styles.nodeLabelTextSelected]} numberOfLines={1}>
-                {isCriticalNode && "🔥 "} {c.id}
-              </Text>
-              <Text style={styles.nodeDistanceText}>{c.hitCount > 1 ? `Connections: ${c.hitCount}` : `Dist: ${c.distance.toFixed(2)}`}</Text>
-            </View>
-          </TouchableOpacity>
-        </React.Fragment>
+        <TouchableOpacity key={c.id} style={[styles.nodeWrapper, { left: x - 15, top: y - 15 }]} onPress={() => setSelectedCase(c)} activeOpacity={0.7}>
+          <View style={[
+            styles.graphNode,
+            { borderColor: isSelected ? '#2563EB' : (isCriticalNode ? '#D97706' : rel.color), backgroundColor: rel.bg, transform: [{ scale: isCriticalNode ? 1.3 : 1 }] }
+          ]}>
+            <View style={[styles.nodeDot, { backgroundColor: isSelected ? '#2563EB' : (isCriticalNode ? '#D97706' : rel.color) }]} />
+          </View>
+          <View style={styles.nodeLabelContainer}>
+            <Text style={[styles.nodeLabelText, isSelected && styles.nodeLabelTextSelected]} numberOfLines={1}>
+              {isCriticalNode && "🔥 "} {c.id}
+            </Text>
+            <Text style={styles.nodeDistanceText}>{c.hitCount > 1 ? `Connections: ${c.hitCount}` : `Dist: ${c.distance.toFixed(2)}`}</Text>
+          </View>
+        </TouchableOpacity>
       );
     });
   };
@@ -325,7 +339,7 @@ export default function Index() {
   // ==========================================
   if (currentScreen === 'config') {
     return (
-      <View style={styles.lobbyWrapper}>
+      <View style={[styles.lobbyWrapper, { alignItems: 'center', justifyContent: 'center' }]}>
         <View style={styles.configContainer}>
           <TouchableOpacity style={styles.backBtn} onPress={() => setCurrentScreen('lobby')}>
             <Ionicons name="arrow-back" size={20} color="#0F172A" />
@@ -485,6 +499,7 @@ export default function Index() {
             <View style={[styles.zoomArea, { transform: [{ scale: zoomScale }] }]}>
               {cases.length > 0 ? (
                 <>
+                  {renderGraphEdges()}
                   {renderGraphNodes()}
                   <View style={[styles.centerNodeWrapper, { left: 150 - 25, top: 150 - 25 }]}>
                     <View style={styles.centerNode}>
