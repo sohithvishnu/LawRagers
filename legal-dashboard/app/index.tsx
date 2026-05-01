@@ -4,6 +4,7 @@ import Svg, { Line } from 'react-native-svg';
 import Markdown from 'react-native-markdown-display';
 import { Ionicons } from '@expo/vector-icons';
 import * as DocumentPicker from 'expo-document-picker';
+import type { DocumentPickerAsset } from 'expo-document-picker';
 
 const API_BASE = 'http://localhost:8000';
 
@@ -26,14 +27,14 @@ export default function Index() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [argument, setArgument] = useState('');
 
-  const [uploadedFiles, setUploadedFiles] = useState([]);
+  const [uploadedFiles, setUploadedFiles] = useState<DocumentPickerAsset[]>([]);
   const [indexedFiles, setIndexedFiles] = useState<string[]>([]);
 
   const [loadingState, setLoadingState] = useState('');
   const [cases, setCases] = useState<Case[]>([]);
   const [selectedCase, setSelectedCase] = useState<Case | null>(null);
   const [zoomScale, setZoomScale] = useState(1);
-  const scrollViewRef = useRef();
+  const scrollViewRef = useRef<ScrollView>(null);
 
   useEffect(() => {
     if (currentScreen === 'lobby') fetchSessions();
@@ -61,10 +62,14 @@ export default function Index() {
     } catch (error) { console.error("Picker error:", error); }
   };
 
-  const uploadFileToBackend = async (file, sessionId): Promise<string> => {
+  const uploadFileToBackend = async (file: DocumentPickerAsset, sessionId: string): Promise<string> => {
     const formData = new FormData();
     formData.append('session_id', sessionId);
-    formData.append('file', { uri: file.uri, name: file.name, type: file.mimeType || 'application/pdf' });
+    if (Platform.OS === 'web' && file.file) {
+      formData.append('file', file.file, file.name);
+    } else {
+      formData.append('file', { uri: file.uri, name: file.name, type: file.mimeType || 'application/pdf' } as any);
+    }
     const res = await fetch(`${API_BASE}/upload`, { method: 'POST', body: formData, headers: { 'Accept': 'application/json' } });
     if (!res.ok) throw new Error(file.name);
     return file.name;
@@ -167,7 +172,7 @@ export default function Index() {
       const newlyIndexed: string[] = [];
       for (const file of uploadedFiles) {
         try {
-          await uploadFileToBackend(file, activeSessionId);
+          await uploadFileToBackend(file, activeSessionId!);
           newlyIndexed.push(file.name);
         } catch {
           setMessages(prev => [...prev, {
@@ -244,7 +249,7 @@ export default function Index() {
       });
       if (!genResponse.ok) throw new Error('generate');
 
-      const reader = genResponse.body.getReader();
+      const reader = genResponse.body!.getReader();
       const decoder = new TextDecoder();
       let done = false;
       let finalAiText = "";
