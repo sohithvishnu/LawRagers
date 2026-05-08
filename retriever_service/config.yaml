@@ -1,0 +1,75 @@
+hnsw:
+  M: 16
+  construction_ef: 200
+  search_ef: 100
+  space: cosine
+
+bm25:
+  k1: 0.3
+  b: 0.5
+
+rrf:
+  k: 5
+  candidate_pool: 200
+
+reranker:
+  model: BAAI/bge-reranker-base
+  max_length: 512
+  batch_size: 16
+  enabled_default: false
+  top_n_input: 50
+  top_n_output: 10
+  pagerank_boost_weight: 0.3
+
+filters:
+  default_min_ocr_confidence: 0.0
+
+graph:
+  subgraph_max_depth: 2
+  subgraph_max_neighbors: 50
+
+anchors:
+  default_min_hits: 2
+  default_weight_by_pagerank: true
+
+case_metadata_cache:
+  max_entries: 1024
+  ttl_seconds: 10
+
+chunking:
+  target_tokens: 256
+  overlap_tokens: 40
+  min_chunk_tokens: 30
+  max_chunk_tokens: 320
+  tokenizer_model: sentence-transformers/all-MiniLM-L6-v2
+  sentence_splitter: pysbd
+  contextual_prefix:
+    enabled: true
+  structural_split:
+    head_matter:
+      detect_held_points: true
+      detect_attorneys_block: true
+      held_points_max: 20
+    opinion:
+      detect_roman_headers: true
+      detect_letter_subheaders: true
+      detect_named_headers: true
+      headers_max: 15
+
+relational_store:
+  database_path: ./legal_sessions.db
+  retrieval_log_retention_days: 365
+
+timeouts_ms:
+  bm25: 2000
+  dense: 2000
+  rerank: 3000
+
+circuit_breaker:
+  consecutive_failures: 5
+  cooldown_seconds: 60
+
+service:
+  port: 8001
+  chroma_path: ./chroma_db
+  tantivy_path: ./tantivy_index
