@@ -767,24 +767,62 @@ Computed in two steps: (1) `SELECT case_id, COUNT(*) AS hits, MIN(retrieved_at),
 
 ## 10. Evaluation Harness
 
-`eval/` directory:
+**Approach:** CLERC-style citation-as-qrels (NAACL 2025 Findings, Hou et al., arXiv:2406.17186). Queries and ground-truth labels are derived automatically from the `cites_to[]` graph already present in CAP JSON — no expert lawyer, no LLM, no manual qrel curation. The pipeline is deterministic end-to-end.
 
-- `eval/queries.jsonl` — `{query, relevant_chunk_ids: [...], notes: "..."}` written manually by the lawyer in the loop.
-- `eval/run_eval.py` — for each query calls `/retrieve` with `k=10`, computes via **`ranx`**:
-  - `precision@{1,5,10}`
-  - `recall@{5,10}`
-  - `MRR`
-  - `NDCG@10`
-- Latency: per-query `time.perf_counter()`, p50/p95/p99 via `numpy.percentile`.
-- Output: markdown report at `eval/reports/YYYY-MM-DD.md` with a comparison row vs the previous report.
+### 10.1 Test-set construction (one-shot, replayable)
 
-### 10.1 MVP pass thresholds (calibrate after first baseline)
+`eval/build_testset.py` — runs over the ingested NY corpus and writes a frozen `eval/testset/` directory:
+
+1. **Pick citing opinions.** For each case in the corpus that has at least one entry in `cites_to[]` whose `case_ids` is non-empty *and* the cited case is also in our corpus, the case is eligible as a query source. Skip cases with `ocr_confidence < 0.3` (per ingestion §6.5.2).
+2. **Locate citation spans.** Use `eyecite` to extract every citation in the opinion text. Match each detected citation back to its target `case_id` via the CAP-supplied `cites_to[].case_ids` mapping (when ambiguous, the citation parallels in `cites_to[].cite` disambiguate).
+3. **Build query window.** For each matched citation, take a ±150-word window centered on the citation token. This window becomes the raw query.
+4. **Redact the citation.** Two variants per query, written as separate query rows:
+   - `single-removed` — only the matched citation string itself is replaced with `[CITATION]`. Surrounding signals (case names, "see also", parentheticals) remain. This is the realistic "lawyer drafting a brief" condition.
+   - `all-removed` — every citation in the window is replaced. Harder, isolates the retriever from any citation-string leakage. This is the headline number.
+5. **Write qrels.** For each query row, the cited `case_id` is the gold positive (graded relevance = 1). All chunks belonging to that case in our chunks index are treated as passage-level positives at scoring time (one-of-many hit counts as recall). Self-citations (citing case = cited case) are dropped.
+6. **Output format:**
+   - `eval/testset/queries.jsonl` — `{query_id, citing_case_id, variant, query_text, gold_case_id}`.
+   - `eval/testset/qrels.tsv` — TREC format: `query_id 0 chunk_id 1` (one row per chunk of the gold case).
+   - `eval/testset/manifest.json` — corpus snapshot hash + counts, so eval runs are bound to a corpus version.
+
+Re-run `build_testset.py` only when the corpus changes; otherwise the testset is frozen and committed.
+
+### 10.2 Evaluation runner
+
+`eval/run_eval.py` — given a frozen testset and a retriever endpoint:
+
+1. For each query, POST `/retrieve` with `k=10` (or `/search` for the legacy baseline).
+2. For each returned chunk, look up its `case_id`; collapse to a per-case ranked list (first occurrence wins).
+3. Compute via **`ranx`**:
+   - `precision@{1,5,10}`
+   - `recall@{5,10}`
+   - `MRR`
+   - `nDCG@10`
+4. Latency: per-query `time.perf_counter()`, p50/p95/p99 via `numpy.percentile`.
+5. Report split by `variant` (`single-removed` vs `all-removed`) — they measure different things and must not be averaged together.
+6. Output: markdown report at `eval/reports/YYYY-MM-DD-{label}.md`, with a comparison row vs the previous report of the same label (e.g., `baseline`, `hybrid`, `hybrid+rerank`).
+
+### 10.3 MVP pass thresholds (calibrate after first baseline)
+
+Thresholds reported on the **`all-removed`** variant (the headline condition).
 
 | Metric | Threshold |
 |---|---|
 | `recall@10` | ≥ 0.70 |
 | `MRR` | ≥ 0.50 |
 | `p95_latency_ms` | ≤ 500 |
+
+### 10.4 Out of scope (acknowledged)
+
+- **Paraphrase-style queries** (RAGAS testset gen, etc.) — would require an available LLM at generation time. Deferred until one is provisioned.
+- **Generation-quality metrics** (faithfulness, answer relevancy) — Phase 0 evaluates retrieval only.
+- **Hand-authored qrels** — explicitly rejected as a requirement.
+
+### 10.5 Known limitations of the citation-as-qrels signal
+
+- A retriever that surfaces a *better* case than the one the original author cited is penalized (false negative). This is intrinsic to the silver-label approach. Acceptable for relative comparisons across retriever versions; do not interpret absolute numbers as a quality ceiling.
+- Coverage is bounded to citing-opinion-bearing portions of the corpus; cases that are only ever cited (never citing) appear as gold targets but never produce queries.
+- Citation density varies sharply by case; cap queries-per-citing-case (default 5) to prevent a few prolific opinions from dominating the testset.
 
 ## 11. Configuration
 
@@ -812,7 +850,7 @@ reranker:
   enabled_default: true
   top_n_input: 50
   top_n_output: 10
-  pagerank_boost_weight: 0.0    # alpha in §7.2.1; recommend 0.3 once eval validates
+  pagerank_boost_weight: 0.3    # alpha in §7.2.1; recommend 0.3 once eval validates
 
 filters:
   default_min_ocr_confidence: 0.3
