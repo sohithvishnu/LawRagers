@@ -33,10 +33,15 @@ except Exception:
 # Create collection WITH the hardware-accelerated embedding function
 collection = chroma_client.create_collection(
     name="ny_case_law",
-    embedding_function=mps_embedding_function
+    embedding_function=mps_embedding_function,
+    metadata={"hnsw:space": "cosine",
+            "hnsw:M": 16,                                                      
+            "hnsw:construction_ef": 200,                                                                                                                                                          
+            "hnsw:search_ef": 100
+            }
 )
 
-EXTRACT_DIR = "data/extracted_json"
+EXTRACT_DIR = os.environ.get("CASES_DIR", "eval/dataset")
 
 
 def process_and_index_cases():
@@ -63,6 +68,7 @@ def process_and_index_cases():
                 continue  # Skip if it's not valid JSON
 
             # Extract basic metadata
+            case_id = case_data.get("id")
             case_name = case_data.get("name_abbreviation", "Unknown Case")
             decision_date = case_data.get("decision_date", "Unknown Date")
 
@@ -84,6 +90,7 @@ def process_and_index_cases():
                 for para in paragraphs:
                     docs_to_insert.append(para)
                     metadatas_to_insert.append({
+                        "case_id": case_id,
                         "case_name": case_name,
                         "decision_date": decision_date,
                         "source_file": str(file_path.name)
