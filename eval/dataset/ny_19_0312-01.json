@@ -1,0 +1,237 @@
+{
+  "id": 497695,
+  "name": "Bank of Genesee v. Patchin Bank",
+  "name_abbreviation": "Bank of Genesee v. Patchin Bank",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "312",
+  "last_page": "321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 N.Y. 312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "16 N. Y., 125",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0117-01"
+      ]
+    },
+    {
+      "cite": "8 Wheat., 338",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        6137892
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/21/0149-01"
+      ]
+    },
+    {
+      "cite": "3 Barb., 523",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8594232
+      ],
+      "pin_cites": [
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/3/0523-01"
+      ]
+    },
+    {
+      "cite": "1 Denio, 608",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484016
+      ],
+      "pin_cites": [
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0608-01"
+      ]
+    },
+    {
+      "cite": "18 Pick., 63",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2025454
+      ],
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/35/0063-01"
+      ]
+    },
+    {
+      "cite": "9 Barb., 528",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4895046
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/9/0528-01"
+      ]
+    },
+    {
+      "cite": "8 Cow., 31",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Wend., 40",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020970
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/17/0025-01"
+      ]
+    },
+    {
+      "cite": "4 Wend., 285",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005434
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0285-01"
+      ]
+    },
+    {
+      "cite": "19 John., 60",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380510
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/19/0060-01"
+      ]
+    },
+    {
+      "cite": "13 John., 307",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374419
+      ],
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/13/0307-01"
+      ]
+    },
+    {
+      "cite": "7 Cow., 453",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034885
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/7/0452-01"
+      ]
+    },
+    {
+      "cite": "9 John., 334",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372373
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/9/0334-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 750,
+    "char_count": 19309,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 1.4423410794374552e-06,
+      "percentile": 0.9911714930098241
+    },
+    "sha256": "b7f7d9f27823fbf4756678a2fa17d7fe524576b1698a7f26377870d0d26bbedd",
+    "simhash": "1:043375a89e4cfad5",
+    "word_count": 3413
+  },
+  "last_updated": "2024-02-27T17:14:26.496269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bank of Genesee v. Patchin Bank."
+    ],
+    "opinions": [
+      {
+        "text": "H. Gray, J.\nThat the defendant had the right to procure its paper to be rediscounted for the use of the bank is well settled, and is not now questioned \"by the defendant\u2019s counsel. (Marvine v. Hymers, 2 Kern., 223; Planters' Bank v. Sharp, 6 How. U. S. R., 301.) But the question presented is, whether the indorsement by Stokes, the defendant\u2019s cashier, in the manner in which it was made, is to be regarded as the personal indorsement of Stokes, or an indorsement in his official capacity, so as to hind the bank of which he was cashier. As a general proposition, it is undoubtedly true, that one who signs a writing as agent, trustee, or president, is regarded as merely describing himself, and hence is held to be personally liable. (Taft v. Brewster, 9 John., 334; Stone v. Wood, 7 Cow., 453.) But when a writing is thus executed, with full authority from a principal, and is received by the payee as the obligation of the principal, the party on whose account it is executed is-alonc liable. In the case of White v. Skinner (13 John., 307, 311), Skinner was held liable because he did not aver that he had authority from the company he assumed to bind. In Randall v. Van Vechten and others (19 John., 60), the defendants were described as a committee appointed by the corporation of the city of Albany, and they engaged to pay Randall for surveying and making maps. To their agreement so to do, they respectively signed their names and affixed their individual seals. Randall was, otherwise than by the agreement, informed that they acted in behalf of the corporation; and in the course of his services under the contract, he recognized the corporation as his principal. The defendants were held not to be hable. In Dubois v. The Delaware and Hudson Canal Company (4 Wend., 285), the contract was signed \u201c Maurice Wurts, agent for the Delaware and Hudson Canal Company.\u201d The plaintiff proceeded to work under the direction of the company\u2019s engineers, and afterwards sued the company, alleging their liability under the contract. Mr. Butler, \"who was their counsel, conceded, upon the authority of Randall v. Van Vechten, that the contract was well executed, and charged the defendants; and so the court decided\u2014Justice Marcy delivering the opinion. In Brockway v. Allen (17 Wend., 40), the defendants gave their note, and signed it individually, adding, \u201c Trustees of the First Baptist Society of the village of Broekport.\u201d They pleaded that the society was indebted to Brockway for brick \"and other materials furnished, and that on account of such indebtedness they made the note. The court were of opinion that the plaintiff' must have known that the debt was a corporate one, and that they made the note as the representatives of the corporation; and held that they were not liable. The principle decided, by these cases is not in harmony with the decision in Hill v. Bannister (8 Cow., 31). There the defendants gave their note, with the addition of \u201c Trustees of Union Religious Society, Phelpsand the defendants proved that it was given to a creditor of the society for a debt due from it. The cases to which I have referred have, nevertheless, been followed by the Supreme Court of this State, since the reorganization of our judicial system, and the principle settled by them fully affirmed by this court. In Hicks v. Hinde and others, (9 Barb., 528), Hinde made his draft, adding to his signature, \u201c agent,\u201d on Beardsley in favor of Hicks. Beardsley accepted it, but failing to pay, it was protested, and a suit brought upon it by Hicks against Hinde and Beardsley. On the trial it was proved that Beardsley had a factory in charge of Hinde as his agent, and that he was in debt to Hicks for rent, and authorized Hinde to draw upon him for the rent due, for which purpose the draft in question was made; and it was held that Hinde was not liable. The same question was subsequently presented to this court in Babcock v. Beman (1 Kern., 200). The defendant Beman had indorsed a note, adding to his signature, \u201c treasurer,\u201d and was sued upon it. In his answer he alleged that he was the treasurer of the Union Manufacturing Company at Raritan, a corporation created under the laws of New Jersey, and as such had authority to receive the note and to indorse it to the plaintiff, of which the plaintiff\" had notice, and that it was indorsed by him and received by the plaintiff on account of a debt due from the company to him. Upon demurrer to the answer, the defendant had judgment. We were referred on the argument to the cases of Moss v. Livingston (4 Comst., 208), and De Will v. Walton (5 Seld., 571), as being so inconsistent with the one to which I have last referred, that the one or the other must necessarily be overruled. It will be found, by a little attention to these two cases, that they are in no respect in conflict with Babcock v. Beman. In the case of Moss v. Livingston, Morrell was the agent of a corporation known by the name of the Rosendale Manufacturing Company, and one Ellett was also an agent of the same company, and was their creditor for services rendered by him. To pay this indebtedness, Morrell drew in Ellett\u2019s favor upon Livingston, adding to Livingston\u2019s address, \u201c President, Rosendale Manufacturing Company.\u201d This draft was accepted by Livingston, who added the same words to his signature. The bill thus drawn and accepted was transferred to the plaintiff Moss, for a valuable consideration, and upon a suit upon it by him against Livingston, the latter was adjudged to be liable. Although- Moss, the holder of the bill, had been an agent of the same company, it did not appear that he knew who its officers were, much less that he had any knowledge that the bill was drawn, accepted and received by Ellett to pay a debt due him. Nor did it appear that Morrell was authorized to draw, or Livingston to accept, on the company\u2019s account. In these two essential respects, this case differs from the case of Babcock v. Beman and the principle which that case affirms.\nIn the case of De Witt v. Walton, the latter was sued upon a note signed by one Hoyt, in which Hoyt promised to pay, and signed the note with the addition of agent for the Churchman.\u201d It appeared, from the admissions of Walton, that he was the sole editor and proprietor of a newspaper called the Churchman, and that Hoyt was his agent for conducting its affairs, and upon being shown several notes signed by Hoyt, \u201c agent of the executive committee of the Churchman,\u201d and one signed like the one in suit, he admitted that Hoyt was his agent for conducting the affiiirs of the Churchman, and that he, Walton, was personally responsible for their payment. No admission was shown to have' been made as to the note in suit, nor was any evidence given tending to show that Walton had ever dealt with the plaintiff or received the avails of the note, or been benefited in the least degree by it. In this respect, this case also differs from Babcock v. Beman ; and it could not, upon the authority of either of the cases to which I have referred, been ruled against Walton.\nThe case-under consideration does not differ in principle from the cases of Randall v. Van Vechten, Dubois v. The Delaware and Hudson Canal Company, Brockway v. Allen, and Hicks v. Hinde, decided by the Supreme Court, the principle of which, as I have'shown, has been affirmed by this court. In the case before us, the plaintiff, at the time of discounting the bill in question, was informed that Stokes was in fact the cashier, of Patchin Bank, and was advised by its president who controlled it, owning himself nine-tenths of the stock, that he had directed Stokes to send it to-the plaintiff for discount; and Stokes, as in ordinary cases of .transacting business for the bank, dated the letter in which he inclosed the bill at \u201cPatchin Bank of Buffalo,\u201d and subscribed his name to it as cashier. What'else could, with any good reason, be inferred from his indorsement of the bill as cashier, inclosed as it was in a letter dated at Patchin Bank, subscribed as cashier, than that the whole business was done by him in his capacity as cashier of that bank? If the addition of cashier was a mere description of the person and not of the character in which he acted for that bank, the plaintiffs' acquired no title to the bill as against the defendant. Suppose a controversy to have arisen between the Patchin' Bank and the plaintiff as to the ownership of the bill, no one, I apprehend, would seriously insist that its indorsement by Stokes, with the addition of cashier, did not pass the title-; clearly if it would be an official act binding upon the bank in the one case it is in the other, and if it was not intended to make the bank liable the indorsement should have been without recourse.\nThe same strictness is not required in the execution of commercial paper as between banks, that -is in other respects between individuals. The indorsement by a cashier in his official capacity sufficiently shows that the indorsement was made in behalf of the bank. (Folger v. Chase, 18 Pick., 63, 67; Watervliet Bank v. White, 1 Denio, 608, 618; Wright v. Boyd, 3 Barb., 523, 528; Fleckner v. The United States Bank, 8 Wheat., 338.) It having been shown that Stokes was the cashier of \u00a1\u00a1 the defendant there is no necessity of prefixing the name of the corporation; it is a mere ceremony of expressing what} the law implies, rendered unnecessary by a maxim of the law that \u201c an expression in a contract which the law implies works nothing.\u201d\nThe charge of the judge was appropriate to the case and submitted every question to the jury which it was their province to determine, and no others. The verdict was clearly not against the evidence. If it was against the weight of evidence that was a matter for the Supreme Court upon a case.\nThe judgment should be affirmed.\nDenio, J. Since this case was before us on a former occasion, the main question involved in it has been determined in this court, after repeated arguments and upon very full consideration, against the position of the defendant. (Farmers' and Mechanics Bank of Kent County v. The Butchers' and Drovers' Bank, 16 N. Y., 125.) It was adjudged that a bona fide holder of a check on a bank, negotiable upon its face, and certified to be good by the paying teller, whose authority to certify checks was limited to cases where the bank held funds of the drawer, could enforce its payment, though it was, in fact, certified without funds, and for the accommodation of the drawer. When it is remembered that the officers of banks have authority to indorse, in their behalf, bills which they have received in the course of business, and have no power to indorse for the accommodation of others, and that the managers of the defendant\u2019s bank negotiated this bill to the] plaintiff as its bill, whereby the latter became a bona fide holder without notice, it will be seen that the case under consideration falls directly within the principle decided. This result is in conformity with the only opinion published when the new trial in this case was ordered (3 Kern., 309), which then expressed only the views of a single judge; but if it should now be concurred in by the court, it will furnish as full a statement as seems necessary of the grounds of the present judgment.\nUpon the question whether the indorsement of-Stokes, the defendant\u2019s cashier, was sufficient in form to bind the defendants, the former report furnishes the reasoning and authorities which led me to a conclusion favorable to the plaintiff, and I could add nothing to their force by re-stating them. I do not understand the defendant\u2019s counsel seriously to deny but that the indorsement would be sufficient to charge the bank, if made in a business which it had a right to transact His position is that it was not enough to show that it was made by the authority of the governing officers of the bank, in a business which they assumed to engage in, in its behalf, and with a view to constitute the bank an indorser, but it must have been within the scope of their powers, and an act which would have bound it if the bill had been in the hands of a party having notice of the facts. I do not think the position can be maintained. The question was whether the indorsement of Stokes was private or official. In the absence of any evidence to connect the bill with the defendant\u2019s bank, he would be regarded as the payee and the indorser individually, and the abbreviation affixed to his name would be considered as a descriptio persones. fBut when it had been shown that he was the defendant\u2019s cashier, the presumption would be that a note payable in that form was the property of the bank; and when he indorsed it with the addition mentioned, and sent it to the plaintiff in an official letter, for discount, which was the same thing as requesting the plaintiff to discount it on behalf of the defendant\u2019s bank; this being done, according to the finding of the jury, by the authority of Mr. Patchin, the only governing office], it was then shown that the indorsement was an official one, and the plaintiff was entitled to fill it up so as to make it appear to be the indorsement of the bank, upon the same principle upon which one receiving a bill or note, indorsed to him in blank, has a right to fill up the indorsement with a direction to pay the contents to him or his order. The indorsement of Stokes, the facts being shown, was the indorsement of the bank, and not Stokes\u2019 individual act, and is just ns available as though it had been perfect in form. Such an indorsement would be of no avail in the hands of a party having notice that it was made for the accommodation of the railroad company, nor would one perfect in form. But an indorsement by the cashier, unexceptionable in form, and also an indorsement in the short form used on this occasion, if coupled with evidence showing it to have been, in fact, done on behalf of the bank, negotiated to a dona fide holder, concludes the bank in favor of such holder, though the indorsement was for the accommodation of another p\u00e1rty.\nI am of opinion that the judgment of the Supreme Court should be affirmed.\nAll the judges concurring,\nJudgment affirmed.",
+        "type": "majority",
+        "author": "H. Gray, J."
+      }
+    ],
+    "attorneys": [
+      "John L. Talcott, for the appellant,",
+      "Joshua L. Brown and Nicholas Hill, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Bank of Genesee v. Patchin Bank.\nS. B. S., the cashier of a bank, sent to the plaintiff, to be discounted, a bill of exchange, dated ten days previous, payable to the order of S. B. S., Cas., indorsed by him, with the same addition to his signature, and inclosed in a letter dated at the banking-house, and signed \u00a13. B. S., Cash.: Held, that these circumstances imported that the indorsement was that of the bank, in the regular course of business, and not that of S. B. S. individually.\nThere beng nothing in the circumstances to put the indorsee upon inquiry; and he having discounted the bill in good faith, he was entitled to recover against the bank, although the bill was indorsed for the accommodation of a third party, the bank having no interest in it, but its governing officer authorized the indorsement and application for discount.\nAppeal from the Supreme Court. Action against the defendant as indorser of a bill of exchange. On the trial, at the Genesee Circuit, before Mr. Justice Greene, it was proved that A. D. Patchin was the president and S. B. Stokes the cashier of the Patchin Bank of Buffalo; that it had but two stockholders and no board of directors, but was managed and directed by Patchin, who owned nine-tenths of the stock. \u2022 Patchin was also the president and R. Pomeroy the treasurer of the Buffalo and New York City Railroad. The bank had on hand a printed bill of exchange signed in blank by Thomas B. Parsons, and accepted by Pomeroy as the treasurer of the railroad company, for and on account of the company. The blank thus signed and accepted was filled up by a clerk in the defendant\u2019s bank for ten thousand dollars, payable seventy days after date, to the order of S. B. Stokes, Cas., at the Bank of New York, and dated September 14, 1853. Patchin, on the 24th of the same month, directed the cashier Stokes to remit it to the plaintiff for discount, and himself wrote to the plaintiff that he had thus directed. In pursuance of this direction, Stokes, to whose order the defendant\u2019s clerk had filled up the bill, indorsed it, \u201cS. B. Stokes, Cas.,\u201d and in a letter written by him, dated \u201c Patchin Bank of Buffalo, Sept. 24, 1853,\u201d subscribed by him, with the addition of \u201c Cash.,\u201d transmitted it to the plaintiff for discount. The plaintiff discounted it, and remitted the avails to the defendant, by draft upon the Metropolitan Bank, New York. This draft, at the request of the Patchin Bank, was credited tq.it by the Metropolitan Bank in New York. This being done, the Patchin Bank at once credited the railroad company with its amount. The bill was shown to have been made for the benefit of the railroad company; and evidence was given tending to show not only that the plaintiffs knew of the purposes for which it was made, but that they discounted it for the benefit of the - company. When the evidence closed, the defendant\u2019s counsel requested the court to charge the jury that if the bill in question was made and indorsed for the accommodation of the railroad company, the defendant was not liable. The court refused, and the defendant excepted.\nThe defendant also requested the court to charge the jury, that the indorsement on its face was prima facie the indorsement of Stokes, -and that the addition -of Gas.\u2019 to his name was merely a description of the person; that the bank could only be made liable upon it by proof that it was made in the usual course of the legitimate business of the bank, and that it'was, therefore, .the duty of the plaintiffs to inquire, before discounting .it,, whether it was the paper of the Patehin Bank, or whether Stokes had authority so: to indorse it as to bind the bank.. The court-refused thus to charge, and-the defendant excepted;..but the court did charge the jury.that if Stokes had no authority in fact to send this to the plaintiff on behalf of the defendant, the plaintiff could, not recover; that the defendant could not become a mere accommodation indorser -for another of paper in which it had no interest; \u25a0 that the proof was that the bill was made and indorsed for the sole benefit and accommodation of the railroad company, and if the plaintiff knew that it was so nfade and indorsed, or had such notice as would, in the exercise of ordinary prudence, put it on inquiry in respect to the fact, the plaintiff could not recover; but if Stokes was authorized to send the bill, and the plaintiff received it without knowledge or notice, and the bill was indorsed to the plaintiff under circumstances indicating that it was business, paper and indorsed by the defendant in the ordinary course of business, the plaintiff could recover. To so much of the charge as held that the plaintiff could recover under the circumstances stated by the court, the defendant excepted. The jury found a verdict for the plaintiff for $12,789.16, for which amount, with costs, judgment was entered. Upon appeal, the verdict was affirmed at general term in the' eighth district, and the defendant appealed to this court.\nJohn L. Talcott, for the appellant,\nJoshua L. Brown and Nicholas Hill, for the respondent."
+  },
+  "file_name": "0312-01",
+  "first_page_order": 312,
+  "last_page_order": 321
+}

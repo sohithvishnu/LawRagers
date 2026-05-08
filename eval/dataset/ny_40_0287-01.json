@@ -1,0 +1,302 @@
+{
+  "id": 503169,
+  "name": "Allen Potter, Receiver of Charles E. Sowle, Respondent, v. Levinus W. Cromwell, Appellant",
+  "name_abbreviation": "Potter v. Cromwell",
+  "decision_date": "1869-03-22",
+  "docket_number": "",
+  "first_page": "287",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "40 N.Y. 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "28 Penn., 271",
+      "category": "reporters:state",
+      "reporter": "Penn.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Met., 40",
+      "category": "reporters:state",
+      "reporter": "Met.,",
+      "case_ids": [
+        2067574
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/48/0040-01"
+      ]
+    },
+    {
+      "cite": "19 Pick., 814",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Met., 306",
+      "category": "reporters:state",
+      "reporter": "Met.,",
+      "case_ids": [
+        2065756
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/45/0306-01"
+      ]
+    },
+    {
+      "cite": "35 Barb., 58",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5780298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/35/0058-01"
+      ]
+    },
+    {
+      "cite": "11 Barb., 43",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4910652
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/11/0043-01"
+      ]
+    },
+    {
+      "cite": "19 Barb., 317",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4962632
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/19/0317-01"
+      ]
+    },
+    {
+      "cite": "20 Wend., 636",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2150292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/20/0636-01"
+      ]
+    },
+    {
+      "cite": "19 Penn., 71",
+      "category": "reporters:state",
+      "reporter": "Penn.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Gray, 536",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1994703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/72/0536-01"
+      ]
+    },
+    {
+      "cite": "14 Cal., 59",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2238279
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/14/0059-01"
+      ]
+    },
+    {
+      "cite": "46 Barb., 242",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5150321
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/46/0242-01"
+      ]
+    },
+    {
+      "cite": "20 N. Y., 344",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2022883
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/20/0344-01"
+      ]
+    },
+    {
+      "cite": "9 Conn., 63",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754006
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/9/0063-01"
+      ]
+    },
+    {
+      "cite": "14 Mass., 352",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2072923
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/14/0301-01"
+      ]
+    },
+    {
+      "cite": "3 Md. Ch., 186",
+      "category": "reporters:state",
+      "reporter": "Md. Ch.",
+      "case_ids": [
+        1687155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md-ch/3/0186-01"
+      ]
+    },
+    {
+      "cite": "5 Denio, 527",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881376
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/5/0527-01"
+      ]
+    },
+    {
+      "cite": "10 Barb., 157",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2411708
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/10/0157-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y., 28",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0028-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y., 28",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021214
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/18/0028-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1027,
+    "char_count": 26970,
+    "ocr_confidence": 0.457,
+    "pagerank": {
+      "raw": 1.9883520855102353e-06,
+      "percentile": 0.9949321369701477
+    },
+    "sha256": "9dbda7e27a2f5af0d96dc01254f6aeef24f9180235632e3cf571b73f70d97f0e",
+    "simhash": "1:eb9d84351fd495c6",
+    "word_count": 4720
+  },
+  "last_updated": "2024-02-27T21:21:09.663695+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen Potter, Receiver of Charles E. Sowle, Respondent, v. Levinus W. Cromwell, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Daniels, J.\nThe referee held, that the portable grist-mill, for which the plaintiff was permitted \u201cto recover in this action, was not a part of the real estate, at the time of the sale made by the sheriff, but that it was personal property. Whether or not he was correct in this conclusion, is the substantial point, which is involved in the present appeal. For, as the defendant became the purchaser of the real estate, at the sale made by the sheriff, and afterwards received a deed conveying the fee to him, he would not be liable to the plaintiff for the removal and sale of the mill, if that was so affixed as to have become a portion of realty itself. \"When he received the deed, it conveyed to him the title, which the defendant had in the land, at the time of the sale. And if, at that time, the mill was a portion of the land, by reason of the manner in which it had been attached to it, the deed necessarily conveyed the title to it to the defendant. The statute expressly gives this effect to deeds made upon the sale of lands under executions. (3d R. S., 5th ed., 655, \u00a7\u00a7 78, 79; Thomas v. Crofut, 4 Kernan, 474; see also Babcock v. Utter, 1 Keyes, 408-9.) No right of action, therefore, accrued to the plaintiff out of the detachment and sale of the mill, if it was so attached to the land, as to constitute a fixture, at the time of the sale by the sheriff. If the defendant had not afterwards acquired the legal title, he would have been liable to the person who did acquire it, if the mill formed a part of the land conveyed. This right of action is secured by the statute to the person afterwards deriving the title to the land under the sale, and to no other person. And, as the defendant was the person who made the detachment and afterwards received the title, of course the act would be necessarily justified by the law, because it would then only affect the removal and disposition of what was his own property. Keither the plaintiff, nor the judgment creditor represented by him, acquired any interest in the land, and they therefore have ho reason to complain that it was injured by the detachment.\nBut the plaintiff maintains that this mill was no part of the land, and that it did not pass to the defendant by the sale and conveyance of the land to him. In order to determine this point, it will be necessary to ascertain the facts, which led the referee to the conclusion finally mentioned in his report. As those facts are found by him from the evidence, and are contained in his report, it appears that the judgment debtor became the owner of the land in 1847. At that time there was a frame building upon it, about thirty by sixty feet in size, which stood upon a stone foundation, and was used as a tannery. In 1852 he made an addition to the building, which so far increased it in size, as to render it sixty feet square. He then, also put up a steam engine and boiler in the basement of the building to run a bark mill for the tannery. In 1858, he put a portable grist-mill into the building, for grinding flour, two bolts for wheat and buckwheat, a smut machine, five sets of elevators, and the necessary shafting for applying the power. The grist-mill and machinery were put upon the main floor of the building, the mills and bolts in one room, and the smut machine in another. The power was supplied by the engine, by means of shafting and belts. The portable grist-mill had been previously used in another mill, and from there was taken to the premises of the judgment debtor. It was built at a factory, ready for use, and was made in such a manner, as to be readily taken apart without injuring it, and moved from one place and set up in another. The mill consisted of a heavy- frame of timber, containing the mill stones, the lower one being stationary. Its only connection with the other machinery in the building, was by a belt passing over a drum in the frame, and around the shafting, supplying the power to it. The mill stones were about two and a half feet in diameter, eight or ten inches in thickness, and weighed about one ton. It was fastened to the building by placing two sticks of timber parallel with each other, upon the floor, as far apart from each other as the width of the mill frame, and extending from one side of the room to the other. Then the mill, in its frame, was set upon these cross timbers, and iron rods or bolts, provided with screws, nuts and washers, were run down through the frame timbers, the cross sticks, the floor joists and through corresponding cross sticks under the floor joists, supported by upright posts resting on the cellar bottom or set in the ground. The nuts, at the ends of the rods, being screwed on and tightened, the mill was thus held firm in its place. After finding these facts, the further fact was found by the referee, that when these mills were so as aforesaid put in by the judgment debtor, he designed them as a permanent structure for use as a custom and grist mill for that neighborhood. This conclusion appears to include, not only the portable mill itself, but also the additional machinery placed in the building with it, in the fall of 1858. When the mill was taken out of the building, it was done by taking it apart, and without being injured or injuring the building. From these facts, the referee concluded that the mill continued to be personal property during all the time it remained in the building. And, as such, it did not pass to the defendant under the sale and the conveyance of the land itself.\nThe mill clearly appears to have been very firmly and securely attached to the building by means of the rods passing through the timbers of the frame, and those placed under it upon the floor; the joists upon which that rested and the timbers under the joists, and the nuts and washers on the lower ends of the rods. It was attached in this manner,, not for the puipose of steadying it and keeping it in its place, as the looms were shown to have been, ih the case of Murdock v. Gifford (18 N. Y., 28), but for the purpose of being used as a pdhnanent structure, for a custom and grist-mill for the neighborhood. In this respect, therefore, there is an essential difference between the circumstances upon which it was then decided, that the looms were not so attached to the building as to become a part of the realty, and those presented by the present case. This difference was regarded as important in the 'opinion delivered upon that occasion. Johnson, Ch. J., who delivered it, said that: \u201cThe looms in question, were merely placed on one of the floors of the factory, and were fastened to the floor by means of ten screws in each loom,\u201d as the case states, \u201c merely for the purpose of keeping the said looms in their places, and in a steady position and not otherwise, during the operation and working of the said looms.\u201d The case, by construction, expressly negatived the idea that the looms were attached to the building for the purpose of rendering them a part of it. FTo such intention could have existed, as they were attached to keep them steady and in their places, and not otherwise. While in this case, it was expressly declared that the mill was put into the building with the design of the person putting it there, that it should be a permanent structure. All that was decided by that case was, that the looms, attached in the manner and for the purpose mentioned in it, still continued to be personal property, notwithstanding the attachment. The same distinction exists between the present controversy and that presented by the case of Vanderpoel v. Van Allen (10 Barb., 157), where the articles were secured by cleats, tacked to the floor, to make them level. The object of the attachment excluded the intention of rendering them permanent fixtures. A similar circumstance distinguishes it from the decision made in Farrar v. Chauffetete (5 Denio, 527), where it was shown that the machinery \u201c was not affixed to the building, except so as to be detached from it without drawing nails or breaking bolts, pins or other things; that it was put up for manufacturing purposes, after the building was erected, with a view, and in such a manner as to permit it to be detached and taken out at pleasure, without injury to the building or any portion of it.\u201d And important emphasis was placed upon this circumstance, in the decision made by the court. After referring to certain illustrations varying the application of the principle of law, applicable to cases of this nature, the court added, \u201c that the principles applicable, as between vendor and purchaser, must vary with the varying circumstances of each case. The question of intention enters into and makes an element of each case. The circumstances are to be taken into account, to show whether the erections were made for the permanent improvement of the freehold, or for the temporary purposes of trade.\u201d (Id., 531.) And this principle was substantially applied, in the same manner, in the decision of the cases of McKim v. Mason (3 Md. Ch., 186); Gale v. Ward (14 Mass., 352, and 9 Conn., 63). The cases of Ford v. Cobb (20 N. Y., 344), Voorhies v. McGinnis (46 Barb., 242), rest upon a similar distinction, though created by different circumstances. The first was a sale of salt kettles, which the purchaser bought to place in brick arches for the manufacture of salt. But before placing them there, he gave a chattel mortgage upon, them to the seller, to secure the unpaid purchase money. And this circumstance was held, to be sufficient to so far control the nature and effect of the transaction, as to render the kettles personal property, where it was substantially conceded they would have become a part of the realty, if it had not existed. Judge Debio, in delivering his opinion, said: \u201c The kettles were originally personal property. .The agreement contained in the chattel mortgage preserved their character as personalty, which would otherwise have been lost by them annexation. They therefore continued to be personal chattels notwithstanding the annexation.\u201d (Id., 352.) Conceding, in substance, that the annexation of the kettles to the freehold would have rendered them a part of it, if the chattel mortgage given upon them had not removed the presumption otherwise arising out of their attachment. The case of Voorhies v. McGinnis (supra) was, to a very considerable extent, placed upon the effect of this decision; and, so far as the engine and boilers were detached from the premises, when the chattel mortgage was given, was clearly within its control as an authority. If they had not been at that time detached, the court seems to have entertained doubts as to whether they would not have properly fallen within the description of fixtures. That such would have been their character in that event is very clearly apparent, from the principle maintained in the case of Ford v. Cobb (supra); House v. House (10 Paige, 158); Merritt v. Judd (14 Cal., 59); McGreary v. Osborne (9 Id., 119); Richardson v. Copeland (6 Gray, 536); Roberts v. Dauphin Deposit Bank (19 Penn., 71). Nothing existed in these cases to distinguish them from the ordinary rule, assuming an article to become a fixture from the circumstance of its annexation to the freehold. While in the others, circumstances did exist rendering that presumption inapplicable. Por they led directly to the conclusion that the object of making the annexation was not the permanent improvement or beneficial enjoyment of the freehold. Where that is shown to have been the case, as it was in the attachment of the articles for the purpose of steadying or adjusting them merely, or where the intention actually existed at the time, which was not afterwards abandoned, that it should not be permanent in its character, or some agreement or relation appeared to exist, inconsistent with the supposition that a permanent annexation was intended, as it did where the chattel mortgages were given, while the articles were personal property, and as is always found where the attachment is made by a tenant for the purposes of trade, then the mere attachment is insufficient to render the articles attached portions of the realty.\nIn the case of Walker v. Sherman (20 Wend., 636), Cowen, Justice, entered into a very thorough and comprehensive examination of the authorities relating to what were and what were not fixtures. And that examination very clearly sustained the conclusion that simple annexation for the purpose of permanently improving the freehold to which it was made, rendered the article annexed a fixture. (Id., 651, 653-4.) He says that the ancient distinction, however, between actual annexation and total disconnection, is the most certain and practical, and should, therefore, be maintained, except where plain authority or usage has created exceptions. The general importance of the rule, which goes upon corporal annexation, is so great that more evil will result from frittering it away by exceptions, than can arise from the hardship of adhering to it in particular cases. (Id., 656.) This rule was recognized in the case of Gardner v. Finley (19 Barb., 317). Also in Buckley v. Buckley (11 Barb., 43), where it was held that whatever is annexed or affixed to the freehold by being let into the soil, or annexed to it, or to some erection upon it, to be habitually used there, particularly if for the purpose of enjoying the realty, or some profit therefrom, is a part of the freehold. In Laflin v. Griffiths (35 Barb., 58), it was held that it was the permanent and habitual annexation, and not the manner of fastening, that determined when the article annexed became a part of the realty. The same rule was in principle adopted in Winslow v. Merchants Ins. Co. (4 Met., 306), Shaw, Ck. J., stated it as follows: \u201c In general terms we think it may be said that when a building is erected as a mill, and the water works or steam works which are relied upon to move the mill are erected at the same time, and the works to be driven by it are essential parts of the mill, adapted to be used in it and with it, though not at the time of the conveyance or mortgage attached to the mill, are yet parts of it, and pass with it by a conveyance, mortgage or attachment.\u201d\nIn conformity with the same principle, that- is, that annexation will constitute the article annexed to be a part of the realty, when no different intention or pmpose is manifested, and it is made for permanent use with the realty or with some building erected upon it, the court held that dye kettles, firmly secured in brickwork in a dye house, were fixtures. (Noble v. Bosworth, 19 Pick., 814.) To the same general effect are the cases of Butler v. Page (7 Met., 40), and Christian v. Dripps (28 Penn., 271). In Walmsley v. Milne (97 Eng. C. L., 114), machinery was held to be fixtures because it was annexed to the freehold for the purpose of improving the inheritance, and not for any temporary purpose. In Crane v. Bingham (3 Stockton, N. J., 29), the chancellor of Hew Jersey held that the permanency of the attachment \u201c does not depend so much upon the degree of physical force with which the thing is attached, as upon the motive and intention of the party in attaching it. If the article is attached for temporary use, with the intention of removing it, a mortgagee cannot interfere with its removal by the mortgagor. If it is placed there for the permanent improvement of the freehold, he may.\u201d (Id., 35.) The same principle is also maintained by the cases of Hollawell v. Eastwood (6 Exchequer (Welsby H. & G.), 295, 312), and Lancaster v. Eve (94 Eng. Com. Law, 717).\nThe law upon this subject is very correctly and succinctly summed up in the case of Teaff v. Hewitt, (1 McCook\u2019s Ohio, 511, 529-30), where it was held that the true criterion of a fixture is the united application of three requisites: First. Actual annexation to the realty, or something appurtenant thereto. Second. Application to the use or purpose to which that part of the realty with which it is connected is appropriated. Third. The intention of the party making the annexation, to make a permanent accession to the freehold. Each of which are shown by the report of the referee to have been found united in the present instance. And they bring this case within the stringent rule adopted by the courts of Vermont, requiring the intention to render the article a fixture by the act of annexation to be affirmatively made to appear. (Hill v. Wentworth, 28 Vermont, 428.)\nUnder all the authorities, therefore, in this State as well as elsewhere, this mill was a fixture. For it was annexed to the building erected upon the land, to be applied and appropriated to the business there to be carried on, with the design that it should be a permanent structure for use as a custom grist-mill for the neighborhood existing about it.\nThe statute providing what things shall be fixtures between the heir and personal representatives, where they have been annexed for the purposes of trade, has no necessary control over the controversy between these parties, for they sustain a relation which it was no part of its enactment to govern or define. Whether it should be so construed as to include all the cases that may be brought literally within its terms, is a question, therefore, which it is not necessary at this time to decide. That grave doubts have arisen upon this subject, is'apparent from what was said in the decision of the cases of House v. House, Murdock v. Gifford, and Ford v. Cobb (supra). ETo present necessity exists for attempting the solution of those doubts. The judgment entered in this case should be reversed and a new trial ordered, with costs to abide the event.",
+        "type": "majority",
+        "author": "Daniels, J."
+      },
+      {
+        "text": "G-eovee, J. (dissenting.)\nThe referee gave judgment for the plaintiff for the portable grist-mill only. The counsel for the defendant insists that he erred in this, for the reason that the mill was a fixture, and that defendant acquired title thereto by his purchase of the real estate upon the executions against Sowle. It will be necessary to determine whether the mill was to be regarded as real or personal property. If the former, the judgment cannot be sustain\u00f3d. The facts found by the referee bring this case directly within the principles upon which Walker v. Sherman (22 Wend.), and Murdock v. Gifford (18 N. Y. 28), were determined. From these facts, it appears that the building was not constructed for the use of this or any other grist-mill, but for a tannery. That the engine and boiler were not placed in the building to furnish power to operate a grist-mill, but to grind barks for the tannery. That the mill was constructed complete at the factory, in such a way that it could readily, and without injury, be taken apart and moved from place to place, and set up and operated where the necessary power could be procured. That it was placed in the building upon two timbers laid upon the floor, and forming no part of the building, which were secured by iron rods with screws, running through the frame of the mill and timbers and joist of the floor, &c., and fastened with nuts so as to keep the mill steady. That the power was applied by passing a belt around a drum in the mill frame. That the mill could be removed without injury to the- building or itself, and readily put up and operated elsewhere with equal advantage. Under these facts the case cannot be distinguished from those cited supra. It must, therefore, be held that the mill was personal property. It is further insisted that the assent of Sowle to the taking away and sale of the mill by the plaintiff, before the appointment of the plaintiff as receiver, is a bar to the action. This position is answered by the provisions of section 1, chapter 314, Laws of 1858. .By this section, the plaintiff, as receiver of the estate of Sowle, was authorized, for the benefit of creditors, to dis-affirm, treat as void, &c., all acts done, transfers and assignments made in fraud of the rights of any creditor. It appeared that Sowle, at the time of giving the assent, was insolvent. That executions against him had been returned unsatisfied. The defendant paid nothing for the mill. The judgment which was the foundation of the proceedings upon which the plaintiff was appointed receiver had been recovered. Under these facts, it was a fraud upon his creditors for Sowle, under any pretext, to assent to the defendant\u2019s taking and converting his property to his own use, and the plaintiff was authorized to treat such assent as void. He elected to do this, and, therefore, demanded the mill, or its proceeds, of the defendant before suit brought. In the absence of Sowle\u2019s assent, the right of the plaintiff to maintain an action against the defendant for the conversion of the mill is clear. The act of 1858 removes that difficulty. This view removes all difficulty arising from the objections urged by the defendant\u2019s counsel to the complaint. The judgment appealed from must be affirmed with costs.\nAll the judges concurred for reversal except Gboveb, J.\nJudgment reversed and new trial ordered.",
+        "type": "dissent",
+        "author": "G-eovee, J. (dissenting.)"
+      }
+    ],
+    "attorneys": [
+      "John Oanson, for the appellant.",
+      "Stephen LocJ&wood, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Allen Potter, Receiver of Charles E. Sowle, Respondent, v. Levinus W. Cromwell, Appellant.\nWhere machinery is actually annexed to the land, it will be presumed to have been so attached with a view to the permanent improvement, or beneficial enjoyment of the freehold, and will be deemed a fixture and part of the really, in the absence of proof that the attachment was merely for the purpose of steadying and adjusting the machine; or that the intention, at the time existed, not afterwards abandoned, that the annexation should not be permanent in its character; or that there is some agreement or relation of parties, inconsistent with the supposition that a permanent annexation was intended.\nIn determining the question, whether a particular article is a fixture or not, the intention of the party who attached it to the really is an important element to be considered.\nA \u201c portable grist-mill \u201d for grinding flour, previously used in another place, was placed in a building which had been erected and used as a tannery, the power to run the mill being supplied by a boiler and engine previously placed in the building to grind bark for the tannery. The grist-mill had been built at a factory, ready for use, and was made in such a manner as to be readily taken apart, without injury, and moved from place to place.\nIt consisted of a heavy frame of timber containing the mill stones, the lower one of which was stationary, and the upper one revolving upon it. It was connected with the other machinery in the building by a belt passing over a drum in the frame and around shafting supplying power to it, and was fastened to the building by placing two sticks of timber parallel with each other upon the floor, as far apart from each other as the width of the mill frame, and extending from one side of the room to the other; setting the mill frame upon these timbers and passing iron rods or bolts down through the frame timbers, the floor joists, and cross sticks under the floor joists,. supported by upright posts resting on the cellar bottom, and screwing nuts on to the lower end of these rods tightly, so as thus to fasten the mill . frame firmly to the building. It was attached in this manner ft\u00bb' the pur- \" pose of being used, as a permanent structure, for a custom grist-mill foi' the neighborhood. The land, upon which the building was situated, having been sold under execution, and the purchaser having moved 1he mill and sold it, and subsequently received a sheriff\u2019s deed of. the land, in an action brought against him for the conversion by the receiver, appointed in supplementary proceedings against the judgment debtor.\u2014Held (Gboveb, J., dissenting), that the mill was a part, of the realty, and title thereto passed by the sheriff\u2019s deed, as of the date of the purchase and certificate of sale, and that the plaintiff could not recover.\nMurdock v. Gifford (18 IT. Y. 38), and Ford v. Cobb (30 IT. Y, 344), distinguished.\nThe definition of what constitutes a fixture, contained in Teaff v. Hewitt (1 Ohio, IT. S., 511), approved. Daniels, J.\nWhere the purchaser of real estate upon sale under execution, intermediate the sale and the giving of a sheriff\u2019s deed, severs anything from the realty, he is liable for its value only to the person who eventually receives the sheriff\u2019s deed.\n(Submitted January 16th, 1869,\nand decided March 22d, 1869.)\nAppeal from the judgment of the General Term of the Supreme Court, in the eighth judicial district, affirming judgment for the plaintiff upon the report of a referee.\nOn the twenty-fifth and sixth of May, 1860, eight different judgments were recovered by as many different persons, against Charles E. Sowle, the rolls in which were filed, and the judgments docketed in the county clerk\u2019s office of Erie county. At that time, the judgment debtor owned about four acres of land in the county, on which a building had been erected, which he used as a grist-mill and tannery, the bark-mill and grist-mill being run by a steam engine in the basement or cellar of the building. Executions were issued upon the first and eighth judgments, and the property was advertised. for sale under them by metes and bounds. On the sixteenth of October, 1860, possession was surrendered by the judgment debtor to the defendant, and he became the purchaser of the property, at the sheriff\u2019s sale, which took place on the first day of the following month. In December following the sale, the defendant, with the consent and permission of the judgment debtor, sold and detached from the building upon the premises certain machinery, including what was known as \u201c Noyes\u2019 Portable Grist-Hill.\u201d On the twentieth of February, 1862, the sheriff executed and delivered to the defendant a deed of the land, purchased by him, describing it simply by metes and bounds, as he had previously done in the notice of sale.\nOn the fifth of March, 1861, the creditor, who recovered the seventh judgment, instituted proceedings supplementary to the return of an execution against property unsatisfied against the judgment debtor. After the judgment debtor had been examined in those proceedings, and on the fifteenth of the same month, the plaintiff was duly appointed receiver of his property, effects and things in action. And on the first of July, 1861, he demanded the property removed from the mill, or the value of it, from the defendant. The latter refused to comply with the demand, and this action was thereupon commenced.\nThe issue, joined in the action, was referred to a referee, and he reported in favor of the plaintiff, for the value, merely, of the \u201cPortable Grist-Mill.\u201d The defendant appealed from the judgment entered upon his report to the General Term of the eighth district, where it was affirmed; and from the judgment of affirmance he appealed to this court.\nJohn Oanson, for the appellant.\nStephen LocJ&wood, for the respondent."
+  },
+  "file_name": "0287-01",
+  "first_page_order": 311,
+  "last_page_order": 323
+}

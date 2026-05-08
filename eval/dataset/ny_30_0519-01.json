@@ -1,0 +1,349 @@
+{
+  "id": 2040665,
+  "name": "Edward Brown and Daniel Brown v. Wells H. Bowen",
+  "name_abbreviation": "Brown v. Bowen",
+  "decision_date": "1864-06",
+  "docket_number": "",
+  "first_page": "519",
+  "last_page": "545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 N.Y. 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Conn. 345",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6752869
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/17/0345-01"
+      ]
+    },
+    {
+      "cite": "22 Wend. 67",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Barb. 157",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2424842
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0157-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 558",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021180
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0558-01"
+      ]
+    },
+    {
+      "cite": "17 Conn. 355",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6752875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/17/0355-01"
+      ]
+    },
+    {
+      "cite": "14 Mass. 437",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Barb. Ch. 407",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1997904
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/3/0407-01"
+      ]
+    },
+    {
+      "cite": "2 John. 573",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wend. 65",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011099
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0065-01"
+      ]
+    },
+    {
+      "cite": "2 Root, 208",
+      "category": "reporters:state",
+      "reporter": "Root",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Cal. 302",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2199443
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/3/0302-01"
+      ]
+    },
+    {
+      "cite": "12 Barb. 136",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Duer, 272",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1350794
+      ],
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/12/0272-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 604",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Barb. 128",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937891
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0128-01"
+      ]
+    },
+    {
+      "cite": "4 Barb. 518",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Barb. 229",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Wend. 676",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Duer, 371",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 221",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wend. 483",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 Barb. 169",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Sand. Ch. 91",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Duer, 363",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1329744
+      ],
+      "pin_cites": [
+        {
+          "page": "370, 371"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/13/0363-01"
+      ]
+    },
+    {
+      "cite": "22 Barb. 336",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4983187
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/22/0336-01"
+      ]
+    },
+    {
+      "cite": "3 Duer, 263",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 N. Y. 303",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/4/0303-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 392",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021202
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0392-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1503,
+    "char_count": 54845,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 1.9355752200413433e-06,
+      "percentile": 0.9946933199580361
+    },
+    "sha256": "3b44ccb4baf153cc3a89ecfad6e91bbf82b9136b30179c230bf6aa5e6dfcdcf6",
+    "simhash": "1:8c62c460a9f4f4d6",
+    "word_count": 9819
+  },
+  "last_updated": "2024-02-27T22:44:01.745119+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward Brown and Daniel Brown v. Wells H. Bowen."
+    ],
+    "opinions": [
+      {
+        "text": "Mullin, J.\nThe plaintiffs at the time of the erection of the dam by the defendant, were in the actual use and occupation of the premises, on which the mills in question were located, and they and those under whom they claimed, had been in possession of the same for quite a number of years prior to the erection of said dam. It was proved that the defendant erected the dam, and that by means of it the water had been set back upon the plaintiffs\u2019wheels, thereby reducing the power thereof, and injuring the plaintiffs\u2019 mills. It cannot be denied that if these were the only facts in the case, the plaintiffs would be entitled to recover. Each of the parties had the right to use the waters of the stream on his own premises, for any purpose for which it might be legitimately used, and neither had the right by any erection on , his own premises to interfere with such enjoyment to the prejudice of such other. (Angel\u00ed on Water-Courses, \u00a7 340.) The. only exception to this rule, that now occurs to me, is that where both parties draw water from the same dam, each has the right to continue to use the water, whatever the effect may be on the other, unless such other has acquired by grant or prescription, the right to an exclusive use, or to use whenever there is not water enough for both.\nThe learned author says (\u00a7 340, cited supra): The maxim sic utere tuo, &c., applies as well to setting back the water of a watercourse above the owner\u2019s land in the natural channel of the stream, as it does to an actual overflow of land. * * ' * No single proprietor without consent, has a right to make use of the flow in such manner as will be to the prejudice of any other, and1 that he has no more power to apply it to a purpose which occasions a return of the water on the land above, than he has to cause a diminution of the quantity below. He cannot alter the level of the water either where it enters or where it leaves his property.\nBayley, Justice, in Saunders v. Neuman, says: If a person stops the current of a stream which has immemorially flowed in a given direction, and thereby prejudices another, he subjects himself to an action.\n. Any impediment, say the supreme court of Pennsylvania, in the stream caused by the defendant\u2019s dam, by which the plaintiff\u2019s mill is stopped from grinding in any state of the water, or is made to grind slower or worse than it otherwise would, is an injury for which the plaintiff would be entitled to damages. But it is unnecessary to cite authorities; the principle has been recognized too long to admit of controversy at this day.\nThe acts done-by the defendant being prima facie actionable, it is necessary, in the next place, to ascertain whether the plaintiffs could, under the circumstances, maintain an action for the damages resulting from the injury. Before the code, the remedy of the injured party was by an action on the case. (Angel\u00ed on Water-Courses, \u00a7 395.) That form of action could be maintained by his tenant in possession, and by the landlord or reversioner. (Same section.) Title was not necessary, unless the plaintiff sought to recover full damages for the injury to his property. From the very nature and necessity of the case, a temporary occupant must be entitled to sue; and as such occupant could only recover damages sufficient to compensate him for the injury sustained, ah action must also be given to the reversioner, or the party sustaining perhaps the largest amount of damages would be left remediless.\nIt follows that the plaintiff would be entitled in this case to damages to an amount sufficient to indemnify for the injury to such interest as he had in the premises. But the plaintiffs in their complaint allege that they were joint owners of the mills, and they were bound to prove it. Possession is grima facie evidence of ownership \u25a0 of real estate. In 1 Cowen & Hill\u2019s \u00a1Notes, 353, it is said: \u201c The mere possession of property, however recent, will enable the occupant to recover or defend against a stranger.in ejectment, trespass,\u201d &c.\nBut the defendants showed title in their ancestor subsequent to the deed from their ancestor to Messenger, and no title is shown out of him. It appears, however, that several persons were in possession after Luther Bowen left possession in 1835, and before the defendants went in. The defendants occupied the premises adjoining, and never made claim to the premises occupied by the plaintiffs. Under these circumstances, it seems, to me that the law will presume the plaintiffs lawfully in possession, and.entitled to recover damages for the injury sustained by them.\nThe plaintiffs, to prevent the defendant from alleging title to the premises-, showed that the defendant\u2019s father was in the office at the time Edward Brown, one of the plaintiffs, purchased the premises on which the plaintiffs\u2019 mills are located, and something was said in presence of Bowen, about Brown having bought the land. The witness\u2019s impression was that Bowen said he had come to buy the land; he did not claim that lie owned it. This is very loose evidence on which to rest an estoppel; but it cannot be said that it is not some evidence, and sufficient had it been submitted to the jury, to support a verdict finding the estoppel. The court was not requested to submit the question to the jury, and at the close of the plaintiffs\u2019 case, and after the defendant had put in their documentary evidence, \u201cthe court decided that as the evidence then stood, the defendants were estopped as matter of law from claiming the plaintiffs\u2019 premises, so far as the damage had been \u25a0 done to the plaintiffs\u2019 mills by the dam.\u201d To which ruling the defendants\u2019 counsel excepted. At the time this decision was made, no question could be submitted to the jury; the defendants had not as yet given any parol proof, and I cannot discover that the learned judge decided anything. It was an intimation to the defendants\u2019 counsel that if they did not give evidence that would do away the plaintiffs\" evidence on the subject of estoppel, he .would hold them estopped. The direction affected the rights of neither party, and unless the question is presented again in some other part of the record, the defendant must fail in attacking the judge on this branch of the case. But the judge did charge that the defendants were estopped from setting up and relying upon their title to the premises as a defense tc the action; to which charge the defendants\u2019 counsel excepted, Under this charge the jury were not at liberty to consider the question of estoppel as a question of fact. They were bound to consider the case, on the assumption that as matter of law, the defendants were estopped from asserting title to the premises. In this the court erred. The question belonged to the jury, and should have been submitted to them as a question of fact. But the defendant acquiesced in its being withheld, but insisted the instruction was wrong as a legal proposition. There ivas no dispute about the facts, and ordinarily it would be a question of law whether the facts proved, established the proposition, to establish which they were proved. And it was due to the court that his attention should have been called to the distinctions, if any, which made it peculiarly proper to submit the question whether or not an estoppel was proved to the jury. To establish an estoppel in pais, it must be shown: 1st. That the person sought to be estopped, has made an admission or done an act, with the intention of influencing the conduct of another, or that he had reason to believe - would influence his conduct, inconsistent with the evidence he proposed to give, or the title he proposes to set up. 2d. That the other party has acted upon, or been influenced by such act or declaration. 3d. That the party will be prejudiced by allowing the truth of the admission to be disproved. (Plumb v. Cattaraugus County Mutual Insurance Company, 18 N. Y. 392.) In the absence of proof of the effect of the admission oh the party setting up the estoppel, it is for the jury to say whether on the facts the several essential parts of the estoppel are proved. It is quite probable that had the attention of the court been so called to the reasons why in this case the question should be given to the jury, he would have submitted it to them, as I think it was proper for him to do\u2019.\nIt would seem that the attention\" of neither court nor counsel was drawn on the trial to the important estoppel that was proved in the case. Which was, the omission by the defendants and their ancestor to assert title to the premises in question, although knowing the premises to belong to them, and that the plaintiffs, or one of them, had purchased them, and was making valuable permanent improvements thereon, in the belief that they, and not the defendants or their father owned them. That this silence\u2014: this omission to assert title\u2014constitutes an estoppel, there can be no dispute. (Wendell v. Van Rensselaer, 1 J. C. R. 344; Town v. Needham, 3 Paige, 545; Storrs v. Barker, 6 J. C. R. 166; Thompson v. Blanchard, 4 N. Y. 303.)\nNo evidence can be given that can do away with the force of the estoppel, and a new trial will not be granted, when it is seen that the facts cannot be changed, and the fact proved, is conclusive of the case.\nUnless some error can be found, other than the omission to submit the question of estoppel to the jury, the judgment should be affirmed.\nIf the defendants were estopp\u00e9d, then the plaintiffs were entitled to damages as owners of the premises.\nThe appellants\u2019 counsel moved for a non-suit on five grounds.\n1. That no cause of action had been proved against James K. Bowen, and he should be discharged.\n2. A joint action for the matters sued for cannot be sustained, even though separate actions might be brought.\n3. The deeds under which the plaintiffs claim are void, because Luther Bowen or the defendants were in the adverse possession.\n4. There is no evidence that the plaintiffs\u2019 deeds cover the premises in question.\n5. The plaintiffs gave permission to building the dam, and cannot, therefore, maintain trespass or trover.\nThe motion was overruled, and the defendant\u2019s counsel excepted.\nBut two of these grounds are relied on by the appellants in this court. Those are the' 2d and 5th, and these alone require attention.\n1. Edward Brown is the person who made the purchase of the premises some time prior to 1847, and went on and improved them by erecting buildings thereon. In 1847, he sold half to the other plaintiff, and from that time they had been in partnership. In 1850, the wing dam in question was built. It was by means of that erection the plaintiffs were damnified. It is a mistake, therefore, to say that the plaintiffs did not jointly sustain injury. There was no separate injury.\n2. That the dam was built with the consent of the plaim tiffs.\nIt is true the dam was built with the assent of the plaintiffs, and it is quite probable one of them may have aided in the work. But it is to be .borne in mind that the defendants needed no consent from the plaintiffs to authorize them to build a dam on their own side of the river on their own land, provided that such dam caused no damage to the plaintiffs\u2019 property. If a temporary suspension of the mills was necessary in order to enable the defendants to perform the' work, the plaintiffs\u2019 consent would be needed. If the defendants proposed to so build the dam as to set the water back on the plaintiffs\u2019 wheels, it is difficult to comprehend why the plaintiffs should not Only consent to the erection of the dam, but aid in the work, without consideration or even a motive for so doing. The probability is, and the jury have found the fact to be, that the consent and aid of the plaintiffs were given on the condition that the work should be so done as not to injure the plaintiffs. There would not seem to be any difficulty in so doing it, had the defendants been disposed to- so do the work. By clearing out the new channel into which the water was thereafter to flow, back water could have been as effectually prevented as by continuing it in the old channel. The work of clearing the new channel was only partially carried out, and the result was as might have been anticipated it would be; the current was impeded, the water did not flow off, and, as a consequence, set back on the plaintiffs\u2019 wheels. It is quite obvious, also, that the mischief would be constantly aggravated. The earth and stone brought down by the current would have a tendency to deposit itself as soon as the force of the current was lessened, and thus in a short time the bed of the stream filled, and the injury from back water permanently increased. The condition on which the consent was given not being performed, the consent or license was no longer binding on the plaintiffs, and the dam from that time became a nuisance, and the defendants liable for the injury it caused the plaintiffs'.\nIt is said that the remedy of the plaintiffs is an action for breach of the agreement by the plaintiffs to so build the dam as not to injure the plaintiffs. Technically there was no such agreement; although, doubtless, the law might imply one if it was necessary to prevent injustice, but the parties did not understand that the rights of either party rested in agreement. The acts and assent of the plaintiffs might be considered a parol license on condition, which condition has never been performed, and hence the license fails. But the \"facts proved do not even make a case of parol license. A licence is a bare authority to do a certain act, or series of acts, upon another\u2019s lands without possessing any interest therein. (Angel\u00ed on Water-Courses, .\u00a7 285.)\nThe consent, then, of the plaintiffs, and rendering aid in the work, can only operate against them by way of estoppel; and it can not thus operate, because of the express condition on which such aid and assent were given. It seems to me, therefore, that the non-suit was properly refused.\nIf the foregoing views are correct, they dispose of all the questions presented by the appellant\u2019s counsel.\nMy conclusions then are:\n1. That on the evidence the plaintiffs are owners of the mills in question.\n2. That by the wrongful acts of one of the defendants, injury has been done to said plaintiffs.\n3. That if, on the evidence, ownership by the defendants is proved, yet the plaintiffs are entitled to recover on their presumed lawful possession of the mills, even if such possession is to be presumed to be as tenants of the defendants.\n4. But the defendants are estopped from disputing the ownership of the plaintiffs, by reason of their omission to assert title to the lands, knowing that the plaintiffs were acquiring title to them and making expensive improvements thereon, as owners, in ignorance of any claim thereto by the defendants.\n5. That the foregoing ground of estoppel is so clearly established, and so conclusive on the defendants, that it would be useless to send the-case back for a new trial.\n6: But if the judges are of opinion that the case must rest here on the ground of estoppel taken in the court' below, and that the others not being suggested, these cannot be considered here, then I am of the opinion that although technically it was the duty of the defendant to have requested the court to submit the question of estoppel to the jury, yet the evidence is so slight on the question that I would be-in favor of ordering a new trial on that ground alone.\n7. Not discovering any answer to the other ground of estoppel, I am in favor of affirming the judgment, with costs. t\nAll the judges concurring, judgment affirmed.",
+        "type": "majority",
+        "author": "Mullin, J."
+      }
+    ],
+    "attorneys": [
+      "B. F. Rexford, for the appellant.",
+      "D. Pratt, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Edward Brown and Daniel Brown v. Wells H. Bowen.\nWhere persons are in the actual use and occupation of premises on which mills are located, and they and those under whom they claim have been in possession thereof for a number of years, and an adjoining proprietor erects a dam below such mills, upon the same stream, by means of which the water is set back upon the wheels in such mills, thereby reducing the power thereof and injuring the mills, an action will lie for damages by the mill-owners.\nIn case of adjoining proprietors of land over which a stream flows, each has the right to use the waters of the stream on his own premises, for any purpose for which it may be legitimately used; and neither has the right by any erection on his own premises to interfere with the enjoyment of the water by the other.\nThe only exception to this rule is, that where both parties draw water from the same dam, each has. the right to continue to use the water, whatever the effect may be on the other; unless such other has acquired by grant or prescription the right to an exclusive use, or to use whenever there is not enough water for both.\nThe occupant of premises injured'by the setting back of water upon the land may recover damages against the wrong-doer, to an amount sufficient to indemnify him for the injury to such interest as he had in the premises.\nAn action will also lie hy the reversioner for the injury'done to the inheritance.\nWhere the plaintiffs, in an action for such an injury, allege in their complaint that they are joint owners of the property, they are bound to prove it.\nWhere the defendants, in such an action, occupied premises adioining those in the possession of the plaintiffs, and never made claim to the latter; Held, that the law would presume the plaintiffs were lawfully in possession, and entitled to recover damages for the injury sustained by them.\nWhere the plaintiffs, to prevent the defendants from alleging title to the premises, showed that the defendant\u2019s ancestor, under whom they claimed, was present when one of the plaintiffs purchased the premises, and that he did not claim that he owned the land, but said he had come to buy it;. Held that this, although very loose evidence on which to rest an estoppel, was some evidence, and sufficient, had it been submitted to the jury, to-support a verdict finding the estoppel.\nWhere the judge charged the jury that the defendants, were estopped from setting up and relying upon their title to the premises as a defence to the action; Held that under this charge the jury were not at liberty to consider the question of \u2019estoppel as a question of fact, but were bound to consider the case on the assumption that as matters of law the defendants were estopped from asserting title to the premises; and that in this respect the court erred in its charge.\nThat the question belonged to the jury, and should have been submitted to them as a question of fact.\nFacts necessary to establish an estoppel in pais.\nIn the absence of proof of the effect of the admission on the party setting up the estoppel, it is for the jury to say whether, on the facts, the several essential parts of the estoppel are proved. *\nWhere, in an action to recover damages of the defendants for flooding the water hack upon mills in the occupation of the plaintiffs, by means of a dam, it was shown that the defendants and their ancestor had omitted to assert title to the premises in question, although knowing the premises to belong to them, and that the plaintiffs had purchased them, and were making valuable permanent improvements thereon in the belief that they owned them; Held that this silence\u2014this omission to assert title\u2014clearly constituted an estoppel, and that no evidence could do away with the force of it.\nA new trial will not be granted when it is seen that the facts cannot be changed, and the fact proved is conclusive of the case.\nWhere the plaintiffs consented to the building of a dam by the defendants on the condition that the work should he so done as not -to injure the plaintiffs, hut the work was so imperfectly executed that the current of the stream was impeded, and the water did not flow off, but set back unon the plaintiffs\u2019 wheels; Held that the condition on which the consent was given not having been performed, the consent or license was no longer , binding on the plaintiffs, and the dam from that time became a nuisance, and the defendants liable for the injury it caused the plaintiffs.\nHeld, also, that the consent of the plaintiffs, and rendering aid in the work, .could only operate against them by way of estoppel; and that it could not thus operate, because of the express condition on which such aid and assent were given.\nThis action was brought by the plaintiffs, claiming that the defendants, by building a wing dam in the Otselic river, flooded water back upon the plaintiffs\u2019 grist and saw-mills, so as to greatly injure them. (Other causes of action were set forth in the complaint, which, on trial, were dismissed by the court.) The defendants denied the complaint, answering separately; the defendant, Wells H. Bowen, in his answer, denying that the plaintiffs had rightful possession of the premises injured, or that they owned the same or had legal title or lawful right to use the same, and claiming that they belonged to the defendants. He also denied the causes of action set forth in the complaint, and claimed that \u00a1the wing dam complained of was built by the plaintiffs, or by their assistance and consent.\nUpon the trial, the plaintiffs, to show their title to the premises in question, gave evidence of a deed of the premises from Luther Bowen to Samuel and William Messenger, .dated September 14, 1829; second, a deed from Columbus C. Burr to John F. Cooper; third, a mortgage from John F. Cooper to Amos Taggart; fourth, a statute foreclosure under said mortgage and sale to Mark H. Sibley; fifth\", a deed from Mark H. Sibley to Edward Brown, one of the plaintiffs, and a warranty deed of one-half of the premises from Edward Brown to Daniel Brown, the other plaintiff. The defendants \"proved a mortgage from Samuel and William Messenger of the same lands, dated September 14,1829, to Luther Bowen; a foreclosure of said mortgage, and 'a sale of said premises to Luther Bowen, April 29, 1834; that Luther Bowen was in possession in 1835 or 1836, and after said foreclosure; that said Luther Bowen was deceased, and that the defendants were two of his heirs-at-law.\nUpon the trial, the defendants moved for a non-suit, which motion was denied. . The evidence being closed, the defendant requested the court to charge the jury as follows:\n1. That no cause of action is found against James K. Bowen, and that he is,'therefore, entitled to a verdict. The court refused so to charge, and the defendants excepted.\n2. That no cause of action being found against James K. Bowen, or if the jury shall so find, the= plaintiffs\u2019 cause of action being a joint one against both defendants, fails as to both, and both are entitled to a verdict. The court refused so to charge, and the defendants excepted.\n3. That the defendants were not estopped by any acts of theirs, or those from or under whom they claimed. The court refused so to charge, and .the defendants excepted.\n4. Thatif the plaintiffs consented to, or assisted in building said wing dam, or if either of them so consented and assisted, the plaintiffs cannot recover in this suit.\n5. That if the plaintiffs are entitled to recover at all, it is not in this form of action, but is for the breach of' the contract, or directions for the building of the dam. The court refused so to charge, and the defendants excepted.\n6. That the defendants, or either of them, had a right to , protect their own banks and keep the water in its natural or former channel, although the same might injure the plaintiffs. The court charged as hereafter stated, and the defendants excepted to the charge as delivered, and also for the court not charging as requested.\nThe court thereupon charged the jury as follows:\n1st. That upon the evidence the jury, (if there was no further evidence than that referred to by the court,) should find in favor of the defendant James K. Bowen.\n2d. That if the jury found a verdict in favor of the said James K. Bowen, they might still find one against the other defendant, and that discharging one defendant would not necessarily discharge the other. To which charge, and each and every portion of the same, the defendants excepted.\n3d. That the defendants were estopped from setting up and relying uj)on their title to the premises as a defense to this action, so far as relates to the damages to the mills by the wing dam; to which charge the defendants excepted.\n4th. That the defendants, if the waters of the Otselic had within twenty years changed their channel and were injuring their lands, had a right to turn these waters back into their former channel,' provided that in so turning them back they did no unnecessary injury to the plaintiffs; but that if, in bringing them back into their former position and situation, they unnecessarily .threw back-water on to the plaintiffs, 'they were liable in this action. To which charge, and each and every portion of the same, the defendants excepted.\n5th. That under the facts as found in this case, the plaintiffs were entitled to recover for none of the causes of action set up in the complaint, save that for the injury done by this wing dam to the plaintiffs\u2019 mills.\nUnder this charge of the court, the jury found a verdict in favor of the defendant James K. Bow\u00e9n, and against the defendant Wells H. Bowen, in favor of the plaintiffs, for five hundred and fifty dollars. Judgment being entered against the said Wells H. Bowen, upon the verdict, he appealed to the general term of the supreme court, which affirmed the judgment, and he appealed to this court.\nB. F. Rexford, for the appellant.\nI. The court should have non-suited the plaintiffs.\n1. The plaintiff, Daniel Brown, could not maintain the action, as he received his title in May, 1851, after the building of the dam, and so far as back-water was concerned, the defendants were in adverse possession, and the deed to Daniel Brown, so far as said adverse possession was concerned, was void. (2 B. S. 691, \u00a7 6.)\n2. The said plaintiff having given permission to defendant to build the dam, the manner in'which it was built would not amount to a trespass or case, but the action should have been brought upon the breach of the agreement. The plaintiff, Edward Brown, consented to the building of the dam, and if the dam was not built according to the consent, and a different result was produced by the same than was anticipated or agreed upon, no action upon the case or trespass could be sustained.\n3. This permission amounted, in law, to a license to the defendants to build this dam. It was built under the observation and with the familiar knowledge of the said plaintiff, even if he did not contribute to its erection. (The burthen of the proof' is that he did, in fact, assist in its original erection.) The plaintiffs can not, therefore, sustain an action on the case, which is essentially as for a wrong, for the\u00bb damages which may have been occasioned by it, at least, until revocation, and this license never was revoked. (Miller v. Auburn, &c., Railroad Company, 6 Hill, 61; Pierrepont v. Barnard, 2 Seld. 279; Jamieson v. Milleman, 3 Duer, 263; Syron v. Blakeman, 22 Barb. 336; Rathbone v. McConnell, 20 id. 317, and ref.; Walter v. Post, 6 Duer, 363, 370, 371; Wolfe v. Frost, 4 Sand. Ch. 91, &c.; Eggleston v. New York, &c., Railroad Co., 35 Barb. 169.)\nThe defendants, before building the wing dam, procured the consent of the plaintiff then owning the mills, to its erection, and the same was built under that consent, and to his knowledge. -This estops him and his co-plaintiff, who afterwards purchased the one-half of the mill property, from maintaining an action for the damages. We have here the three ingredients of an estoppel in pais, the consent of Daniel Brown inconsistent with the present cjaim, the acting by the defendants on the faith of that consent, and that they will be injured by allowing the plaintiff to recover notwithstanding that consent. (Welland Canal Company v. Hatheway, 8 Wend. 483; Dezell v. Odell, 3 Hill, 221, &c.; Pickard v. Sears, 6 Ad. & E. 475; Plumb v. Cattaraugus Insurance Company, 18 N. Y. R. 392; Walter v. Post, 6 Duer, 371.)\nn. The court erred in deciding as a matter of law, that \u201c the defendants were estopped as a matter of law from claiming plaintiffs\u2019 premises, so far as the damage had been done to the plaintiffs\u2019 mill by this wing dam;\u201d and also in refusing to charge as requested, that they .were not estopped, and charging that they were estopped. The effect of all these decisions and of this charge was, to instruct the jury that upon this point there was no question for them to pass on\u2014that \u201c as a matter of law,\u201d and not as one of fact, or of law and fact, so far as this defense was concerned, the plaintiffs must recover. To warrant such a ruling and such a peremptory charge, \u201cthe evidence must either be undisputed or there must be such a strong preponderance that should the jury find against it, a new trial would be granted for that reason.\u201d (Rich v. Rich, 16 Wend. 676; Sheldon v. Hudson River R. R. Co., 29 Barb. 229; Crawford v. Wilson, 4 Barb. 518.) And there is no such undisputed evidence or preponderance of testimony in this case. The evidence shows that Luther Bowen received the legal title to the land by foreclosure of a mortgage, October 3, 1833, and that he went into possession of the same afterwards; that Luther Bowen is deceased, that defendants were among his heirs-at-law, and that the wing dam 'was built in 1850, within twenty years, and before any adverse possession could attach; and the only evidence upon which the estoppel can be predicated is, that Luther Bowen lived there when the premises were bought and improved by the plaintiffs; that one of the defendants had never claimed the land, and that, as the witness J\u00e1mes Clarke swears, after the plaintiff Edward Brown had made a bargain for the land, Mr. Bowen came in; that something was said about Mr. Brown having bought it, and Clarke\u2019s \u201c impression is, that Mr. Bowen said he came to buy the land,\u201d and did not claim to own it.\n1. There was here no act or declaration -of either Luther Bowen or his heirs which could operate as an estoppel. (Thompson v. Blanchard, 4 Com. 310; Carpenter v. Stillwell, 12 Barb. 128; Pickard v. Sears, 2 Nev. & Per. 491; Keane v. Rogers, 9 B. & C. 577; Green v. Key, 3 B. & Adol. 313.)\n2. An act or admission, to operate as an estoppel, must have been intended to influence the conduct of the party setting them up, and the party must have acted upon them. But in this case, there is nothing, to show that Mr. Luther Bowen\u2019s statements were intended to influence or did influence the plaintiffs or either of them; on the contrary, they could not have done it\", for, as Clarke swears, the plaintiff Edward Brown, had bought the land before this statement of Mr. Bowen, and admissions after the act are never estoppels. (Pike v. Acker, Lalor\u2019s Sup. 90; Merrill v. Tyler, Sel. Notes, April, 1853, page 47; see also Carpenter v. Stilwell, 12 Barb. 128; same case, 1 Kern. 74; Welland Canal Company v. Hathaway, 8 Wend. R. 480; Dezell v. Odell, 3 Hill, 221.) We say as was said in 1 Kern. 74, there is no room for pretense upon the evidence that plaintiffs in purchasing the property were at all influenced m their actions by the conduct or declarations of the plaintiffs. (And see also Chautauqua County Bank v. White, 2 Seld. R. 253.) Bowen had no conversation with cither plaintiff before the purchase, and the only evidence that Bowen said anything about the premises after the purchase * is in folio 110, in which witness Clarke says: \u201c It is my impression that Mr. Bowen said he came to buy the land.\u201d The witness only had an impression that Bowen so said; and it is going quite too far to say, that on such evidence, \u201cas a matter of law,\u201d the defendants were estopped from claiming the title to the land. The most that could be claimed for it was, that it was some evidence for the jury. Again, there is no act or admission on the part of Bowen or his heirs, as to the premises besides the building of the wing dam and flowing back the water, except the omission to make a claim, for the land. In 1 Story Eq. Jur. sec. 38, it is said: \u201cIf a party having a title to an estate should stand by and allow an innocent purchaser to expend money upon the estate, without giving him notice, he would not be permitted by a court of. equity to assert that title against such purchaser, at least not without fully indemnifying him for all expenditures.\u201d And to sustain this position, Chautauqua Bank v. White (6 Barb. 604); Cawder v. Lewis (1 Younge & Coll.\u2019s Ex. R. 427), are quoted. The case in Barbour only lays down the familiar principle that if a person, being the owner of property, stands \u2022 by and sees another sell it as his own without objection, he afterwards will not be allowed to assert his title, and the case itself is reversed. (2 Selden, 236.) In Cawder v. Lewis, Lewis was agent for Cawder, and managed his real estate, which. adjoined real estate belonging to him, Lewis; and Lewis having the management of said real estate, allowed Cawder to build on his, Lewis\u2019 land; and afterwards Lewis recovered from Cawder the land in an action of ejectment. And in an action for mesne profits, Cawder was allowed in equity to set off the value of the improvements. This case is in no way analogous to the present one. Lewis was the confidential agent of \u2022 Cawder, and good faith and his duty as agent, required Mm to inform Cawder that he was building tin his, Lewis\u2019 land. It is also said in Story\u2019s Eq. Jur. \u00a7 388, \u201c a court of equity might go further and oblige the real owner to permit the person maMng such improvements on the ground to enjoy it quietly and without disturbance.\u201d But the authorities quoted do not sustain the position. Some of them are cases of a person standing by and allowing a person to purchase land without- disclosing his title; and others are cases in which, after the owner of the title had recovered the land, the person making the improvements was allowed to set off the value of the improvements against the mesne profits, and laying down the same rule, which is laid down in Putnam v. Ritchie (6 Paige\u2019s R. 390.) And we have been unable to find a case which decides that a person ever obtains any title or right to real estate by making improvements on the same by the mere silence of the real owner, unaccompanied by fraud. (See, on the contrary, Miller v Platt 5 Duer, 272, 279, &c.)\n3. The case of Wendell v. Van Rensselaer (1 John. Ch. 354) is cited by Mason, J., in the opinion of the supreme court, and will, probably, be strongly relied on in this court. In'that case Philip Wendell, in 1792, gave a secret deed to the defendant, covering certain lands, but he retained possession of the same, except certain portions which he sold, until his death in 1808; but after the purchase he sold various portions of the premises as his own, among which was the piece in dispute, and which was held by the plaintiff as a bona fide \u25a0 purchaser. It was proved and admitted that the defendant had actual knowledge of some of these sales; that he preserved a studious' silence, and gave no notice to these purchasers or to the world of his title. After this he could not be permitted to start up with a secret deed (of itself of doubtful credit), and take the land from bona fide purchasers from Wendell. Having, for such a length of time suffered the public to deal with Wendell as the real owner, he could not be allowed to question or. disturb any title that had been purchased under his tacit assent. We admit that the case was properly decided, but we claim that on the facts it has no bearing on ours. The court below cites a number of other cases. We admit that each of them was well decided; but in each case there was direct evidence of some affirmative act either of omission or commission, under full knowledge, while in our case there is no proof of either. And this distinguishes our case from them all; we have no such clear and cogent evidence as is required to estop us from claiming our land, or that the injuries, if there were any, were committed on lands belonging to- us, and not to the plaintiff.\n4. Since the registry act, every person buys and makes improvements on land at his peril. The record informs him of the real title, and it requires an affirmative act on the part of the owner of the legal title to give the other any equities.\n5. In this case there is no evidence that Bowen knew that the plaintiffs claimed to hold under any title, or knew that they had made any improvements on the land.\n6. The opinion of the court on this point is based on an erroneous statement of the facts. Luther Bowen was not present when the plaintiffs purchased; he was not present when the plaintiffs made the bargain, for he came in after-wards; and he did not say, in presence of the plaintiffs, at the time they bought, that he came to buy the land. What he did say was after they bought, and Clarke swears only that his \u201c impression\u201d is he said he came to buy the land, and neither he or Brown swears that Brown was present.\n7. As seen above, there is a difference between the facts on which this estoppel is based, and that on which we claim one in point second, supra. In this, whatever was said was after the plaintiffs bought; in the other, the wing-dam was not built till after the plaintiffs had given the permission for its erection; in the one the estoppel, as claimed, preceded the act; in the other it followed it; in the one it necessarily influenced conduct; in the other it could not have done so. We claim, then, that the evidence, as presented in this case, falls far short of making an estoppel \u201c as a matter of law,\u201d or any estoppel whatever, and that therefore the judge erred in so deciding and charging the jury. But if we are wrong in this, and the admissions or conduct of Luther Bowen might, under certain constructions of them, amount to an estoppel, then we claim that they should not have been decided \u201cas a matter of law,\u201d or by a direct charge, but should have been submitted to a jury, under the directions of the court. Luther Bowen did nothing whatever to encourage the plaintiff in their improvements on the premises; he only lived near by, and that is all. So far as the,purchase is concerned, he was not present when the same was made, and Clarke only gives his \u201c impression\u201d as to what he said. And it will be recollected that neither of the plaintiffs, although sworn in the case, before and after this question came up, claim or pretend that they were in any way influenced by anything that Luther Bowen said, or did, or did not do, or that they would not have bought or improved, if he had taken a different course. We say, then, that this 'was, at most, a question for the jury upon the evidence in tho case; and to be left to the jury to say whether, under that evidence,, anything done by the ancestor of the defendants, or by them, was intended to influence the plaintiffs, and whether it did influence them; both of which must concur in order to work the estoppel (Dezell v. Odell, 3 Hill, 221, 222.) This conclusion that these acts relied on were intended to and did influence the defendants was but an inference from the facts proved, none of which facts necessarily (or, as we claim, even presumptively) proved it. In such a case the rule undoubtedly is, that the question is to be left to the jury. And per Cot-t.amv.t?, J: \u201cIt may be proper for a court to instruct a jury to find for a plaintiff if the evidence is believed when there is no conflict of evidence, and it directly proves the fact in issue, or when the fact is a necessary and invariable inference of law from what is proved. But if there be any conflict in the evidence, or if it only shows facts from which the main fact is to be presumed or inferred by the jury, the case should be left to the jury, under proper legal instructions.\u201d (Lindsay v. Lindsay, 11 Vermont, 626.) This rule clearly makes this question of estoppel, under the facts of our case, at the most, one for the jury, and certainly not one \u201c as \u00e1 matter of law\u201d as held at the circuit. The rule is so held in cases of estoppel in pais by the courts. Thus, in Welland Canal Company v. Hathaway (8 Wend. 483), Justice Nelson, in speaking of them, says: \u201cSuch estoppels cannot be pleaded, but are given in evidence to the court and jury, and may operate as effectually as a technical estoppel, under the direction of the court.\u201d In Carpenter v. Stillwell (12 Barb. 136), Justice Basculo, after referring to the rule, in Dezell v. Odell (3 Hill, supra),. says: \u201cTested by this rule, we think that the facts of the \u2022case, which were proposed to be'submitted to the jury, as the basis of an estoppel, ought to have been submitted.\u201d See the same case in the court of appeals, in 1 Kernan, 73, 74, and 79, where the question is treated as one for the jury, and the rules laid down by the court as to what must exist to constitute an estoppel, show that none existed in this case. In Thompson v. Blanchard (4 Com. 309), the court per Jewett, J., says: \u201cThere is, I think, another ' principle which would protect Blanchard from liability to the plaintiff for the value of the clothes which he, in good faith, purchased of Wheeler,- if the jury, upon the evidence, should find the facts to authorize its application, &c. It is \u2022this,\u201d and the judge follows by stating the rule of estoppels, quoting, with approbation, the case of Pickard v. Sears (6 Adolphus & Ellis, 469; S. C. 2 Nev. & Perry, 488.) In Thorn v. Bell (Lalor\u2019s Sup. 436 and 437), it is said, in regard to a state of facts much like ours in principle, from which an estoppel was claimed: \u201c This is a proper question for a jury; the defendant\u2019s letter is evidence against him, but by no- means conclusive. It can go to the jury,\u201d &c. (See also Hostler v. Hays, 3 Cal. 302; Landis v. Landis, 1 Grant\u2019s Cases, 249.) From these cases, and those cited in them, we think the rule is clearly deducible that in such cases. of estoppel in pais the question is not to be decided \u201c as a matter of law,\u201d but is, at the most, to be left to the jury, like all other questions of fact, .with such instructions as -the particular case may require, and that in cases much stronger than ours the decision has been that the evidence \u201c was not sufficient to warrant the judge in directing the jury to find a verdict for the plaintiff,\u201d and that \u201c if the plaintiff had insisted, it was only some evidence to go to the jury on that question.\u201d (Lewis v. Woodworth, supra.) \u25a0 But the judge, in this case, in three different rulings, held the contrary, and those decisions, as we claim, are erroneous. It cannot be said that this point is unavailable, for the reason that we did not ask to go .to the jury on the question, for the judge himself held that it was not for the jury at all, but was \u201c a matter of law,\u201d and it is to this that we except. A similar question arose in Traynor v. Johnson, 1 Head (Tenn.), 51, and it was held that \u201cwhere, on an equivocal state of facts, the court instructed the jury, as a conclusion of law, that there was a waiver, the judgment should be reversed on error.\u201d This, in principle, covers our case. A similar ruling was made in Lewis v. Woodworth, supra, and a new trial was granted, though there was no specific request to go to the jury.\nHI. The court, for the reasons set forth in the last point, erred in refusing to charge that the defendants were not estopped. There was no proof that the ancestors of the defendants had influenced, or intended to influence, the conduct of the defendants. In such a case there is no estoppel. (Dezell v. Odell, 3 Hill, and other cases, supra; also Lewis v. Woodworth, supra.)\nIV. The court further erred in refusing to charge that \u201cif the plaintiff consented to, or assisted in building said wing-dam, or if either of them so consented and assisted, the plaintiffs cannot recover in this suit.\u201d This proposition was based on an abundance of testimony in the case, and has reference to the dam as it was actually constructed, and needs no authorities to support it; several having direct reference, however, to it, are found in point first, and sustain our exceptions. (See also Dorrance v. Simons, 2 Root, 208; Stevens v. Stevens, 11 Metcalf, 251.) For this reason alone a-new trial should be granted. It cannot be contended that there was no refusal to charge, as here requested, nor any exception to the refusal. It is true that there is no such statement at the close of the request, nor was it necessary, when it appears that there was no such charge made as was requested, and it is stated that the defendants excepted not only to the charge as delivered, but \u201c also for the court not charging as requested.\u201d ISTow it is clear that this request was made. The charge is given in the bill; this proposition was not charged; there is no pretense that the charge embraced more than is contained in the bill; on the contrary, it is expressly stated that the court \u201c charged the jury as follows,\u201d meaning that the charge as printed is the whole of it, so that here is a clear case of the court not charging as requested in this fifth proposition; and it is as clearly stated that we excepted \u201cfor the court not charging as requested.\u201d And it is the height of hypercriticism to say that this refers only to the request in the sixth proposition; the exception, by its natural construction and meaning, is to all the refusals to charge; the sentence says we excepted to the charge as delivered, that is to the whole of it, and not to any one point; and for not. charging as requested, that is to all the omissions or refusals, and not for any one of them. It is certain that we made this r\u00e9quest; it is equally certain that the court did not charge the proposition (but did charge the reverse, under our exception), and as certain that we excepted \u201c for the court not charging as requested.\u201d We do not think this court will, by any technicality or constrained construction, deprive us of our exception, but looking at the question in a common sense manner, will say that it sufficiently appears that it was taken, and we are to have the benefit of it.\nD. Pratt, for the respondents.\nI. No regular deduction of title from the original source of title was made by either party upon the trial. As a simple matter of evidence, it is submitted that the preponderance ivas against the claim of title set up by defendant.\n1. Although Luther Bowen, the ancestor of defendant, had the prior possession, yet he went out of possession as early as 1835, and never afterwards claimed any interest in the premises upon which plaintiffs\u2019 mills were built.\n2. Burr went immediately into possession, and he and those holding under him have been in possession ever since.\n3. The defendant, also occupying adjoining premises, had never, until the trial, claimed any title or interest in the premises or Avater privilege, but on the contrary, according to his own' testimony, he claimed the right to shut back the water, because the plaintiffs consented, as he alleged, to the building of the dam.\n4. The defendant was not, therefore, precluded by the ruling of the court from claiming the benefit of a clear and admitted title to the premises, but was simply deprived of the benefit of an inference to be drawn from the possession of his ancestor.\nII. The issue was not one bringing the title directly in issue. It could only come in question collaterally, as bearing upon defendant\u2019s liability for flowing the plaintiffs\u2019 land, and thereby injuring their mills.\n1. An equitable estoppel may be properly applied in one form of action, and not in another, although, brought under the same circumstances and growing out of the same transaction. For instance, a party may be estopped from sustaining trespass, when he could not be from sustaining ejectment. (Dewey v. Bardwell, 9 Wend. 65.)\n2. In this case, the question is not whether the defendant might not sustain ejectment, but whether the plaintiffs, having had the peaceable possession of the premises, and built valuable mills thereon, the defendant can indirectly destroy them, and then avoid liability by setting up an interest in himself in the property.\n3., Indeed, it is doubtful whether such a defense is available at all under the circumstances, even if the question of estoppel were wholly waived. Suppose the heirs\u2014and there seem to be at least three\u2014should bring ejectment and recover, could the plaintiffs escape liability for mesne profits, by showing injury to the premises by the wrongful action of one of the heirs.\nHI. It is submitted, therefore, that, taking into consideration the proof of title as it stood when the question of estoppel was raised,, and the purpose for which the claim was made on the part of the defendant, the ruling of the court was clearly right, in holding the defendant estopped \u201cfrom claiming the plaintiffs\u2019 premises, so far as damages to the mill by the wing dam\u201d was concerned.\n1. The evidence was sufficient to estop him, had the question arisen upon the direct issue of title in an action of ejectment.\n(u.) The premises, when the plaintiff purchased, had been held under a claim of title some eight years by the vendor and those under whom he held, without question or challenge by Luther Bowen.\n(b.) At the time of the purchase by the plaintiff, and before the conveyance was executed, Luther Bowen, the pretended owner, was present, and was informed that the plaintiff, Edward Brown, had made a bargain to purchase, and he made no claim of title to himself.\n(c.) He lived in the immediate neighborhood from that time to his death in 1850, witnessed the erection of expensive buildings upon the premises, and never intimated any claim to them.\nid.) The defendant at the same time occupied adjoining premises, and never, for anything that appears, made any claim, until the trial, of any interest in the premises occupied by the plaintiffs.\n2. It therefore comes clearly within the cases holding that where a person looks on and suffers another to purchase and expend money on land, without making known his claim, he will not afterwards be permitted to assert title against such innocent purchaser. (Wendell v. Van Rensselaer, 1 John. Ch. 344; Storrs v. Barker, 6 id. 166; Lee v. Porter, 5 id. 268; Niven v. Belknap, 2 John. 573; Town v. Needham, 3 Paige, 545; Dougrey v. Topping. 4 id. 94; Lowry v. Tew, 3 Barb. Ch. 407; L'Amoreux v. Vischer, 2 Com. 278; Thompson v. Blanchard, 4 id. 303; 2 Dever. 179; 4 id. 472; 10 B. Monroe, 261; 10 Ad. & El. 90; 6 id. 469; 11 N. Hamp. 201; 3 S. & R. 278; 2 aryland, 380; 28 Maine, 127; 14 Mass. 437; 4 Barr, 193; 17 Conn. 355; 2 Smith\u2019s Leading Cases, 660.)\n3. It does not come within the principle that the party must have intended to mislead, or that the other party must have relied upon his admissions, but upon the broader and more enlarged equity, \u201cthat where a man has been silent when in conscience he ought to have spoken, he shall be debarred from speaking when conscience requires him to be silent.\u201d (Per Thompson, Ch. J., Niven v. Belknap, supra; Roberts on Frauds, 130; 1 Fonblanque\u2019s Equity, 161.)\n4. The cases cited would warrant an estoppel, if, as before suggested, the issue had been a direct one,upon title- in an action of ejectment; but in a case like this, where the title arises only incidentally and is asserted only to avoid responsibility for damages which the plaintiffs actually suffered at the hands of the defendant, there, can be no question.\n5. The objection which was taken for the first time upon appeal, that the question should have been submitted to the jury, can not be sustained.\n(a.) The facts upon which the estoppel was based were not disputed. Whether Bowen did or did not say, at the time of the purchase, that he came to buy the land, was entirely immaterial. The important question was: Did he know that the plaintiff was about buying the land, and thus knowing, allow him to complete the purchase'without making any claim of interest in himself?\n(5.) The effect of an estoppel being the exclusion of testimony, its existence must be a question of law for the court, and not for the jury. (5 W. & 8. 209.)\n(c.) If the facts are disputed, they should be submitted to the jury, but no exception will lie, unless the court bo asked to submit the questions of fact. (Winchell v. Hicks, 18 N. Y. 558.)\n(d.) In this case the defendant not only did not ask to have the facts submitted to the jury, but the exceptions, both during the trial and to-the charge were not calculated to raise or suggest to the judge any such question.\n(e.) An exception, to be available, must present the distinct point to be passed upon to the court alone, and in distinct propositions. (5 Seld. 463; 3 id. 266; 2 Kern. 313; 1 id. 161; 28 Barb. 157.)\n6. An equitable estoppel is available in an action at law.\n(a.) Courts of law have long applied the principle to actions concerning personal property, and there is nothing in the nature of real estate 'which should deprive it of the benefit of those salutary principles which are constantly applied by courts of law to other kinds of property. Protection against fraud is equally necessary, whatever be the interest at stake. (2 B. Monroe, 254; 22 Wend. 67, 378; 17 Conn. 345; 4 Barr, 193; 14 Mass; 437; 28 Maine, 127; 2 Smith's Leading Cases, 651.)\n(b.) Under the code the old distinction between the forms of action at law and in equity, are abolished, and it is the constant practice sanctioned by this court, for parties to avail themselves of equitable defenses to actions at law, or equitable answers to legal defenses.\nIY. The objection made upon the trial that the plaintiffs consented to the construction of the wing dam was not sustained. The legal presumption is' that the jury found in favor of the plaintiffs\u2019 version of the matter, and that was that they consented to the construction of the dam, if no water should be shut back to the injury of the plaintiffs.\n1. The defendant had the right, without any consent, to build a dam upon his own land, provided he did not flow the water back to injure riparian owners above.\n2. It would be strange that the plaintiffs\u2019 consent for the defendant to do just what he had the right to do, without it, would enlarge that right.\n3. Besides, it does not appear that the dam necessarily caused the water to flow back. It does not appear that by clearing out and widening the channel the back flow would not be entirely obviated.\n4. Moreover, there is no exception to the refusal to charge according to the fourth proposition, and the charge, as given upon that point, was quit\u00e9 too favorable to the defendant.\nV. The remaining exceptions taken on the trial are so palpably frivolous that it is not deemed necessary to notice them."
+  },
+  "file_name": "0519-01",
+  "first_page_order": 519,
+  "last_page_order": 545
+}

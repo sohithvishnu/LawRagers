@@ -1,0 +1,61 @@
+{
+  "id": 378230,
+  "name": "Swartwout against Payne",
+  "name_abbreviation": "Swartwout v. Payne",
+  "decision_date": "1819-05",
+  "docket_number": "",
+  "first_page": "149",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 Johns. 149"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 631,
+    "ocr_confidence": 0.678,
+    "sha256": "e6e4af72a52c4da5acbb68725263e0b5111ece509b54ace9490ff80f14c41986",
+    "simhash": "1:afd7d6275cc7a51f",
+    "word_count": 107
+  },
+  "last_updated": "2023-07-14T20:07:00.382931+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Swartwout against Payne."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThat is the English practice; (Tidd, 545. 2 Sir. 1162.;) and it has been so decided by this Court. The plaintiff, if he wishes to alter his venue, must give notice of a motion to amend the declaration, for that purpose. The notice is not sufficient, and the motion must be denied.\nMotion denied.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Goodenow,"
+    ],
+    "corrections": "",
+    "head_matter": "Swartwout against Payne.\nThe plaintiff cannotdirectly moveto change his venue ; but he may move declaration for that PurP\u00b0se-\nHale, for the plaintiff, moved to change the venue in this x \u25a0 \u00b0 Cause.\nGoodenow,\ncontra, objected, that the plaintiff could not move to change his venue, but should move to amend his declaration."
+  },
+  "file_name": "0149-01",
+  "first_page_order": 157,
+  "last_page_order": 157
+}

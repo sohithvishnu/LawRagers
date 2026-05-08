@@ -1,0 +1,79 @@
+{
+  "id": 6771307,
+  "name": "Batty against Carswell and Carswell",
+  "name_abbreviation": "Batty v. Carswell",
+  "decision_date": "1806-11",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Johns. 48"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Bay. 169",
+      "category": "reporters:state",
+      "reporter": "Bay",
+      "case_ids": [
+        9505813
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/scl/1/0169-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 4113,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 1.967847056101575e-06,
+      "percentile": 0.9948429425808223
+    },
+    "sha256": "8730bbe9423e5ac6948a39c1ba3cbfb61790c565957b5789be21ab6f52e93c7e",
+    "simhash": "1:f05bc0767e609cbb",
+    "word_count": 744
+  },
+  "last_updated": "2024-02-27T20:50:25.189809+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Batty against Carswell and Carswell."
+    ],
+    "opinions": [
+      {
+        "text": "Livingston, J.\ndelivered the opinion of the court. This was a special power, and ought to have been strictly pursued. But the note, to which Abner Carsivellau-thorised the witness to put his name, was to be payable in six months ; whereas, the one he signed had only sixty days to run. The note, then, as far as it concerned Abner, admitting there was no revocation, was made without his authoirty. His confession, after the suit was commenced, does not alter the state of the case. It was merely that he had allowed David to put his name to a note. This must have been the one of which the first witness speaks, which was to be payable in six months. There must be a new trial, with costs to abide the event of the suit,\nNew trial granted.\n3 Term, 762.\nWhere an agent deviates from the instruction of his principal, he is liable to damages.\u2014Wilkinson v. Campbell, 1 Bay. 169.",
+        "type": "majority",
+        "author": "Livingston, J."
+      }
+    ],
+    "attorneys": [
+      "Foot, for the defendants,",
+      "Crary and Russel contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Batty against Carswell and Carswell.\nWhere A. autjjorisecl B te> sign his name to a note for $250, payable in six months, and B put A\u2019s name to a note for that sum, payable in sixty days, it was held that A. was not liable. A speeial authority must be strictly pursued.\n. , jt His was an action or assumpsit, on a promissory note, alleged to have been made by the defendants. The note was dated the 23d of October, 1801, for the payment of $250, in 60 days. Plea non assumpsit. The cause was tried at the Washington circuit, on the 18th of June, 1806, before Mr. Chief Justice Kent.\nOn the trial, the subscribing witness to the note swore, that two or three weeks previous to the date of the note, David Carswell, one of the defendants, applied to Abner Carswell, the other defendant, to be his surety to the plaintiff, on a note for $250, payable in six months, which he consented to do, and directed the witness to sign his name to such a note. A few days afterwards, and befor\u00e9 the note was made, David Carstuell told the witness that he had informed Abner Carswell, that he should not want the money of the plaintiff, as he could do without it. The witness, with the assent of David Carswell, for whom he acted as clerk and agent, but without the privity of Abner Carswell, signed the note, on which the present action is brought, and for which David Carswell received the amount.\ni. It appeared, that Abner Carswell had admitted, in conversation, that he had authorised the other defendant to use his name to a note for $250, for the purpose of procuring that sum of the plaintiff, but that he was told by Daniel Carswell, that he should not want the money, and did not know that the note had been so given, until some time afterwards The note was then offered to be read in evidence, but objected to by the defendant\u2019s counsel, because it had not been proved to have been signed by the defendants; but the objection was overruled. The defendant\u2019s counsel then moved for a nonsuit, which was refused. The judge charged the jury, that if they believed that the note was made before David Carswell had told the other defendant that he should not want the money, the plaintiff would be entitled to recover, otherwise, they ought to find for the defendants; but that those were facts on which they were to decide. The jury found a verdict for the plaintiff.\nA motion was now made for a new trial, unless the court should think proper to grant a nonsuit.\nFoot, for the defendants,\nurged the same objections as were made at the trial.\nCrary and Russel contra,\ncontended, that when an agent acts within the general scope of his authority, the principal would be bound, though the agent should exceed his authority. There was an authority to sign a note for $250, for 60 days, which was not revoked. The information given by David \u25a0Carswell did not amount to a'revocation of the authority by Abner Carswell. Long acquiescence, after knowing the note to have been made, is strong presumptive evidence of authority. There is an implied assent; and subsequent assent is sufficient evidence of authority.\nFenn v. Harrison, 3 Term, 760. But this is only in the case of an agent or servant having a general authority.\nKyd, 273. Camberbach, 450."
+  },
+  "file_name": "0047-01",
+  "first_page_order": 65,
+  "last_page_order": 67
+}

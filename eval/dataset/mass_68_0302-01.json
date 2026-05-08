@@ -1,0 +1,107 @@
+{
+  "id": 1998185,
+  "name": "Edward J. W. Morse & others vs. George Copeland & another",
+  "name_abbreviation": "Morse v. Copeland",
+  "decision_date": "1854-10",
+  "docket_number": "",
+  "first_page": "302",
+  "last_page": "305",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "2 Gray 302"
+    },
+    {
+      "type": "official",
+      "cite": "68 Mass. 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Mass. 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0478-01"
+      ]
+    },
+    {
+      "cite": "2 Gill, 221",
+      "category": "reporters:state",
+      "reporter": "Gill",
+      "case_ids": [
+        1031296
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/gill/2/0221-01"
+      ]
+    },
+    {
+      "cite": "9 Met. 395",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        1966137
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/50/0395-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 412,
+    "char_count": 8623,
+    "ocr_confidence": 0.623,
+    "pagerank": {
+      "raw": 1.0268327169727823e-06,
+      "percentile": 0.9835546396720427
+    },
+    "sha256": "6fa906b7cec50b3156393b623405716833cc633eed6d866ad8ced35253c7c5f9",
+    "simhash": "1:7e1bcf8e3d30d0ee",
+    "word_count": 1526
+  },
+  "last_updated": "2024-02-27T22:44:08.464879+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward J. W. Morse & others vs. George Copeland & another."
+    ],
+    "opinions": [
+      {
+        "text": "Metcalf, J.\nBy the deed of Josiah and Horatio Copeland to the Easton Manufacturing Company, dated May 10th 1825, that company acquired a right to flow all the land of each of the grantors, which could be flowed by the factory dam, as it then existed. The right thus acquired was an easement in the lands of the grantors. That right was transferred, by the company, to Shepard Leach, who thus acquired the same easement. And Leach, in 1831, while he owned the factory and water privilege \u2014 which was the dominant tenement \u2014 gave an oral license to Josiah and Horatio Copeland, owners of the servient tenement, to erect a dam or embankment on their own land, \u2022 which should exclude the water from a part of the land which, by their above mentioned deed, he had a right to flow. That license was executed by them. They made the dam, and it effected the purpose for which it was made, for more than twenty years. In 1853, the plaintiffs, who derive title to the factory and water privilege from Leach, through intermediate conveyances, undertook to revoke the license of 1831; required the defendants to prostrate the dam; and, on the defendants\u2019 refusal so to do, prostrated it themselves.\nThe first question in the case is, whether the plaintiffs can justify that act. We are of opinion that they cannot. For it is a rule of law, that an easement, whether acquired by known grant or by prescription, may be extinguished, renounced or modified, by a parol license granted by the owner of the dominant tenement, and executed by the owner of the servient tenement. The authorities on this point are conclusive. Dyer v. Sanford, 9 Met. 395. Winter v. Brockwell, 8 East, 308. Liggins v. Inge, 7 Bing. 682, and 5 Moore & Payne, 712. Addison v. Hack, 2 Gill, 221.\nThe next question is, whether the license, given by Leach to Josiah and Horatio Copeland, to cut a ditch through his land, and thereby draw off a part of the water of the factory pond was revocable by the defendants, and therefore their act in stopping the ditch was justifiable. And it is well settled that it was revocable. An easement in real estate can be acquired only by deed, or by prescription, which supposes a deed. Cook v. Stearns, 11 Mass. 533. Fentiman v. Smith, 4 East, 107. Wallis v. Harrison, 4 M. & W. 538. Hewlins v. Shippam, 7 Dowl. & Ryl. 783, and 5 B. & C. 221. Cocken v. Cowper, 5 Tyrw. 103, and 1 C. M. & R. 418. Wood v. Leadbitter, 13 M. & W. 838. Adams v. Andrews, 15 Ad. & El. N. R. 284.\nThe authorities referred to on these first two questions show that the rule, sometimes laid down in the books, that a license executed cannot be countermanded, is not applicable to licenses which, if given by deed, would create an easement; but to licenses which, if given by deed, would extinguish or modify an easement. They also show that the distinction, sometimes taken in the books, between a license to do acts on the licensee\u2019s own land, and a license to do acts on the licensor\u2019s land, is the same distinction that is made between licenses which, if held valid, would create, and licenses which extinguish or modify, an easement. Generally, if not always, a license which, when executed, extinguishes or modifies an easement, is, from the nature of the case, a license to do acts on the servient tenement \u2014 the tenement of the icensee. See Gale & Whatley on Easements, Pt. 1, c. 3, \u00a7 1.\nThe last question is, whether the defendants can justify the making of the ditch on their own land, and thereby drawing off the water which flowed through the breach made in the dam erected by them in 1831, on Leach\u2019s license. As that water was thrown upon their land by the wrongful act of the plaintiffs, we cannot doubt their right to relieve their land from it by the means which they have adopted. Plaintiffs nonsuit",
+        "type": "majority",
+        "author": "Metcalf, J."
+      }
+    ],
+    "attorneys": [
+      "G. I Reed, for the plaintiffs.",
+      "E. Ames, for the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Edward J. W. Morse & others vs. George Copeland & another.\nAn easement in real estate, whether acquired by grant or prescription, may be extinguished, renounced or modified by a parol license, granted by the owner of the dominant tenement, and executed by the owner of the servient tenement.\nBut an easement in real estate cannot be created, except by deed or prescription; and a parol license, which, if given by deed, would create an easement, is revocable, although executed by the licensee.\nThe owner of a mill privilege gave the owner of lands flowed thereby an oral license to erect a dam on the land of the licensee, and also to dig a ditch across the land of the licensor to drain the water from part of the licensee\u2019s land; and under this license, the dam was erected and the ditch dug. Held, that the licensor could revoke the license to dig the ditch, even after the expiration of twenty years, but could not revoke the license to build the dam; and the licensor having undertaken to revoke the whole license, and, after notice to the licensee, made an incision in the dam, that the licensee was justified in making a ditch on his own land, to draw off the water so thrown upon it, although he thereby diverted the water from the licensor\u2019s millpond also.\nAction of tort for diverting water from the plaintiffs\u2019 millpond in Easton. The case was submitted to the court upon the following statement of facts :\nJosiah and Horatio Copeland, on the 10th of May 1825, conveyed their interest in a factory and water privilege to the Easton Manufacturing Company, together with the privilege of flowing all the land that either of the grantors then owned, which could be flowed with the height of the dam and saw mill flume, as it then was, which is also its present height. The Easton Manufacturing Company conveyed the factory and privilege to Shepard Leach, from whom, by mesne conveyances, they have since become the property of the plaintiffs.\nJosiah and Horatio Copeland, at the time of making their deed to the Easton Manufacturing Company, each owned land on the northerly side of the factory pond. Josiah Copeland conveyed away his land on that side of the pond, in 1836; and his grantee, in 1838, conveyed the same to Caleb Swan, who has since continued to own it. Horatio Copeland conveyed away his land on that side of the pond in 1834; and the defendants acquired his title in 1838, and have since held it. All these convey anees were made expressly subject to the right of flowage granted to the Easton Manufacturing Company by said Copelands.\nLeach, while he owned the factory and privilege, in 1831, gave to Josiah and Horatio Copeland an oral permission or license to erect, on their land, a dam or embankment across the mouth of a cove that was formed by the water raised by the factory dam, for the purpose of excluding the water from certain parts of their land; and said Copelands made such a dam or embankment, at their own expense, which remained, and effected the purpose for which it was built, until September 1853. In the same year (1831) Leach also gave said Copelands an oral permission or license to dig a ditch across his (Leach\u2019s) land, now owned by the plaintiffs, for the purpose of draining the water of the factory pond which might accumulate on their land, after the erection of the dam or embankment by them. This ditch was dug by them, and continued till September 1853.\nIn June 1853, the plaintiffs gave written notice to the defendants and to Caleb Swan, requesting a discontinuance of said ditch and a removal of the dam or embankment, and revoking the license under which the same was made. The defendants did not discontinue the ditch nor remove the embankment; and in September 1853, the plaintiffs stopped the ditch, at a place in their land, and made an incision in the embankment, on the defendants\u2019 land; and the water from the factory pond then flowed over the defendants\u2019 land and Swan\u2019s land, as it did from 1825 to 1831, before the embankment was made. The defendants thereupon dug a ditch on their own land, (Swan contributing to the expense thereof,) through which all the water, which flowed through the incision made by the plaintiffs in the dam or embankment, was drained off from the defendants\u2019 and Swan\u2019s land into the stream below the plaintiffs\u2019 factory and pond.\nFor diverting the water through this last ditch from land that the plaintiffs claim as part of their mill-pond, this action is brought. The parties agree that if the plaintiffs had a right to make the said incision in the dam, and are entitled to recover, they shall have judgment for one dollar damages and full costs, if they are not entitled to recover, they are to become nonsuit.\nThis case was argued at Bo'ston on the 17th of January 1854.\nG. I Reed, for the plaintiffs.\nE. Ames, for the defendants."
+  },
+  "file_name": "0302-01",
+  "first_page_order": 310,
+  "last_page_order": 313
+}

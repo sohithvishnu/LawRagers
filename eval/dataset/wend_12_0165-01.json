@@ -1,0 +1,66 @@
+{
+  "id": 11268587,
+  "name": "Cuyler vs. The Trustees of the Village of Rochester",
+  "name_abbreviation": "Cuyler v. Trustees of the Village of Rochester",
+  "decision_date": "1834-05",
+  "docket_number": "",
+  "first_page": "165",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Wend. 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 575,
+    "char_count": 11599,
+    "ocr_confidence": 0.672,
+    "pagerank": {
+      "raw": 7.385173355260836e-07,
+      "percentile": 0.9691047624784302
+    },
+    "sha256": "50e8cadd25db69cf375b46f4efed512164c38b25dc981a62508060a1494f2468",
+    "simhash": "1:8ac79d3bbfceeeb6",
+    "word_count": 2067
+  },
+  "last_updated": "2023-07-14T20:38:11.008405+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cuyler vs. The Trustees of the Village of Rochester."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nNelson, J.\nThe 25th section of the act of 1826, sess. 49, p. 127, incorporating the village of Rochester, provides that if the board of trustees neglect, on demand, to pay the sum assessed as damages to any individual, caused by laying out or widening any street, the party thus entitled to the sum assessed may sue the board of trustees, and recover the same in an action of debt on mutuatus, with interest and costs. This shit is brought by the plaintiff under this section, to recover $2000 assessed to him. The defendants have pleaded numerous pleas in defence, to all of which, except the first, the plaintiff has demurred. It will be material only to notice the third plea. By the 21st section of the act, the trustees are prohibited from laying out or widening any street, so as to run across or over the site of any house or building, the expense of removing which shall exceed $100 ; and this plea is founded upon this provision, averring that the street, as altered, run across or over the site of a building, the expense of removing which exceeded that sum. There is an admission in the plea, that the owners waived any objection to the alteration, so far as the jurisdiction of the trustees was concerned; and this is supposed by the counsel for the plaintiff to neutralize the force and effect of the plea.\nThis case has been before the court on a motion to quash a certiorari, and also to amend the return of the trustees thereto, on which occasion the chief justice considered this provision of the act, and gave, in my judgment, the true exposition of it. 6 Wendell, 564. He held that the consent of the owners did not give jurisdiction to the trustees, as all the corporators had also an interest in the question, being liable to pay the assessment or expense, and the prohibition in the case where the expense of removing the building exceeded $100, was as well for their benefit as for the benefit of the owners of buildings. It was intimated in that opinion, that if the owners had stipulated to remove the building for $100, jurisdiction would have been given. This may be so, but in case of a failure to perform such stipulation by the owners, I apprehend the loss would fall personally on the trustees ; for in no event is the corporation to be subjected to an expense beyond the one hundred dollars.\nIt is supposed, by the counsel for the plaintiff, that the consent given necessarily implied that the owners would accept the $100 and remove the building; but the language used rather repels such an inference. The intent to be derived from the whole, I think, is, that the owners would waive the objection which the statute afforded them, and permit the street to be widened, leaving their claim for damages open, to be ascertained according to the statute. If it had been the intention or expectation of either party that the expense of removing the building should be limited to the $100, it would have been very easy and natural to have said so. Be this as it may, as the fact of the limitation of the expense to the $100, and not the consent of the owner, is what gives juris-' diction, if at all, it should have been made distinctly and unequivocally to appear, and should not have been left to inference or conjecture. This is a familiar rule of pleading. For aught that appears before us, if the jury, in the assessment of damages an[j expenses, had allowed to the owners the whole expense of the removal of the building, we could not say it was erroneous ; as we think the better opinion is, that the owners, by the consent given, did not intend, nor did it necessarily carry along with it, a limitation of the expense.\nIt is said the trustees ought to be estopped from setting up the want of jurisdiction, after they have taken the property of the plaintiff, as it is taking advantage of their own wrong, to his injury. The answer is, that this suit is not against them, but against the corporation; and if a recovery is had, the corporation must pay the amount. By the first section of the act, all the freemen, inhabitants within the limits of the village, are declared to be a body corporate and politic, by the name of \u201c The trustees of the Village of Rochester,\u201d and in that name they and their successors are capable of suing and being sued, pleaded, and being impleaded, &c. The trustees, in executing the duties imposed upon them by the charter, act as agents of the corporators, and the latter can be bound only when the trustees act within the scope of their powers. Then they are bound and may be sued; but they can be sued only in their corporate name. If, under the idea that the trustees, and not the corporators, were the parties sued, the doctrine of estoppel was to be applied, there can be no imaginable excess of power on the part of these officers, for which the corporation would not be responsible. This cannot be. The true exposition is, that all the duties imposed upon, and powers granted to the corporation, are to be executed through the instrumentality of agents, the chief of whom are the trustees ; and all suits against the corporation in the corporate name, though in form against the trustees, are against the principals themselves, who, like all other principals, may depend themselves on the ground that the act by which they sought to be made responsible was done without authority. The charter prescribes the powers of the trustees, beyond which they cannot go; if they do, they act as individuals, and not in the character of trustees, and their proceedings of course are inoperative and void. The consequence in this case is, that the land for which the damages have been assessed, and are ought to be recovered by the plaintiff still belongs to him, as there has been no valid devotion of it to the uses of a public Street.\nThe demurrer is put in to the eight last pleas, and if either plea constitutes a good bar to the cause of action, the defendants are entitled to judgment, though the residue may be defective. I do not find this point expressly adjudged in any case, or laid down in any elementary book on pleading. Cases, however, strictly analogous have been decided, which 1 think afford sufficient authority for the above conclusion. If there be several counts in a declaration, or several breaches are assigned in an action of covenant, some of which are good and others bad, and the defendant demurs to the whole declaration, judgment is given for the plaintiff. 1 Chitty, 643. 5 Bac. 458. 11 East, 565. 2 Johns. Dig. 219, Demurrer. But what, if possible, is still more decisive, where a plea contains distinct matters divisible in their nature as a plea of set-off of separate and distinct demands, if the plaintiff demurs to the whole, though part is bad, the defendant will be entitled to judgment on the whole plea. The demurrer being overruled, as not well taken, leaves the entire plea unanswered. Powdick v. Lyon, 11 East, 565. In Dowsland v. Thompson, 1 Wm. Black. 910, the defendant pleaded to an action for freight of a vessel, that the goods were injured on board by the negligence of the plaintiff, whereby he became indebted to the defendant in the sum of \u00a310,000: he also pleaded a general set-off of \u00a310,000 for work and labor, &c. To this plea there was a demurrer and joinder. The court overruled the demurrer, on the ground that the different parts of a plea of set-off were to be viewed in the light of different counts in a declaration, and as one point of the plea was good, though the other was bad, the demurrer could not be sustained. The principle of these cases was recognized and applied in the case of Douglass v. Satterlee 11, Johns. R. 22. See also 1 Chitty, 643. It seems to me impossible to distinguish the case of a demurrer to two pleas, one of which is sufficient to bar the action, and the other bad, from the principle so fully settled in the above cases.\nMany of the pleas in this ease are extremely informal; stt,ffed whh much unimportant matter, and tedious detail, and which would have been stricken out, on application, at the cost of the P]eader-\nJudgment for defendants.",
+        "type": "majority",
+        "author": "Nelson, J."
+      }
+    ],
+    "attorneys": [
+      "A. Samson & O. Hastings, for the plaintiff",
+      "S. Boughton, for the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Cuyler vs. The Trustees of the Village of Rochester.\nWhere, on the altering of a street in the village of Rochester, damages were assessed to the owner of land taken for the street, and an action was brought by him against the corporation of the village for the recovery of the sum assessed in his favor, and it appeared that there was a building erected on the ground required for such alteration, the expense of removing which would exceed $100, it was held, that the action did not lie, and that the corporation were not estopped from alleging that the whole proceeding was a nullity for want of jurisdiction in the trustees to make the alteration.\nWhere several pleas are interposed, some good and some bad, and a generaJ demurrer is put in to all, if either of the pleas is good, the defendant is entitled to judgment.\nDemurrer to plea. The plaintiff declared in an action of debt, on mutuatus, claiming $2000 from the defendants, under the 25 th section of the act incorporating the village of Rochester, passed 10th April, 1826. The defendants pleaded nil debent and eight other pleas, to which eight last pleas the plaintiff put in one general demurrer, assigning a variety of special causes of demurrer. The third plea is the only one which received the consideration of the court, for which reason it alone is here stated. It commences with a protestando that the street afterwards mentioned was not widened, nor was any land of the plaintiff taken for a street, nor was any judgment of the president of the board of trustees ever made or entered; and for plea, the defendants say actio non, because, on the 13th June, 1827, a petition was presented to the board of trustees that the north line of Main street, in the said village, might be established in a manner particularly specified in the petition ; and at the same time a stipulation, signed by the plaintiff in this suit and one J. N. Stebbins, was presented to the board, that they, the owners of land and buildings then erecting within the line specified in the petition, waived all objection to the line being laid over the site of their erections, (buildings,) so far as it affected the jurisdiction of the trustees in establishing such line; and that thereupon it was resolved by the board, and their resolution was entered of record, that the north line of Mam street be established according to the prayer ot the petition, and declaring such line to be the north line of the street. The defendants then aver, that before, at and after the adoption of such resolution by the board, there was erected and standing a building on the ground which would be taken for the street, (if the resolution was carried into effect,) the expense of removing which would, and did exceed the sum of $100, so that in fact the street was altered so as to run across or over the site of a building, the expense of removing which would and did exceed $100 ; without this, that the defendants ever borrowed any money of, or were otherwise indebted to the plaintiff in any other manner or by any other means than by establishing the line of the said street in manner aforesaid, and the proceedings to have the damage and recompense due the plaintiff therefor assessed, according to the provisions of the 25th section of the act \u2014 all which the defendants are ready to verify; wherefore they pray judgment, &c. The ca\u00fase was submitted on written arguments.\nA. Samson & O. Hastings, for the plaintiff\nS. Boughton, for the defendants."
+  },
+  "file_name": "0165-01",
+  "first_page_order": 165,
+  "last_page_order": 170
+}

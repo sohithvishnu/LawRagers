@@ -1,0 +1,103 @@
+{
+  "id": 1112012,
+  "name": "ADAMS v. BUSH",
+  "name_abbreviation": "Adams v. Bush",
+  "decision_date": "1863-06",
+  "docket_number": "",
+  "first_page": "7",
+  "last_page": "7",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 7"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "33 How. Pr. 262",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2229418
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/33/0262-01"
+      ]
+    },
+    {
+      "cite": "38 N. Y. 42",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        500785
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/38/0042-01"
+      ]
+    },
+    {
+      "cite": "34 Barb. 291",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5070765
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/34/0291-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 137,
+    "char_count": 1523,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 4.140813768639302e-07,
+      "percentile": 0.9111475225003466
+    },
+    "sha256": "2318d4eb9aa60ac7c13a86d742d7b377d59423e362517a27d7e1c90434fd7a9c",
+    "simhash": "1:90e83864f88c4837",
+    "word_count": 271
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ADAMS v. BUSH."
+    ],
+    "opinions": [
+      {
+        "text": "The Court were all of the opinion that the plaintiff\u2019s papers in support of the motion were defective, in not containing an affidavit of the witnesses who, it was claimed, would give the additional evidence relied on, stating that they were ready to swear to the facts claimed to be newly discovered.\nThey therefore decided to affirm the order appealed from, upon that ground, without passing upon any other point.\nOrder affirmed, with costs.\nThe judges were not agreed whether the order was appealable or not. The chief judge delivered an opinion (published in 2 Abb. Pr. N. S. 102) to the effect that under the Code of Procedure, as amended in 1862, it was appealable. Davies, J., expressed the opinion that it was not appealable, citing Platt v. Monroe, 34 Barb. 291. And so it was afterward determined in Lawrence v. Ely, 38 N. Y. 42, where such motions were held to rest in the discretion of the court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Henry 0. Adams, in person.",
+      "J. Genter, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "ADAMS v. BUSH.\nJune, 1863.\nOn a motion for a new trial on the ground of newly discovered evidence, there must he an affidavit of the witnesses who will give the new evidence, stating that they are ready to swear to the facts.\nAfter trial by a referee, plaintiff moved for a new trial on ground of newly discovered evidence, upon his own affidavit of what his new witnesses would swear to. The motion was denied on the ground that the evidence was merely cumulative; and the denial was affirmed at general term (33 How. Pr. 262); and plaintiff now appealed.\nHenry 0. Adams, in person.\nJ. Genter, for the respondent."
+  },
+  "file_name": "0007-01",
+  "first_page_order": 17,
+  "last_page_order": 17
+}

@@ -1,0 +1,169 @@
+{
+  "id": 2021190,
+  "name": "Tabor v. Bradley and others",
+  "name_abbreviation": "Tabor v. Bradley",
+  "decision_date": "1858-09",
+  "docket_number": "",
+  "first_page": "109",
+  "last_page": "115",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 N.Y. 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wend., 523",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145745
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/5/0523-01"
+      ]
+    },
+    {
+      "cite": "2 Cush., 327",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1981870
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/56/0327-01"
+      ]
+    },
+    {
+      "cite": "13 Metc., 109",
+      "category": "reporters:state",
+      "reporter": "Metc.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Penn., 438",
+      "category": "reporters:state",
+      "reporter": "Penn.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Pick., 138",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2014263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/27/0139-01"
+      ]
+    },
+    {
+      "cite": "3 N. H., 190",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6754097
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/3/0190-01"
+      ]
+    },
+    {
+      "cite": "14 Mass., 49",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2073029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/14/0048-01"
+      ]
+    },
+    {
+      "cite": "6 Conn., 289",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/6/0289-01"
+      ]
+    },
+    {
+      "cite": "2 Metc., 237",
+      "category": "reporters:state",
+      "reporter": "Metc.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Mass., 443",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2036157
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/17/0359-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 640,
+    "char_count": 13304,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 4.2325779697558644e-07,
+      "percentile": 0.9143417241700191
+    },
+    "sha256": "f150494354b5df50cd5d6e3f15f4d76a03c4a74c3e05061c53af0716d8535392",
+    "simhash": "1:802526068accbe82",
+    "word_count": 2397
+  },
+  "last_updated": "2024-02-27T22:36:09.220622+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tabor v. Bradley and others."
+    ],
+    "opinions": [
+      {
+        "text": "Pratt, J.\nThe conveyances under which the defendants claim title, upon their face purport to convey simply the lands within the boundaries described in such conveyances. There is no allusion to any mill or water rights or privileges contained in them. If anything more than the lands thus described passed by those conveyances, it must pass by reason of being in some manner attached or annexed to the premises so as to pass as appurtenant to them, or the conveyances must have been made under such circumstances as would lead necessarily to the conclusion that the collateral privileges claimed were designed to pass with the land.\nThe rightito flow the lands of another, like a right of way, is an easement, and can only be created by grant. And where an easement already exists, and is attached to lands, it is well established that it will pass by a conveyance of the lands as an appurtenant. But when the original conveyance was made in this case, there was no easement in existence. A man cannot have an easement over his own lands. The definition of an easement is the right which one man has to use the land of another for a specific purpose. (3 Kent's Com., 528.) No easement, therefore, being in existence at the time of the original conveyance, it could not pass as appurtenant to the land conveyed. This has frequently been held in the case of a right of way. In Grant v. Chase (17 Mass., 443), it was held that the conveyance of a specific piece of ground, carved out of a larger piece held by the grantor and described by metes and bounds carries nothing which is not included within the boundaries; that a right of way through the premises of the grantor does not pass. In that case two tenements were held by the same person, one of which was occupied by the owner and the other was leased from time to time, and occupied by tenants. There was only one well and out-house for both tenements, which were used in common by the occupants of both. The leased tenement was afterwards sold, the premises being described in the conveyance by metes and bounds, \u201c with all the privileges and appurtenances thereto belonging.\u201d The purchaser and his grantees claimed that the right to use the well and out-house passed to them by the com, eyance, but the court held as above stated.\nSo in Johnson v. Jordan (2 Metc., 237), it was held that \u201c when the owner of two adjoining messuages or lots of land, one of which he occupies and the other-he leases, constructs a drain, from the messuage which he leases through the lands which he occupies, into a common sewer, and permits his tenants to use it for ten years and more, and then sells both messuages and lots on the same day to different purchasers, and in his deed to the purchaser of the lot which he formerly leased does not mention the drain, such purchaser acquires no right by the deed to the use of the drain through the other lot of land, if he, by reasonable labor or expense, can make a drain without going through that land.\u201d\nIn Whalley v. Thompson (1 Bos. & Pull., 371), it was held that when \u201c one, being seized in fee of the adjoining closes A and B, over the former of which a way had immemorially been used to the latter, devises B, with the appurtenances, the devisee cannot, under the word appurtenant, claim a right of way over A to B, as no new right of way is thereby created, and the old one was extinguished by the unity of seizin in the devisor.\nSo in Manning v. Smith (6 Conn., 289), it was held that \u201c when the subject matter of a deed, as described in the premises was a certain piece of land, and the habendum was of the premises, with all their appurtenances, a right to the use of the water conducted artificially on the premises from the other land of the grantor, in the manner in which it was enjoyed by him at the time of the grant, did not pass by the deed.\u201d It was laid down in that case that \u201cthe subject matter of a deed is to be ascertained from the premises.\u201d (Gayetty v. Bethune, 14 Mass., 49; 2 Nev. & Mann., 517; 5 Barn. & Adolph., 791; 6 Nev. & Mann., 2S2; 4 Adolph. & Ellis, 749.)\nThere are a great many cases where it has been held that some collateral privileges pass, by the conveyance, with the main subject of the grant. Such has been held to be the effect of a conveyance in terms of a \u201cmanor,\" \u201cmessuage\u201d or \u201cfarm,\u201d known \u201cby a certain name, and including sundry distinct tenements, buildings or fields, which have been used with the principal thing, and reputed parcel of it.\u201d All these, would pass under the general name of the \u201cmanor,\u201d \u201cmessuage,\u201d &c. \u201cThey pass, not as appurtenances, but as parcel of the granted or devised premises, upon the intention of the parties as collected from the instrument and explained by reference to the facts.\u201d (Whitney v. Olney, 3 Mason, 280.) So the conveyance in terms of a \u201c mill \u201d or \u201cmill-race\u201d or \u201cprivileges\u201d would undoubtedly pass the right to flow sufficient to raise the necessary head of water to carry the mill. (4 Paige, 77; 4 Kent's Com., 517.)\nSuch were most if not all the cases cited upon the argument by the defendants\u2019 counsel. In the case of Le Ray v. Platt (4 Paige, 77), the conveyance was of a \u201cmill lot\u201d with the \u201c mill stream.\u201d In the case of New Ipswich Factory v. Batchelder (3 N. H., 190), the premises were conveyed with one-half of \u201c all water privileges \u201d and \u201c all other privileges annexed to or belonging to the premises.\u201d In these cases it was held that everything attached to the mills and necessary to manage them passed by the conveyance. (Kent v. Waite, 10 Pick., 138; Nicholson v. Chamberlain, Cro Jas., 21; Kieffer v. Inhoff, 26 Penn., 438; Forbush v. Lombard 13 Metc., 109; Farrar v. Stackpole, 6 Greenl., 154.) In Thayer v. Payne (2 Cush., 327), two lots were owned ,by the same person. At the time of conveying one, there was. a drain from the house across the other. The description is not given in the report of the case, but I infer from the opinion of Fletcher, J., that it purported to convey the house and Jot, with the privileges and appurtenances thereto belonging, &c. It was held, that if the use of the drain was necessary to the beneficial use of the premises granted, it passed by the conveyance. If the house and lot were conveyed in terms, no one, I think, will dispute the correctness of the decision. It would come clearly within the principle laid down.\nIn the case of Oakley v. Stanley (5 Wend., 523), I understand that the conveyance under which the right was claimed was of the premises, including the \u201c dam \" in terms\u2014that the dam was actually mentioned in the deed. If that was so, it would clearly come within the other cases I have cited. Besides, it was proved in that case that the consideration of the conveyance was some $1,250,- and that the principal value of the premises conveyed consisted in the mill privilege.\nAs I have before suggested, it is not necessary to contend that a deed purporting to convey by metes and bounds may not be legally construed, in the light of the surrounding circumstances, to include also privileges annexed to or -connected with the main subject of the grant.\nIn the case at bar, there was no proof of the kind. It was not even proved that the grantors knew of the existence of -the dam at the time of the conveyance. It is not proved by what authority the mill was built; whether the builder was a mere trespasser, whether he held a contract for the land, or whether he had a license from the owners to build. It does not appear how the mill privilege would affect the value of the lot; whether it would constitute a very small or a very large proportion of the value of the whole premi ses. The deed, on its face, purports to convey simply the land within its boundaries. If it be claimed that other privileges were intended by the parties to be conveyed, surely the burden of proof is upon the defendants, to show the surrounding circumstances which would authorize the court to give to it an effect beyond its strict literal interpretation, so as to carry with the main subject of conveyance the right to flow other lands. 'No such proof having been given, we must, I think, assume that it was the design of the parties that the grantee should only take the premises included within the boundaries contained within the deed, and the judgment must be affirmed with costs.\nJohnson, Ch. J., Roosevelt, Harris and Denio, Js., concurred, the latter putting some stress upon the special circumstances that, at the time th.e Holland Land Company conveyed to Van Horn, there was probably no dam upon the premises, it having been swept away a few days before, and if otherwise, the presumption that the grantor knows the condition of his land should not be applied to a case,' like this, of the owner of a great tract of wild land, subject to the occupation and improvement of mere squatters. Strono and Selden, Js., dissented; Comstock, J., did not sit in the case.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Pratt, J."
+      }
+    ],
+    "attorneys": [
+      "Nathan Dayton, for the appellants.",
+      "F. J. Fithian, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Tabor v. Bradley and others.\nThe Holland Land Company conveyed to the defendant, by metes and bounds, without any mention of a mill, dam or water privilege of any kind, certain land upon which he had previously constructed a mill and a dam, which flowed other land of the company. There being no evidence that the grantors had notice of the existence of the mill or dam when the deed was executed, held that it did not convey the right of flooding the land of his grantor.\nThe intention to grant, as appurtenant to the principal subject of conveyance, a right in no way suggested by its terms, and to be exercised upon other lands, can only be implied from proof of the circumstances attending the conveyance, such as the value of the privilege compared with that of the land without it, or its continued use in a manner open and visible to the grantor.\nThe presumption that a grantor knows the condition of his own land is not to be applied to the non-resident proprietor of a large tract of wild land, liable to occupation and improvement by mere squatters. Per Demo, J.\nAppeal from the Supreme Court. The action was commenced in January, 1853, for damages from the flooding of the plaintiff\u2019s land by means of a dam maintained by the defendants in the Twelve Mile creek, in the county of Niagara; for the removal of the dam, or such alterations as would prevent the flooding of the plaintiff\u2019s land, and for injunction against future obstruction to the natural flow of the water. The cause was tried before a referee, who found these facts: Both parties derive title from the Holland Land Company, who, on the 19th March, 1833, conveyed in fee to William Van Horn one hundred and fifty acres, being one hundred acres from the north part of lot No. 4, and fifty acres, adjoining, from the northeast part of lot No. 13, describing the land by metes and bounds, without reference to any erections thereon, with the usual habendum clause as to privileges and appurtenances belonging to the land. In the year 1832 Van Horn had commenced the erection of a sawmill and dam upon the land afterwards conveyed to him, as before stated, in lot No. 13. The dam was not completed until the last of February or 1st of March, 1833. It then raised the water to a head of seven feet, and set it back' so as to overflow land then owned by the Holland Land Company, and now owned by the plaintiff in this action. After using the mill with that head of water some ten days, the dam was carried away by a freshet. Van Horn immediately built up a temporary dam, and in the summer and fall of that year another dam was built by him on the original plan.\nIn May, 1833, Van Horn mortgaged the one hundred and fifty acres to the New York Life Insurance and Trust Company; the mortgage was foreclosed in 1840, and the equity of redemption conveyed to the mortgagees, who, in the same year, conveyed the fifty acres upon which the mill, dam, and a portion of the pond caused by it, stand, to one Richmond, under whom the defendants hold by a deed describing the premises only by metes and bounds, with the usual habendum clause. The plaintiff derived his title to a part of the land flowed, under a subsequent grant by the New York Life Insurance and Trust Company of the residue of the land mortgaged to it by Van Horn, and to the remainder of the land submerged, under conveyance from the Holland Land Company subsequent to its deed to Van Horn. Both the conveyances last mentioned described the land by metes and bounds, without any mention of water, water privileges, mill or dam, and without referring to the existing use or occupation, or any particular mode of enjoyment of the premises granted. It is necessary, for the beneficial use and enjoyment of the defendants\u2019 mill, to raise a head of water from six to seven feet high.\nThe referee found that the plaintiff had sustained damages to the amount of $225, for which sum he ordered judgment; he further adjudged all of the dam above a height specified in his report to be a nuisance to the plaintiff, and ordered it to be removed and abated, with perpetual injunction against renewing a dam to any greater height. Judgment was entered, accordingly, and having been, on appeal, affirmed at general term in the eighth district, the defendants appealed to this court.\nNathan Dayton, for the appellants.\nF. J. Fithian, for the respondent."
+  },
+  "file_name": "0109-01",
+  "first_page_order": 113,
+  "last_page_order": 119
+}

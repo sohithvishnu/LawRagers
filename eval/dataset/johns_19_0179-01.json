@@ -1,0 +1,66 @@
+{
+  "id": 380555,
+  "name": "Stryker against The Mayor, &c. of the City of New-York",
+  "name_abbreviation": "Stryker v. Mayor",
+  "decision_date": "1821-08",
+  "docket_number": "",
+  "first_page": "179",
+  "last_page": "181",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Johns. 179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 4637,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 3.5339316191459817e-07,
+      "percentile": 0.8844422976011342
+    },
+    "sha256": "6cc8dc637f5ee503e6cea65a75389035352b89f0311045e02016d9292261a4ef",
+    "simhash": "1:0da6c6eed768aa85",
+    "word_count": 793
+  },
+  "last_updated": "2023-07-14T14:47:14.176181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stryker against The Mayor, &c. of the City of New-York."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis case is clearly distinguishable from that of Udall v. The Village of Brooklyn, just decided. The city and county of New-York includes the whole of the rivers and harbour, to actual low water mark, on the opposite shores; and although permanent , erections, such as wharves and store-houses, may, from time to time, vary the line of jurisdiction, yet it cannot be allowed that Brooklyn is to be extended by means of a floating vessel in the river. although she may be fastened to the dock. The vessel, in this case, was in the city of New-York; and the defendant below was not licensed there, to do the act complained of. The judgment ought to be affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "lYells, for the plaintiff in error,",
+      "Sherman and Goodenow, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Stryker against The Mayor, &c. of the City of New-York.\nThe city^n\u00e1 York3 includes the rivers and centtothe^ly^ ^ater mik on ^\u00aercs \u00b0PPG\u00aejit\u00ae fot\u2122eedma}fr0m timeto\u2019time.by docks,wharves, and other pertions; and airisd\u00a1\u00edtionbofth\u00bf extend\u00b0so a\u201dto pirres orsuacb \u00a1!ficial . ,\u00aerec\" tends over the ships and vesseis floating on though they \u00a3ay to \u2019\u2019fuch dobckrsres and\nca^* the last \u25a0\nIN ERROR, on certiorari, to a Justice\u2019s Court. The Mayor, Aldermen, and Commonalty of the city of New-York, brought an action of debt against Stryker, before one of the assistant justices of the city of New-York, to recover a penalty of fifty dollars, for breach of an ordinance of the corporation of New-York, in acting as a public measurer of grain, within the city and county of New-York, without being licensed. The defendant demanded a trial by jury.\nA I \u2022 1 \u2022 , , , At the trial, it was proved that the defendant, who was a licensed measurer of the village of Brooklyn, measured grain on board of a vessel made fast to the end of a wharf or dock, on the East River, on the Brooklyn or Long Island shore; and that the vessel lay to the west of the usual low water mark. The defendant offered to prove that the county of Kings had always exercised jurisdiction over \u00b0 , \u00b0 vessels fastened to the wharves or docks in Brooklyn; and that the sheriff, coroners, and magistrates of Brooklyn, had frequently served process on board of vessels so situated; but the justice refused to hear the evidence. The defendant\u2019s counsel read in evidence the act of the legislature, passed April 2, 1801, (sess. 24. ch. 108.) vesting certain powers in the freeholders of part of the town of Brooklyn, within certain limits, the west line being the East River, for the purpose of extinguishing fires, called the \u201c fire district and also, an act passed the 12th of April, 1806, incorporating the village of Brooklyn, and bounding the village ty the East River; and it was contended that these acts, laving been passed since the division of the state into counties, the village of Brooklyn had jurisdiction over all locks and wharves on the river, as they then existed. But he justice charged the jury that the jurisdiction of the city if New-York extended to low water mark, on the Long rsland shore, so as to include the place in question; and the jury accordingly found a verdict for the plaintiffs, on w\u00a11\u00a1c\u00a11 justice gave judgment.\nlYells, for the plaintiff in error,\ncontended, that Brooklyn had so long exercised jurisdiction over the wharves and docks in the East River, on the Long Island shore, and that with the tacit acquiescence of New-York, that \"the latter ought now to be precluded from raising any objection to it. That if Brooklyn had such jurisdiction over the wharves and docks, it followed as a necessary consequence, that it. extended to vessels attached to those wharves or docks. That this construction was most reasonable, and ought to be adopted, in order to avoid the many evils and inconveniences which would arise from considering vessels so situated as within the jurisdiction of the city of New-York. The river, at certain times, is impassable, and the ferry-boats are laid up during the night; and if vessels lying at the wharves at Brooklyn are not within the jurisdiction of that place, criminals of every sort, might for a time find an asylum on board of them, and bid defiance to the magistrates and officers of justice.\nSherman and Goodenow, contra,\ninsisted, that the natural low water mark on the Long Island shore, being a fixed and certain boundary, given by the charter of New-York, could, not be changed by any artificial erections of individuals, nor even by the legislature. That even, if it should be admitted that Brooklyn had jurisdiction over the wharves and docks or permanent erections on the shore, it did not follow that it extended also to vessels lying on the water of the river, though they might be fastened to those wharves."
+  },
+  "file_name": "0179-01",
+  "first_page_order": 187,
+  "last_page_order": 189
+}

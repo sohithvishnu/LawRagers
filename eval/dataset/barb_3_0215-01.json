@@ -1,0 +1,105 @@
+{
+  "id": 8592964,
+  "name": "Seaman vs. Hogeboom & Harder",
+  "name_abbreviation": "Seaman v. Hogeboom",
+  "decision_date": "1848-06-05",
+  "docket_number": "",
+  "first_page": "215",
+  "last_page": "219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Barb. 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Hill, 272",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 John. Rep. 156",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128238
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/1/0156-01"
+      ]
+    },
+    {
+      "cite": "7 Wheat. 7",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1503010
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/20/0007-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 146",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 437,
+    "char_count": 10172,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 2.7865315832159966e-07,
+      "percentile": 0.835660109913744
+    },
+    "sha256": "539d04aa76c29abca1fc8de195affadc9fc698855696950025417231ea855443",
+    "simhash": "1:81982530a8437702",
+    "word_count": 1807
+  },
+  "last_updated": "2024-02-27T17:55:55.028101+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before the same Justices."
+    ],
+    "parties": [
+      "Seaman vs. Hogeboom & Harder."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nParker, J.\nThe law is well settled that where land is bounded by monuments, they control courses and distances ; for the reason that they are the most material and certain objects. (Jackson v. Wendell, 5 Wend. 146. 7 Wheat. 7. 4 Paige, 212. 2 Cowen & Hill\u2019s Notes, p. 1378, 1380, n. 942.) The deed to the plaintiff described the land, conveyed as commencing at a known monument, and running east one hundred and fifty-seven feet to a stake and stones. But it is conceded that when this deed was executed there were no stake and stones there. The surveyor then, in tracing the line, finds no such monument. There is none there; and he is then to look at the next calls in the deed, viz. the course and distance, and be governed by them. The deed does not say easterly, but east; and there being no monument, the line must be run due east, which excludes the' premises sought to be recovered. (1 John. Rep. 156. 3 Caines, 299.)\nIt does not help the plaintiff\u2019s case that there were, some years before this deed was executed, a stake and stones lying easterly of the starting point. There was not a vestige of such a monument when this deed was given. The deed does not run to where a stake and stones \u201c formerly stood.\u201d The parties have chosen their own language, and describe a present monument, which it is conceded does not exist, and cannot of course be found. If it was the intention to run to where a stake and stones formerly stood, and if the language employed is the result of mistake, the only relief of the party is in equity. A court of law must decide upon the rights of the parties, according to the strict letter of the instrument, and cannot receive evidence of a mistake in the boundaries described in a deed. (Cameron v. Irwin, 5 Hill, 272.)\nIf there had been a stake and stones there when the deed was executed, it would make no difference that they were subsequently removed ; for the party would be at liberty to prove by parol where they stood at the time of the conveyance. If any portion of the monument was there at the date of the deed it would perhaps be sufficient; as, if a line terminated at a marked tree, the stump only of which was standing at the execution of the deed. But where there is no part nor vestige of a monument, the same having been removed some years before, to allow the line to be run to where one \u201c formerly stood\u201d would not give effect to, but would vary the language of the deed.\nIn this case it does not appear, even by parol evidence, that the parties intended to run to where the stake and stones formerly stood; nor could such evidence have been received if offered. The court cannot certainly say, with any safety, what was the intention of the parties, without evidence in regard to it. This difficulty does not exist in equity, where a bill may be filed to reform or correct the deed according to the actual purchase, and evidence may there be received to prove what was the intention and understanding of the parties.\nThis is not a case of latent ambiguity, susceptible of parol explanation. The language employed is clear and explicit. A monument is given that does not exist, and by which it is of course impossible to locate the land. And effect can only be given to the deed by locating the premises by the course and distance.\nA new trial should therefore be denied.",
+        "type": "majority",
+        "author": "Parker, J."
+      }
+    ],
+    "attorneys": [
+      "H. G. Wheaton, for the plaintiff.",
+      "D. Buel, Jim. for the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Same Term.\nBefore the same Justices.\nSeaman vs. Hogeboom & Harder.\nWhere land is described as bounded by monuments, they control courses and distances.\nBut where a deed described the land conveyed as commencing at a known monument and running east 157 feet to a stake and stones, but at the time the deed was executed there were no stake and stones there, the same having been entirely removed some years before; Held that the line could not be run to where the stake and stones formerly stood, but that the next calls in the deed \u2014 viz. the course and distance \u2014 must govern.\nHeld also that it was not a case of latent ambiguity in the deed, susceptible of parol explanation. And that if it was the intention of the parties to run the line to where a stake and stones formerly stood, and the language used was the result of mistake, the only relief of the party was in equity.\nThis was an action of ejectment, tried at the Rensselaer circuit on tile 2d day of May, 1845. The declaration described the premises as follows: In the first count as \u201c a certain piece, parcel or lot of land situate in the village of Castleton, in the town of Schodack in the county of Rensselaer and state of New-York, known as the Schermerhorn brick yard, being on the north side of the south road running east from the village of Castleton, and bounded as follows, that is to say: Beginning at the southwest corner of a house formerly occupied by George Noyes, and now occupied as a stable, and running thence east 157 feet to a stake and stones; thence in a northerly course 273 feet to a stake and stones; thence west or westwardly one hundred and fifty-four feet; thence one hundred and fifty-one feet to the place of beginning;\u201d In the second count the land was described as \u201c the one equal undivided moiety or half part of a certain other piece or parcel of land situate in the village of Castleton, in the town of Schodack in the county of Rensse-laer and state of New-York, known as the Schermerhorn brick yard, being on the north side of the south road running easterly from the village of Castleton, and bounded as follows, that is to say: Beginning at the southwest corner of a house formerly occupied by George Noyes, and now occupied as a stable, and running thence easterly one hundred and fifty-seven feet to a stake and, stones ; and thence a northerly course two hundred and seventy-three feet to a stake and stones; thence one hundred and fifty-one feet to the place of beginning.\u201d\nThe plaintiff, to maintain the issue on his part, proved and read in evidence a deed, containing covenants of warranty, from Isaac Eestlicke to George Noyes, dated on the 9th June, 1812, recorded in the Rensselaer county clerk\u2019s office, of \u201c all and singular that certain piece or parcel or lot of land situate in'the village of Castleton, in the town of Schodack, and bounded as follows, viz. Beginning at the southwest corner of the dwelling house formerly occupied by George Noyes, running east one hundred and fifty-seven feet to a stake and stones,,from thence a northwardly course two hundred and seventy-three feet to a stake and stones, from thence west or westwardly one hundred and fifty-four feet to a stake and stones, from thence one hundred and fifty-one feet to the place of beginning.\u201d\nThe plaintiff then produced and read in evidence to the court and jury a copy of a judgment record, duly certified under the hand and seal of the clerk of this court, in favor of Cornelius I. Schermerhorn and John I. Schermerhorn, against the above named George Noyes, filed and docketed in the supreme court of this state on the 14th day of May, 1817, for $2400 debt, and $14,44 damages and costs. The plaintiff then proved a sale of all the right and title of George Noyes to certain premises described as follows: \u201c All that certain piece and parcel of land situate, lying and being in the town of Sehodack, county of Rensselaer, state of New-York, bounded as follows: Southerly by the highway, northerly, easterly, and westerly by lands of Isaac Eestlicke deceased, containing one and one half acre, be the same more or.less. Also one other piece or parcel situate in said town, county and state, bounded as follows: Westerly by the North river, northerly by Jeremiah Gage, easterly by the highway, south by Phcebe Stevens deceased, containing one acre, be the same rpore or less.\u201d Which sale was made under an execution issued on the above judgment: and the plaintiff proved and read in evidence the sheriff\u2019s deed from Michael S. Vandercook, sheriff of the county of Rensselaer, to Cornelius I. Schermerhorn and John I. Schermerhorn, dated the twenty-ninth day of March, 1820, reciting the above judgment and execution, of the premises so sold under said execution.\nThe plaintiff then produced and read in evidence an assignment from the above named John I. Schermerhorn to John I. Kittle, dated the 15th day of October, 1839, duly acknowledged and recorded, of all the property, both real and personal, of the said John I. Schermerhorn. And then proved and read in evidence a deed from the said John I. Kittle to the.plaintiff, bearing date the 16th day of January, 1844, of premises described as follows, viz. \u201c All and singular that certain piece, or parcel, or lot of land situate in the village of Castleton and town aforesaid, and bounded as follows, viz. Beginning at the southwest corner of the dwelling house formerly occupied by George Noyes, running east one hundred and fifty-seven feet to a stake and stones, from thence a northwardly course two hundred and seventy-three feet to a stake and stones, from thence west or westwardly one hundred and fifty-four feet to a stake and stones, from thence one hundred and fifty-one feet to the place of beginning.\u201d\nThe plaintiff then proved that a part of the premises in dispute, and in the defendants\u2019 possession, were included within the description by metes and bounds as given in the deed from Eestlicke to Noyes. It was then admitted that the stake and stones had been removed several years before the deed from Kittle to Seaman was executed, and that a line running due east from the place of beginning in the description in said deed would not include any part of the disputed premises. These facts appearing, the defendant moved for a nonsuit, on the ground that as there was no monument at the end of the first course, when his deed was executed, the plaintiff was bound by the course and distance given in his deed ; and as the course thus run would exclude the premises in dispute, the plaintiff was not entitled to recover ; of which opinion was the circuit judge. And he granted the motion for a nonsuit, on that ground; and the counsel for the plaintiff excepted. The plaintiff mo.ved for a new trial.\nH. G. Wheaton, for the plaintiff.\nD. Buel, Jim. for the defendants."
+  },
+  "file_name": "0215-01",
+  "first_page_order": 215,
+  "last_page_order": 219
+}

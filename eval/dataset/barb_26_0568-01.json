@@ -1,0 +1,66 @@
+{
+  "id": 5007903,
+  "name": "C. A. & A. D. Morford vs. The Farmers' Bank of Saratoga County",
+  "name_abbreviation": "Morford v. Farmers' Bank of Saratoga County",
+  "decision_date": "1858-02-01",
+  "docket_number": "",
+  "first_page": "568",
+  "last_page": "569",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Barb. 568"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 204,
+    "char_count": 2984,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 2.877250593336945e-07,
+      "percentile": 0.8432705922237165
+    },
+    "sha256": "5270442e95bba6dbb37a9560fd69ab96a56f1af91a68a9ff4cbd32038d5cb77b",
+    "simhash": "1:c361f8cd82409e22",
+    "word_count": 526
+  },
+  "last_updated": "2023-07-14T19:54:55.517987+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. A. & A. D. Morford vs. The Farmers\u2019 Bank of Saratoga County."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Clerke, J.\nAlthough the referee erred in deciding that this case is within the prohibition of the 4th section of the amendments to the general hanking law, passed in 1840, yet he is right in the main propositions upon which his decision is founded. He correctly finds, that the defendants never owned the note and never had any interest in it; that Mr. Hoxon, the president, was never authorized to indorse it in the name of the hank, for the accommodation of the makers, and that he had not any general authority to contract in their name. Even if Hoxon was authorized to make the indorsement, yet as the bank never owned the note, and had no interest in it, it would have been a mere accommodation indorsement on their part; which no banking or other corporation is authorized to make; and which is not binding, unless it appears that the plaintiffs discounted it in good faith, in consequence of a representation made by the hank to them, that it was their note. In this case the referee finds as a matter of fact that Mr. Hoxon himself, in his own right, appeared as indorser and bolder, and solicited the discount for himself.\n[New York General Term,\nFebruary 1, 1858.\nThe judgment should he affirmed with costs.\nDavies, Clerke and Sutherland, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Clerke, J."
+      }
+    ],
+    "attorneys": [
+      "Monell, Willard and Howe, for the plaintiffs.",
+      "J. C. Mott, for the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "C. A. & A. D. Morford vs. The Farmers\u2019 Bank of Saratoga County.\nA banking or other corporation is not authorized to make an accommodation indorsement; and the same is not binding, unless it appears that the note has been discounted in gopd faith by the party SRing thereon, in consequence of a representation made by the bank that it was its own note.\nAPPEAL from a judgment entered in favor of the defendants, a corporation incorporated under the general hanking law, upon the report of H. W Robinson, Esq., referee. The action was upon a promissory note for $2500, made by the Chicago, St. Paul and Fop du Lac Rail Road Company, dated January 9th, 1857, and payable 180 days after date, to the order of the defendants, who, as the complaint alleges, indorsed the same by their president, Alfred Noxon, to the said Alfred Noxon, who indorsed and delivered the same to the plaintiffs. The indorsements were as follows:\nA. Noxon Prest.\nA, Noxon.\nThe referee was of the opinion that the case was within the prohibition of the 4th section of the amendment to the general banking law, passed in 1840, Laws of 1840, eh. 363, p. 306,) against any banking association issuing any bill or note of the association, (except foreign bills,) unless the same shall be payable on demand and without interest. A bill or note issued by a banking association, is in the opinion of the referee, equally the bill or note of the association, whether it appears thereon as drawer, acceptor or indorser, and that the prohibition extends to the issuing by the association of a bill or note not payable on demand, or with interest, to which it is a party.\nMonell, Willard and Howe, for the plaintiffs.\nJ. C. Mott, for the defendants."
+  },
+  "file_name": "0568-01",
+  "first_page_order": 568,
+  "last_page_order": 569
+}

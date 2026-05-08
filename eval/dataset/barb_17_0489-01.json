@@ -1,0 +1,85 @@
+{
+  "id": 4954563,
+  "name": "Smith vs. Stickney",
+  "name_abbreviation": "Smith v. Stickney",
+  "decision_date": "1854-03-06",
+  "docket_number": "",
+  "first_page": "489",
+  "last_page": "491",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Barb. 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "23 Wend. 50",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025524
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/23/0050-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 309",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 359,
+    "char_count": 5643,
+    "ocr_confidence": 0.458,
+    "pagerank": {
+      "raw": 4.0055413828753116e-07,
+      "percentile": 0.9059754062881659
+    },
+    "sha256": "9f722dc057e405d07e672c6a44b7d007fda843d140c678811d11b8c458143f94",
+    "simhash": "1:3147f4385e418d4b",
+    "word_count": 976
+  },
+  "last_updated": "2024-02-27T22:44:48.309491+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith vs. Stickney."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Welles, J.\nThe action was brought by the respondent against the appellant, to recover the sum of sixty-five dollars and sixty-three cents for work and labor, to wit: \u201c For sawing one hundred and thirty-four thousand feet of lumber, and for putting on slash boards on dam, cleaning water wheels and filing saws,\u201d See. The defendant answered the complaint, and the plaintiff replied. The action was referred to three referees, who heard the same, and made a report that there was due from the defendant to the plaintiff the sum of seventy-two dollars and twenty-seven cents, for which the plaintiff entered judgment with costs. From that judgment the defendant appealed.\nUpon the trial, before the referees, the plaintiff\u2019s principal witness to prove his claim was his brother, John Smith. It appeared by his evidence that the plaintiff sawed for the defendant, in the saw-mill of the latter, 133,340 feet of lumber. That the witness worked with the plaintiff in sawing the lumber, at $18 per month, and that he had no interest in the sawing ; and that the sawing was worth fifty cents per thousand. Other evidence tended to show that the sawing was done under an agreement as to the price, at three shillings and six pence per thousand. One question, which appears to have been much litigated at the trial, was whether the sawing was done by the plaintiff and the witness John Smith jointly, for the defendant, with a view of enabling the defendant to insist that the action in the name of the plaintiff alone was misconceived, and that John Smith should have been made a party plaintiff. The witness John Smith was inquired of, whether he had made statements to various individuals mentioned, to the effect that he and the plaintiff had taken the job of sawing together, and had performed the labor jointly under such arrangement with the plaintiff; all which he either denied, or stated he did not recollect of making them. This was upon a point directly in issue, and upon which it was competent to contradict the witness. The defendant accordingly called a number of\u2018the individuals referred to, some of whom materially contradicted the witness, and testified that he had made statements, the \u2022 import of which was that the sawing in question was done under a joint undertaking by the said John Smith and the plaintiff. With a view of restoring the credit of the witness, which it was claimed was thus impaired, the plaintiff offered to prove that he had previously, when not under oath, made declarations consistent with his testimony on the trial, in respect to the point in question. This was objected to by the defendant\u2019s counsel, and the objection was overruled by the referees, and the evidence so offered was received. In this we think the referees erred. Mr. Grreenleaf, in his treatise on evidence, states the rule as follows: \u201c Where evidence of contradictory statements by a witness, or of other particular facts, is offered by way of impeaching his veracity, his general character for truth being thus, in some sort, put in issue, it has been deemed reasonable to admit general evidence that he is a man of strict integrity, and scrupulous regard for truth. But evidence that he has on other occasions made statements, similar to what he has testified in the cause, is not admissible ; unless where a design to misrepresent is charged upon the witness, in consequence of his relation to the party, or to the cause ; in which case, it seems, it may be proper to show, that he made a similar statement before \u2022 that relation existed.\u201d 1 Gr. Ev. \u00a7 469.) So much of the rule here stated, as allows general evidence of good character for truth in reply to evidence of contradictory statements of a witness, or other particular facts offered by way of impeaching his veracity, has not beep followed in this state. (The People v. Hulse, 3 Hill, 309. Gay v. The People, decided in the court of appeals of this state, September term, 1852.) But in relation to the residue, and which is all that applies to the question under consideration, I believe it may be regarded as the settled law. It is substantially laid down by Mr. Starkey. (1 Starkey\u2019s Ev. 187, top paging of Phil. ed. of 1834, 161.) In Robb v. Hackley, (23 Wend. 50,) Bronson, justice, says: \u201cAs a general, and almost universal rule, evidence of what the witness has said out of court, cannot be received to fortify his evidence.\u201d\n[Monroe General Term,\nMarch 6, 1854.\nWelles, Johnson and Selden Justices.]\nWe can perceive nothing in the present case to bring it within the exception to the general rule. The witness has sustained but one relation to the party or to the cause, and that relation has at no time been changed.\nIf the foregoing view is correct, it is unnecessary to consider the other questions presented by the case, and which were discussed by the counsel upon the argument. For my own part, I am free to say that I have discovered no other ruling of the referees for which I should be willing to reverse the judgment But this, it seems to me, is insurmountable, and the judgment of the special term must therefore be reversed, and a new trial ordered before the same referees, with costs to abide the event.",
+        "type": "majority",
+        "author": "By the Court, Welles, J."
+      }
+    ],
+    "attorneys": [
+      "F. R. E. Cornwell, for the appellant.",
+      "F. C. Dininy, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Smith vs. Stickney.\nWhere a witness is impeached by proof that he has made statements on other-occasions inconsistent with his tentimony, evidence that he has at different times made statements similar to what he has testified in the cause, cannot he received, to fortify his testimony.\nAppeal from a judgment entered at a special term on the report of referees.\nF. R. E. Cornwell, for the appellant.\nF. C. Dininy, for the respondent."
+  },
+  "file_name": "0489-01",
+  "first_page_order": 489,
+  "last_page_order": 491
+}

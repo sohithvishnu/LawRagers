@@ -1,0 +1,226 @@
+{
+  "id": 509578,
+  "name": "Edward D. Simmons et al., Respondents, v. Thomas Cloonan et al., Appellants",
+  "name_abbreviation": "Simmons v. Cloonan",
+  "decision_date": "1871-12-12",
+  "docket_number": "",
+  "first_page": "3",
+  "last_page": "15",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "47 N.Y. 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "18 N. Y., 109",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021190
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0109-01"
+      ]
+    },
+    {
+      "cite": "2 Cush., 327",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1981870
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/56/0327-01"
+      ]
+    },
+    {
+      "cite": "3 N. H., 190",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6754097
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/3/0190-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y., 507",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/2/0507-01"
+      ]
+    },
+    {
+      "cite": "15 Barb., 657",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4929637
+      ],
+      "pin_cites": [
+        {
+          "page": "663, 666"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/15/0657-01"
+      ]
+    },
+    {
+      "cite": "44 Barb., 385",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1945474
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/44/0385-01"
+      ]
+    },
+    {
+      "cite": "21 N. Y., 507",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wheat., 563",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1443491
+      ],
+      "pin_cites": [
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/16/0563-01"
+      ]
+    },
+    {
+      "cite": "16 Wend., 385",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149107
+      ],
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/16/0385-01"
+      ]
+    },
+    {
+      "cite": "6 Barb., 507",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4875613
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "511"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/6/0507-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y., 48",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021163
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0048-01"
+      ]
+    },
+    {
+      "cite": "21 N. Y., 505",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1749957
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/21/0542-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 910,
+    "char_count": 27165,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 3.217405918567083e-07,
+      "percentile": 0.8668822004680582
+    },
+    "sha256": "fcdf5701dc0e603a411691c6cebcc3b1ce8f4e6e8b6fedfca0479e926264ac68",
+    "simhash": "1:9da6cabbde4c9246",
+    "word_count": 4863
+  },
+  "last_updated": "2024-02-27T21:59:10.725453+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward D. Simmons et al., Respondents, v. Thomas Cloonan et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Folger, J.\nThe respondents as owners or occupants of the premises described in the complaint, claim a right in the lands of the appellant Cloonan, and in the street of the other appellant, to have a pond of water maintained on the lands of the first, and to draw the water away through a flume under the street of the last. They do not claim this by prescription or express grant, but by an implied grant from the express grant of the premises occupied by them, or as incident or appurtenant thereto. To be more particular, it is claimed that all the lands affected were once a single tenement; that the owner thereof, by an artificial arrangement of its properties, created from natural streams and springs a pond upon the portion which is now the land of Cloonan, and built under the portion thereof which afterward became the street of the other appellant a flume; that the waters of the pond were by this flume, drawn for the use of the mill on the portion of the tenement which is now the respondent\u2019s premises; that this was done by the owner of the whole tenement for the use and benefit of that mill on those .premises; that with matters in this state open and visible, and the use of the water absolutely necessary to the enjoyment of the mill and premises, and actually and continuously used therefor, he conveyed the premises occupied by the respondent to their grantor, and afterward conveyed to Cloonan the land covered by the pond with no reservation of water privileges; that the appellants are making threats and doing acts to put their threats in force, to fill up the pond on Cloonan\u2019s land, and to tear out the flume from under the street to the great injury and damage of the respondents.\nIf the facts of the case sustain the claim of the respondents, they are entitled to the judgment they have obtained restraining the appellants. For it is held, 1st. That when an owner of a whole tenement has by some artificial arrangement of the material properties of his estate, added to the advantages and enhanced the value of one portion of it, he cannot after selling that portion with those advantages openly and visibly attached, voluntarily break up the arrangement and thus destroy or materially diminish the value of the portion sold. 2d. It is further held, that the moment the severance of the tenement takes place by a sale of a part, the right of the owner to redistribute the properties of the respective portion ceases, and easements and servitudes are created, corresponding to the benefits and burdens mutually existing at the time of the sale. 3d. It is further held, that parties are presumed to contract in reference to the condition of the property at the time of the sale, and that neither has a right by altering arrangements then openly existing, to change materially the relative value of the respective parts. (Lampman v. Milks, 21 N. Y., 505.)\nWe may add to this, for the purposes of this case, that these rules apply to affect and govern all grantees of the original owner, so that they who purchase the portion of the original tenement benefited acquire the benefits, and they who purchase the portion burdened take it subject to a continuation of the burdens, so far as the benefited portion is concerned.\nDo the facts of the case enable the respondents to take advantage of the rules thus laid down, and do they subject the property of the appellant to .a disadvantage resulting from them ?\nIn 1849, while Jansen Hasbrouek and Ludlum owned, as trustees the whole tenement afterwards separated into portions, they did make an artificial arrangement of the material properties of it. By this arrangement they did lay an open and visible burden upon that portion of the tenement now owned by Cloonan, and did give an open and visible benefit to another portion; but it remains to be seen whether that portion was the one which is now owned by the respondents. In making this artificial arrangement, Hasbrouek and Ludlum had in mind to effect two purposes. One was to lay out a street. The other was to make a reservoir for \u201c the old mill property,\u201d which is not the property owned by the respondents. And both of these purposes were accomplished and adhered to by them. The street was laid out, and is now used by the public. The reservoir was made, and its water was used for the old mill, and was not by them or either of them used for any other mill. Hasbrouek afterwards became the sole owner of the whole tenement, and suffered it to remain thus affected by this artificial work so long as he owned the whole. In March, 1850, he conveyed to Brown \u201c the old mill property,\u201d and thus he severed the tenement, he retaining with some other the portion upon which the pond had been created and the flume built, and conveying to Brown the old mill property, the portion to which the benefit had been given. Doubtless, had there been nothing but a conveyance of the land, Brown would have become entitled to retain the benefit thus given, and would have had the right to compel a continuance of the burden upon the portion not conveyed by Hasbrouek. But the parties in the instrument of conveyance stipulated otherwise. In express terms, the right and privilege to use the water of the reservoir was granted for the purposes of the mill standing on the lands conveyed; and in express terms it was made a condition that in case the mill should not bp kept in use, all water privileges and right of flowage granted should cease and determine and revert to Hasbrouck. By this express grant and condition in the conveyance, the parties repelled the presumption that they contracted in tacit reference to the condition of the property at the time of the sale, and Hasbrouck was not precluded, certainly so far as Brown was concerned, from altering the arrangements of it then openly existing, whenever the condition in the conveyance should become operative, and the rights of water and flowage should revert. It is in the findings, that afterwards Brown abandoned the old mill. It was not kept in use. The water was no longer used for its purposes. The rights of water and flowage granted reverted to Hasbrouck. So that it cannot be held that the old mill property has acquired and retained the benefit of the reservoir, and that the lands above the dam have been and are charged with a burden for it.\nThis old mill property is not affected by this action. But it is important to notice the action of Hasbrouck and Brown in regard to it, as that action bears upon the matters involved. And it appears clearly from that action that the enjoyment of this benefit by the old mill was matter of express agreement, that the portion of the whole tenement which was intended to be benefited by this arrangement, and the portion which was actually benefited and which was openly and visibly benefited, was the old mill property and none other. And this derives support from the consideration of another covenant or stipulation in the conveyance, that Brown should at all times while the reservoir dam was kept up, maintain the same in such manner that the property and land, below (of which those of the respondents are a part), should not sustain injury by the neglect so to do. It is plain from this, that the lands of Hasbrouck below the dam not included in the portion conveyed to Brown, were not in their view at that time benefited by this work, but rather burdened by the leading of the water through them, and the exposure more or less hazardous, to damage from the dam and reservoir against which this covenant was to protect. It is to be observed too, that Hasbrouck and Brown when they came in June 1850 to contract for the purchase and sale of the premises now of the respondents, make no mention in their agreement of rights to water. When we consider the parties to the contract are the parties to the deed of March preceding, in which these rights are expressly and with particularity conveyed, a strong circumstance is presented, repellant of the presumption that they contracted in reference to such a condition of the premises, as' presented them to their view as having a benefit from the artificial work erected by Hasbrouck and Ludlum. And it is found also by the referee, that Hasbrouck never agreed with Brown that the reservoir should be used for any other purpose than that of the old mill, or that the property now owned by the plaintiffs should be substituted for the old mill property in its use of the water privileges.\nIn June 1850 when Hasbrouck entered into the contract with Brown, to sell and convey the premises now owned by the plaintiffs, those premises as we appreciate the facts found by the referee and shown by the evidence, had obtained no benefit to the extent claimed by the plaintiffs from the dam reservoir and flume; rather as we have shown above, were they burdened with the necessity of giving passage to the water drawn from the reservoir for the use of the old mill below. There is nothing in the contract itself, from which there can be ascertained an affirmative intention of the parties, more than to buy and to sell and convey at a given price, this piece of land in the state in which it then was. Doubtless, under the rules we have drawn from the case cited, they must be presumed to have contracted in reference to the condition of the property at the time. But we think, with reference to that condition, not solely as it would have been presented to a stranger, but as it was known to be by the parties. Brown knew that the reservoir was built to supply water to the old mill, and that the flume was placed in part upon the premises contracted to be sold, and the water led across them for that purpose, and so is not to be presumed to have contracted with reference to any other condition of the premises than that. But soon after the making of the contract Brown built a mill on the land and drove it by water from the reservoir, taken from the flume, and led by a wooden race-way on the land to the mill. As there was no agreement with Hasbrouck, giving Brown the right to do this, and no finding or proof of a license to do it, it must have been done by no greater authority than a tacit acquiescence on the part of Hasbrouck. But even that is not shown. It was the act of Brown alone, and not the affirmative act of Hasbrouck, or done by his express authority. So that it cannot be said, though Hasbrouck remained the owner of the legal title to the lands, and so of the whole tenement of which they w\u00e9re a portion, that he made the particular artificial arrangement of the wooden race-way, which added to its advantages and enhanced its value. When then, on Smith becoming the assignee of the contract of sale, Hasbrouck conveyed that portion to him, though the condition of it was changed, and to Smith\u2019s observation possessed these advantages, yet as Hasbrouck was bound by his contract to convey, and did no more by conveying than perform that contract, he cannot be held obnoxious to the first principle cited from the case in 21 N. Y. (supra). For the artificial arrangement was not his act.\nIf he is to be controlled at all, it is by the third principle, that parties are presumed to contract in reference to the condition of the property at the time of the sale, and that neither has a right by altering arrangements then openly existing, to change materially the relative value of the material parts. How whether he is to be affected by this principle depends upon whether the time of the sale is to be considered the time when the contract for it is made, or the time when the conveyance in performance of that contract is delivered. If it is the first, then clearly the condition of the property was not such as it has since become, and as it is insisted by the respondents, it shall continue to be. And we think that it must be so held. As between parties and their privies, the. deed relates back to the date of the contract of sale to Brown. (Jackson v. Bull, 1 John. Cases, 81, Sheppard\u2019s ed., and cases in notes.)\nHasbrouck was bound to convey, and that in accordance with this contract. His deed was but a consummation of the contract of sale. It must contain all that could be required by the contract, and it could properly contain nothing more. As the contract contained no reservations, he could insert none in the deed; and as the contract bargained for nothing-in express terms as to the water privileges, nothing as .to them could be required or permitted in the deed. The giving of the deed by him and the acceptance of it by Smith was not a contracting between them in reference to the condition of the property as it was at the date of the deed.\nSmith by his assignment from Brown of the contract and the deed in pursuance of it, got no greater right than Brown had under it. And as Brown was himself, after the making of the contract, the author of all the change in the condition of the property, which makes what is now its great value, he could not claim that the taking of a deed by him from Hasbrouck in pursuance of his agreement, was a contract by them in reference to the property in its changed condition, if or could Smith as his assignee, demanding a deed from Hasbrouck in conformity with the contract, and having no greater rights under it than Brown had, make such claim. Hasbrouck was precluded from working any change in the condition of the whole tenement, which would injuriously affect the property contracted to Brown, as it was when the contract of sale was made. Bor it was in reference to its condition then that he and Brown contracted. But he was not precluded from making any change in the parts of the whole tenement retained by him which, would alter the condition of that part contracted to Brown, given to it by the act of Brown after the contract was made. And the plaintiffs as the grantees or successors of Brown and of Smith are affected as they were, and have obtained no greater rights than they had.\nNor for the same reasons did the right to the use of the pond and flume pass as an incident or appurtenance to the premises conveyed. It is, indeed, a general rule that upon a conveyance of land, whatever is in use for it as an incident or appurtenance, passes with it. (Huttemeier v. Albro, 18 N. Y., 48.) The law, it is there said, gives such a construction to conveyance, in view of what is thus used for the land as an incident or appurtenance, that the latter is included in it; and that it is a question of construction having reference to its terms and the practical incidents belonging to the grantor of the land at the time of the conveyance. But we have shown that in this case the conveyance relates to the date of the contract of sale, and is to be construed in reference to that time and the practical incidents belonging to the grantor at that time. So referring, the right claimed was not then in use for it as an incident or appurtenance. It did not pass with the grant.\nWe think that this consideration has been overlooked in the courts below, and that the judgments there have been placed upon a view of the condition of the premises at the time of the execution of the conveyance, and of the practical use of the pond and flume at that time. In our judgment this was erroneous.\nThe judgment appealed from should be reversed and a new trial ordered, costs to abide the event.\nAll concur save Peokham, J., who did not sit.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Folger, J."
+      }
+    ],
+    "attorneys": [
+      "S. I. St\u00e9bbms, for appellants.",
+      "William Lounsbury, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Edward D. Simmons et al., Respondents, v. Thomas Cloonan et al., Appellants.\n/he presumption of law that when the owner of a whole tenement divides the same and conveys a portion, the parties contract with reference to the visible physical condition of the property at the time, may be repelled by actual knowledge on the part of the contracting parties of facts, which negative any deduction to be drawn from the apparent condition.\nWhere there is proof of such knowledge, they are presumed to have contracted not solely with reference to its condition, as it would have been presented to a stranger, but as it was known to be by the parties.\nH. and L., being the owners of certain premises upon which was a mill known as \u201c the old mill,\u201d erected a dam and reservoir, and constructed a flume to convey the water from the reservoir to the mill. H. having acquired title to the whole premises, conveyed \u201cthe old mill\u201d property to B. The deed contained a grant of the rights and privilege to use the water of the reservoir for the use of the mill, and a condition that in case the mill should not be kept in use, the water privileges and right of flow-age should cease and revert to H. H. subsequently contracted to sell to B. a portion of the premises lying between \u201c the old mill\u201d and the reservoir. B. erected thereon a mill and took the water from the reservoir for its use, abandoning \u201c the old mill,\u201d and thereafter assigned the contracts to 8., to whom H. conveyed in pursuance of the contract. Neither the contract nor deed made mention of the water privilege. S., conveyed to plaintiff. Subsequently H. conveyed the lands upon which was the reservoir to defendant 0., who proceeded to fill up the' r\u00e9servoir and remove the flume.\u2014Held, that the deed to 8. related back-to the date of the contract of sale, and was not a contracting between the parties in reference to the condition of the property at the date of the deed; that the right to the use of the reservoir and flume did not pass as an incident or appurtenance to the premises so conveyed, and that by the abandonment of the use of \u201cthe old mill\u201d the rights of water and flowag\u00e9 reverted, and H. and his grantee had the right to fill the reservoir and take up the flume.\n(Argued November 27, 1871;\ndecided December 12, 1871.)\nAppeal from a judgment of the General Term of the Supreme Court in the third judicial district, affirming a judgment entered upon the report of a referee, granting a perpetual injunction against the defendants. Reported below. (2 Lansing, 346.)\nThe complaint alleges that the plaintiffs were and are seized of a lot of land containing a lime and cement mill, propelled by water and steam, situate in the village of Rondout, and also seized of a pond or reservoir and of the right to confine the water of said reservoir or pond by a suitable dam, and to use the same to propel said mill; that the defendant Cloonan, claiming some right to said reservoir inconsistent with the plaintiffs\u2019 title therein, and also claiming to act by direction of the other defendants, did on the 24th day of January, 1868, enter upon said pond and the plaintiffs\u2019 dam and raise the plaintiffs\u2019 gate in their said dam, and cause the water in said reservoir to escape, declaring that he intended to fill up and destroy the reservoir, and appropriate the ground occupied by it to his own purposes; and that all the defendants threatened to fill up and destroy said reservoir, and to build a sewer under said avenue to drain off the water of the stream supplying said reservoir, and that the plaintiffs have reason to believe that the defendants intend to carry their threats into execution, and unless restrained, will deprive the plaintiffs of said water necessary for running said mill, the right to which they enjoy as appurtenant to said mill property; and demands judgment for a perpetual injunction.\nOn the trial the following facts appeared: Previous to 1848 or 1849, and for some little time after, Jansen Hasbrouck and Gabriel W. Ludlum, under a trust deed from Abraham Hasbrouck, were the owners of the land on both sides \u00f3f the street in the village of Rondout, called Hasbrouck avenue, including the premises on which the plaintiffs\u2019 mill now stands, and the premises of the defendant Oloonan, where the pond or reservoir now is. The lot of the plaintiffs is at the north-westerly corner of Hasbrouek avenue and Eavine street. Lower down the stream is another lot, known as the \u201c mill lot,\u201d or \u201c old mill lot,\u201d on which stood an old mill ever since about 1810. The pond of the old mill was on the north-west corner of Mill street and Hasbrouek avenue, being just across Mill street from the old mill. In 1849 or 1850, Hasbrouek and Ludlum, for the purpose of bringing the trust property into market for village lots and in order to form a reservoir for the old mill, which was then owned by Jansen Hasbrouek and occupied by Elihu Brown as a lime and grist-mill under a contract from Hasbrouek, took measures to have Hasbrouek avenue laid out, and employed Brown to construct it. The construction of the roadway of Hasbrouek avenue raised an embankment across a natural stream flowing through the premises upon which the plaintiffs\u2019 mill has since been erected, and thus formed on the opposite side of the street the reservoir or pond now in question. The street called Hasbrouek avenue and the dam spoken of in the pleadings are one and the same thing. At the same time a culvert or flume was constructed under the surface of Hasbrouek avenue, from this reservoir to the opposite side of the street. The culvert or flume is built of wood and is about thirty feet in length, ten feet deep, and six or eight feet wide; over it is a bridge, also of wood. The sole purpose of the dam, except as a street, reservoir, flume and gate, was to supply the old mill with water, and they were used for that purpose alone until Brown abandoned the old mill. On the 1st of March, 1850, Jansen Hasbrouek conveyed to Brown the old mill lot and its pond, with other property, \u201c and also the right and privilege to use the water of the reservoir dam above for the purposes of the old mill,\u201d it being provided in the deed that said right and privilege should cease and revert to Hasbrouek if Brown or his assigns should not keep the old mill in use. On the 1st of June, 1850, Jansen Hasbrouek having become the owner of the property on Hasbrouek avenue which had belonged to him. and Gabriel W. Lndlum as trustees, entered into a written contract with Brown, to sell and convey to him the premises described in the complaint for $500, and Brown entered into the possession thereof, the contract providing that in ease of non-performance by Brown, Hasbrouck should have the right to enter into re-possession of the said premises. The . contract provided for the conveyance of the lot only, describing it by metes and bounds, and made no mention of the reservoir, dam, flume, gate, or any water right or privilege. At the time Brown entered into the contract for the purchase of said lot, there was no building thereon. In 1851 or 1852 Brown built the mill now owned by the plaintiffs, and commenced operating it as a lime mill by water (and soon afterward by steam), using the water from the reservoir that had been formed by the construction of Hasbrouck avenue. He took the water, as the plaintiffs do now, from the flume or culvert at its termination on the southerly side of Hasbrouck avenue and led it by a wooden raceway to the mill. Brown, shortly after he commenced operating this mill, abandoned the old mill lower down the stream. The old mill was burned down in 1854 and the site has not since been used for a mill. On the 19th of April, 1853, Brown conveyed to Joseph S. Smith the old mill property and its pond, and also the right and privilege of using the water of said reservoir dam for the purposes of the old mill, the deed providing that such right and privilege should cease and revert in the case aforesaid. Jansen Hasbrouck, on the first day of July, 1853, at Brown\u2019s request, conveyed the premises agreed to be sold to Brown as above stated, to Joseph S. Smith, to whom Brown had assigned the contract. This conveyance makes no mention of the reservoir, dam, flume, gate, or any water right or privilege; but conveys the premises as described in the contract, \u201cwith the appurtenances.\u201d The plaintiff Simmons subsequently acquired the legal title to the lot in question, and entered into copartnership with the plaintiff Gross for the manufacture of lime in said mill, using the water from the pond or reservoir for such purpose. The plaintiffs were so engaged as copartners at the time of the commencement of this suit. On the 13th of \u00a1November, 1867, Jansen Hasbrouck conveyed to the defendant Thomas Cloonan the land covered by the pond or reservoir. Cloonan in January, 1868, raised the gate and let off the water and commenced filling up the pond by the culvert, sewer or flume, and had a contract with the trustees of the village of Rondout (a municipal corporation duly organized), to repair the sewer at the point spoken of. He stated to Gross that he had been employed by said trustees to build a sewer there. The defendants moved for a nonsuit, which was denied and an exception taken. The referee found as a conclusion of law, that by the deed from Jansen Hasbrouck to Joseph S. Smith, whose title the plaintiffs hold to the premises described in the complaint, the right to use the water from the reservoir passed to the grantee as a benefit or appurtenant to the grant, and still belongs to it. The defendants separately excepted. The referee also found as a conclusion of law, that the plaintiffs are entitled to an injunction perpetually restraining the defendants from destroying the reservoir or doing any act that will materially diminish the supply of water, or that will interfere with the flow thereof upon the plaintiffs\u2019 premises. The defendants separately excepted.\nJudgment was entered in accordance with said conclusions.\nS. I. St\u00e9bbms, for appellants.\nPlaintiffs must submit to the doctrines which courts of equity apply. ( Van Wyck v. Alliger, 6 Barb., 507, 511.) Brown being in possession under the contract, was the owner in equity of the lot, and Hasbrouck had merely a lien for the unpaid portion of the purchase-money. (\u00c6tna Fire Ins. Co. v. Tyler, 16 Wend., 385, 396; Van Wyck v. Alliger, 6 Barb., 507; Champion v. Brown, 6 John. Ch., 398; 2 Story Eq. Jur., 6th ed., \u00a7 1212; Dart on Vendors and Purchasers, Am. ed., 114, note, and cases there cited; 116 and note, 124, 125 and note; Craig v. Leslie, 3 Wheat., 563, 577; Peter v Beverly, 10 Peters, 532, 533; Livingston v. Newkirk, 3 John. Ch., 312, 316; McKinnon v. Thompson, 3 John. Ch., 307, 310.) Parties are presumed to contract in reference to the condition of the property at the time of the sale. (Lampman v. Milks, 21 N. Y., 507.) The trustees of the village of Bondout are invested with all the powers of commissioners of highways therein, and their duties as such are absolute. (2 Laws of 1867, page 1389, \u00a7 41; Hyatt v. Trustees of The Village of Rondout, 44 Barb., 385, affirmed by the Court of Appeals; Mosier v. Hilton, 15 Barb., 657, 663, 666.)\nWilliam Lounsbury, for respondents.\nWhere the owner of an entire estate sells a portion, the purchaser takes the tenement or portion sold, with all the benefits and burdens which appear at the time of the sale to belong to it, as between it and the property which the vendor retains. (Lampman v. Milks, 2 N. Y., 507; Nicholas v. Chamberlain, Cro. Jac., 121; New Ipswich Factory v. Batcheldor, 3 N. H., 190; Thayer v. Payne, 2 Cush., 327; Tabor v. Bradley, 18 N. Y., 109; Angell on Watercourses, \u00a7\u00a7 158, 159, 160, 161, 162.)"
+  },
+  "file_name": "0003-01",
+  "first_page_order": 19,
+  "last_page_order": 31
+}

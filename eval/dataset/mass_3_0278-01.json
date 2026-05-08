@@ -1,0 +1,70 @@
+{
+  "id": 2005714,
+  "name": "Isaac Turner versus Richard Estes",
+  "name_abbreviation": "Turner v. Estes",
+  "decision_date": "1807-10",
+  "docket_number": "",
+  "first_page": "278",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "2 Tyng 317"
+    },
+    {
+      "type": "official",
+      "cite": "3 Mass. 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 333,
+    "char_count": 5159,
+    "ocr_confidence": 0.826,
+    "pagerank": {
+      "raw": 5.401578961509018e-07,
+      "percentile": 0.9443747492614434
+    },
+    "sha256": "f79f821ab5354d93a18b650520c898e2998513bb380f14ee9d80c76957612b46",
+    "simhash": "1:74b33b44ae37b7df",
+    "word_count": 927
+  },
+  "last_updated": "2023-07-14T19:14:27.351362+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "* Isaac Turner versus Richard Estes."
+    ],
+    "opinions": [
+      {
+        "text": "Curia.\nThe defendant is charged in this action with enticing and harboring the plaintiff\u2019s wife. No evidence was given at the trial of any enticing. As to the charge of harboring, the sum of the evidence is, that the defendant permitted his wife\u2019s mother to remain in his house, without using force to expel her. He was not obliged to use force. Had he opposed the husband, when attempting to take his wife, or refused him access to his house, [ * 319 ] when he applied to enter, * for the purpose of removing her, the action might have been supported. But the mere exercise of hospitality to the wife\u2019s mother cannot be a ground sufficient to support this action. He did not retain the wife from the husband, to deprive him of her company or service ; he did not conceal her abode; nor did he deny him free access to his wife; lie did not therefore harbor her. And there is no evidence that he attempted, directly or indirectly, to influence or persuade her not to return to her husband\nJudgment according to verdict.",
+        "type": "majority",
+        "author": "Curia."
+      }
+    ],
+    "attorneys": [
+      "* Dana, for the plaintiff,",
+      "Bigelow, for the defendant,"
+    ],
+    "corrections": "",
+    "head_matter": "* Isaac Turner versus Richard Estes.\nOne permitbng his wife's mother to reside in his house, and affording her tne rights of hospitality, although forbidden by the husband of the mother, is not liable to the action of the husband for illegally harboring his wife.\nThis was an action of the case for enticing away and harboring the plaintiff\u2019s wife, and was tried, on the general issue pleaded, before Sedgwick, J., at the last April term, at Concord.\nAt the trial, the plaintiff proved a marriage between him and Rebecca Curtis. He then proved that before the month of March, A. D. 1804, he was seised of an estate in Hanover, in right of his wife, which was assigned to her, as her dower in her former husband\u2019s estate; that Estes married a daughter of said Rebecca, and in right of his wife occupied the other two thirds of the same estate; and that they all lived in one house. In March aforesaid, Turner sold all his right in said dower, and provided a house in Townsend, whither he wished to remove with his wife, and did remove himself with his goods. Upon such removal the said Rebecca went into the family of said Estes, her son-in-law, and' there continued to reside till this action was commenced. There was no evidence that Turner had ever ill-treated his wife. At sundry times he forbade Estes to harbor or maintain her, under the penalty of the law; at one of which times, Estes said, it was hard if Mrs. T. could not visit her children ; at another, that he would not turn her out of doors; and at other times made no reply.\nThe judge directed the jury, that, if they were satisfied from the evidence, that the defendant persuaded or enticed the plaintiff's wife to disobey her husband, or that she was induced to separate from him by reason of any employment by the defendant in his business, they ought to find for the plaintiff. But that the defendant was under no obligation to obey the commands of the plaintiff by turning out of doors his wife\u2019s mother; and that if actual force was necessary to compel submission in the plaintiff\u2019s wife to his will and commands, such force ought to be executed by himself, and was not a duty incumbent on the defendant.\nThe jury found a verdict for the defendant. The plaintiff filed his exceptions to the foregoing direction of the judge, and the action was continued to this term. And now,\n* Dana, for the plaintiff,\nmoved for a new trial for the [ * 318 ] misdirection of the judge. He contended that the evidence was sufficient to maintain the action. The plaintiff charges two facts in his declaration, viz., enticing away his wife, and harboring her. It is conceded that the evidence did not support the charge of enticing, but it abundantly substantiates the charge of harboring. When the plaintiff had provided a suitable place for the residence of his family, it was the duty of the wife to accompany him ; he had a right to her society and assistance; whoever deprived him of that right, by harboring and maintaining her, did a wrong to him, for which he is entitled to a remedy by this action. The relation in which these parties stood to each other, does not affect their respective rights and duties in this case. Relatives can have no more right to harbor a disobedient wife than strangers have. A contrary doctrine would open a door for great mischief, and a man would be subjected to the will of his wife\u2019s relations, whether he was to enjoy her society or not. But it is said, the husband might have taken her by force. Suppose him to do so; he could promise himself no great comfort in her society, and she would probably embrace the first opening to return to those whom she knew to be thus disposed to harbor her. In this way wives would be absolved from all their duties, and the domestic happiness of every man be made to depend on the mischievous and impertinent friendship of his wife\u2019s relations to her. It was the duty of the defendant to have used force in putting the plaintiff\u2019s wife out of his house, after being forbidden to harbor her .\nBigelow, for the defendant,\nwas stopped by the Court.\n2 Lev. 63.-2 H. Black. 511.\u20146 Term R. 221.\u2014Buller's N. P. 78."
+  },
+  "file_name": "0278-01",
+  "first_page_order": 286,
+  "last_page_order": 288
+}

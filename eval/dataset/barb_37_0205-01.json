@@ -1,0 +1,97 @@
+{
+  "id": 5087978,
+  "name": "Boutwell vs. Townsend",
+  "name_abbreviation": "Boutwell v. Townsend",
+  "decision_date": "1860-05-07",
+  "docket_number": "",
+  "first_page": "205",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Barb. 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "30 Barb. 229",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5027122
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/30/0229-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. Rep. 132",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 How. Pr. Rep. 454",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2190799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/5/0454-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 369,
+    "char_count": 7199,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 3.261694671624104e-07,
+      "percentile": 0.8695522403043575
+    },
+    "sha256": "2c9e3c500e812354064b106994697282bc16b13746e247d7fc0208d0540daa19",
+    "simhash": "1:ad4cfdf8b1ff8898",
+    "word_count": 1223
+  },
+  "last_updated": "2024-02-27T21:02:18.994385+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Boutwell vs. Townsend."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nHogeboom, J.\nTire 10th section of the general rail road act of 1850, (Laws of 1850, p. 215,) in substance provides that \u201c all the stockholders of every such company shall be jointly and severally liable for all the debts due or owing to any of its laborers and servants, for services performed for such corporation,\u201d to the extent of the amount remaining due on an execution against the corporation for the debt, and returned unsatisfied in whole or in part. This action is brought under that section, and it is not denied that the allegations xin the complaint are sufficient to charge the defendant, except that relating to the nature of the indebtedness. As the defendant can only be made liable under the provisions of the statute, it is essential that the complaint should expressly show that the cause of action prosecuted is due or owing to a laborer or servant of the corporation, for services performed for such corporation. The allegation is that the corporation was indebted to Shine & Scanlin (under whom the plaintiff \"claims) for work, labor and services performed by them, who were copartners doing the business of contractors with the Albany Northern Bail Boad Company, for the construction of some.part of its rail road track. These may be said to be \u201c services performed for the corporation,\u201d but not necessarily by \u201c any of its laborers or servants,\u201d unless the term \u201claborers and servants\u201d necessarily includes every class of persons who can perform services for the corporation. It is obvious from other parts of the act that this is not so ; for if it had been, it would not have been necessary in any way to designate the class of persons, but to have said, simply, \u201c debts due and owing for services performed for such corporation.\u201d Again; the 12th section distinguishes between contractors for the construction of a rail road, and laborers performing the work. The obvious intent' and policy of this and other similar acts is to make provision for. those who are the workmen and operatives on the road, and who are usually persons of small pecuniary means, not able to lose their daily earnings, and not compel them to rely solely either upon the pecuniary responsibility of contractors, or the corporation itself. (See act amending the charter of the Hudson River Rail Road Company, Laws of 1850, p. 14, ch. 9, \u00a7 5 ; Warner v. The Hudson River Rail Road Company, 5 How. Pr. Rep. 454; Millered v. Lake Ontario, Auburn and New York Rail Road Company, 9 id. 238; Kent v. The New York Central Rail Road Co., 2 Kern. 630 ; Smith v. The New York and Harlem Rail Road Co., 19 N. Y. Rep. 132; Young v. N. York Central Rail Road Company, 30 Barb. 229.) The complaint fails to show that Shine & Scanlin belonged to the class of \" laborers and serv- \u2022 ants\u201d before referred to. And it is quite probable from the language of the complaint that they were only.\" contractors,\u201d whose debts are not protected by the language in question. Nor is this merely a matter of indefiniteness or uncertainty, which should be corrected by motion. It is a matter of substance, going to the very foundation of the action, and therefore subject to demurrer.\n[Albany General Term,\nMay 7, 1860.\nHaving no doubt on this part of the case, I do not deem it necessary to discuss the other questions argued by counsel.\nThe order of the special term must be reversed with costs, and there must be judgment for the defendant on the demurrer, with leave to the plaintiff to amend his complaint on payment of costs.\nWright, Eogeboom and Peckham, Justices.]",
+        "type": "majority",
+        "author": "Hogeboom, J."
+      }
+    ],
+    "attorneys": [
+      "0. Meads, for the defendant.",
+      "J. Bomeyn, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Boutwell vs. Townsend.\nIn an action brought under the 10th section of the general rail road act of 1860, against a stockholder in a rail road company, to recover for services performed for the corporation, it is essential that the complaint should expressly show that the cause of action prosecuted is due or owing to a laborer . or servant of the corporation, for services performed for the corporation.\nWhere the allegation was, that the corporation was indebted to S. & S. (under whom the plaintiff claimed) for work, labor and services performed by them, who were copartners, \u201c doing the business of contractors\u201d with the corporation, for the construction of some part of its rail road track; Be Id on demurrer, that the complaint was defective in failing to show that S. & S. belonged to the class of \u201c laborers and servants\u201d who are authorized by the statute to sue the stockholders, for services performed for the corporation.\nAPPEAL from an order overruling a demurrer to the complaint. The complaint sets forth, that on the 14th of September, 1853, the Albany Northern Rail Road Co. \u201cbeing indebted to John Shine and Dennis Scanlin for work, labor and services performed by them and their servants or agents, under the firm name of Shine & Scanlin, copartners, doing the business of contractors with the said Albany Northern Rail Road Company, for the construction of some part of its said rail road track, made its promissory note in writing, bearing date on that day, whereby, four months after date the Albany Northern Rail Road Company promised to pay Messrs. Shine & Scanlin $1023.91 for value received in graduation, and delivered the same to said Shine & Scanlin in consideration of its said indebtedness for said work, labor, services or graduation, performed as aforesaid, for said rail road company.\u201d\nThe complaint further states, in substance, that before the maturity of said note it was transferred to and became the property of the plaintiff, who is still the owner and holder thereof. It then states that on the 21st May, 1858, a judgment was duly recovered in the supreme court in favor of the plaintiff against said company, for $1385.30 damages and $15.10 costs, amounting to $1350.40, which sum specified for damages includes the amount of principal1 and interest of the said note ; upon which judgment and execution was duly-issued and' returned unsatisfied; and that at the time the said services were rendered by the said contractors,.and when the note was given, the defendant, Franklin Townsend, was a stockholder in said company, and that the plaintiff is therefore entitled to recover of the defendant the amount of the said judgment. To this complaint the defendant demurred generally, on the ground that the facts set forth did not constitute a cause of action. This demurrer was overruled by -the court at special term on the 26th day of July, 1857, and the defendant thereupon brought his appeal to this court.\nThe alleged liability of the defendant was claimed to arise under that clause of the 10th section of the general rail road act of 1850, (Laws of 1850, p. 215,) which provides that \u201c all the stockholders of every such company shall be jointly, and severally liable for,all the debts due or owing to any of its laborers and servants for services performed for such corporation ; but shall not be liable to an action therefor before an execution shall be returned unsatisfied, in whole or in part, against the corporation; and then the amount due on such execution shall be the amount recoverable with costs against such stockholders.\u201d\n0. Meads, for the defendant.\nJ. Bomeyn, for the plaintiff."
+  },
+  "file_name": "0205-01",
+  "first_page_order": 207,
+  "last_page_order": 210
+}

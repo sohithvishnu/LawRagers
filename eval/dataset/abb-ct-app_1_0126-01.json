@@ -1,0 +1,127 @@
+{
+  "id": 1112025,
+  "name": "BENTLEY v. SMITH",
+  "name_abbreviation": "Bentley v. Smith",
+  "decision_date": "1866-03",
+  "docket_number": "",
+  "first_page": "126",
+  "last_page": "131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 126"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Johns. Cas. 438",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1890553
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-cas/2/0438-01"
+      ]
+    },
+    {
+      "cite": "20 Wend. 176",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "25 N. Y. 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 How. Pr. 159",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2194411
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/8/0159-01"
+      ]
+    },
+    {
+      "cite": "7 Barb. 581",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4885301
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/7/0581-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 613",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297816
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0605-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 479,
+    "char_count": 10908,
+    "ocr_confidence": 0.448,
+    "pagerank": {
+      "raw": 1.0547801384503952e-07,
+      "percentile": 0.5550557194647255
+    },
+    "sha256": "e11bb51c7f3900a98185f77c98ba57558fa422a98a7e5fb20d21a73406197941",
+    "simhash": "1:a9e3f78fb171ff0f",
+    "word_count": 1904
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BENTLEY v. SMITH."
+    ],
+    "opinions": [
+      {
+        "text": "Morgan, J.\n[After stating the above facts.] \u2014 Upon the appeal to this court, the appellant\u2019s counsel relies upon a single point to reverse the judgment, viz: that the assignment' to the plaintiff was specific of the written contract and the land therein described. This, he -insists, did not transfer any right, to the plaintiff to claim the specific performance of another and different contract.\nThis objection does not appear to have been taken in the court below, and we hear of it here for the first time. There is nothing in the statement of facts found by the court which will enable us to understand what circumstances were shown on the trial to support the plaintiff\u2019s title to the relief granted. It is not a case, as I shall attempt to show, where such relief could not be granted to the assignee, under a given state of facts.\n[The learned judge here examined the findings above stated, and expressed the opinion that as defendant\u2019s representations were not alleged in the complaint to have been made for the purpose of inducing plaintiff to take an assignment, the finding could not be so construed as to support the judgment, for it did not appear by the complaint that plaintiff made any contract whatever with defendant; therefore the appeal should be dismissed (citing Westcott v. Thompson, 16 N. Y. 613). He then proceeded as follows: \u2014 ]\nIf the court, however, should be of opinion that the question discussed is properly before us on this appeal, and that we are authorized to assume as true the facts stated in the complaint, then I am of the opinion that the judgment should be affirmed.\nIt is, no doubt, true that at law the plaintiff only took Ladow\u2019s interest in the written contract and the premises therein described. But equity regards that as done which is agreed to be done. By the parol evidence, it could have been shown, in accordance with the allegations of the complaint, that the real agreement was a sale by defendant to Ladow of the premises claimed, and that Ladow agreed and undertook to assign to the plaintiff his interest in the same premises. In one case the mistake was the result of the defendant\u2019s fraud; in the other, the result of a mutual mistake. Ladow had a right, therefore, to invoke the aid of a court of equity to correct the contract on account of the defendant\u2019s fraud. After it was thus corrected, the plaintiff, his assignee, having by mutual mistake taken an insufficient assignment of what he purchased of Ladow, might have invoked the aid of a court of equity to reform his agreement, so as to give him what in equity would belong to him. That Ladow did not assert his right, before assignment of his contract, will not, I think, affect the plaintiff\u2019s equity. As the plaintiff went into possession of all the lands contracted for, it is very strong evidence that he supposed he had purchased them all under his assignment of the contract. As Ladow was entitled to a contract for those very lands, and as the plaintiff intended to purchase them of Ladow by the assignment, the equitable title of Ladow to such lands passed to the plaintiff, equity regarding as done, what was in fact agreed to be done, as between all these parties.\nIt is, however, very questionable whether Ladow was not a necessary party, as he had a right to deny the mistake under which it is claimed the plaintiff took an assignment\" of the contract; but no such question seems to have been made or passed upon in the court below. I think the defendant should have taken the objection in the court below, in order to make it available upon this appeal.\nI' am clearly of opinion, however, that, in the absence of proof that the plaintiff intended to purchase, and Ladow intended to sell, all the lands in question, \u2014 not merely those described in the written contract, \u2014 there are no grounds upon which this action could be sustained. He did not acquire an equitable interest in the lands omitted in the written description by the terms of the assignment; nor did Ladow convey to him his claim upon the defendant to reform the contract; but in equity, upon the hypothesis of a mutual mistake, he took an interest in the lands as broad as that of Ladow himself, and was entitled, under his contract with Ladow, to recover of Ladow what Ladow was entitled to recover of the defendant. Their equitable rights did not arise out of the written contract and assignment, but out of the negotiations which preceded them. Whether the mistake was the result of fraud or accident can make no difference, for in either case a court of equity is competent to correct it. And the plaintiff, having the ultimate right to a conveyance of the premises according to the real understandings of the parties, may doubtless maintain an action in equity to enforce it. This would prevent circuity of action. It would accomplish in one suit the same result as would be accomplished by two separate actions.\nBut it will be seen, I think, that there are no facts found by the court below upon which we can with propriety pass upon such a question. There is no finding of fraud in the original vendor, or of mutual mistake as between the assignor and assignee; but the finding that the- defendant made the declarations charged upon him in the complaint, and that the plaintiff relied upon them, is suggestive of both; still, it is added that the plaintiff\u2019s contract was made with the defendant instead of Ladow, which only seems to confuse the question without furnishing any solid ground upon which to base the judgment.\nIf the court should agree with me that the question cannot be entertained upon the statement of facts found by the judge, the appeal should be dismissed, although we may think there is evidence enough, if we were permitted to look into it, to authorize the judgment.\nA majority of the court concurred in the opinion that the judgment should be affirmed, upon the merits, and did not concur in the view that the appeal should be dismissed.\nJudgment affirmed, with costs.",
+        "type": "majority",
+        "author": "Morgan, J."
+      }
+    ],
+    "attorneys": [
+      "Warren T. Worden, for defendant, appellant.",
+      "William B. Mills for plaintiff, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "BENTLEY v. SMITH.\nMarch, 1866.\nWhere a party, having a cause of action to reform a written contract on account of fraud or mutual mistake, assigns the contract, to another, himself and the assignee both acting under the same mistake as that under which he first entered into the contract, the assignee may maintain an action directly against the other original party to the contract, to have it reformed and specifically enforced.\nThe cause of action for the reformation of a contract on account of fraud or mutual mistake is assignable, and passes by an assignment of the contract.\nThe rule that the general conclusion of a judge or referee may be construed as involving a finding upon all the material questions, though such finding be not expressed in terms, applied in such an action, where the finding was that the vendor made the alleged representations, and the assignee relied on them, without any distinct finding of fraud in the original conti'act and of mistake in the assignment.\nThomas H. Bentley brought this action in the supreme court against Norman Smith, to reform a \"written instrument for the sale of land, and for a specific performance of the contract as reformed.\nThe plaintiff was the assignee- of the vendee, and he sought to reform the contract upon the ground of fraud in the vendor, by which a portion of the premises actually bargained for was omitted from the description.\nThe complaint charged that one Ladow contracted to purchase certain premises of the defendant for the price of one thousand dollars; that the boundaries were pointed out to him, and, at his request, the defendant furnished a description to be inserted in the contract; that the defendant furnished a description of only a portion of the premises contracted for (which was inserted in the contract), for the purpose and with the intent to cheat and defraud the said Ladow, his heirs and assigns; that, on the same day, he, the plaintiff, understanding from the declarations of the defendant that the contract contained a full description of all the lands contracted for, and relying thereon, took an assignment of the contract and entered into possession of the premises, as well those excluded from, as those included in the description; that he had paid up the purchase j>rice to the defendant, and demanded a conveyance of the premises, including the premises omitted from the description; which the defendant refused to convey.\nThe answer of the defendant denied that he agreed to sell any lands except those mentioned in the contract. He stated that he disputed the plaintiffs right to occupy the other lands claimed by him, but had been ready and willing to make a conveyance according to the written contract.\nThe action was referred to a referee to take testimony, and, upon the coming in of the report, the court, at special term, proceeded to try the issue. The case upon appeal in the court of appeals contained what is called the decision of the judge upon the trial, but no formal findings upon matters of fact and of law, such as is required by the Code of Procedure, and the rules and practice of the court.\nThe following was the form of the finding, viz:\n\"This cause having been tried by the court, at a special Term, without a jury, upon the issues made by the pleadings in the cause, the court find, as a matter of fact, that the defendant did make the representations charged in the complaint, and that the plaintiff relied thereon in making the contract with him. And, as a matter of law, the court find and decide that the plaintiff is entitled to have the said contract so reformed as to describe all the lands claimed by him in his complaint, and that he then have a conveyance by a good and sufficient deed from the said defendant of the said premises, and that he have costs of this action.\u201d\nThe judgment followed the decision.\nThe supreme court at general term affirmed the judgment upon the ground, as stated in the opinion of one of the justices, that the evidence established a clear case for the relief asked and granted; the misdescription being, as the judge thought, the result of a mutual mistake; but, whether the result of fraud or mistake, the relief was proper.\nWarren T. Worden, for defendant, appellant.\nThe plaintiff claims under a written contract. He has no other claim. He now asks to have that written contract abandoned, and a specific performance of a different contract ordered, not in accordance with the contract assigned. The cause of action entirely fails. Code, \u00a7 148; Rayner v. Clark, 7 Barb. 581; Burnham v. De Bovorse, 8 How. Pr. 159.\nWilliam B. Mills for plaintiff, respondent.\nAn assignee may compel reformation and performance, by performing himself. Jones v. Lynds, 7 Paige, 310; 25 N. Y. 200; 29 Id. 394; 20 Wend. 176; 2 Johns. Cas. 438.\nFor the application of this rule in another case of fraud or mistake, see Rider v. Powell, in this series."
+  },
+  "file_name": "0126-01",
+  "first_page_order": 136,
+  "last_page_order": 141
+}

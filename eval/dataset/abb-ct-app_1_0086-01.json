@@ -1,0 +1,278 @@
+{
+  "id": 1112049,
+  "name": "BANK OF THE STATE OF INDIANA v. BUGBEE",
+  "name_abbreviation": "Bank of State of Indiana v. Bugbee",
+  "decision_date": "1867-09",
+  "docket_number": "",
+  "first_page": "86",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Wend. 494",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147342
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0494-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. 48",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6771307
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/2/0047-01"
+      ]
+    },
+    {
+      "cite": "7 Gray, 287",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1996040
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/73/0287-01"
+      ]
+    },
+    {
+      "cite": "3 Pet. 413",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3304872
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/28/0413-01"
+      ]
+    },
+    {
+      "cite": "23 Peck. 302",
+      "category": "reporters:state",
+      "reporter": "Peck",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Metc. 456",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Mass. 237",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2052026
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/12/0209-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 83",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2144198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/3/0083-01"
+      ]
+    },
+    {
+      "cite": "1 Am. Lead. Cas. 556",
+      "category": "reporters:federal",
+      "reporter": "Am. Lead. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 262",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        2511916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/21/0262-01"
+      ]
+    },
+    {
+      "cite": "26 Wend. 192",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2028397
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/26/0192-01"
+      ]
+    },
+    {
+      "cite": "10 Metc. 160",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Metc. 319",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wend. 271",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012903
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0271-01"
+      ]
+    },
+    {
+      "cite": "9 Metc. 91",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "pin_cites": [
+        {
+          "page": "92, 93"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 La. 587",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        1823246
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la/6/0587-01"
+      ]
+    },
+    {
+      "cite": "33 Pick. 302",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 N. Y. 398",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2010502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/8/0398-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 262",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        2511916
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/scl/21/0262-01"
+      ]
+    },
+    {
+      "cite": "10 Metc. 160",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 La. 587",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        1823246
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/la/6/0587-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 841,
+    "char_count": 18890,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 6.041502013137156e-08,
+      "percentile": 0.37403319652999073
+    },
+    "sha256": "6ac1f4d1abc53f4101c2a47604d0c28f7f167fc18b63982fc11a760fb09c0620",
+    "simhash": "1:006b341d21e2ae7d",
+    "word_count": 3429
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BANK OF THE STATE OF INDIANA v. BUGBEE."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nHunt, J.\nVan Inwagen & Co., of Chicago, Blinois, were the special agents of the defendant, who resided at Buffalo, for the purchase of a cargo of number one corn, to be loaded upon the schooner Waurecan, at the former place. The authority was in writing, and \u00a1\u00a1its legal effect was fixed by its terms. Van Inwagen & Co. were not the general agents of the defendant, and the power to bind their principal extended no farther than was given by the actual authority conferred upon them. They could not, like general agents, bind their principal, when acting within the ordinary scope of the business they were authorized to transact, although beyond their authority. 1 Pars. on Cont. 40, 41 marg.; Story on Ag. \u00a7\u00a7 105, 126; Nixon v. Palmer, 8 N. Y. 398. They were acting under precise written directions, limited to the particular action in question. All persons dealing with them were therefore bound to know the extent of their authority, and to inquire into its limitations. Story on Ag. \u00a7\u00a7 81, 83. In the language of Judge Cowen, in North River Bank v. Aymar, 3 Hill, 262, \u201c The ground on which the rule rests is familiar. The appointee need not deal with the attorney unless he choose, and it is very reasonable that he should be bound to inspect the power, when in writing, or learn its language the best way he can, when it is by parol. On becoming acquainted with it he shall be holden to understand its legal effect, and must see, at his peril, that the attorney does not transgress the prescribed boundary, in acting under it.\u201d\nThe authority to purchase the load of corn, by its terms, gave no authority to Van Inwagen & Co. to borrow the money with which to buy it. There are, however, certain incidental powers accompanying the appointment of any agent, which it is supposed may affect the present question. Thus, an authority to huy or sell goods includes an authority to execute the proper vouchers therefor; an authority \" to do the needful\u201d in respect to the fulfillment of an award, carries the power to prepare a lease, if required by the award; an authority to sell a horse includes the power to warrant; a power to buy a thing without any statement at what price, includes the -power to buy at any price; a power to sell goods includes a power to receive payment on the sale; a power to recover and receive a debt includes a power to sue and a power to execute a release to the debtor; the possession of a bond by an agent is evidence of an authority to receive the money due upon it. Story on Ag. \u00a7\u00a7 102, 103. So it has been held in Louisiana, that an agent authorized 'to buy a cargo for his principal, if no other means or funds are provided, has an incidental authority to give notes, or draw and negotiate bills on his principal for the amount. Perrotin v. Cuculla, 6 La. 587; see, however, on this point, Paige v. Stone, 10 Metc. 160; Taber v. Cannon, 8 Id. 456; Webber v. Williams College, 33 Pick. 302.\nIn the present case, I think the authority to Van Inwagen & Co. meant, simply, that they should procure a cargo for this vessel by their own funds, or upon their own credit. It implied further that they should be paid for the entire service thus rendered, and that they, or the banker from whom the funds were obtained by them for the purchase, should hold the title to the property purchased until it was paid for by the principal It was not necessary to decide that if Van Inwagen & Co. had purchased the corn of an owner, and had given to such owner a bill of exchange upon the defendant for the amount, that the defendant would not have been bound by that act. According to the case of Perrotin v. Cuculla, supra, he would have been bound. According to the Massachusetts cases he would not have been bound. The authority to be exercised, either under this principle, or upon the principle as I have stated it, is vastly different from a power to the agent to borrow money for the purpose of making the purchase. In addition to the loss of the right to repudiate the purchase, if made in violation of the instructions given, the integrity of an agent, and the hazard of loss to the principal by his dishonesty or his misfortunes, are very different in the cases supposed. The appellant\u2019s proposition involves the broad ground that an authority to a broker to buy and load upon a vessel a cargo of corn or other produce, gives to the agent the power to borrow the money upon the credit of the principal with which to make the purchase. This involves a claim of extensive and dangerous powers. When he borrows, the agent, of right receives the money into his own possession. If he spends it, or loses it, or is robbed of it, before a cargo is purchased, the principal is responsible for the loan equally as if the cargo had been received by him. Many men will honestly discharge the duties of buying and selling merchandise, who will be less faithful in the application of moneys actually in their possession. Practically, the money, when received by the agent, would be deposited to his own credit, and drawn upon to pay for the cargo when the loading was completed. The money must be borrowed in advance of the purchase, and some time must elapse before the delivery can be completed. Is the principal to be subject to the hazard both of the honesty and the solvency of the agent during this period ? If a commission of bankruptcy is sued out in the mean time against the agent, would the principal have a specific lien upon the funds thus borrowed, or would he occupy the position of a creditor simply ? Upon the principles held by the court below, the course is plain and open, none of these difficulties will arise. I think they are sound. I do not find any authority in the books for the proposition claimed by the appellant, and it would, in my opinion, be a dangerous innovation upon the principles of the law of agency.\nIf the custom of Chicago could in any event control the principles of law applicable to similar transactions, it certainly does not in the present case, upon the evidence presented. The testimony of the merchants, whose testimony was taken, is uniform, that, in the cases mentioned by them, the money is advanced upon the credit of the parties to the draft and the security of the property purchased. This is exactly what the plaintiff had here. Mo one witness testified to the existence of a custom for the agent to borrow money generally, on the credit of the party desiring to purchase the cargo, or that would make the principal liable where the draft was not drawn in his name, or upon him, and where the property was not consigned to him.\nAn agreement that this borrowing of money was ratified by the defendant, is drawn from the fact that he telegraphed \u201c draw as before.\u201d In the July preceding, the agents, Van Inwagen & Co., had upon R. S. King, Buffalo, for the cargo then purchased. I do not discover any evidence in the case, or that was offered, which intended to show a knowledge by the defendant that the purchase money for that cargo was borrowed upon his credit. The transaction, as presented to the defendant, was in all respects the same in form as it would have been if Van Inwagen & Co. had themselves advanced or themselves borrowed the money, and without reference to the credit of the defendant. It cannot therefore amount to a ratification. 14 would have been hardly allowable that the jury should have given such effect to this dispatch if the defendant had possessed that knowledge. The defendant had, on August 19, written to Van Inwagen & Go. that he thought he could make a different arrangement with Cutler, so that he could draw on him at sight, had thus save interest and get a premium for his draft. For some reason not explained, this arrangement was not perfected, and the defendant therefore telegraphs to his agents, \u201c Did the schooner load and leave today ? Draw as before.\u201d I think this was a simple notification and the proposed arrangement had fallen through, and that the agents should act without reference to it. The jury should have given it no other effect. In whatever form drawn, or from whose funds soever the draft should he taken, the interest to he saved and the premium to be gained, would enure to the benefit of the defendant. All expenses were necessarily to be paid by him, including interest. The saving would go to his account, in the way of reducing the balance to be paid by him. No inference is therefore to he drawn against the defendant, for these expressions in his letter.\nJudgment should be affirmed.\nA majority of the judges concurred.\nJudgment affirmed, with costs.",
+        "type": "majority",
+        "author": "Hunt, J."
+      }
+    ],
+    "attorneys": [
+      "John Ganson, for plaintiffs, appellants,",
+      "George B. Hibbard, for defendant, respondent,"
+    ],
+    "corrections": "",
+    "head_matter": "BANK OF THE STATE OF INDIANA v. BUGBEE.\nSeptember, 1867.\nAn authority to a broker to buy and ioad upon a vessel, a cargo of produce, does not, by implication, and in the absence of any sufficient custom, give to the agent the power to borrow, upon the credit of the principal, the money with which to make the purchase.\nWhether it implies power to draw on the principal in favor of the seller, \u2014Query ?\nThe Bank of the State of Indiana, an Indiana corporation, sued Oliver Bugbee in the Buffalo superior court for money lent and advanced by the plaintiff to the defendant at his request. The facts were stated by the superior court substantially as follows:\nThe transaction took place in 1858. The defendant, in 1858, resided in the city of Buffalo, and was owner of the schooner Waurecan. Van Inwagen & Co. were grain brokers, residing and doing business at the city of Chicago.\nThe defendant, in July, 1858, sent his vessel to Chicago, and requested Van Inwagen & Co. to procure or buy for him a cargo of corn, and load it upon his vessel. The defendant did not provide them with funds with which to make the purchase. They purchased the corn and put it upon the defendant\u2019s vessel at Chicago. For the purpose of making the purchase, they borrowed the money in the name of the defendant, from Mr. D. R. Holt, of Chicago. They gave Holt their draft upon R. S. King, of Buffalo, for the amount, on time, acceptance received, and gave him the vessel\u2019s bill of lading of the corn, as security. In the bill of lading, \u201cVan Inwagen & Co., agents and forwarders,\u201d were named as the shippers, and the corn was to be delivered as addressed in the margin. That address was \u201cAc\u2019tD. R. Holt, care of R. S. King, Buffalo, H. Y.\u201d When the vessel arrived at Buffalo, the defendant paid to King the amount of the draft, and received the cargo of corn.\nIn August of the same year, the defendant again sent his vessel to Chicago, and wrote to Van Inwagen & Co. that he should want to buy a cargo for her as soon as she should get there, and requested them to telegraph to him the prices of the different grades of corn and wheat. On August 19, they telegraphed to the defendant that his vessel had arrived at Chicago; that com Ho. 1 was selling there at sixty-nine cents per bushel, and also giving him the prices of other grades of corn and of wheat. On the same day he telegraphed to them in answer, \u201c Buy prime Ho. 1 corn.\u201d On the same day he wrote them by mail to the same effect, adding, \u201cI think I shall arrange with Cutter, so you can draw on him at sight, then you will save interest and get premium on draft.\u201d\nOn receipt of the dispatch, and before receiving the letter, Van Inwagen & Co. made an arrangement with the plaintiff to advance them the money, stating that it was to buy a cargo of com for the defendant. The plaintiff advanced the money to Van Inwagen & Co., who with it bought a cargo of corn at from seventy to seventy-one cents a bushel, and loaded it upon the defendant\u2019s vessel, and took a bill of lading, in which \u201cVan Inwagen & Co., agents and forwarders,\u201d were the shippers, and the address in the margin of which was \u201c Acc\u2019t H. Earl}-, Cash\u2019r, care of R. S. King, Buffalo, H. Y.\u201d Van Inwagen & Co. delivered this bill of lading to the plaintiff together with their draft for the amount of money advanced, upon R. S. King, Buffalo, H. Y., payable twenty days after the date, acceptance waived. The draft and bill of lading were dated August 21. The vessel sailed from Chicago the same day. And on the same day (August 21) the defendant telegraphed from Buffalo to Van Inwagen & Co., \u201cDid schooner load and leave to-day ? Draw as before.\u201d\nAs soon as the defendant was informed of the price at which the corn was bought, he repudiated its purchase; and when the vessel arrived at Buffalo, he refused to have anything to do with the corn, both by reason of its quality and price. Mr. King, to whose care the corn was consigned, thereupon, under the directions of Mr. Early, the plaintiff\u2019s cashier, sold it, and paid over the proceeds of the sale to the plaintiff, leaving unpaid of the money borrowed, three thousand and eight dollars and fifty-seven cents. It was to recover this deficiency that the present action was brought.\nUpon the trial the court nonsuited the plaintiff, either on the ground that the evidence did not show that the money was advanced on defendant\u2019s credit, or that the person who borrowed it in assumed capacity of defendant\u2019s agent, was not authorized to do so.\n' The Buffalo superior court affirmed the judgment of non-suit, assigning their reasons as follows, in an opinion which was delivered by Masteh, J.:\nVan Inwagen & Co. were special agents for the defendant. They were authorized to buy prime Ho. 1 corn at sixty-nine cents a bushel. Hot having been placed in funds with which to make the purchase, they were authorized to buy upon the credit of the defendant.\nBut neither an authority to buy, nor an authority to buy upon the credit of his principal, will, in'and of itself, authorize or empower an agent to borrow money upon the credit of his principal, with which to make the purchase. The difference between the two powers or agencies is very great. Under a special order or authority to buy property of a certain description at a given price, the agent can only bind his principal by a purchase made pursuant to the order; and the principal will not be bound to accept the property or pay for it, if it be_ not of the kind or price ordered to be purchased for him. In^ such case, it is with the vendor to see that the special agent is acting within the scope of and pursuant to his authority. When the purchase is made within the scope of his authority, so that the title vests in his principal, the agent cannot bring loss upon his principal by an unauthorized sale of the property.\nUnder an authority to borrow money, the principal is bound as soon as the money is advanced upon his credit, whether his agent faithfully applies it or embezzles it. The doctrine of caveat emptor, which applies to the acquisition of other property, does not obtain in respect to money, and the agent could dispose of money to the prejudice of the principal when he could not of other property. The expression in the telegram of August 21, \u201c draw as before,\u201d does not, in connection with the facts proved, evidence an authority to borrow money. There is no evidence in the case showing that the defendant knew or was ever informed that Van Inwagen & Co., in the July transaction, borrowed the money of Holt, assuming to act as his agent, or that they had not made the purchase upon credit, or with their own funds.\nThe papers, on their face, did not convey any such information.\nIf it had been proved that the defendant knew that Van Inwagen & Co., in July, borrowed the money upon his credit and drew in the manner they did for the amount, a meaning would have been given to the telegram which it does not, in the absence of such proof, possess.\nAs it is, there is nothing in it inconsistent with a purchase upon credit, or with the funds of the brokers.\nThe whole transaction, so far as it appears to have come to the knowledge of the defendant, had no appearance of a borrowing of money on Ms credit.\nThe draft was not drawn upon him, he was not a party to it, and it was drawn in such a form as not to make him liable upon it.\nThe form of the draft, and of the bill of lading under which the property was shipped and sent forward, gave full protection to the defendant against any excess, by Van Inwagen & Co., of the authority to buy corn of a certain quality, and at a given price, in purchasing a different quality at a higher price. He was enabled to inspect it, upon its arrival here, before accepting it.\nThe defendant, in the postscript to a letter to Van Inwagen & Co., under date of August 19, and which did not reach them until after the money had been borrowed, and the corn, or some of it, had been purchased, wrote: \u201c I think I shall arrange with Cutter, so that you can draw at sight on him; then you will save interest and get premium on draft.\u201d He did not make the arrangement with Cutter, but afterwards telegraphed, \u201c Draw as before.\u201d I am unable to see anything in this inconsistent with a purchase on credit, or a purchase by the brokers with their own funds, pursuant to the authority which the defendant had conferred upon them.\nI do not find in it any evidence of an authority to borrow money upon the credit of the defendant.\nWhether he could not make the arrangement with Cutter, \u00f3r whether, from prudential considerations, he did not, does not appear, nor was it material.\nThe case does not show any necessity for borrowing the money in the name of, or upon the credit of, the defendant, in order to make the purchase ordered, non is there any custom in this trade affecting the question, shown.\nI think the plaintiff failed to show any authority in Van Inwagen & Co. to borrow the money upon the credit of the defendant.\nProm the judgment the plaintiffs appeal to this court.\nJohn Ganson, for plaintiffs, appellants,\nCited Story on Agency, \u00a7\u00a7 60, 85, 86, 103, 103; Capel v. Thornton, 3 Carr. & P. 352; Perrotin v. Cucullu, 6 La. 587; Sprague v. Gillett, 9 Metc. 91, 92, 93; Pentz v. Stanton, 10 Wend. 271; Raymond v. Crown, 3 Metc. 319.\nGeorge B. Hibbard, for defendant, respondent,\nCited 1 Pars. on Cont. 41, 43, 44; Add. on Cont. 624, 627; Paige v. Stone, 10 Metc. 160; 1 Pars. on Bills, 100; Mechanics\u2019 Bank v. N. Y. & N. H. R. R. Co., 3 Kern. 599, 632, 630, 635 ; Story on Agency, \u00a7\u00a7 81, 133, 83, 105, 169, 172, 200, 102, 368, 290, 35, 239; Delafield v. State of Illinois, 26 Wend. 192 ; Atwood v. Mannings, 7 Barn. & G. 278; Delafield v. State of Illinois, 26 Wend. 192; North River Bank v. Aymar, 3 Hill, 262; Nixon v. Palmer, 4 Seld. 398; East India Co. v. Henley, 1 Esp. 111; 1 Pothier on Obl. 143; 1 Livermore on Agency, 368; 1 Am. Lead. Cas. 556; Jacques v. Todd, 3 Wend. 83; Pars. on Merc. L. 162; Emerson v. Prov. H. M. Co., 12 Mass. 237; Taber v. Cannon, 8 Metc. 456; Webber v. William\u2019s College, 23 Peck. 302; 1 Bell Com. 411, \u00a7 429; Hawtayne v. Bourne, 7 Mees. & W., 596; Parsons v. Armor, 3 Pet. 413 ; Kelley v. Lindsey, 7 Gray, 287; Batty v. Carswell, 2 Johns. 48; Rossiter v. Rossiter, 8 Wend. 494."
+  },
+  "file_name": "0086-01",
+  "first_page_order": 96,
+  "last_page_order": 104
+}

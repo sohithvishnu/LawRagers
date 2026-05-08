@@ -1,0 +1,66 @@
+{
+  "id": 2007425,
+  "name": "Rockwell vs. Adams",
+  "name_abbreviation": "Rockwell v. Adams",
+  "decision_date": "1831-01",
+  "docket_number": "",
+  "first_page": "467",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Wend. 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 445,
+    "char_count": 9142,
+    "ocr_confidence": 0.604,
+    "pagerank": {
+      "raw": 1.0508419670304483e-06,
+      "percentile": 0.9842508192562578
+    },
+    "sha256": "36ae63b27d2d3fda2cb8e5e649773d2810d56f92f671b2062055fb1ce2ae26ea",
+    "simhash": "1:e68b4e684a3cd4dc",
+    "word_count": 1652
+  },
+  "last_updated": "2023-07-14T18:52:06.393630+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rockwell vs. Adams."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nSavage, Ch. J.\nThis cause was first tried in 1825, when the jury found a verdict for the defendant, upon testimony very similar to what is now presented in the case before us. On that trial the judge charged the jury that if the defendant had fixed upon a line, with a full knowledge of his rights, short of that which his deed would give him, such location would limit his grant; but if the jury should find that no line had been agreed upon, they must ascertain the boundary upon other principles. 7 Cowen, 761. A new trial was granted, on the ground that the rule was not correctly stated. Sutherland, J. in delivering the opinion of this court, said, that in order to make an actual practical location control the courses and distances in a deed, it was not necessary that the party should know the effect of such location, nor that there should be an express agreement to abide by such line. Acquiescence for a long time, is evidence of an agreement to the line. The language of Van Ness, J. in Jackson v. Ogden, 7 Johns. R, 245, was cited as stating the rale of law correctly\u2014thus: \u201cWhen two persons, already having a title, have settled the line of division between them, or when one, having title, has made an actual location, according to what he supposed to be his true line, and his neighbors have acquiesced in such location for a considerable length of time, the boundary thus established shall remain undisturbed.\u201d\nThe main question now presented to the court seems to me to be the same as when the cause was here before. The rule of law then laid down must be the law of this case: That the acts and declarations of parties as to location may control the courses and distances in their deeds; and, to give operation to such acts and declarations, it is not necessary that their effect should be known to the parties themselves, and that acquiescence in an erroneous location, for a great length of time, shall be conclusive upon the party making or acquiescing in such location. \"This principle will be found in the cases referred to by Mr. Justice Sutherland, 7 Cowen, 761, and it is believed there is no inconsistency between this principle and another referred to by the defendant\u2019s counsel, that a man having title shall not be divested of that title by parol declarations. The one affects the estate itself\u2014the quantity of interest which a party has in certain premises; the other ascertains the location upon the ground where such estate is supposed to exist. Reasons of propriety and policy forbid that a party, having located his premises, and thereby induced others to purchase and improve accordingly, should afterwards be permitted to allege mistake, and extend his possessions so as perhaps to take away those very improvements which were made upon the faith of his previous acts. As I understand the decision of the judge at the circuit, it was in accordance with the rule laid down by this court in this very cause. There was therefore no error on his \u00a1part. It is necessary, however, to inquire whether the facts in this case are such as to require the application of this principle. [Here the Chief Justice went into a full examination of the evidence, and then proceeded.]\nFrom this brief reference to part of the testimony, it must appear to be a case coming within former decisions, and one proper for the jury to pass upon. The weight of testimony certainly is, that the owners of the 700 acres never claimed south of the line to which the plaintiff now claims. Hoffman first surveyed for them, and he ran no farther south. They all divided upon that basis. The first error consisted probably in locating the south line of the 4100 acre patent about 17 chains too far north. The proprietors of the south part of the 2000 acre patent began at that line, and ran north, and took in their 300 acres. If the fact be that the owners on the north acquiesced in this location, they are bound by it, and their acts are binding upon the defendant. He too, it would seem, was not aware in what the error consisted, until the survey of Webster, though he always said he had not his quantity; but it seems that since that time he has pointed out the line to several of the witnesses, to be, where Hoffman located it.\nI am of opinion that there was no error in the judge, or in the jury, the weight of evidence supporting the verdict. The judge was right also in receiving evidence of the possessions of the settlers in the adjacent patent. If they had made an erroneous location, which would be disturbed by extending the defendant\u2019s line, considerations of public policy forbid that such errors should be thus corrected, after so long an acquiescence, where the consequence would be a correspondent change in the possessions of the whole neighborhood. Although there is no improvement upon the l<ne between the plaintiff and defendant, and of course no fence, the line is not therefore to be considered unsettled. The line north of the Lee lot, and south of the Parish lot, has been recognized, not as the line of those particular lots merely, but as the division line between the 700 acres and the south part of the patent. These lots, (the Lee lot and the Parish lot,) do not meet by several rods; but as that line was considered by all the owners of the 700 acres as their south line, this case does not depend on the question of pedis possession I think a new trial should be denied.\nNew trial denied.",
+        "type": "majority",
+        "author": "Savage, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "S'. Stevens, for the defendant.",
+      "R. Weston, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Rockwell vs. Adams.\nThe acts and declarations of parties, as to the location of lands, may control the courses and distances in their deeds ; and to give operation to such acts and declarations, it is not necessary that their- effect should be known to the parties.\nAcquiescence in an erroneous location, for a great length of time, (e. g. 18 year,) is conclusive upon a party making or acquiescing in such location. Evidence of the possessions of settlers on adjacent tracts in reference to a division line, attempted to be shewn as recognized by one of the parties in a suit, is admissible,\nWhere a division line between adjoining tracts exists at its two extremities, and for the principal part of the distance between the two tracts, and as such is recognized by the parties, it will be considered a continuous line, although, on a portion of the distance, there is no improvement or division fence.\nLocation of Lands. This was an action of replevin, tried. at the Warrren circuit, in June, 1828, before the Hon. Esek Cowen, one of the circuit judges.\nThe plaintiff brought replevin for the taking of a quantity of saw logs. The defendant claimed the logs, alleging that they were cut on his land, and on the trial shewed title to the locus in quo. The plaintiff proved that one Lee, who, with him, derived title from the same source, had taken possession under a deed of 100 acres of land, up to a certain line, as his northern boundary; and that such line corresponded with the south line of a farm called Parish\u2019s lot, being part of a tract of 700 acres, owned by the defendant. The plaintiff also shewed title to 50 acres, lying west, of, and adjoining Lee\u2019s lot. Allowing the 50 acres to extend as far north as the northern boundary of Lee\u2019s lot, about one half of it bounds on Parish\u2019s lot. At the north end of the 50 acre lot, a distance of about 20 chains, there is no clearing or fence, and consequently no line connecting with the line formed by Parish\u2019s and Lee\u2019s lots. The line formed by these lots is about 60 chains in length, and was for many years the received and reputed boundary between the 700 acres owned by the defendant, and 300 acres, (of which Lee\u2019s lot, and the 50 acres owned by the plaintiff are a part,) owned by other persons; but was\" not, in fact the true line, the error in relation to the line probably having arisen from the fact that Lee, in locating his 100 acres, had commenced the survey of his lot from a supposed, but erroneous south line of a patent of 2000 acres, in which his lot and the 700 acres, owned by the defendant, were situate. Repeated acts and declarations, which took place from 8 to 18 years before the trial, of the defendant and of the persons from whom he derived title, were shewn, admitting the line formed by Parish\u2019s and Lee\u2019s lots to be the southern boundary of the 700 acres, and it was proved that the settlers on a patent adjoining the patent of 2000 acres on the south, had taken possession up to the same erroneous south line of the 2000 acre patent assumed by Lee, and that some of them had so possessed for 38 years previous to the trial. The evidence of the acts of the settlers on the adjoining patent was objected to, but received. The judge submitted the question whether or not there was a practical location in this case to the jury, and charged them, that the recognition by the defendant, of a line east and west of the land in controversy, was evidence of location, as to the north boundary of the 50 acres claimed by the plaintiff. The defendant excepted, and the plaintiff had a verdict. The defendant moved for a new trial. The cause was argued by\nS'. Stevens, for the defendant.\nR. Weston, for the plaintiff."
+  },
+  "file_name": "0467-01",
+  "first_page_order": 463,
+  "last_page_order": 467
+}

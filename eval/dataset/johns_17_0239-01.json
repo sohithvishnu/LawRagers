@@ -1,0 +1,110 @@
+{
+  "id": 6065034,
+  "name": "Schoonmaker against Roosa and De Witt",
+  "name_abbreviation": "Schoonmaker v. Roosa",
+  "decision_date": "1820-01",
+  "docket_number": "",
+  "first_page": "239",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Johns. 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Johns. Rep. 120",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Johns. Rep. 38",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Rep. 346",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Rep. 433",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Johns. Rep. 189",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Johns. Rep. 26",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Johns. Rep. 120",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 518,
+    "char_count": 10436,
+    "ocr_confidence": 0.524,
+    "pagerank": {
+      "raw": 8.715734417109915e-07,
+      "percentile": 0.9774890350750179
+    },
+    "sha256": "2ec37435f8e1b28b08dae4c09f785a56c8d30219206000e41fd0c048c8902660",
+    "simhash": "1:3edfb941a8172d96",
+    "word_count": 1817
+  },
+  "last_updated": "2024-02-27T17:05:57.461929+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schoonmaker against Roosa and De Witt."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe consideration of a promissory note, as between the original parties themselves, may be inquired into; and if there is no consideration for the promise, it is nudum pactum, and cannot be enforced at law. (Pearson v. Pearson, 7 Johns. Rep. 26. Ten Eyck v. Vanderpool, 8 Johns. Rep. 120. Rann v. Hughes, 7 Term Rep. 350. note. S. C. 4 Bro. P. C. 27. 2d ed. by Tomlins.) In the case of Rann v. Hughes, Baron Skynner, who delivered the very able and lucid opinion in the House of Lords, savs, \u201c It is undoubtedly true, that every man is, by the law of nature, bound, to fulfil his engage ments. it is equally true, that the law of this country supplies no means, nor affords any remedy, to compel the performance of an agreement made without sufficient consideration; such agreement is nudum pactum ex quo non oritur actio; and that whatever be the sense of this maxim in the civil law, it is in the last-mentioned sense only that it is understood in our law.\u201d\u2014\u201cIf I promise, generally, to pay upon request, what I was liable to pay on request in another right, I derive no ad vantage or convenience from this promise, and, therefore, *there is no sufficient consideration for it.\u201d He observed, that all contracts, by the law of England, were distinguished into agreements by specialty and parol; that there was no third class, as contracts in writing. \u201c If they be merely written, and not specialties, they are parol, and a consideration must be proved.\u201d He added, that the doctrine delivered in Pillans v. Mierop, (3 Burr. 1663.) as to a nudum pactum, was erroneous ; and that Mr. J. Wilmot not only contradicted himself, but was contradicted by Vinnius, in his comment on Justinian. But that, whatever was the rule of the civil law, there was no such law in England,\nThe defendants in this case were executors, and the note they gave was a mode adopted, by the mutual agreement of the parties, to submit their difference with the plaintiff, as to the matters of account between him and their testator, to arbitration. In Pearson v. Henry, (5 Term Rep. 6.) it was decided, that a submission to an award, by an administrator, was not an admission of assets; and the case of Barry v. Rush was held to be clearly distinguishable; as to that case, the defendant gave a bond, by which he bound himself, his heirs, executors, and administrators, in broad terms, to pay whatever should be awarded, without any regard to assets, (Kyd on Awards, 40.) And if there are no assets, a personal promise by the administrator would be a nudum pactum. The award endorsed by the arbitrator show's, that it was intended merely that he should ascertain what was due from the estate of the intestate, and thft the defendants should be liable only in their representative capacity, or so far only as they had assets, [t was incumbent, then, on the plaintiff, to show, affirmatively, that the defendants had assets ; for a promise by an executor to pay is not binding, unless he has assets.\nWe are of opinion, that the judgment of the court below ought to be affirmed.\nJudgment affirmed.\nVide Worthington v. Barlow, 7 Term. Rep. 453.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "*C. Ruggles, for the plaintiff",
+      "Foot, contra.",
+      "Buggies, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Schoonmaker against Roosa and De Witt.\n\u215b\u215b\u215b\u215e * (who w'ere ex' \u00cd^ubn\u00edifadtf-tf\u00aere'jJethem b\u00aej to the accounts b\u00aeTe\u00abn tbe \u00bb,T\u00f3 *e R\"jirde\u00b0\u00edcu^\u00bfj promissory nofs l.\u00b0 \u215b)\u215b\u215b1\u215b (\u215b '\u00bfnutated doiars, each Wajle on which were de-]'vcred to lbe was to endorse endorsed,on the note given by the defendants, _ his award, finding a balance due to the plaintiff from the estate of the testator, of 97 dollars and 38 cents, and also endorsed a payment, so as to reduce the note to that sum, and endorsed the other note as fully paid and satisfied: In an action brought against the defendants on the note given by them, to recover the sum so awarded by the arbitrator, it was held, that the defendants were not liable personally; and that iheHplaintiff could not maintain his action, without proving \u00abssr\u00eds in the bands of the defendants.\nThe consideration of a promissory note, as between the immediate parties, may be inquired into, and given without consideration, it is nudum pactum tx quo non oritur actio.\nIX ERROR to the Court of Common Pleas of Ulster county. The plaintiff in error brought an action of assumpsit, in the court below,\" against the defendants in error, on a promissory note, dated the 10th of June, 1813, by which the defendants promised to pay to the plaintiff, or order, on demand, 1,500 dollars, for value received. The defendants pleaded the general issue, and gave notice that, on the trial of the cause, they would give in evidence that on the 10th of June, 1813, the plaintiff and defendants entered into an agreement, by which they appointed Lucas Elmendorf sole arbitrator to settle and adjust all \u25a0differences and demands existing between the plaintiff, and A. Roosa, defendant, as assignee of Frederick S. Elmendorf, and also, of all differences and demands between the plaintiff, and the defendants, as executors of the last will and testament of Levi De Witt, deceased; and for that purpose notes were exe-cut.ed by the parties, to each other, to bind them to the submission, *&c., and that the note mentioned in the plaintiff\u2019s declaration was executed for that purpose, and no other, and put into the hands of the arbitrator, tor him to endorse thereon, in his capacity of arbitrator, the amount due from the estate of Leri De Witt; and that it was expressly agreed that the defendants should not be otherwise accountable on the note than ag executorS; and not jn their individual capacity, &c.\nThe plaintiff proved the promissory note stated in the declaration, which was produced, and on which the arbitrator had made the following endorsement: \u201c In pursuance of the decision made on the respective demands between the executors of the last will and testament of Levi De Witt and William Schoonmaker, there is due from the estate of the said Levi De Witt, deceased, 97 dollars and 38 cents ; I do, therefore, in pursuance of the authority vested in me by the parties, endorse a payment on the within note of 1,402 dollars and 62 cents, on the day of the date of the within note.\u201d The plaintiff claimed to recover the balance of 97 dollars and 38 cents, so found by the arbitrator.\nThe defendants proved that they were the executors of Levi De Witt, and that there was a controversy between him and the plaintiff as to their accounts, which was submitted to the decision of L. E., an arbitrator, as stated in the notice, and the promissory notes given by the parties, on one of which, produced by the defendants, the arbitrator had endorsed the balance found in favor of the plaintiff, and that he, therefore, declared that note fully satisfied. That it was verbally explained and agreed between the parties, at the time of submission, that the defendants, for any thing that should be awarded against them, were only to be liable in.their capacity as executors, and in the course of administration, and not in their individual capacities ; and that the award was made and the notes endorsed and delivered by the arbitrator in pursuance of the submission. The evidence on the part of the defendants was objected to as incompetent ; but the court decided that it was admissible, and that the action was not maintainable, and directed a nonsuit. The plaintiff tendered a bill of exceptions to the opinion of the court, on which the writ of error was brought.\n*C. Ruggles, for the plaintiff\nin error. The defendants gave the note in their individual capacities, and could not have been sued upon it, in their representative character. Besides, if executors or administrators submit a matter relative to the estate of the testator or intestate, to arbitration, are they not liable in their individual capacity ?\nAgain; parol evidence was inadmissible to show how the note was intended to be made, or any terms or conditions varying the written contract. (Thomson v. Ketcham, 3 Johns. Rep. 189. Hoare v. Graham., 3 CJarnph. N. P. 57.) The rule as to admitting parol evidence to vary or contradict written instruments, applies as well to writings not under seal a-; to deeds. (1 Taunt. 115. 1 Johns. Rep. 433. 2 Johns. Rep. 346. 9 Johns. Rep. 38.)\nAs to any obj-ection of a want of consideration, it may be questioned whether that can be alleged against a promissory note. (Livingston v. Hastie, 2 Caines, 246. per Livingston, I.) But here was a sufficient consideration, the submission of the matters in difference between the. plaintiff and \u00a1defendants, and their undertaking to pay.\nAgain; the defendants cannot plead plane administramt. In Harry v. Rush, (1 Term Rep. 691.) where the defendant executed a bond, as administrator, to abide by an award to be made concerning matters in dispute between his intestate and another, it was held, that entering into the bond was an admission of assets, and that he could not, afterwards, dispute it.\nBut on a plea of plene administramt, the onus probandi lies on the defendant, and it was for the defendants to show a want of assets, if they could be allowed to do so. (Platt v. Robins and another, 1 Johns. Cases, 276.)\nFoot, contra.\nThere is no doubt about the rule of law, as to the admission of parol evidence to vary written contracts ; but this case forms a manifest exception to that rule. The giving the notes and the submission were simultaneous, and the endorsements made by the arbitrator, show the purpose for which they were given. The notes were made and delivered to the arbitrator at the *time of submission, and were to be delivered by him to the parties according to his award. Until the arbitrator made his award, and delivered the note to the plaintiff in pursuance of it, the note could have no legal operation, and his endorsement must be taken with the note, as one and the same transaction.\nThe defendants were not called upon to show a want of assets, as the court decided that the action could not be maintained at all, and, therefore, nonsuited the plaintiff.\nA. note given by an administrator, as such, for value received by the intestate, is void for want of consideration. (Ten Eyck v. Fanderpool, 8 Johns. Rep. 120.) And, as between the original parties to a note, the consideration may be inquired into.\nBuggies, in reply.\nThe case of Ten Eyck v. Vanderpool, is distinguishable from the present. The note here is for value received, without saying from whom; and the presumption is, that it was received by the maker."
+  },
+  "file_name": "0239-01",
+  "first_page_order": 239,
+  "last_page_order": 242
+}

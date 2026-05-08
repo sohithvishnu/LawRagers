@@ -1,0 +1,121 @@
+{
+  "id": 2204372,
+  "name": "The American Exchange Bank agt. George Webb and others",
+  "name_abbreviation": "American Exchange Bank v. Webb",
+  "decision_date": "1858-02",
+  "docket_number": "",
+  "first_page": "193",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 How. Pr. 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "24 Barb. 106",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Johns. Ch. 166",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1982794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-ch/6/0166-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. 344",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-ch/1/0344-01"
+      ]
+    },
+    {
+      "cite": "16 Barb. 613",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4943363
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/16/0613-01"
+      ]
+    },
+    {
+      "cite": "24 Barb. 105",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4993288
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/24/0105-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 562,
+    "char_count": 12220,
+    "ocr_confidence": 0.458,
+    "pagerank": {
+      "raw": 2.1500263734711886e-07,
+      "percentile": 0.768391516262145
+    },
+    "sha256": "55f5ea61b8437dd34ec114fef99f536141aa1fa4d3d1c327d76bc8e49bfedfc3",
+    "simhash": "1:ab6b01a4c472e4e5",
+    "word_count": 2202
+  },
+  "last_updated": "2024-02-27T18:50:43.261015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The American Exchange Bank agt. George Webb and others."
+    ],
+    "opinions": [
+      {
+        "text": "Davies, Justice.\nAs to the second objection to this assignment, I find that the whole ground covered by it, is disposed of by the decision of this court, in Wilson agt. Forsyth, (24 Barb. 105.) The points ruled in that case are: to render an assignment void when not void on its face, as a matter of law, the fact of a fraudulent intent in making it, must be proved and found from evidence that will fairly support the finding.\nThat it is erroneous to charge the jury, that if the assignor on absconding after executing the assignment, carried off a sum of money with him, the assignment is void, (the sum taken being $5,000 ;) and that it becomes the duty of the jury to find that it was executed with intent to hinder, delay and defraud creditors.\nThat it is also erroneous to charge that if the assignor, when he executed the assignment, intended to reserve a large sum of money to his own use, and did take it away with him, after the assignment was made, the case is the same as if the money had been reserved to the use of the assignor on the face of the assignment.\nIt seems to me that this decision relieves this case from the embarrassments caused by the acts of the assignor in the present one.\nThey seem to be of the same character as those of the assignor in that case.\nThen, as to the first ground of objection to this assignment, the fraudulent character of the debt, to Mrs. Webb.\nThere is, certainly, evidence tending to show that the assignor must have received moneys belonging to the separate estate of Ms wife, and the payment of which, to her, this court would sanction, as eminently just and proper. But I am unable to discover that the amount could at all equal that mentioned in the assignment; and it may be, if the case stood only on tMs preference, that the assignment could only be maintained for the amount actually due to Mrs. Webb.\nI am not prepared to say that it is absolutely void, as to all the creditors, or even as to her, if the assignor has assumed he was indebted to her in a larger sum than he actually owed.\nBut in the view I take of this case, such inquiry and investigation are not necessary. The assignor, at the time of the execution of the assignment, possessed a large real estate, in which his wife had an inchoate right of dower.\nThis real estate, the assignee was desirous of selling, as it was his duty to do. It was obvious that a sale subject to this dower interest, would greatly diminish the value of the estate, disincline persons to purchase, and manifestly present a serious obstacle to the sale.\nTo relieve the estate from this embarrassment, the assignee, acting as such, as well as for Mrs. Webb, sent to the creditors and to the plaintiffs, the circular marked exhibits B. and 0., and received from the plaintiffs, replies marked D. and B.\nThe circular marked B., is under date of September 5, 1854, and states that he is desirous of ascertaining the particulars of the assignor\u2019s indebtedness, and adds that he will furnish to each creditor a statement of the debts, and of the property assigned. He also states that \u201c if there is no litigation to embarrass the assignee, (and he believes there will be none,) he will sell the assigned estate at public auction in the latter part of the month of January next, when it is thought it will bring a good price. If the sale takes place as intended, Mrs. Webb has expressed her willingness to unite with the assignee in making a perfect title and relinquish her right of dower.\u201d\nIn reply to this circular, the plaintiffs transmitted to the assignee exMbit D., under date of September, 21,1854.\nIt contains a statement only of the indebtedness of Webb, and makes no allusion to the sale of the property, or of the release of dower by Mrs. Webb.\nExhibit C., under date of Jan. 6th, 1855, is a statement of the debts of the assignor and of the assigned property, as provided in the previous circular, and of the mortgages upon the estate, and adds : \u201cMrs. Webb still expresses her willingness to unite with me in making a perfect title, and relinquishing her right of dower, provided I am not interfered with in executing the trusts in the assignment.\u201d He adds, that in his - previous circular, he had intended to sell the property in January, but had been advised to postpone the sale to February, as it was supposed it would then bring better prices.\nI think there can be no misapprehension as to the meaning of this circular, so far as it respects Mrs. Webb. It was a proposition on her part and that of the assignee, that if the assigned estate was to be applied so far as she was concerned, to the payment of the sums provided for her in the assignment, she was willing to release, and agreed to release, her dower in the assigned estate. Ho one can doubt that such an intention, promulgated at the sale, would greatly enhance the price which it would otherwise bring, and thus greatly benefit the creditors. An incumbrance even to a small amount, presents a serious obstacle to a sale, and a title thus clouded, could not be forced upon a purchaser against his will.\nIn the response of the plaintiffs, exhibit E., under date of January 16th, 1855, they state that they are in favor of selling George Webb\u2019s property next month. Can there be a question that this is an acquiescence, at least, in favor of selling on the terms proposed ? Those terms were for the benefit of the person to whom made; he replies, he is in favor of selling. Does he not, in substance and effect, say he is in favor of selling on the terms proposed; that he accepts the conditions named ? I cannot but think that this is the true light to regard these propositions and replies. And it seems to me that this is confirmed by the stipulation by Exhibit G. under date of February 20th, 1855. This suit having been commenced, it was natural for the assignee to ascertain definitely whether the plaintiffs would come in under the assignment, or whether they intended to litigate it. Having in mind that the property was to he sold on the 27th of February, and that if the creditors would assent to Mrs. Webb receiving what was secured to her by the assignment, and the property be sold free of her dower, the plaintiffs stipulated to suspend all proceedings until the completion of the sale, and on their receiving their share of the proceeds of the sale, to-discontinue this suit.\nThe property was sold free of Mrs. Webb\u2019s claim of dower. She executed and delivered a release of it, whereby this large estate was discharged of her claim. The creditors, and among others the plaintiffs, have put themselves in a position to be profited by this arrangement, and after she has parted with, her rights beyond recall, they proceed to deprive her of the identical security which was the sole consideration of her action, avowed and known to ail parties.\nI am at a loss to see how this can be done, or how the aid of a court of equity can be invoked to set aside this arrangement. There is no allegation of fraud or overreaching. It was a natural'and proper arrangement, greatly to the benefit, it seems to me, of the creditors of the estate, and I can see no ground upon which they can now change it.\nThe plaintiffs had full notice that Mrs. Webb had consented to release her dower in the assigned estate, and that it would be sold free from such claim, on the condition that she was to receive from the assignee the amount provided for her in the assignment. The property was so sold; she executed the release as agreed upon; and now, after all this is done, the plaintiffs seek to deprive her of this fund, and set aside the assignment, on the ground that no debt was due to her.\nThis I think they cannot do. So far as they are concerned, have they not admitted this debt as one due by the assignor - to Mrs. Webb ?\nWhether they have or not, having lain by till after the sale, and the execution and release of her dower, I think they are now estopped from interposing any claim, or taking any steps to deprive Mrs. Webb of the moneys secured to her by the assignment. This case is a much stronger one than that of Brewster agt. Baker, (16 Barb. 613.) There the plaintiffs claimed a canal boat as their property, which they alleged the defendant had converted to his own use.\nThe defendant purchased it of Mr. Thompson, who had possession of it, and sold it as his own. Johnson, Justice, in delivering the opinion of the court, says : \u201c It is a well established principle, that when the owner of property stands by and sees another sell it as his own, to a bona fide purchaser, and makes no objection, and gives no notice of his rights, he will be held to have sanctioned the sale, and will not afterwards be permitted to assert his title as against such purchaser.\u201d\nNumerous cases on the subject of estoppel may be cited to sustain this view of the case. They are familiar to the profession. A reference to a few of them will suffice. (Wendell agt. Van Rensselaer, 1 Johns. Ch. 344; Storrs agt. Blarker, 6 Johns. Ch. 166; Town agt. Needham, 3 Paige, 545 ; Dougrey agt. Topping, 4 Paige, 94; Lowrey agt. Tew, 3 Barb. Ch. R. 407.)\nThe case of Dougrey agt. Topping, {supra,) is certainly a strong one, and it seems to me, controlling. The plaintiffs, by their silence at least, led Mrs. Webb to believe if she released her dower, she should receive the fund mentioned in the assignment. They, at least, are estopped from now attacking that fund, and their complaint in this cause, must be dismissed, with costs.",
+        "type": "majority",
+        "author": "Davies, Justice."
+      }
+    ],
+    "attorneys": [
+      "G. N. Titus, for plaintiffs.",
+      "John W. Edmonds and W. C. Noyes, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "SUPREME COURT.\nThe American Exchange Bank agt. George Webb and others.\nWhere plaintiffs, as judgment creditors, commenced an action to set aside an assignment made for the benefit of creditors, on the ground, 1st: that the assignor absconded immediately on the execution of the assignment, taking with him a portion of his estate:\n2d. That debts to a large amount, preferred and directed by the assignment to be paid to the wife of the assignor, were fictitious, and had no existence in fact: Eeld, that the case of Wilson agt. Forsyth, (24 Barb. 106,) was authority conclusive, that the first ground could not be sustained.\nOn the second ground, it appeared that there was evidence that the assignor must have received some moneys belonging to the separate estate of his wife; that the assignor, at the time of executing the assignment possessed a large real estate in which his wife had an inchoate right of dower; that tho plaintiffs at different times, had written notice from the assignee, before a sale of the real estate, that the wife of the assignor was willing to unite with him (the assignee) in making a perfect title, and relinquishing her right of dower, provided the assignee was not interfered with in executing the trusts in the assignment; and a proposition to have the sale at a certain time if no objection were interposed by the creditors: The plaintiffs in their reply acceded to the time proposed to sell.\nEeld, that the plaintiffs having had full notice that the wife of the assignor had consented to release her dower in the assigned estate, and that it would be sold free from such claim, on the condition that she was to receive from the assignee the amount provided for her in the assignment; the property having been so sold, and the release of dower executed, it was too late in the day for the plaintiffs to seek to deprive the wife of this fund, and to set aside the assignment on the ground that no debt was due to her. They were estopped from taking any such proceeding. Complaint dismissed, with costs.\nNew - York Special Term,\nFebruary, 1858.\nBill filed to set aside an assignment made by defendant George Webb.\nThe principal grounds relied on to set aside this assignment as fraudulent and void, as to the plaintiffs, -judgment creditors of Webb, ar.e two.\nFirst: that the debts of $10,000 and $7,500, preferred and directed by it to be paid to Mrs. Webb, the wife of the assignor, are fictitious, and have no existence in fact. Second: that the assignor absconded immediately on the execution of his assignment, taking with him a portion of his estate, and that such acts render the assignment fraudulent and void.\nG. N. Titus, for plaintiffs.\nJohn W. Edmonds and W. C. Noyes, for defendants."
+  },
+  "file_name": "0193-01",
+  "first_page_order": 199,
+  "last_page_order": 204
+}

@@ -1,0 +1,80 @@
+{
+  "id": 5073488,
+  "name": "Munro vs. Potter, impleaded with Thorn",
+  "name_abbreviation": "Munro v. Potter",
+  "decision_date": "1861-10-01",
+  "docket_number": "",
+  "first_page": "358",
+  "last_page": "364",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 Barb. 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "18 N. Y. Rep. 558",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021180
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0558-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 481,
+    "char_count": 10685,
+    "ocr_confidence": 0.525,
+    "pagerank": {
+      "raw": 4.266329956415285e-07,
+      "percentile": 0.9155730700901867
+    },
+    "sha256": "024fb1158a825730552dbcb32febc14147ddc637762fa3e28f49b35b0784b467",
+    "simhash": "1:2f6b275b8fa069c0",
+    "word_count": 1946
+  },
+  "last_updated": "2024-02-27T21:57:18.655202+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Munro vs. Potter, impleaded with Thorn."
+    ],
+    "opinions": [
+      {
+        "text": "Morgan, J.\nI told the\" .jury in this case, that there was no question of fact for them to decide; but that the payments and indorsements on the note, under the circumstances, were sufficient\" to take the case out of the statute of limitations, as to Potter.\nThe counsel for'the appellant desired me to submit to the jury the question, whether the last payment of interest was by Potter, on his own account, or as the agent of Thorn.\nThis I declined, The, case as settled leaves it in. some\" doubt whether ! did not direct a verdict upon the sole ground of the last payment, and not generally upon the facts of the case as to the payments in question. \u25a0 \u25a0. \u25a0 \u25a0 .!\n\" It must be admitted that the payment of interest in th\u00e9 fall of 1857, was made at the request of Potter ; and that within the principles of the case of Winchell v. Hicks, (18 N. Y. Rep. 558,) this circumstance was sufficient to keep the note alive as. to him, without regard to the payment of 1858.\n\u2022 It does, not appear from the statement of-the case what' disposition was made of the evidence in regard to this payment of 1857. Some question was started in regard to the last payment, and that appears in the exceptions. There was no dispute as to the fact that Potter requested Thorn to. pay the interest, in 1857. If the decision had been put distinctly upon- the payment of 1857, there would be no.doubt of its correctness. \u2022 . \u00a1.-\nIt is the biisiness of the party who takes exceptions to. show. that the decision is wrong. It is not enough that he succeeds in mystifying \u25a0 it, by adopting language which subjects the judge to the suspicion that he did not understand the safest ground on which to place it. It is enough that the decision is right upon the undisputed facts of the case, whether the reason given is true or false. A new trial in such a case would do no good ; hut on the contrary, would subject the parties to an expensive litigation, to correct a theoretical error, which was not at all important to a correct decision of the questions involved. It would be sufficient, however, to induce this court to grant a new trial, if the case showed that the defendant had any way by which he could have avoided the result, if the true ground of the decision had been mentioned by the judge. But here the evidence was closed ; and it would be the merest speculation to suppose that the circumstances of the payment of interest in 1857, could have been altered at that stage of the trial. It is not even suggested on the argument that there was any way to overcome the effect of that payment.\nIf the court, however, should come to the conclusion that the decision is based solely upon the payment of interest on the note in 1858 ; and that the defendant\u2019s counsel might have overcome the effect of the evidence as to the prior payment ; then I think we are required to look into the facts, as to the payment of 1858, and Potter\u2019s admitted connection with it; and if we can see that the jury could fairly give it such an interpretation as would relieve Potter from liability, that a new trial ought to be granted.\nThe instruction asked for was, that if Potter was the agent of Thorn\u2019s assignee in making this last payment, he did not thereby make himself responsible for its legal effect upon the party who furnished the funds. The proposition is, that one joint maker of a note may become the agent of the other in malting a payment, without personal liability as to himself. If he does it as agent of the other joint maker, he does not; it is said, do it himself. It is admitted that he has an interest in the payment. If the note is not outlawed, the payment results to the benefit of both parties. At the time this last payment was made, Potter was still liable on the note ; and he had therefore an agency coupled with an interest. This interest was a stronger legal motive to his action than his responsibility as a mere agent. He participated in the act of payment, where he had an interest sufficiently strong to account for his conduct, without clothing him with a naked agency. Can he now say that he did not participate in the act of payment, except as a mere naked agent of the other joint maker ? Certainly he did nothing at the time to repudiate his connection with the matter, or avoid the effect of the payment in question.\nHe knew that the principal was about to make a payment, on the note which would benefit him, and revive it as against both parties, if they both participated in it. Potter now says, \u201c I did not participate in it because I had any interest in it, but as the mere agent or messenger of the other party. If the note does not outlaw as to me, before suit, I get the benefit of it: if it does, I repudiate the payment, and claim the benefit of the statute of limitations.\u201d\nTo my mind there is something inconsistent in the two characters. Men are supposed to consult their interests; and when it is for the pecuniary interest of a man that a payment should'be made by the principal debtor, and he consents to take the money and see to its application, the law will not allow him to assume that he did the act gratuitously, and not in obedience to his pecuniary interest. He cannot, in my opinion, afterwards call it a mere gratuitous act, without expectation of benefit to himself, because it happens in the course of time that it will turn out to his advantage to give it that construction. The law implies a new promise to pay a debt, barred by the statute of limitations, from a mere acknowledgment of a subsisting obligation. That acknowledgment is sufficiently evidenced by the payment, and indorsement of the payment on the obligation. If a surety requests the principal to make a payment of the interest on the obligation, and it is accordingly ma'de and indorsed, the act is regarded as the acknowledgment of hoth parties. (Winchell v. Hicks, 18 N. Y. Rep. 558.)\nFormerly, the law imputed the act of payment by one joint obligor as the act of both parties, on the ground of a supposed agency between them. It is now held that no such agency exists, (see cases cited by Judge Aden in Winched v. Hides, above;) and it simply follows that one joint maker cannot bind the other by such an acknowledgment, without his consent. But it has not been held that the other joint maker is not bound, when he knows of and assents to the payment. If he requests it, he is bound, as was decided in the case above cited. And I think it follows that he is equally bound if he knows of it at the time, and does any act whatever to facilitate it.\nIn this case, the act was done for the benefit of Potter, as well as the principal; for the note was not then barred by the statute. Potter knew of it, took the money to the holder of the note, and had it properly indorsed as so much paid by the principal; whose duty it was to make the payment. Grant that he was an agent; that does not relieve him from the knowledge and approval of an act done by the principal for his benefit. He was an agent, and more too. He had an interest and was competent, although acting as an agent, to approve and ratify the act in question, as having been done for his benefit, as well as that of the principal.\nIn my opinion, therefore, he was bound by the acknowledgment which the act indicated ; and which he participated in, and approved of, at the time it was done. As the act was done for his benefit, it will be assumed that he approved of it.\nFor these reasons, I think a new trial should be denied, even if the court come to the conclusion that the decision must rest upon the effect of the evidence of the payment of 1858.\n[Onondaga General Term,\nOctober 1, 1861.\nBacon, Allen and Mullin, justices, concurred upon the first ground taken ; but without expressing any opinion upon the last proposition.\nNew trial denied.\nBacon, Allen, Mullin and Morgan, Justices,]",
+        "type": "majority",
+        "author": "Morgan, J."
+      }
+    ],
+    "attorneys": [
+      "D. Pratt, for the appellant.",
+      "Charles Andrews, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Munro vs. Potter, impleaded with Thorn.\nWhen one who is principal in a joint and several note, makes a payment of interest at the request of the other joint maker, and it is indorsed on the note, such payment is evidence of a new promise, by both makers, sufficient to take the case out of the statute of limitations.\nIf, upon the undisputed facts of the case, the decision at the circuit is right, a new trial will not be granted, because the judge gave the wrong reason for it.\nIt seems, that when the surety in a joint and several note receives the money of the principal and sends it to the holder of the note, with directions to have it properly indorsed, and it is indorsed accordingly, he cannot relieve himself from the consequences of the indorsement, by assuming to act as an agent merely. Per Morgan, J.\nTHIS action was upon a promissory note of the defendants for $2000, dated October 20,1853, payable to the plaintiff or bearer, on demand. It was for money borrowed by Thorn. Potter appeared and set up the statute of limitations. There appeared, among others, the following indorsements :\n\u201c $140. Received the interest on this note up to October 20, 1857..\n$200. Received on the within note $200. October 8, 1858.\nRec\u2019d May 3, 1859, of the assignees of O. Thorn, the second dividend on within, it being $202.91.\u201d\nIn the fall of 1857, the three last years\u2019 interest upon the note remaining unpaid, the plaintiff called upon Potter for it, and he said he would see Thorn, and the interest should be paid. Potter accordingly applied to Thorn to pay the interest, and Thorn thereupon paid it, and it was indorsed- upon the note.\nThorn, prior to October, 1858, made a general assignment of his property to one Talcott, for the benefit of his creditors. A dividend was made, and Talcott had in his hands $202.92, to be paid upon this note. Thorn requested Potter to take it to the plaintiff. Potter, after some hesitation, consented, took it and sent $200 of it by one Kidder to the plaintiff, with directions to have it indorsed on the note, and it was indorsed accordingly.\nWhen the evidence was closed, the defendants\u2019 counsel desired the court to submit the question of fact to the jury, whether Potter paid the money on the note on his own account, or as the agent of Thorn\u2019s assignee; and whether Munro received it from him as such agent. The court declined, and held that upon the facts of this case, there was no question for the jury; \u201c and that the payment and indorsement upon the note, under the circumstances, was sufficient to take the case out of the statute of limitations.\u201d'\nThe jury found a verdict for the amount due on the note, upon which judgment was entered. The defendant Potter haying excepted to the decision, appealed to this court.\nD. Pratt, for the appellant.\nCharles Andrews, for the respondent."
+  },
+  "file_name": "0358-01",
+  "first_page_order": 358,
+  "last_page_order": 364
+}

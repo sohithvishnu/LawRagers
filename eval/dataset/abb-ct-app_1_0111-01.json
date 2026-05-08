@@ -1,0 +1,255 @@
+{
+  "id": 1111896,
+  "name": "BARNES v. ALLEN",
+  "name_abbreviation": "Barnes v. Allen",
+  "decision_date": "1864-12",
+  "docket_number": "",
+  "first_page": "111",
+  "last_page": "120",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Lans. 405",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Barb. 335",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2421775
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/21/0335-01"
+      ]
+    },
+    {
+      "cite": "3 Den. 315",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187631
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/3/0315-01"
+      ]
+    },
+    {
+      "cite": "25 Barb. 281",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "25 N. Y. 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Barb. 451",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4876627
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/6/0451-01"
+      ]
+    },
+    {
+      "cite": "56 Barb. 202",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2253007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/56/0202-01"
+      ]
+    },
+    {
+      "cite": "32 How. Pr. 142",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2227978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/32/0142-01"
+      ]
+    },
+    {
+      "cite": "47 Barb. 120",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946933
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/47/0120-01"
+      ]
+    },
+    {
+      "cite": "30 Barb. 663",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5027350
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/30/0663-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 440",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Barb. 225",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777079
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/4/0225-01"
+      ]
+    },
+    {
+      "cite": "30 Barb. 633",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5028929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/30/0633-01"
+      ]
+    },
+    {
+      "cite": "10 Johns. 365",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135931,
+        2135942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/10/0369-02",
+        "/johns/10/0369-01"
+      ]
+    },
+    {
+      "cite": "3 Mass. 317",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2005714
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/3/0278-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. 196",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131467
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/5/0196-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 440",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Barb. 225",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777079
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/4/0225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 817,
+    "char_count": 20413,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 2.734711612913327e-07,
+      "percentile": 0.8314071592590919
+    },
+    "sha256": "644bd16f5bd8805f3920917384c67667b19b82da9ff20b6f670078e274311380",
+    "simhash": "1:38eee036c59ae065",
+    "word_count": 3663
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BARNES v. ALLEN."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nT. A. Johnson, J.\nThe theory upon which the case was submitted to the jury by the justice at the circuit, was, that if the defendant went by appointment and took the plaintiff\u2019s wife away to her father\u2019s, even though he went at her request, and acted in the honest belief that her statements in regard to her treatment and her apprehensions as to her personal safety were true, the act would not be justifiable ; but that the defendant, in order to justify the act, must go further, and prove that her complaints were true in point of fact. The jury were told expressly chat if the defendant had met her casually he would have been justified in acting upon her complaints, and talcing her, as he did, to her father\u2019s; but not so if he went for her by appointment. The evidence tends to show very plainly that the defendant went that morning for the purpose of taking the wife to her father\u2019s, if she desired to go; and the inference is very strong that it was in pursuance of her request, and complaints which she made in regard to her treatment. He did not go upon the plaintiff\u2019s premises, but merely drove along the highway, stopping in front of the plaintiff\u2019s house, when the plaintiff\u2019s wife, in the exercise of her own volition, came from her house, got into the wagon, for the express purpose of being taken to her father\u2019s, and was taken there by the defendant. Evidently it was not a casual meeting, but a preconcerted one. But I am wholly unable to discover any substantial ground for the distinction made in the two cases, and am confident there is no principle of law upon which it can be maintained. If the defendant might have lawfully acted upon her statements that evening when they were just made, why not the next morning, when the time for the journey was far more suitable and proper ?\nHere was no such lapse of time as to affect the principle of law which must govern in a case like this. The question of sudden impulse, or a few hours for reflection, is obviously not the controlling one in a case of this kind, in point of law.\nAs evidence bearing upon the question of good faith on the part of the defendant in doing what he did, it would be important, and might turn the scale; but it would be evidence bearing upon a question of fact only, which must be determined before the question of law arises. This is an action sounding in tort. The mere action of the defendant in taking the plaintiff\u2019s wife in his wagon to her father\u2019s, at her request, was not in itself a tortious act, though done without the plaintiff\u2019s consent. No action could be maintained upon such an act alone. It is rendered tortious or wrongful by reason of the unlawful or improper motive which is alleged to have prompted it. The unlawful motive, or design, is charged in the complaint, and is the very gravamen of the action. It was the essential feature, without which the act was perfectly harmless and lawful. This was put in issue by the defendant, and the burden of establishing it by affirmative evidence was manifestly upon the plaintiff. Instead of this, the burden was cast upon the defendant of justifying the act, as one which was tortious, prima facie, and irrespective of motive. If he went there by appointment, says the judge to the jury, the wife\u2019s statement of her wrongs and her peril afford no shield whatever, but the burden is cast upon him of proving that they were true. Even if the defendant believed them, and acted in good faith on such belief, the doctrine of the charge is, that he had no legal right to entertain such belief, or to act upon it the next morning after the statements were made. This cannot be the law. Here the plaintiff\u2019s wife had left him, taking one child, and leaving one or more, and gone to her father\u2019s, where she had remained nearly two years when this action was commenced; and it is assumed that she had no good cause for thus leaving and remaining away; that her statements were either false or of no consequence in a legal point of view ; and the defendant is held answerable for her imputed misconduct in thus leaving and remaining away, unless he can prove affirmatively that the grounds she alleged for leaving were true. This would be the rule if the wife were the chattel of the husband, over which he had complete and perfect dominion as property. The removal in such case would be, prima facie, unlawful, and constitute a ground of action, unless justified by affirmative proof establishing the legal right to remove. But the wife, happily for the interests' of society, bears a relation to the husband far different from this, notwithstanding her marriage, and, for certain purposes, the merging gnd incorporation of her existence into that of her husband, she is still in law an individual, having separate rights, which the law will uphold and protect even against the husband; and amongst these is the right to invoke and receive aid, shelter and protection from others, even strangers, against the oppression and cruelty of the hus\"band. This aid, shelter and protection may he lawfully rendered by a stranger upon the application and statement of the wife, showing its necessity, if acted upon in good faith.\nHe may in such case treat the wife as a person, an individual entitled to credit, and invested with the rights and claims of, and upon, our common humanity. But he must be careful not to step beyond this legitimate boundary, into the field of undue influence and control, against the lawful rights and claims of the husband.\nThis was assumed to be the rule, in the charge, provided the defendant had acted promptly, at the first meeting and on the spur of the moment. It is neither unlawful nor improper in the wife to abandon a husband, who treats her cruelly, and with whom it is unsafe for her to remain; and in such a case anyone may, at her request, lawfully harbor or assist her in removing to a place of safety. Such assistance is not against the lawful rights or claims of the husband. He has no legal right to her society or services, if he treats her with cruelty, and makes her condition intolerable, provided she chooses to absent herself. Hor will the law permit the husband, in such a case, to recover damages for a loss thus occasioned, from his neighbors who may have merely assisted her, at her own request, in doing what the law allows her to do. I take it to be undoubted law, that in an action between the husband and a third party, for the loss of the society and services of the wife, who, at her own request and upon her statement of cruel and inhuman treatment at the hands of her husband, received shelter or aid in removing to another place, by such person acting in, good faith, there is no legal presumption in fayor of the husband that the wife\u2019s statements are untrue. And unlawful motives cannot be imputed to the defendant unless they are established by direct proof, or are fairly deducible from the facts and circumstances given in evidence on the trial. The. wife\u2019s statements in such a casq are in the nature of res gestes, and evidence may be given by the husband, showing that they were unfounded, and that the other party did not credit them, but acted in the premises from some unworthy or improper motive. Thus, in the leading case of Philp v. Squire, Peake\u2019s Nisi Prius, 82, which was an action for harboring the plaintiff\u2019s wife after notice not to do so, it appeared that the plaintiff\u2019s wife came to the house of the defendant, to whose wife she was related, and represented herself to have been very ill-used by her husband, who, she said, had turned her out of doors. Upon this representation, the defendant received her into his house, and at her request suffered her to remain there after he had received notice not to harbor her. There was no proof that the husband had in fact ill-treated her. Lord Kentos, after stating the case, said: \u201c But where she (the wife) is received from motives of humanity, the action cannot be supported. If it could, the most dangerous consequences would ensue, for no one would venture to protect a married woman. It is of no consequence whether the wife\u2019s representation was true or false.\u201d\nThe rule laid down in that case is admitted to be the true one, in the case of Hutchinson v. Peck, 5 Johns. 196, all the judges agreeing that, when the defendant acts from motives of humanity toward the wife, and* in good faith, the action will not lie. And so in the case of Schuneman v. Palmer, 4 Barb. 225, it was held that the material point of the inquiry was the motive with which the defendant acted, and that the bare fact that the defendant had allowed the plaintiff\u2019s wife to ride with him in his wagon to his house, and remain there contrary to a notice from the plaintiff, was not enough. See also Turner v. Estes, 3 Mass. 317.\nThe gist of the action, as all the authorities agree, is the loss, without justifiable cause, of the comfort, society and services of the wife. In maintaining the action, two questions principally arise: was the loss occasioned by the voluntary act of the wife upon justifiable cause; or was it occasioned by the acts or persuasion of the defendant, without any real cause, and in bad faith toward the plaintiff? On both these questions the plaintiff must give evidence tending to make out a case, or his action must fail. As was said by Chief Justice Willes in Winsmore v. Greenbank, Willes, 577, 581: .\u201cthough it should be said that the plaintiff lost the comfort and assistance of his wife, yet if the fact that is laid by which he lost it be a lawful act, no action can be maintained. By injuria is meant a tortious act.\u201d\nThe charge concedes that if the wife\u2019s complaints were well founded, she had justifiable cause for leaving, and the defendant would be justified in assisting her as he did, even though he went by appointment for the purpose. This is undoubtedly the law, provided always that the defendant was acting in good faith and from motives of humanity and kindness to the wife.\nThe error in this part of the charge is that it overlooks entirely the question of motive, and casts the burden upon the defendant of proving'the truth of the wife\u2019s statements. If he went there by appointment, in the first instance, it makes the mere act, in that case, a tort, however honestly or humanely the defendant may have acted; and excuses the plaintiff from the necessity of giving any other evidence in support of his action.\nIn assuming that the defendant acted in what he did at the request of the wife, and in the belief that her statement was true, and for the purpose of removing her to a place of safety, his conduct was not only justifiable, but free from all just ground of censure. He might have kept her at his own house, but, under all the circumstances, it was more discreet and prudent in him to take her to her father\u2019s, who was her natural protector and better fitted to advise her in respect to her future course than himself, who was on unfriendly terms with the plaintiff. If he arranged with her to come to her assistance during the night, in case of violence attempted, or inflicted, and to take her to her father\u2019s in the morning, in good faith, \u2022there was nothing unlawful in it, and the advice, under such circumstances, to the wife, to go to her father for shelter and safety, was such as he had a right to give. If the conduct of the plaintiff toward the wife was such as she represented, she was clearly justifiable in leaving him and going to her father\u2019s, and any one would be justified in advising and assisting her. in doing so upon her application for protection and assistance. It was a lawful and proper act on her part, and the husband cannot complain if it was the result of his own misconduct. Eor this error alone, the judgment should be reversed, as the jury might well have found, and probably did, that the defendant went to the plaintiff\u2019s on that occasion by appointment.\nThe jury were also charged, in substance and effect, that they had no right to consider the defendant\u2019s statement, in respect to the plaintiff\u2019s treatment of his wife, unless the defendant had stated it as a fact, and not as the representation of the wife. This was also error, for the reasons above given. They jury were also instructed that if they should find that the defendant had stated the matter of ill-treatment as a fact, and not as the representation of the wife, they might consider those statements, and had the right to believe a part, and reject other parts. That they might believe the fact admitted and reject the reasons given. If this was laid down to the jury as a right which they might exercise arbitrarily, as it seems to have been on the face of the charge, it was erroneous. The plaintiff had introduced the confessions of the defendant, and it was the clear right of the latter to have all he said upon the subject at the time taken and considered together. He had a right to the benefit of that portion which tended to excuse or justify the act. If the whole statement taken together does not make out a cause of action, the action must fail if there is no other evidence to support it. Credit v. Brown, 10 Johns. 365 ; Smith v. Jones, 15 Id. 229. It is quite true that the jury are not necessarily bound to give equal credit to all parts of a statement or confession. If one part is highly improbable, or there is other evidence tending to discredit it, and the jury can see from all the other facts and circumstances of the case, grounds for disbelieving it, they may do so, and give credit to other portions of the statement. Kelsey v. Bush, 2 Hill, 440; 1 Greenl. Ev. \u00a7\u00a7 201, 218. With this qualification, the rule laid down at the circuit would be correct. The jury had, of course, the right to take into consideration the unfriendly feeling of the defendant toward the plaintiff, in respect to this, as well as the other portions of the case. If the defendant was unfriendly to the plaintiff, however, he had the same legal right to assist and harbor the wife of the latter, as though he had been on the most friendly terms. The state of his general feelings toward the plaintiff would not be conclusive, one way or' the other, on the question of motive, in the particular case. It is quite obvious that it would require less evidence to establish the improper motive in the former than in the latter case.\nMy conclusion is that the judgment should be reversed, and a new trial granted, with costs to abide event.\nA niajority of the judges concurred.\nJudgment reversed, and new trial ordered, costs to abide event.",
+        "type": "majority",
+        "author": "T. A. Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "John E. Porter, for defendant, appellant.",
+      "G. Wheaton, for plaintiff, respondent. \""
+    ],
+    "corrections": "",
+    "head_matter": "BARNES v. ALLEN.\nDecember, 1864.\nReversing 30 Barb. 633.\nIn a husband\u2019s action to recover damages from defendant, for assisting his wife to leave him at her request, upon her complaint of ill-usage, the burden of proof is upon plaintiff to prove an unlawful motive or design on defendant\u2019s part.\nA stranger, in good faith, acting upon a wife\u2019s complaints of her husband\u2019s ill-usage, may lawfully aid and shelter her.\nIt makes no difference that the assistance was not rendered till the day after the complaints were made.\nIn the husband\u2019s action, in such case, there is no presumption that the wife\u2019s complaints were unfounded.\nThe gist of an action by a husband for enticing away his wife is the loss, without justifiable cause, of her comfort, society and services. Plaintiff must give evidence, both that the loss was not occasioned by the voluntary act of the wife upon justifiable cause, and that it was oc- \u2022 casioned by defendant without any real cause, and in bad faith towards plaintiff.\nOne whose admission is adduced in evidence against him, has a right to have all he said upon the subject at the time taken together; and, although the jury are not necessarily bound to give equal credit to all parts of an' admission, it is not proper to instruct them, in effect, that they may arbitrarily believe the fact admitted, and disbelieve the reasons for it.\nHenry M. Barnes sued Thomas N. Allen, in the supreme court, to recover damages against defendant, for maliciously enticing and carrying away his wife. On the trial, plaintiff proved that one morning in March, 1857, defendant came with ahorse and wagon and stopped in front of plaintiff\u2019s house, when plaintiff\u2019s wife came out, got into the wagon, Avith one of her children, and was taken by the defendant to the residence of her father. A confession made by defendant was also proved, by which it appeared that the night before he carried away the plaintiff\u2019s wife, she had gone to defendant\u2019s house and said that she was afraid to stay at her husband\u2019s house ; that her husband so abused her that she was afraid of her life, and requested the defendant to carry her to her father\u2019s; that defendant advised her to go home on that night, and that upon a certain signal which he arranged, he would come to her assistance, if any violence were attempted, and that the next morning he would carry her to her father\u2019s; that he had adArised her to go to her father\u2019s, because she said she was afraid of her life at her husband\u2019s.\nProof was also given that defendant had said that plaintiff was a bad man, and he would hunt him to his grave; also that by taking away the plaintiff\u2019s wife he guessed he was even with him.\nAt the close of the evidence the defendant moved for a non-suit, on the grounds that the facts proved made out no cause of action, and because there was no proof of malicious intent. 0\nThe motion was denied, and exception taken.\nThe judge charged, among other things : \u2014 That the fact of plaintiff\u2019s A\u00f1fe being carried away in defendant\u2019s wagon was proved, and the maintenance of the action would depend on the spirit in which that act was done.\nThe judge also charged that if she met him casually, he would haA*e been justified in taking her in his wagon and carrying her to her father, by her complaints, if she made them: but if he went there by appointment to carry her away, then the removal must be justified by facts.\nThat so far as the confessions made by the defendant consisted of statements that the plaintiff\u2019s wife had told him that she was abused, those, if true, would not justify the defendant in interfering to remove her. He must show that she was abused, to justify such an interference.\nThat the jury might believe a part and reject other of the allegations made in the confessions of the defendant. Thus they might believe the fact that he admitted, and disbelieve the reason which he gave. That if they rejected all the defendant\u2019s explanations of his conduct, and believed that he interfered purposely to remove the plaintiff's wife from her husband, the cause of action was made out.\nTo this portion of the charge an exception was taken.\nThe judge also charged that if the defendant, in his confessions, stated that the plaintiff\u2019s wife was abused and ill treated, as a fact, and not merely that she complained to him, so far the jury had a right to consider the defendant\u2019s statements as material on this part of the case.\nThe plaintiff obtained a judgment for eight hundred dollars.\nThe supreme court, on appeal, held that the wife\u2019s statements were not, alone, a justification of defendant\u2019s interference, citing Schuneman v. Palmer, 4 Barb. 225 ; and that the instruction of the judge as to the confession was sustained by 1 Greenl. on Ev. \u00a7\u00a7 201, 218; Kelsey v. Bush, 2 Hill, 440; and that the evidence in this case tended to show that defendant was actuated by malice, and the jury were warranted in rejecting his explanations. Reported in 30 Barb. 663.\nFrom that judgment the defendant appealed to this court.\nJohn E. Porter, for defendant, appellant.\nG. Wheaton, for plaintiff, respondent. \"\nSee also Campbell v. Carter, 6 Abb. Pr. N. S. 151.\nIt is not essential that actual desertion be shown in order to sustain the action. Heermance v. James, 47 Barb. 120; S. C., 32 How. Pr. 142. See also Hoard v. Peck, 56 Barb. 202, where a husband\u2019s action against a druggist for supplying the wife with laudanum, was sustained.\nThe statements must relate to the same subject. Dorlon v. Douglass, 6 Barb. 451; but a distinct fact is within the rule, if it goes to avoid the effect of the part of the statement which has been admitted. Rouse v. Whited, 25 N. Y. 175; reversing 25 Barb. 281. Compare Delamater v. Pierce, 3 Den. 315; Penfield v. Jacobs, 21 Barb. 335; Perego v. Purdy, 1 Hilt. 270. See also, Potter v. Bissell, 3 Lans. 405."
+  },
+  "file_name": "0111-01",
+  "first_page_order": 121,
+  "last_page_order": 130
+}

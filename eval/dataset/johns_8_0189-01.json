@@ -1,0 +1,112 @@
+{
+  "id": 2134511,
+  "name": "Thompson against Ketcham",
+  "name_abbreviation": "Thompson v. Ketcham",
+  "decision_date": "1811-08",
+  "docket_number": "",
+  "first_page": "189",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Johns. 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Johns. Rep. 528",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Cas 23",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1888797
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-cas/1/0025-01"
+      ]
+    },
+    {
+      "cite": "4 Johns, Rep. 285",
+      "category": "reporters:state",
+      "reporter": "Johns, Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Johns. Rep. 531",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Johns. Cas. 22",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1888810
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-cas/1/0023-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Rep. 285",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 442,
+    "char_count": 8729,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 3.1610842392328496e-06,
+      "percentile": 0.9976363486828769
+    },
+    "sha256": "c598cda35f9f2bdea78435b33aac07d567c5eb3c279024d5bac8cc9582cc1f9a",
+    "simhash": "1:2e651e2dc24a9767",
+    "word_count": 1602
+  },
+  "last_updated": "2024-02-27T22:33:54.852748+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thompson against Ketcham."
+    ],
+    "opinions": [
+      {
+        "text": "Kent, Ch. J.\ndelivered the opinion of the court. This case presents two questions; 1. Was parol evidence admissible that the payment of the note was to be made in New-York ? 2. If it was not, then on whom did the onus lie of proving the law of the island of Jamaica on the subject of infancy ?\n1. When this- cause was formerly before the court, (4 Johns. Rep. 285.) the admissibility of the testimony relative to the agreement to pay the note in New-York, was not drawn in question; for the testimony had been admitted without objection. This, point is not therefore to be considered as having been decided in that case. The evidence was not\u2019admissible. The time of payment is part of the contract, and if no time be expressed, the law adjudges that the money is payable immediately. This is not only a positive rule of the common law, but it is a general principle in the construction of contracts. When the operation of a contract is clearly settled by general principles of law, it is taken to be the true sense of the contracting parties; and it is. against esta\u00bb, blished rule to vary the operation of a writing by parol proof. There is no ambiguity in this case which requires explanation. The note, upon the face of it, was payable immediately, and the parol proof went to alter, in a very material degree, its operation and effect,, by making it not payable, until some distant and-undefined period, when the parties should arrive at New-York. Suppose the note had been put in suit, in Jamaica, before the parties left the island, could it have laid in the mouth of the defendant to say that he was not suable, because the time of payment had not arrived, as he had not arrived in New-York. The force and effect of the contract must be de termined from the\" contract itself, and not by proof aliunde. The lex loci is to govern, unless the parties had in view a different place, by the terms of the contract. Si partes alium in contrahendo locum respexerint. This is the language of Huber. Lord Mansfield, in Robinson v. Bland, (2 Burr. 1077.) says, the law of the place can never be the rule, where the transaction is entered into with an express view to the law of another country, and that was the case with the contract in that cause.\nThis case does not fall within the range of those cases in which the courts have admitted, parol proof of an agreement to enlarge the time of performance. In all those cases the agreement was subsequent to the time of the original contract, and admitted the force and effect, of it. (1 Johns. Cas. 22. 1 Esp. N. P. 35. 3 Johns. Rep. 531.) Here the proof, according to the import of the case, went to show the original agreement to be different from what the note declared it to be; and it was, therefore, inadmissible.\n2. The testimony being rejected, the next question is, which party was bound to prove the law of Jamaica. The court cannot know, ex oficio, what are the rights and disabilities of infants, or when infancy ceases, by the provincial law of Jamaica. These questions depend much upon municipal regulations; and what the foreign law is, must be proved, as a matter of fact. This was so ruled by Lord Eldon, in Male v. Roberts. (3 Esp. N. P. 163.) The defendant was bound to make out a valid defence, and it therefore lay with him to show that his plea of infancy was good by the law of Jamaica. The court are not to know that fact, without proof; and the good sense and logic of pleading show, that it is the duty of the party who interposes a defence to a contract, otherwise binding, to prove every thing requisite to the validity of the defence. It was enough for the plaintiff to rely upon his demand, until it had been, legally met by the plea. If the defendant had specially pleaded infancy, QQght to have accompanied it with an averment, that by the law of Jamaica he was an infant, and the contract not binding upon him. As the defendant did not prove what the law of Jamaica was on the subject, he did not make out his defence, and the plaintiff is entitled to judgment.\nJudgment for the plaintiff. .",
+        "type": "majority",
+        "author": "Kent, Ch. J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thompson against Ketcham.\nThe time of pay ment is part of the original contract, and if ns time of payment is expressed in a note, the law adjudges it to be payable immediately; and parol evidence is inadmissible to show a different time of payment.\nThe lex loci contractus is to govern, unless the parties, by the-.terms of the contract, had J'n view a different place.\nWhere the defendant in an action brought here, on a promissory note made in Jamaica, set up infancy as a defence, it. was held tliathe was bound to shotv that such a plea would be a good defence in Jamaica,\nTHIS was an action of assumpsit. The declaration, , . \u2019 , besides the usual money counts, contained a count on a promissory note, as follows : \u201c I promise to pay Capri Samuel Thompson, eighty dollars, for value received. Montego Bay, April 21, 1807.\u201d\nPlea, general issue, with notice that infancy would be. given in evidence at the trial.\nThe cause was tried at the Ulster circuit, in September, 1810, before Mr. Justice Yates,\nIt was prov\u00e9d that the defendant had acknowledged that the plaintiff had lent him the 80 dollars at Monte3 0 Bay, in the island of Jamaica; and that he could not have done without the -money.\nThe defendant proved that at the time he executed the note, and when he acknowledged the receipt of the money, he was under the age of 21 years.\nThe plaintiff objected to the insufficiency of the evidence, unless the defendant also proved that by the laws of Jamaica, infancy was a defence to an action for the money.\nThe defendant then offered to prove, that by a parol agreement between him and the plaintiff, the money was to be paid on the arrival of the parties at the city of New-York, and that both of them arrived here at the same time. This evidence was objected to, but admitted, and a verdict was taken, by consent, for the plaintiff for 99 dollars and 68 cents, subject to the opinion of the court, on a case containing the above facts.\nTwo points were raised for the consideration of the court; 1. The defendant was bound to show that by the laws of Jamaica, infancy would be a defence there, to an action on the note.\n2. That the parol evidence which was objected to by the plaintiff, at the trial, was inadmissible.\nThe case was argued by Sudam, for the plaintiff, and Buggies, for the defendant. In addition to what was said on the former argument of the same case, (See 4 Johns, Rep. 285.) the counsel for the plaintiff, relied also on the case of Holman v. Johnson. In no case, it was contended, where a contract is made in reference to the laws of another country, is the party seeking to enforce the contract, bound to show those laws; but the defendant who seeks an exemption by such laws, must prove them. According to the rules of special pleading, the defendant mu\u00e1t prove the foreign law on which he relies for his defence.\nAgain, parol evidence cannot be received to control the legal import of a known commercial instrument. The note, on the face of it, is payable immediately; and if the defendant had been sued in Jamaica, he could not have set up in defence, a subsequent parol agreement of the plaintiff to receive the money on his arrival at New-York. The original contract was complete in Jamaica, and cannot be varied by parol evidence of a subsequent agreement. The time and place of payment are an essential part of the contract, and must be stated. Where no time of payment is expressed in the contract, it is a conclusion of law, that the money is to be paid immediately. It is not left as a matter of mere presumption or inference; but is fixed, by judgment of law, as clearly as if it was so expressed in the contract.\nFor the defe'ndant if was observed, that if the defendant had pleaded infancy, a replication that the note was made in Jamaica would not get rid of the bar, unless it was also shown by the plaintiff, that by the law of that island, infancy was no bar.\nWhere a party covenants to pay money, or to do a certain thing, at a certain time, the time of performance may be extended by parol. If, then, parol evidence is admissible to extend the time of payment, there is no good reason why it may not be received to show the place of payment. Parol evidence may be received to explain a written contract. It may be admitted also to vary an inference or rebut a presumption. If the law amplies that the note in question is payable on demand, why may not the defendant repel that presumption, by parol evidence of an agreement that it should be paid at a certain time and place ?\nCowp. 341.\nl Taunt. Rep. 347. Hogg v. Smith.\n3 Esp. Cas 35. 1 Johns. Cas 23. 3 Johns. Rep. 528.\nRob. on Frauds, 10.55, 56. 63, 64."
+  },
+  "file_name": "0189-01",
+  "first_page_order": 197,
+  "last_page_order": 202
+}

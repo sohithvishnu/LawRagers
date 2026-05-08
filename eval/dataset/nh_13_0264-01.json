@@ -1,0 +1,153 @@
+{
+  "id": 467732,
+  "name": "Sampson vs. Burnside",
+  "name_abbreviation": "Sampson v. Burnside",
+  "decision_date": "1842-07",
+  "docket_number": "",
+  "first_page": "264",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 N.H. 264"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.H. Super. Ct.",
+    "id": 9933,
+    "name": "New Hampshire Superior Court"
+  },
+  "jurisdiction": {
+    "id": 47,
+    "name_long": "New Hampshire",
+    "name": "N.H."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Mass. 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053400
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/11/0478-01"
+      ]
+    },
+    {
+      "cite": "7 N. H. Rep. 237",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6755429
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/7/0237-01"
+      ]
+    },
+    {
+      "cite": "6 Verm. Rep. 388",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        11269558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/6/0388-01"
+      ]
+    },
+    {
+      "cite": "1 Dev. & Bat. 492",
+      "category": "reporters:state",
+      "reporter": "Dev. & Bat.",
+      "case_ids": [
+        8695839
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/18/0492-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 380",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018779
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0380-01"
+      ]
+    },
+    {
+      "cite": "11 Mass. 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0478-01"
+      ]
+    },
+    {
+      "cite": "7 N. H. Rep. 237",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6755429
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/7/0237-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 402,
+    "char_count": 6392,
+    "ocr_confidence": 0.588,
+    "pagerank": {
+      "raw": 1.9703725672100985e-07,
+      "percentile": 0.7392357623938693
+    },
+    "sha256": "b7f6cfe59e13ef730d160df2a334cf25b18833b72ca17544da861083cdd1e8ad",
+    "simhash": "1:e91144759a18d087",
+    "word_count": 1144
+  },
+  "last_updated": "2024-02-27T22:43:18.913907+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sampson vs. Burnside."
+    ],
+    "opinions": [
+      {
+        "text": "Upham, J.\nIt is contended in this case that no license or permission can be given by parol to enter upon land and do the acts here named, and that any such license is within the statute of frauds.\nThis statute provides, that all leases, estates, or interest in land, made by parol, shall have the eifect of leases at will merely, and that \u201c no action shall be maintained upon any contract for the sale of lands, tenements, or hereditaments, or any interest in or concerning them, unless the agreement upon which such action shall be brought, or some memorandum thereof, be in writing, and signed by the parties to be charged therewith, or signed by some other person thereunto lawfully authorized by writing.\u201d 1 Laws N. H. 535.\nThis statute does hot prohibit a parol license for a qualified use of land, or to do certain acts upon land.\nA license may extend to setting a building, or erecting a dam on land; digging a ditch and turning water across the same; permitting an individual to flow land; or to enter upon it, divert and use running water; neither of which would be within the statute of frauds. A license is defined by Chancellor Kent, in his Commentaries, to be \u201c an authority to do a particular act or series of acts upon another\u2019s land, without possessing any estate therein. It is founded on personal confidence, and is not assignable, nor within the statute of frauds.\u201d 3 Kent\u2019s Com. (2d Ed.) 452.\nWhere a license is given, and entry made in pursuance of it, the individual entering is of course not a wrong doer. He cannot be regarded as guilty of a trespass, when he entered by express permission of the owner of the land, any more than the servant who enters on land while in the ordinary employ of his master and under his immediate direction, can be regarded as a trespasser.\nThe only question which has arisen on the subject of a license upon another\u2019s land has been, whether such license may be for a term of years, as in the case of Wood vs. Lake, Bayer's Rep. 3, which was a parol agreement to stack coal upon any part of the close of another for seven years ; or whether a license may become permanent and irrevocable, when it has once been acted upon, as in the case of Webb vs. Paternoster, Palmer's Rep. 71, where an erection of a building on one\u2019s own land, affecting injuriously the air and light of a neighbor\u2019s house, was held not to be revocable.\nThat a license may be given, and the person receiving it act under it without being liable as a trespasser, until it has been revoked prior to suit, seems not to have been contested.\nIn the case of Mumford vs. Whitney, 15 Wend. 380, Mr. Chief Justice Savage held that a license was a mere authority to do a particular act, as to hunt, or fish, or erect a temporary dam, and conveyed no interest in land. Such license is executory, and may be revoked at pleasure ; but acts done under it, before the revocation, are no trespass. In Bridges vs. Purcell, 1 Dev. & Bat. 492, it is held that a mere license is revocable, but acts done under it until countermanded are lawful. And in Barnes vs. Barnes, 6 Verm. Rep. 388, it is held that a license to erect a building on another\u2019s land cannot be revoked so entirely as to make the person who erected it a trespasser for entering and removing it after the revocation.\nLicenses are conceded to be revocable where the party, on having such license countermanded, is left in statu quo. But it has been said that where the license becomes executed by an expenditure incurred, it is either irrevocable, or cannot be revoked without remuneration, on the ground that a revocation under such circumstances is fraudulent, and unconscionable. The cases of Liggins vs. Inge, 7 Bing. 682; Tayler vs. Walters, 7 Taunt. 373; Ricker vs. Kelley, 1 Greenl. 117; Clement vs. Durgin, 5 Greenl. 9; Woodbury vs. Parshley, 7 N. H. Rep. 237; Putney vs. Day, 6 Ditto 430; Ameriscoggin Bridge vs. Bragg, 11 Ditto 102, are to this point.\nOn the other hand, there are authorities in which the principle of these decisions is contested to a greater or less degree. 1 Johns. Chan. Ca. 143; Cook vs. Stearns, 11 Mass. 533; Bridges vs. Purcell, 1 Dev. & Bat. 492.\nIn the present case, there is no evidence of a revocation, either with or without remuneration ; and it is clear, without consideration of farther questions which might arise, that the plaintiff cannot on such a state of facts recover.\nNonsuit entered.",
+        "type": "majority",
+        "author": "Upham, J."
+      }
+    ],
+    "attorneys": [
+      "Wells, for the plaintiff,",
+      "Young, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Sampson vs. Burnside.\nA parol license, to enter on land and lay down aqueduct logs, for the purpose of conveying water from a spring to adjoining land, with license to enter from time to time to examine and repair the same, is not a sale of land, or an interest in land, within the statute of frauds.\nWhether such license, when executed, can be revoked without full remuneration for the expense incurred, quaere ?\nHeld, that a suit for trespass cannot be maintained for an entry on the land under such license, without a prior revocation.\nTrespass quare clausum, for breaking and entering the plaintiff\u2019s close, and digging a deep pit and trench, by means of -which a spring of water, which the plaintiff was accustomed to use for himself and cattle, was destroyed and the plaintiff\u2019s land broken up and injured.\nThe defendant plead the general issue, and filed a brief statement, alleging a parol license to enter on the premises and lay down aqueduct logs to convey water from the same, and at all times thereafter to enter and repair the same.\nThe plaintiff contended that no parol license was sufficient to justify the entry and acts done, as alleged in the brief statement.\nIt was agreed that a nonsuit should be entered, subject to be set aside and a new trial granted, if this court should so direct on the foregoing facts.\nWells, for the plaintiff,\ncontended that the license set up by the defendant to do the acts complained of, constituted a conveyance of an interest in land, and was void, as within the statute of frauds. The case, Woodbury vs. Parshley, 7 N. H. Rep. 237, does not control this case. Cook vs. Stearns, 11 Mass. 533, is a case in point for the plaintiff.\nYoung, for the defendant.\nThe case, Cook vs. Stearns, 11 Mass. Rep. 533, cited by the plaintiff\u2019s counsel, has been overruled. A parol license to do certain acts on land when executed is irrevocable. 3 Kent\u2019s Com. (2d Ed.) 4.52. In this case there was no notice, or attempt at revocation before suit."
+  },
+  "file_name": "0264-01",
+  "first_page_order": 262,
+  "last_page_order": 265
+}

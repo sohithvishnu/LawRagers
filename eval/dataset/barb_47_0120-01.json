@@ -1,0 +1,103 @@
+{
+  "id": 1946933,
+  "name": "Heermance vs. James",
+  "name_abbreviation": "Heermance v. James",
+  "decision_date": "1866-10-02",
+  "docket_number": "",
+  "first_page": "120",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "47 Barb. 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "30 Barb. 663",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5027350
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/30/0663-01"
+      ]
+    },
+    {
+      "cite": "4 Barb. 227",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Barb. 441",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 John. 207",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 626,
+    "char_count": 14708,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 5.115158879918807e-07,
+      "percentile": 0.9386141817534536
+    },
+    "sha256": "114c490cc33b07802e3e6caff9b88121d861315e6d502f9fbb8754c82ba6cd0f",
+    "simhash": "1:f0e283141405b4fa",
+    "word_count": 2573
+  },
+  "last_updated": "2024-02-27T16:37:36.250875+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Heermance vs. James."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Potter, J.\nThe complaint charges, that the defendant, \u201c contriving and wickedly and unjustly intending to injure the plaintiff, and to deprive him of the affections, comfort, fellowship, society and assistance of Eachel, his wife, did, at, &c. wrongfully and unlawfully purpose, plan and undertake to alienate the affections of his (the plaintiff's) said wife, and did then and there, for the accomplishment of such purpose,'' (by various professions and pretenses set forth,) \u201cand by false insinuations against the plaintiff) and by other insidious wiles, so prejudice and poison the mind of the said Eachel, against the plaintiff, and so far alienate her affections from her said husband, as to induce the said Eachel to desire and seek to obtain a divorce or separation from the said plaintiff; and that the defendant, on or about the first day of February, 1866, did counsel, advise, aid and assist the said Eachel in efforts to procure the commencement of proceedings for such divorce or separation, he, the \"defendant, well knowing that no cause or lawful ground existed for either a divorce or separation. And that the said defendant did, by the means aforesaid, so far prejudice and poison the mind, &c. of the said Eachel against the said plaintiff, and did so far alienate her affections from the plaintiff, as to persuade and induce her to refuse to recognize or receive the plaintiff as her husband; and that on or about the 15th day of March, 1866, the said Eachel, acting under the wrongful and unlawful advice, influence and direction of the said defendant, did refuse to recognize or receive the plaintiff as her husband, or to live with him as his wife; and said.Rachel has from thence hitherto,' acting under the like advice, influence and direction of the said defendant, persisted in such refusal. And by means of the premises the plaintiff has from thence hitherto, wholly lost and been deprived of the comfort, fellowship, society, aid and assistance of the said Rachel, his said wife, in his domestic affairs; and the plaintiff has thereby been otherwise much' damnified and injured. Wherefore the plaintiff demands judgment,\u201d &c.\nAdmitting, as a demurrer does, the facts alleged, do they constitute a cause of action ? This seems to be the only question in the case. It is insisted that the acts specifically charged are not unlawful, and that therefore no action can be maintained. The conclusion from the premises of this proposition is a non sequitur, and is not sound. It is not the act alone, but it is the consequence which may directly or naturally result from an act, for which the party may be responsible ; and most especially is this the case,- when the act is done mischievously, designedly and wickedly, and with intent to produce the consequences that ensue; and a party is answerable criminally, as well as- civilly, for such consequences. The questions, then, in this case, are, were the consequences alleged the direct and natural result of the defendant\u2019s acts; and if so, are they the subject of an action, or the ground of damage ? I am not able to see any thing unnatural in the result, from the premises charged, but the contrary. If, as is admitted by the demurrer, the defendant contrived, and with a wicked intent, tried to deprive the plaintiff of the society, affections, aid and assistance of his wife, and with such intent did'perform the acts alleged; if he did attempt to persuade and induce the plaintiff\u2019s wife to refuse to \u201c recognize or receive the plaintiff as her said husband,\u201d and if the plaintiff\u2019s said wife did afterwards so refuse to recognize or receive her said husband, or to live with him as his wife; if the plaintiff subsequently lost, and was deprived of the comfort, fellowship, society, aid and assistance of his wife in his domestic affairs, it is only legally the direct and natural result of such interference, and is necessarily to be deduced from the facts alleged, not only, but it is a fact that stands charged and admitted upon the record, as the consequence of the act of the defendant.\nThis brings us to the real point in the case to be considered. Does such alienation of the affections of the wife; such refusal to recognize and receive the plaintiff as her husband, and to live with him as his wife ; such a deprivation of the comfort, fellowship and society of a wife ; such a loss of her aid and assistance in his domestic affairs, as is charged, though there be no actual physical absence or separation of the wife from him, constitute a cause of action, when caused as charged in the complaint ?\nSeparation is the usual consequence of such interference, and the cases found in the books are, it is true, cases of actual separation from the house and home of the husband; and upon this authority it is insisted that an allegation of pecuniary loss, or loss of services by an actual leaving, or continuing away from service, is necessary, to make out a cause of action. I do not think that this argument is sound. The gist of the action is the loss of the comfort and society of the wife. (Weedon v. Timbrell, 5 Term R. 357, 360.) Ashhurst, J. in this case, said: \u201c The gist of the ac- j tion is the loss of the comfort and society of the plaintiff\u2019s \\ ' wife ; that is always inserted in declarations of this kind as a material and substantial allegation, and the forms of pleading are evidence of the law.\u201d In Hutcheson v. Peck (5 John. 207, 208,) Spencer, J. held, even in a case where a father had given protection to his child, who was the plaintiff\u2019s wife, \u201c that if he did it maliciously, or improperly against the will of her husband, and thereby deprive him of comforts he is entitled to enjoy from her aid and society, most undoubtedly an action will lie.\u201d This proposition, laid down by Judge Spencer, is not to be regarded as at all in conflict with the remark of Van Hess, J. in the same case, who said : \u201cthe true and only inquiry is, has the conduct of the defendant occasioned \u00a3 damnum cum injuria\u2019 to the plaintiff? If both have been shown, the action is maintainable.\u201d If the gist of the action be the loss of the comfort of the society of the wife, then, damage with injury is fully stated and shown. In Wensmore v. Greenbank, (Willes\u2019 R. 581,) it was laid down \u201c that by injuria is meant a tortious act.\u201d This is fully charged in the present case. In Hutcheson v. Peck, (supra,) Thompson, J. said: \u201cthe quo. animo with which the defendant acted ought to have been made the material point of inquiry.\u201d In the case before us, the quo animo is fully alleged and admitted. In the case of Wensmore v. Greenbank, (supra,) which is a leading case, cited with approbation in Hutcheson v. Peck, the same objections, substantially, were made to the declaration in that case as in this, of omissions of allegations. Ch. J. Willes said: \u201c To be sure, it must be an \"unlawful procuring; but it is not necessary to set forth all the facts to show how it was unlawful.\u201d It was insisted that it was necessary to state in the complaint \u201cthat it was by false insinuations but the judge remarked, \u201cthat it was not material whether they were true or false ; if the insinuations were true, and by means of those the defendant persuaded the plaintiff\u2019s wife to do an unlawful act, it was unlawful in the defendant.\u201d And again, he says : \u201c every moment that a wife continues absent from her husband, (without justifiable cause,) without his consent, is a new tort, and every one who persuades her to do so, does a new injury, and can not but know it.\u201d Our own courts, to their credit, have quite uniformly adopted the same high moral views of the law of public policy, in this regard, as they have in England. In Bennett v. Smith, (21 Barb. 441,) T. E. Strong, J. holds this language: \u201cThe wife owes to the husband the duty of living with him, and seeking to promote his interests and happiness ; and by preventing the performance of that duty, a wrong is done to him, involving a pecu niary loss, as well as a loss of peace and comfort in the marriage relation. Whoever is the wrongdoer, whether the father of the wife, or any other person, he should he subject to an action for damages by the husband.\u201d The judge who tried the action last cited, charged the jury, \u201cthat if the defendant, by persuasion or force, prevented the plaintiff\u2019s wife from returning to her husband, he was liable ; or if he persuaded her to stay away from her husband, such persuasion was an unlawful act; and that the law imputes an unlawful purpose to all persons who do an unlawful act; and that if the defendant had done either of these, he was liable, without reference to his motives or intentions.\u201d The general term of the seventh district hold this charge to be sound. Such an injury is analogous to, and differs only in degree from, an injury to a husband by criminal conversation with the wife. In each case, it is alienating the wife\u2019s affections from her husband, and destroying the comfort he enjoyed in her society. (Id. 446.) So in the case of Schuneman v. Palmer, (4 Barb. 227,) Harris, J. laid down the rule: \u201cThe husband has the right to the society and assistance of his wife, and whoever persuades or entices her to separate herself from him, and thus deprive him of that right, is liable to an action.\u201d And again: \u201cwhenever a wife is unjustifiable in abandoning her husband, he who knowingly and intentionally assists her in thus violating her duty, is guilty of a wrong, for which an action will lie.\u201d This principle was repeated in Barnes v. Allen, (30 Barb. 663.)\nThe case before us differs from the cases cited, not in principle, but only in the fact that there was no actual departure of the wife from the husband\u2019s house, in the case before us. But how does this fact change the case, or the principle to be determined by it ? The injury in either case is the same, upon the authority above cited. I am not sure that the wrong and injury is not aggravated by the fact that the wife still remains in the house of the husband. Here was the same poisoning of her mind ; the same alienation of affections from the husband; the same refusal to receive or acknowledge him as a husband and to live with him as such ; the same refusal to give him comfort, fellowship and society; the same refusal of her aid and assistance in his domestic affairs\u2014all that constitutes the gist of the action\u2014 and all equally induced by the unlawful act and advice of the defendant. Her actual presence in his house and with him, under such circumstances, maintaining and exhibiting towards him such feeling, could afford him no relief from the injury inflicted, but would rather add the provocation of insult to the keenness of suffering. It would continue before him a present, living, irritating, aggravating if not consuming source of grief, which even her absence might in a measure relieve. At all events, it would relieve him from the burthen of her support, if she were absent. It is laid down by Bishop, in his work on Marriage and Divorce, (\u00a7\u00a7 777, 781, 782, 799,) that the refusal of the husband or wife to dwell with the other party to the marriage, as husband or wife, is desertion. The same authorities hold that there may be desertion though the parties continue to occupy the same house. (1 Bishop on Marriage and Divorce, \u00a7 779. 2 Little (Ky.) R. 337. Moss v. Moss, 2 Iredell (N. C.) B. 35.)\nHow is desertion, then, to be distinguished from separation? What reason can be given that should make it material that there be a technical physical separation of the parties, in order to constitute a cause of action ? I apprehend that the separation which occasions the real injury, the suffering, the loss, is based upon a higher principle; it is one that strikes at the source of the highest enjoyments of life; it is alienated affections, the loss of comfort, of fellowship, society, aid and assistance in domestic affairs; the loss of conjugal rights. \u201cIt may be laid down as a rule, (says Bishop,) that if one party refuse to the other whatever belongs to marriage alone, from causes resting in the will, and not from physical inability, the refusing party would thereby voluntarily withdraw from whatever the relation of marriage, distinguished, from any other relation existing between human beings, is understood to imply ; therefore he should be holden to desert thereby the other. \u25a0 (\u00a7 782.)\n[St. Lawrence General Term,\nOctober 2, 1866.\nThe law affecting this relation, I am disposed to say, should be administered and held in all its fidelity and integrity ; the courts at least should see to it, that the reproach should not be cast upon them, that he who commits an injury, such as that complained of in this case, should not be permitted to escape the consequences of his act, upon a frivolous and immaterial technicality.\nThe order of the special term should be affirmed.\nBockes, James, Rosekrans and Botter, Justices]",
+        "type": "majority",
+        "author": "By the Court, Potter, J."
+      }
+    ],
+    "attorneys": [
+      "C. M. Briggs, for the appellant.",
+      "J. A. Bhoudy, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Heermance vs. James.\nThe plaintiff alleged, in his complaint, that the defendant contrived, and with a wicked intent planned and undertook to deprive the plaintiff of the society, affections, aid and assistance of his wife, and with such intent did, by means of false insinuations against the plaintiff, and by other insidious wiles, so prejudice and poison her mind against the plaintiff, and so far alienate her affections from him as to induce her to desire and seek to obtain a divorce or separation from him; that the defendant counselled, advised, aided and assisted the wife in efforts to procure the commencement of proceedings therefor; and that he did, by the means aforesaid, so far prejudice and poison the mind of the wife against her husband, and so far alienate her affections from him, as to persuade and induce her to refuse to recognize or receive the ' plaintiff as her husband; and that she, acting under such advice and influence, did refuse to recognize or receive the plaintiff as her husband, or to live with him as his wife; whereby the plaintiff had wholly lost and been deprived of, the comfort, fellowship, society, aid and assistance of his wife, in his domestic affairs.\nJHeld, on demurrer, that the consequences alleged were legally the direct and \u2022natural result of the defendant\u2019s acts, necessarily to be deduced from the facts alleged, and admitted by the demurrer; and that, when caused as charged in the complaint, they were the subject of an action, and a ground of damage; although there was no actual physical absence or separation of the wife from her husband.\nAPPEAL from an order made at a special term, overruling a demurrer of the defendant, to the plaintiff's complaint.\nC. M. Briggs, for the appellant.\nJ. A. Bhoudy, for the respondent."
+  },
+  "file_name": "0120-01",
+  "first_page_order": 120,
+  "last_page_order": 127
+}

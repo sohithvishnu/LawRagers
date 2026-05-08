@@ -1,0 +1,133 @@
+{
+  "id": 2012903,
+  "name": "Pentz vs. Stanton",
+  "name_abbreviation": "Pentz v. Stanton",
+  "decision_date": "1833-05",
+  "docket_number": "",
+  "first_page": "271",
+  "last_page": "278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Wend. 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Gall. 630",
+      "category": "reporters:federal",
+      "reporter": "Gall.",
+      "case_ids": [
+        6132114
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/28/1067-01"
+      ]
+    },
+    {
+      "cite": "5 Mass. R. 299",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002149
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/5/0230-01"
+      ]
+    },
+    {
+      "cite": "2 Marsh. 454",
+      "category": "reporters:state",
+      "reporter": "Marsh.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Bin. 228",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795107
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/binn/6/0228-01"
+      ]
+    },
+    {
+      "cite": "16 Mass. R. 54",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Mass. R. 27",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053443
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0032-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 730,
+    "char_count": 17435,
+    "ocr_confidence": 0.641,
+    "pagerank": {
+      "raw": 2.764021388390616e-06,
+      "percentile": 0.9970567782137105
+    },
+    "sha256": "d68caabe5b94d5bedb135b8ab391e864bcfbd43a11a46bbba60485c6261a5f10",
+    "simhash": "1:a53fb8fc2c7e7d31",
+    "word_count": 3228
+  },
+  "last_updated": "2024-02-27T16:17:56.243744+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pentz vs. Stanton."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nSutherland, J.\nThe plaintiff cannot recover upon the bill of exchange against the present defendant. His name no where appears upon it. It was drawn and subscribed by West in his own name, with the simple addition of \u201c agent,\u201d but without any specification whatever of the name of the principal. Mr. Chitty, in his valuable Treatise on Bills, says, page 22, \u201c It is a general rule that no person can be considered a party to a bill, unless his name or the name of the firm of which he is a partner, appear on some part of it fJ and .Mr. Justice Butter, in Fenn v. Harrison, 3 T. R. 761, observes, that in the case of bills of exchange, we know precisely what remedy the holder has, if the bill be not paid j his security appears wholly on the face of the bill itself; the acceptor, the drawers and the endorsers are all liable in their turns, but they are only liable because they have written their names on the bill; but this is an attempt to make some other persons liable, whose names do not appear on the bill. In Siffkin v. Walker Rowleston, 2 Campb. 308, an action was brought against the defendants upon a promissory note given and signed by Walker only. The declaration appears, from the argument of counsel, to have averred that Walker had authority to give the note for Rowleston, and that it was given for their joint debt; and it appeared that the defendants were jointly indebted to the plaintiff on a charter party of affreightment, and that the note was given by Walker in satisfaction of that debt. Lord Ellenborough nonsuited the plaintiff observing that his remedy was either jointly against both defendants on the charter party, or separately against Walker on the promissory not\u00e9 ; and he asked, how can I say that a note, made and signed by one in his own name, is the note of him and another person neither mentioned nor referred to \u00cd and he observes further, that the import and legal effect of a written instrument must be gathered from the terms in which it is expressed, and this note must be considered as a separate security for a joint debt. In Emly and others v. Lye and an- ether, 15 East, 6, the action was upon a bill of exchange drawn by one of the defendants (who were partners) in his own name, which was discounted by the plaintiffs, and the money went to the use of the firm: but it was held that the plaintiffs , , ... 1 could uot recover, pither upon the bill or the money counts. Lord Ellenborough observed that the counts in the bill had been properly abandoned, for unquestionably, on a bill of exchange drawn by one only, it cannot be allowed to supply by intendment the names of others in order to charge them; and considering it a mere discount or sale of the bill, he also held that there was no joint. liability of the defendants for money had and received, and that it was the individual transaction of the partner xvho drexv the bill; and all the other judges expressed similar opinions.\nThere is no doubt that a person may draw, accept or endorse a bill by his agent or attorney, and that it will be as obligatory upon him as though it xvere done by his own hand. But the agent in such case must either sign the name of the principal to the bill, or it must appear on the face of the bill itself, in some way or another, that it was in fact drawn for him, or the principal will not be bound. The particular form of the execution is not material, if it be -substantially done in the name of the principal. 1 East, 434 2 id. 142. 3 Esp. 266. 2 Strange, 705. Comyn's Dig. Attorney, C. 14. 1 Campb. 485, 6, 384. 6 T. R. 176. This doctrine is very clearly stated in Stackpole v. Arnold, 11 Mass. R. 27, and in Arfridson v. Ladd, 12 id. 173. In the first of those cases, the action was brought upon three promissory notes, executed by one Cook, for premiums upon policies of insurance, procured by him at the request and for the benefit of the defendant. Cook acted merely as the factor of the defendant, and intended to bind Mm by the premium notes; but the notes did not, on the face of them, purport to be signed by Cook on the behalf of the defendant, and he was held not to be liable upon the notes. The parol testimony explaining and shewing the real nature of the transaction was decided to be inadmissible, on the ground that it contradicted or varied the written contract Judge Parker, in delivering the opinion of the court, says that \u201c No person, in malting a contract, is considered to be the agent of another, unless he stipulates for his principal by name, stating his agency in the instrument which he signs.\u201d This principle has been long settled and has been frequently recognized. \u201c Nor do I know,\u201d he continues, \u201c an instance in the books of an attempt to charge a person as the maker of a written contract appearing to be signed by another, unless the signer professed to act by procuration or authority, and stated the name of the principal on whose behalf he gave his signature.\u201d He also discusses at length the question of the admissibility of parol evidence in such cases to shew the real character of the transaction, and holds it to be utterly incompetent, on the ground which has already been stated. Vide also Mayhew v. Prince, 16 Mass. R. 54, and Meyer v. Barker, 6 Bin. 228.\nIt is well settled, that if a private agent draw a bill or enter into any other contract in his own name, without stating that he acts as agent, so as to bind his principal, he will be personally liable. Chitty on Bills, 36, and cases there cited. 5 Taunt. 749. 2 Marsh. 454. 5 East, 148. 1 Bos. & Pul. 368. 1 T. R. 181. It is not sufficient, to charge the principal or protect the agent from personal responsibility, merely to describe himself as agent, if the language of the instrument imports a personal contract on his. part. 5 Mass. R. 299. 6 id. 58. 8 id. 103. 1 Gall. 630. Chitty, 52. 9 Crunch, 155. But where the name of the principal appears on the face of the instrument or contract, and it is evident that the agent did not intend to bind himself personally, but acted merely on behalf of the principal, if he acted by competent authority, the principal and not the agent will be bound. Rathbone v. Budlong, 15 Johns. R. 1. Owen v. Gooch, 2 Esp. R. 567. Mott v. Hicks, 1 Cowen, 513, and the cases there referred to in the opinions of the judges. Rossiter v. Rossiter, 8 Wendell, 494.\nThe next inquiry is whether the defendant is liable upon the counts for goods sold and delivered. West was examined as a witness, and testified that he was the agent of the defendant in carrying on a woollen manufactory in Oneida county ; that the goods for which he gave the bill were purchased for the defendant, and were used in his business of manufacturing ; that he had authority to draw bills of exchange and notes in the name of the defendant; that when he called for the goods in this case, he proposed to let the plaintiff have the draft in question ; that the plaintiff said he would inquire about the drawee, and did so, and afterwards received the draft from the witness, and gave the receipt at the bottom of the bill. It does not appear that West disclosed to the plaintiff the fact that the goods were purchased for the defendant. The bill of goods delivered to him, was headed W. H. F. West, agent, and the draft which he gave was also signed by him as agent. These are the only circumstances showing the mutual understanding of the parties that West was acting as agent and not as principal in the transaction. It was shown that payment of the bill had been regularly demanded of the drawee and notice of its dishonor regularly given to West, the drawer. This would entitle the plaintiff to resort to the common count as against West, if he were the defendant and it had been a transaction unquestionably on his own account. Jones <$\u2022 .Mann v. Savage, 6 Wendell, 659,662. The question then upon this branch of the case is, whether the goods were sold to West exclusively upon his own individual credit and the credit of the bill which he drew, so as to prevent the plaintiff from all remedy against the defendant, for whom they were in fact purchased, and who has had the exclusive benefit of them. The only additional evidence upon this point, not already adverted to, is the letter written by the plaintiff to West on the 29th September, 1826, advising him of the dishonor of the bill by the drawee, and requesting him to make provision for its payment. I' do not think that this is a circumstance of much importance in the case. The communication would of course be made to West, and he would be called on for payment, admitting that he was known and considered by the plaintiff as a mere agent, as a matter of necessity; and it does not appear that the plaintiff knew who the principal vvas. It was a question for the jury to decide whether the goods were sold exclusively upon the credit of West and of the bill, or not, Bentley v. Griffin, 5 Taunt. 356; 1 Com. L. R. 131; Legget v. Reed, 1 Car. Payne, 16; 11 Com. L. R. 301, and cases stated in note; and it is to be regretted that it was not distinctly left to them by the judge. Upon the evidence, I think the jury would- have been justified jn finding for the plaintiff on this point. The plaintiff certa'nty knew that West was acting as agent for .some third person. The bill of goods was made out. to him as agent, and the draft which he received was signed by West as agent. It would not be an unreasonable conclusion from these facts, that the plaintiff did not repose entirely upon the security and responsibility of West, but had regard to the eventual liability of the principal, whoever he might be, if it should become necessary to resort to him. If the plaintiff should fail in this action on the ground that the credit was given exclusively to West, then no doubt he could recover in an action against West; and it is equally clear that whatever money West may be' compelled to pay on this account, would be money paid to the use of the defendant, and which he might recover from him. The defendant must eventually pay for these goods, and I see no legal objection to a recovery against him in this action upon the common counts.\nMotion for new trial denied.",
+        "type": "majority",
+        "author": "Sutherland, J."
+      }
+    ],
+    "attorneys": [
+      "P. Gridley, for the defendant.",
+      "J. A. Spencer, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Pentz vs. Stanton.\nNEW-YORK,\nMay, 1833.\nWhere the agent of a manufacturing establishment bought a quantity of dyestuffs for the use of the factory, without disclosing the name of his principal, gad the bill of goods was made out, \u201c Mr. A. B., Agent, bought of,\u201d &c. and he drew-.\u00bb bill.of_exchange on a third person, signing it A. B., Agent, and the bill was subsequently protest^ and an action to recover the price of the goods was brought against the principal; it was held, that the principal could not be charged as drawer of the bill by his agent, the name of the principal not appearing on it, but that the plaintiff was entitled to recover under a count for goods sold, the jury being warranted under the facts of the case in saying that the goods were not sold on the exclusive credit of the agent.\nWhether in such case the goods are sold on the credit of the agent or on the responsibility of the principal, whoever he may be, is a question for the jury ; but where that question was not submitted, and a verdict was found for the plaintiff, and the court were satisfied of the ultimate liability of the principal to the agent, they refused to set aside the verdict.\nA person may draw, accept or endorse a bill by his agent, and it will be as obligatory upon him as though it was done by his own hand; but the agent in such case must either sign the name of the principal to the bill, or it must appear on the face of the bill itself, in some way or another, that it was in fact done for him, or the principal will not be bound; the particular form of the execution is not material, if it be substantially done in the name of the principal\nThis was an action of assumpsit, tried at the Madison circuit in September, 1830, before the Hon. Nathan Williams, one of the circuit judges.\nThe first count in the declaration was on a bill of exchange for $158,36, bearing date 35th May, 1836, charged to have been drawn by one Henry F. West, by the name and description of II. F. West, agent, he, the said West, then and there being the agent and servant of the defendant in that behalf, according to the custom of merchants. The bill was drawn on one James Carey, payable four months after date, was accepted by Carey, and when due was protested for non-payment, and notice of non-payment was alleged to have been given to the defendant. There were also the common counts for goods sold and delivered to the defendant, and for money lent, &c. The defendant pleaded the general issue, and specially that the bill of exchange counted upon was received and accepted by the plaintiff in satisfaction of the goods sold ; as to which the plaintiff took issue. On the trial the bill was produced, and purported to be signed II F. West, agent. ^ reSular Protest was shewn, and notice of the same addressed to and received by West at Manchester in Oneida county, where West, at the date of the bill and before and since as the agent of the defendant, superintended a woollen manufactory belonging to the defendant, who resided at Pompey in Onondaga county, and spirit only a portion of his time at the factory. West testified that he was authorized by the defendant to make notes and draw bills of exchange in the name of the defendant and as agent in his behalf; that the bill in question was given on the purchase by him of a quantity of dye-stuffs of the plaintiff for the defendant, taken to and used in the factory and in the business of the defendant; that when he called for the goods, he proposed to the plaintiff to give him the bill in question, who agreed to accept and did accept the same, giving him, the witness, a bill of the goods, headed, \u201c Mr. H. F. West, Agent, bought of W. A. F, Pentz,\u201d and receipting the draft at the bottom. He further testified, that he informed the defendant of the drawing of the bill of exchange, and delivered the notice of protest to him, but did not do so until several weeks after he had received it; that the letters relating to the factory business were generally sent to Manchester, sometimes addressed to the defendant and sometimes to the witness as agent; and that he always opened them, whether addressed to his principal or himself. It further appeared that the acceptor failed before the bill fell due, and that on the day after the bill was protested, the plaintiff addressed a letter to West, complaining that he had suffered the protest, as he had been apprised by the acceptor of his inability to meet it. On this evidence, the defendant\u2019s counsel insisted that the plaintiff was not entitled to recover; but the judge ruled that he was entitled to recover, and so instructed the jury, who accordingly found the amount of the bill, with interest. The defendant moves for a new trial.\nP. Gridley, for the defendant.\n' The plaintiff was not entitled to recover on the bill of exchange ; the name of the defendant did not appear upon it, and therefore no action will lie against-him. Chitly on Bills, 30, 22, 26, 27. 3 T. R. 761. 2 East, 144. 1 id. 434. 6 T. R. 176. 1 Lev. 205. If the bill was good, the notice was not sufficent in not being directed to the defendant and to the place of his residence. Besides, the plaintiff was bound in the first instance to resort to the acceptor of the bill, 6 Wendell, 658. Nor can the plaintiff recover on the common counts; the credit was given to West, and not to the defendant. There is no pretence that West made known the name of the defendant; he represented himself as an agent, but not as the agent of the defendant. The bill of goods was charged to West, and even after the protest, to him the plaintiff looked for payment. .\nJ. A. Spencer, for the plaintiff.\nThe defendant is holden to pay the bill of exchange ; it was drawn by his authorized agent, acting within the scope of his authority and for the benefit of the defendant. His signature as agent was enough to authorize the admission of proof of who was the principal. Can it be doubted that a bank would be charged on an acceptance by its cashier, although he should only sign A. B., Cash\u2019r ? The general rule laid down by Mr. Chitly, that no person can be considered as a party to a bill unless his name appear on some part of it, is not supported by the case of Fenn v. Harrison, 3 T. R. 760, which he cites, for that was not the case of a bill of exchange drawn by a general agent, as here, but the sale of a bill by a special agent. If, then, the defendant was bound by the act of his agent in drawing the bill, the notice in this case was sufficient, being sent to the place of business of the defendant; for whether addressed to the defendant or to his agent was a matter of indifference, notice to the agent being equivalent to notice to the principal. But if the defendant was not liable on the bill, he was on the common counts; the goods were bought for him and appropriated to his use. It cannot be pretended that they were sold on the credit of the agent, for the bill shews they were charged to We%t as agent, and he as agent drew the bill\u2014forbidding the Conclusion that credit was given to him as principal. So the pretence that the bill was received in payment is equally un\u00bb founded; why should the plaintiff be required to sue an insolTent acceptor 1"
+  },
+  "file_name": "0271-01",
+  "first_page_order": 271,
+  "last_page_order": 278
+}

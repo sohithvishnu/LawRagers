@@ -1,0 +1,67 @@
+{
+  "id": 380603,
+  "name": "Udall against The Trustees of Brooklyn",
+  "name_abbreviation": "Udall v. Trustees",
+  "decision_date": "1821-08",
+  "docket_number": "",
+  "first_page": "175",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Johns. 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 404,
+    "char_count": 7350,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 5.006309245258825e-07,
+      "percentile": 0.9361957009848837
+    },
+    "sha256": "ed50a32233b3903bf1acde54351acf4b1b2b894e8852ec25597fd81faa65b823",
+    "simhash": "1:4663efefc17d8802",
+    "word_count": 1292
+  },
+  "last_updated": "2023-07-14T14:47:14.176181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Udall against The Trustees of Brooklyn."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis was an action for a penalty, for violating the by-law of the village of Brooklyn, in assuming to exercise the office of measurer of grain, without a license from the trustees. The defence was, that the act complained of was done in a store, on a wharf or dock,' west of the natural low-water mark of the East River, on the Nassau, or Long-Island shore, and not within the limits of Brooklyn. We are of opinion that Kings County includes all - the wharves and made land on the Long Island shore of the East River, as well as natural alluvion, to the actual line of low water. The judgment of the Court below must, therefore, be affirmed.\nJudgment affirmed:",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Goodenow, for the plaintiff in error,",
+      "Wells, contra,",
+      "Edwards, in reply,"
+    ],
+    "corrections": "",
+    "head_matter": "Udall against The Trustees of Brooklyn.\nfing^ village of part, includes docks6 wha\"nd erections!^on oppSfte* to'The of ,Nem; York, though nest of the netturctl low-water mark on the Long-island jurisdiction ^ \u00a1ends^'af6 the f\u00bf\u00edv\u201cva(er,6 \u00b0f ydie{,yernaf\u00b0\u201e\u2122\u00a1 \u00b0nr(;ans ariificial\nf*'* the next\nIN ERROR, on certiorari, to a Justice\u2019s Court. The trustees of the village of Brooklyn, in the county of Kings, brought an action of debt against Udall, the plaintiff in error, to recover the penalty of twenty-five dollars, for the breach of an ordinance of the village of B. in exercising the office of a measurer of grain, for hire, &c. without being licensed by the trustees of the village. By the act of J \u00b0 J April 12, 1816, (sess. 39. ch. 95.) the freeholders and _ ' . , n .... 1 . , _ habitants or />. within certain limits, were declared to be a corporation, by the name of the trustees of the village of B. with various powers, to make by-laws, ordinances, &c. The west boundary of the village, being the section of the town of B. called the \u201c Fire District,\u201d was the East River. The plaintiffs passed an ordinance, declaring that if any person, not holding the appointment of weighmasler, or measurer, under the trustees, &c. should exercise the office, &c. he should forfeit and pay twenty-five dollars; &c. It was proved that the defendant acted as a public measurer on the 14th of April, 1819, in a store, standing on a large dock or wharf, erected twenty-five or thirty years ago, the west end of which extended between ten and twenty feet west 0f jow water marie, being made land. It did not appear that the city of New-York had ever exercised jurisdiction *n *he P*ace where the defendant acted as a measurer. The property had been always assessed and paid taxes to Brooklyn. There were many other houses and stores erected on made ground, west of the ancient low watermark, which had paid taxes to B.\nThe defendant was admitted to be a licensed measurer in the city of New-York ; and to show that the place where he acted as measurer was within the boundary of the city of New-York, he gave in evidence the charter of that city, by which is granted to New-York all the vacant and unappropriated ground lying on Nassau (or Long) Island, from high-water to low-water mark, contiguous and fronting to the city, from The Wallabout to the west side of the Red-hook and the Old Ferry, on both sides of the East River ; and the eastern boundary of the city is described as extending across the East River or Sound to Nassau Island, to low-water mark there, (including certain islands,) and from -thence all along Nassau Island shore, at low-water mark, unto the south side of the Redhook. The defendant also produced and read the \u201c act to divide this state into counties,\u201d (sess. 36. ch. 39.) by which the limits of the county of New-York are described as beginning at Spy ten Duyvel Creek, where the same empties itself into the Hudson River on the Westchester side thereof, at low water, wherever the same now is; or hereafter may be, and so running along the said creek, at low water mark, as aforesaid, on the Westchester side thereof, unto the East River or Sound, and from thence to cross over to Nassau Island, to low water mark there, as aforesaid, (including certain islands,) and from thence along Nassau Island shore, at low water mark as aforesaid, unto the south side of Redhook,\" &c. And the county of Kings is bounded northerly by the county of New-York, &c.\nThe justice gave judgment for the plaintiffs below.\nGoodenow, for the plaintiff in error,\ncontended that, according to the charter of the city of New-York, and the laws of the state, the limits of the city of New-York extended, on the east side, to low water mark on Nassau Island, or the Brooklyn shore, and included the place in which the plaintiff in error exercised the office of measurer ; and that he was, therefore, within the jurisdiction of the city. The erection of a wharf or dock in the river, beyond low water mark, was clearly not a case of alluvion, which might draw after it the jurisdiction to Brooklyn.\nWells, contra,\nsaid, that the claim of jurisdiction now set up would extend to low water mark on the shore of hong Island, so as to include the whole line of wharves, docks, houses, and stores, in Brooklyn, which extend into the river, beyond the natural low water mark. But the language of the act defining the limits of the county of NewYork, showed that it was intended to give the jurisdiction of the water merely to New-York, that is, to low water mark, as it then was, or might be thereafter: not a fixed line, but as it might be varied, from time to time, by natural causes, or artificial means, changing with the flux and reflux of the tide. It was not meant to include alluvion, nor ground made by wharves and docks.\nAgain; this wharf had existed above twenty-five years, and long before the act of 1813. The property in the ground on which it was built was no doubt derived from the Corporation of New-York; but that was merely a question of jurisdiction, which, he contended, must vary with the change of low water mark, whether produced by natural or artificial means.\nThe evidence of user on the part of Brooklyn, and of non-user on the part of New York, is strongly against the latter. The practical line is to be taken, in fixing the limits of jurisdiction, in contradistinction to an imaginary or air line. (Ely v. Parsons, 2 Day's Conn. Rep. 332.) The act incorporating the village of Brooklyn, and the erecting the fire district, shows that this place was considered as within Brooklyn, and it has always been taxed there, but never by New-York. The rights of wharfage have also beem uniformly exercised in the former place, but never in the latter. The Trustees of Brooklyn have power to appoint measurers, Sec. and it is on these wharves, or in these stores* that they generally exercise their functions. Besides, the ordinances of the Corporation of New-York reach to the wharves and docks of Brooklyn.\nEdwards, in reply,\nobserved, that this was not a question as to the limits of the county of New-York, according to the act of the legislature, but as to the boundary and jurisdiction of the city, under its charter. This boundary extends on the east, to \u201c low water mark\u201d on Long Island. The limits or boundaries of Brooklyn are nowhere distinctly dej fined ;\u25a0 though a special jurisdiction, called the \u201c fireward,\u201d was erected within certain limits, for the purposes of police or prudential regulation. Low-water mark is a certain boundary, which, though it may be gradually changed by the operation of nature, cannot be varied by the acts of individuals."
+  },
+  "file_name": "0175-01",
+  "first_page_order": 183,
+  "last_page_order": 186
+}

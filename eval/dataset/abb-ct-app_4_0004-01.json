@@ -1,0 +1,473 @@
+{
+  "id": 1117488,
+  "name": "RATCLIFFE v. CARY",
+  "name_abbreviation": "Ratcliffe v. Cary",
+  "decision_date": "1867-09",
+  "docket_number": "",
+  "first_page": "4",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Abb. Ct. App. 4"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "47 Barb. 287",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946988
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/47/0287-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 561",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16240
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/32/0561-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 605",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156688
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0605-01"
+      ]
+    },
+    {
+      "cite": "17 Johns. 146",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6064832
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0124-01"
+      ]
+    },
+    {
+      "cite": "16 Wend. 304",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Johns. 238",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369169
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "241"
+        },
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0238-01"
+      ]
+    },
+    {
+      "cite": "11 Johns. 123",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137648
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0123-01"
+      ]
+    },
+    {
+      "cite": "14 Wend. 680",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Barb. 215",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8592964
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0215-01"
+      ]
+    },
+    {
+      "cite": "34 Barb. 358",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5073488
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/34/0358-01"
+      ]
+    },
+    {
+      "cite": "22 How. Pr. 49",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2213668
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/22/0049-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 5",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369125
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0005-01"
+      ]
+    },
+    {
+      "cite": "26 Barb. 383",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5007211
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/26/0383-01"
+      ]
+    },
+    {
+      "cite": "28 N. Y. 3",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Wend. 320",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023444
+      ],
+      "weight": 4,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/19/0320-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. 279",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497704
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0279-01"
+      ]
+    },
+    {
+      "cite": "16 Wend. 302",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Barb. 334",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "pin_cites": [
+        {
+          "page": "345-347"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wend. 170",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0170-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. 8",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129906
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/3/0008-01"
+      ]
+    },
+    {
+      "cite": "1 Cai. 363",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "case_ids": [
+        793327
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cai/1/0455-01"
+      ]
+    },
+    {
+      "cite": "8 Johns. 367",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134321
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0367-01"
+      ]
+    },
+    {
+      "cite": "6 Wend. 467",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2007425
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/6/0467-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 761",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2035094
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0761-01"
+      ]
+    },
+    {
+      "cite": "17 Johns. 29",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6064629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0034-01"
+      ]
+    },
+    {
+      "cite": "21 Barb. 398",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2422309
+      ],
+      "pin_cites": [
+        {
+          "page": "406-7"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/21/0398-01"
+      ]
+    },
+    {
+      "cite": "8 Bosw. 528",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1320514
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/21/0528-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y. 620",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019341
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0620-01"
+      ]
+    },
+    {
+      "cite": "16 Wend. 285",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149126
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/16/0285-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 359",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297808
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0351-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 330",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 N. Y. 113",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16905
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/35/0113-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 104",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2013026
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/10/0104-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 140",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001784
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/4/0140-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 359",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297808
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0351-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 752,
+    "char_count": 16751,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 5.912794380632971e-08,
+      "percentile": 0.36952289496414653
+    },
+    "sha256": "00c816a01bb96b60b82541da2c04cf33eed589e56e1db036b4742f8aae1723a4",
+    "simhash": "1:ec326e6ccc1b9661",
+    "word_count": 2991
+  },
+  "last_updated": "2024-02-27T20:46:38.518701+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RATCLIFFE v. CARY."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nJ. M. Parker J.\n[After stating^ the facts.]\u2014Upon the trial the defendant moved for a nonsuit, on the ground that the plaintiff had not shown a proper title to the premises, that he could not claim to hold by a practical location of, and acquiescence in the line claimed by him, but should be confined to, and controlled by his deed. The motion was denied, and defendant excepted, and this raises the principal question in the case.\nThe evidence showed, or tended to show, that the land along the northerly half of the disputed line has never been cleared upon either side; that upon the line claimed by the plaintiff, through the uncleared portion of it, is a distinctly marked surveyor\u2019s line, shown, by boxing a portion of the marked trees upon the line, to have been made at or about the time when the above mentioned deeds were given, and that the pieces conveyed to Samuel and Bela Cary, respectively, were surveyed out to* them, at the time of the conveyances; that the south part of the fifty acres had been cleared before the making of the deeds, and the west line fenced along the clearing, and that this fence was in line with the marked trees, and formed with them, a continuous straight line; that it has ever since been maintained as a boundary line by the adjoining proprietors, and that the plaintiff and those under whom he claims, have ever claimed to own up to this line; that the plaintiff\u2019s grantors had, for a number of years after the giving of the deeds, made sugar along and up to this line, and had cut out the timber and underbrush, except the maple trees, along the line for that purpose; and had applied to and obtained the consent of Bela Cary.to tap trees on the west side of this line; that defendant\u2019s tenants, when plaintiff took possession of the fifty acre lot, showed him the line of marked trees as the west line of the lot.\nIt also appeared that the hemlock stump described in the deed of fifty acres, as the starting point, was gone, and the respective surveyors disagreed in their location of it, and that, from the description in the deed, wherever the starting point might be, the premises could not be plotted, the northings and southings failing to balance by thirty-eight links, and the eastings and westings by one chain and four links. By whichever line the fifty acres is bounded, it overruns in quantity, and so with the one hundred and thirty-one acre piece.\nWere there in these facts the elements of a practical location, and such acquiescence in it, as to bind the parties P\nIt was held, in Baldwin v. Brown, 16 N. Y. 359, that practical location and long acquiescence in a boundary line, are conclusive, not upon the notion that they are evidence of a parol agreement establishing the line, but because they are of themselves proof that the location is correct, that the \u201c rule seems to have been adopted as a rule of repose, with a view to the quieting of titles; and rests upon the same reason as our statute prohibiting the disturbance of an adverse 'possession which has continued for twenty years.\u201d\nActual and continued possession of the premises adjoining the located line, is not essential to the existence of a practical location. It does not depend on apetlis possessio of the land adjoining, but its existence may be established by any competent evidence of the fact. When adjacent owners unite in surveying their respective lots and in marking a line upon the ground between them, such survey would, doubtless, constitute and be evidence of a practical location, and the line thus fixed, after a sufficient length of acquiescence, would, it seems, control the courses and the distances in the deeds. But especially would this be so, when the grant is, from its terms, or becomes from destruction of monuments, uncertain and ambiguous as to location. Jackson v. Ogden, 4 Johns. 140; S. C., 7 Id. 338; Jackson v. Freer, 17 Id. 39; Jackson v. Smith, 9 Id. 100; McCormick v. Barnum, 10 Wend. 104; Jackson v. McConnell, 13 Id. 421; Adams v. Rockwell, 16 Id. 385; Reed v. Farr, 35 N. Y. 113; Clark v. Wethey, 19 Wend. 330.\nIn Adams v. Rockwell (supra), the chancellor says: \u201c Where there can be no real doubt as to how premises should be located, according to certain known ^boundaries described in the deed, to establish a practical location different therefrom which shall deprive the party claiming under the deed, of his legal rights, there must be a location which has been acquiesced in for a sufficient length of time to bar a right of entry, under the statute of limitations in relation to real estate.\u201d And in Clark v. Wethey (supra), Judge Cowe\u00edt, after arguing against the doctrine which allows a practical location to control the courses and distances in the deed, says: \u201c I speak not now of those cases in which time has obliterated the monuments or boundaries of the deed, so as to leave its location a matter of uncertainty; I speak not of cases in which the carelessness or fraud of parties, or any other causes, may have rendered it impossible to locate the deed by known monuments or mathematical lines: where this is so, the declaration of the parties, or their acts of acquiescence or forbearance, were always receivable.\u201d\nRow, in the case at bar, the description in the deed, both from its terms and from the destruction o,f the monument given as the starting point, renders the precise location of the land intended to be conveyed uncertain. Then the existence of this line of marked trees, which the jury might believe, from the evidence before them, to have been made by the parties to the first two deeds, as the division line between the lots, and the acquiescence which (as there was evidence tending to show) had existed in that line as the boundary of the lots respectively for more than fifty years, were sufficient to entitle the plaintiff to the judgment of the jury upon the question whether such practical location and acquiescence existed ; and, consequently, the motion for a nonsuit was properly denied.\nThe defendant\u2019s counsel requested the court to charge the jury in the following words: Where there are no monuments given in the deed, but courses and distances only, it must be controlled by the course and distance on that line.\u201d The judge refused to charge in that form, and the defendant excepted. But, upon that point, the judge did charge in the precise words of the request, with this addition: \u201c This is so, if the line is run by the deed alone; but this proposition fails in its application to a case where the land cannot be platted-from the deed.\u201d It is impossible, I think, to hold that here was any error. The effect of the unqualified instruction called for by the defendant would have been to hold the plaintiff absolutely to the thirty-two rods for the length of his north line, when, as we have seen, the facts in the case might, as the jury should find them, modify the length of that line with reference to the line of marked trees. This request was, in effect, similar to the one to nonsuit the plaintiff, and was properly refused.\nThe objections to the reception of evidence upon the trial were, I think, all properly overruled. The witness Eent, who lived with Samuel Cary when the deeds to him and Bela Cary were given by. James Cary, in 1807, and for some years afterward, after speaking of the running out of the lots to Samuel and Bela, of the fence on the south end of the fifty acres and on the south side of the south part thereof, and that those fences were occupied as line fences and kept in repair as such, was asked if he ever heard of more than one line on the west side. This was received, under defendant\u2019s objection, and the witness answered, \u201c I never heard of hut one line till this last summer.\u201d His position being such, that if there had been- any difference between the adjoining proprietors in respect to this line, he would have been likely to know it, and the fact that he had heard of none, was some evidence, hoAvever slight, that none was spoken of or existed, and, hence some evidence of acquiescence in that line.\nThe plaintiff\u2019s surveyor was asked by plaintiff\u2019s counsel, \u201cHave you made a calculation as to how long the north line must be, assuming the east, south and west lines to be as given in the deed?\u201d Defendant\u2019s counsel objected to the question, on the ground that it was speculative and immaterial. The objection was overruled, and defendant excepted. The witness answered as follows: \u201c Computing the latitudes and departures, as given in the deed, there is an error in it. The land cannot be run by the description in the deed,\" because, in following the courses and distances given in the deed, you will not come out at the place of beginning. Assuming all the other lines to be correct, the north line should be thirty-four rods and twenty links in length.\u201d I am inclined to think the answer admissible, as tending to show the uncertainty and ambiguity of the terms of the deed in respect to location, and, in connection with the other evidence in the case, to assist in accounting for the existence and position of the marked line in question.\nThe same witness was next asked, \u201cHow do the lines of this lot and Cary\u2019s hold out? do they overrun or falkshort ?\u201d This was objected to by defendant\u2019s counsel, and received, subject to the objection. The witness went on to state, substantially, that, in measuring the lines given in the two deeds, the actual measurement of every line, where monuments were given, as well as others, overruns the length, given in the deed, and stated, with reference to each line, hos*\u00abauch.\nThe deeds were given at the same time, and there is evidence in the case to the effect that the lots were surveyed out to the grantees at the same time. The fact that every line, as given in the deeds, was shorter than an actual survey now made shows it to be, tends to show that the measurement then made was with a longer chain, or measuring line, than the one used in the recent surveys, and that the thirty-two rods then measured fan beyond the termination of that distance now reached, and, hence, tends to account for a contemporaneous line of marked trees being found further west than thirty-two rods, as now measured, from the east line of the fifty acres, and to strengthen the evidence of the fact of a practical location of the lots.\nI do not see any error calling for a reversal of the judgment, and am of the opinion that it should he affirmed.\nAll the judges concurred, except Hunt and Grover, JJ., not voting.\nJudgment affirmed, with costs.",
+        "type": "majority",
+        "author": "J. M. Parker J."
+      }
+    ],
+    "attorneys": [
+      "W. O. Merrill, for plaintiff, appellant;\u2014",
+      "F. Kernan, for defendant, respondent;\u2014"
+    ],
+    "corrections": "",
+    "head_matter": "RATCLIFFE v. CARY.\nSeptember, 1867.\nCourse and distance, in the. description in a deed, do not control, where the land cannot be plotted from the deed.\nWhere a lapse of time, and the destruction of the monument given in the deed as the point of beginning, render the precise location uncertain, evidence of the existence of monuments such as a line of marked trees, with circumstances under which the jury might believe that line to have been acquiesced in by the parties as a boundary for more than fifty years, makes the question of boundary one for the jury.\nOn the question of the practical location of a boundary, it is competent to ask a witness whose residence and relation to the parties has been such that, had there been a difference between the adjoining proprietors in respect to the line, he would have been likely to know it, whether he ever heard of more than one line ; and his answer, that he had not, is some evidence of acquiescence in that line.\nIt is competent to prove by a surveyor, that the courses and distances in a deed are incongruous, and that all the lines indicated by monuments, differ in length from the deed.\nRichard Ratcliffe sued H. $T. Gray, in the supreme court, for trespass on lands. The only question was, the location of their boundary line. In March, 1807, James Cary conveyed to Samuel Cary the land now owned by plaintiff, and, at the same time, to Bela Cary the adjoining land now owned by defendant. In the deed of the former lot, the description began at a stake, &c., in a hemlock stump, E. thirty-nine and a half degrees S. from the center of the highway. Thence the first two lines were described as running northerly, by course and distance, to a stake; and the next line, the northerly boundary, ran thence westerly thirty-two rods, but no monument was referred to for its terminus. The next and last line, the disputed boundary, Was described as running southwest, by course and distance, to the place of beginning.\nAt the time of this action, the hemlock stump, at the point of beginning, was gone; but wherever it may have stood, the premises could not be exactly designated from course and distance, for there was a discrepancy of thirty-eight links in northings and southings, and of one chain, four links in eastings and westings.\nPlaintiff claimed that the northern boundary ran westerly thirty-five rods, eleven links (instead of thirty-two rods), to a line of marked trees (which some evidence tended to show were marked by surveyors about the time of the deeds), and that this line had been established and recognized by the respective owners, ever since, as the westerly boundary; and had been defined, on the southerly and cleared part of the line, by a fence built by them. There was also evidence that plaintiff\u2019s grantors had occupied up to this line, and that defendant\u2019s tenants had pointed it out to plaintiff as the line, when he came into possession.\nDefendant claimed that plaintiff was bound by the termination of the line of thirty-two rods, mentioned in the deed. It appeared that, though the premises could not be exactly plotted in either way, in each they exceeded fifty acres.\nAt the trial, defendant moved for a nonsuit, on the ground above stated, which was denied, and verdict given for plaintiff.\nThe supreme coibrt, on appeal from thejudgment, judgment,.held, held, in an opinion by Bacon, J., that the chain of evidence to establish practical location and acquiescence for not less than fifty years \u25a0Was strong and continuous. That although defendant\u2019s claim, that where no monuments are referred to in a deed, the distances must govern, and that it is not possible for a party to get title to land beyond the prescribed boundary, is sound where it is applicable, and must be affirmed in a controversy between two parties both of whom are dependent solely on a paper title, it must fail of application where one party is relying on a practical location, as in this case (Baldwin v. Brown, 16 N. Y. 359); and the fact that by the verdict, plaintiff obtained four acres more than his deed called for, was no ground for dispossesssing him from that to which he had by location find acquiescence obtained a valid title, especially as defendant showed no paper title to the piece in controversy;' and that according to the case of Adams v. Rockwell, 16 Wend. 285, a grant might be presumed after twenty years\u2019 acquiescence.\nThe defendant appealed to this court.\nW. O. Merrill, for plaintiff, appellant;\u2014\nCited Laub v. Buckmiller, 17 N. Y. 620; Jackson v. McConnell, 19 WenZd. 175; Brady v. Hennion, 8 Bosw. 528; Seaman v. Hogeboom, 21 Barb. 398, 406-7; Jackson v. Freer, 17 Johns. 29; Jackson v. Ogden, 7 Id. 238; Rockwell v. Adams, 7 Cow. 761-2; 6 Wend. 467; McCormick v. Barnum, 10 Id. 104; Jackson v. McConnell, 12 Id. 421; Dibble v. Rogers, 13 Id. 536; Jackson v. Douglas, 8 Johns. 367; Jackson v. Smith, 9 Id. 100; Jackson v. Bowen, 1 Cai. 363; Jackson v. Vedder, 3 Johns. 8; Jackson v. Dieffendorf, Id. 269; Baldwin v. Brown, 16 N. Y. 359; Jackson v. Long, 7 Wend. 170; Davis v. Townsend, 10 Barb. 334, 345-347; 16 Wend. 302; 13 Id. 536; Hunt v. Johnson, 19 N. Y. 279; Clark v. Wethey, 19 Wend. 320; Code, \u00a7 83 (4) (3) \u00a7 84; Munro v. Merchant, 28 N. Y. 3-4, 9, 42; reversing 26 Barb. 383; 7 Johns. 5; 13 Id. 368; Munroe v. Potter, 22 How. Pr. 49; S. C., less fully, 34 Barb. 358.\nF. Kernan, for defendant, respondent;\u2014\nCited 2 Cow. & H. Notes, 1379, 1380, note 942; Seaman v. Hogeboom, 3 Barb. 215; Clark v. Wethey, 19 Wend. 320-4; 3 Barb. 215; 14 Wend. 680; Adams v. Rockwell, 16 Id. 285, 302, 304, 314 ; Kip v. Horton, 12 Id. 127; Jackson v. Van Corlaer, 11 Johns. 123; Baldwin v. Brown, 16 N. Y. 359; 7 Johns. 238, 241; 8 Id. 367; 9 Id. 61; 16 Wend. 304-5, 310, 2, 3 ; Jackson v. McConnell, 19 Id. 175; 18 Id. 158-168 ; Jackson v. Wilkinson, 17 Johns. 146; 19 Wend. 320, 323-5 ; S. C., 3 Barb. 2\u00cd5, 219 ; 2 Kent, 466 (1 ed.), 516 (7 ed.); 1 Cow. 605; 5 Id. 371; 9 Id. 661.\nSee also Vosburgh v. Teator, 32 N. Y. 561.\nAs to controlling effect of description, see 9 N. Y. (5 Seld.) 183.\nCommented on in 19 Wend. 320. As to boundary, see 47 Barb. 287.\nThe construction of the grant approved, see 1 Paine,497."
+  },
+  "file_name": "0004-01",
+  "first_page_order": 10,
+  "last_page_order": 18
+}

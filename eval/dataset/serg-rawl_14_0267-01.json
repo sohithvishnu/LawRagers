@@ -1,0 +1,110 @@
+{
+  "id": 8878406,
+  "name": "RERICK against KERN",
+  "name_abbreviation": "Rerick v. Kern",
+  "decision_date": "1826-06-21",
+  "docket_number": "",
+  "first_page": "267",
+  "last_page": "272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Serg. & Rawle 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Johns. 342",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Johns. 246",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135959
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0248-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 241",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801955
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/4/0241-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & Rawle, 241",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801955
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/4/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 687,
+    "char_count": 15688,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 1.4313274985349282e-06,
+      "percentile": 0.9910523740959415
+    },
+    "sha256": "f15ba3b7eebb645927b0ae24a7292d8c3fee74c091d37e7550ea6a1de81eaf36",
+    "simhash": "1:6f228556fe1d783e",
+    "word_count": 2831
+  },
+  "last_updated": "2024-02-27T17:19:14.107896+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RERICK against KERN."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nGibson, J.\nTo the objection, that' an action for diverting an ancient water-course, is not supported by evidence of the removal of an artificial obstruction, it is sufficient to answer, that in the case .before us, the right depends, not on the antiquity of the watercourse, but on the agreement of the parties; and the question therefore is, would equity carry this agreement into effect?\nThat such an agreement may be proved by parol, was settled in Le Fevre v. Le Fevre, 4 Serg. & Rawle, 241, which, in this respect, g09s as far as the ease before us. The defence there was, that the right, being incorporeal, and therefore lying in grant, could pass only by deed. But, as the agreement was for a privilege to lay pipes, it is evident that the right acquired under it was no further incorporeal than that which passes by the grant of a mine, or of a right to build, which indisputably vests an interest in the soil. A right of way, which has been thought to approach it more nearly, in fact differs from it still further. But the defence in this case, is put on other ground, it. being contended that a mere license is revocable under all circumstances, and at any time.\nBut a license may become an agreement on valuable consideration; as, where the enjoyment of it must necessarily be preceded by the expenditure of money; and when the grantee has made improvements or invested capital in consequence of it, he has become a purchaser for a valuable consideration. Such a grant is a direct encouragement to expend money, and it would be against all conscience to annul it, as soon as the benefit expected from the expenditure is beginning to be perceived. Why should not such an agreement be decreed in specie? That a party should be let off from his contract, on payment of a compensation in damages, is consistent with no system of morals, but the common law, which was in this respect originally determined by political considerations, the policy of its military tenures requiring that the services to be rendered by the tenant to his feudal superior, should not be prevented by want of personal independence. Hence the judgment of a court of law operates on the right of a party, and the decree of a court of equity on the person. But the reason of this distinc-^ tion has long ceased, and equity will execute every agreement for the breach of which damages may be recovered, where an action for damages would be an inadequate remedy. How very inadequate it would' be in a case like this, is perceived byr considering that a license which has been followed by the expenditure of ten thousand dollars, as a necessary qualification to the enjoyment of it, may be revoked by an obstinate man who is not worth as many cents. But, besides this risk of insolvency, the law in barely compensating the want of performance, subjects the injured party to risk from the ignorance or dishonesty of those who are to estimate the quantum of the compensation. In the case under consideration, no objection to a specific performance can be founded on the intrinsic nature of the agreement, nor, having been partly executed, on the circumstance of its resting in parol; but it is to be considered as if there had been a formal conveyance of the right, and nothing remains but to determine its duration and extent.\nA right under a license, when not specially restricted, is commensurate with the thing of which the license is an accessory. Permission to use water for a mill, or any thing else that was viewed by the parties as a permanent erection, will be of unlimited duration, and survive the erection itself, if it should be destroyed or fall into a state of dilapidation; in which case the parties might perhaps be thought to be remitted to their former rights. But having had in view an .unlimited enjoyment of the privilege, the grantee has purchased by the expenditure of money, a right, indefinite in point of duration, which cannot be forfeited hy non user, unless for a period sufficient to raise the pvesamption 'of a release. The right to rebuild, in case of destruction or dilapidation, and to continue the business on its original footing, may have been in view as necessary to his safety, and may have been an inducement to the particular investment in the first instance. The cost of rebuilding a furnace, for instance, would be trivial when weighed with the loss that would be caused, by breaking up the business and turning the capital into other channels; and therefore a license to use water for a furnace would endure for ever. But it is otherwise, where the object to be accomplished is temporary. Such usually is the object to be accomplished by a saw mill, the permanency of which is dependent on a variety of circumstances, such as an abundance of timber, on the failure of which the business necessarily is at an end. But, till then, it constitutes a right for the violation of which redress may be had by action. With this qualification it may safely be affirmed that expending money or labour, in consequence of a license to divert a water-course or use a water power in a particular way, has the effect of turning such license into an agreement that will be executed in equity. Here it was not pretended that the license had expired, and we are unable to discover an error in the opinion of the court on the points that were propounded.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Gibson, J."
+      }
+    ],
+    "attorneys": [
+      "Greenough, for the plaintiff in error.",
+      "Lashells, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "[Sunbury,\nJune, 21, 1826.]\nRERICK against KERN.\nIN ERROR.\nIf a parol license be given, without consideration, to use the water of a stream for a saw mill, in consequence of which the grantee goes to the expense of erecting a mill, the license cannot be revoked at the pleasure of the grantor ; and if he divert the water to the injury of the grantee, the latter may maintain an action against him.\nOn the return of a writ of error from the Common Pleas of Union county, it appeared from the record, that this was a special, action on the case, brought by Henry Kern, the defendant in error, against Henry Rerick, the plaintiff in error, for diverting a water-course, in consequence of which he lost the use of his saw mill. The defendant pleaded, not guilty.\nThe material facts, proved on the trial, were, that some years before the institution of the suit, Henry Kern, the plaintiff below, being about to erect a saw mill on a stream which was designated by the witnesses as the right hand stream, a better seat for the mill was found by his millwright on what was termed the left hand stream. Kern thereupon applied to Rerick for permission to turn the water into the left hand stream, which was granted. In consequence of this permission, he built the saw mill upon the left hand stream. Without the aid of the right hand stream, the water of the left hand stream would have been wholly insufficient, but the right hand stream alone, would have served the purposes of the mill three or four months during the year. By a union of the two streams, the mill was rendered about a third more valuable than it would have been, with the right hand stream alone. No deed was executed, nor was any consideration given, butlfem, in consequence of the permission given by Rerick, built a very good mill, which did a great deal of business, and which he would not have built on the left hand stream, if the permission had not been given. When the water was turned away by Rerick, the mill was in good order, and it was further proved, that, at the time the trial took place, there was as much or more water in the left hand stream, than there had been before the erection of the saw mill.\nThe President of the Court of Common Pleas (Chapman) charged the jury as follows:\u2014\n\u201cTwo questions arise in this cause. The first is, whether Henry Rerick, after permitting and agreeing that Henry Kern should turn the water from the right hand stream to the left hand stream, when, if he had not given that permission, he would have built his mill upon the right hand stream, can he Henry Rerick, afterwards withdraw his permission, and thereby destroy the use of Kern\u2019s saw mill. His withdrawing that permission after the mill was built, by removing the stones laid for the purpose of turning the water, if the jury believe these facts, would be a fraud and imposition upon Henry Kern, and he would have no right to remove them. But, if he had withdrawn his permission, and removed the dam before Henry Kern was at the expense of building a mill, he would have been justifiable in so doing. Or if the permission was by parol to enjoy a right which .could only pass by grant for a consideration, it would be within the statute of frauds and perjuries, and not good in law. But if the jury believe the act was fraudulent in Henry Rerick, he is liable to pay damages to Henry Kern for the injury done him. Of the amount of damages the jury are the judges. The second question, \u2014 if the jury believe that no fraud has been committed by Henry Rerick, is, did Rerick, by removing the dam, divert the water from the left hand stream, so as to leave less water running in the left hand stream than there was formerly before the dam was erected ? This is a fact for the jury, and if the jury believe that Rerick has diverted the water from the ancient channel, which he had no right to do to the injury of Kern, and that Kern has suffered damage thereby, the jury are to determine to what amount, if any damage the plaintiff has suffered,\u201d\nThe court was requested, by the counsel for the defendant, to , instruct the jury in the following manner:\u2014\n\u201c1. That if Rerick, about the year 1811, did allow the plaintiff, as proved by William Teats, to place an obstruction in the natural channel of one branch of the stream on Rerick\u2019s own land, yet that being without any consideration, and merely by parol, no legal right to the stream, or the use thereof, passed thereby to Kern, but Rerick had a right, at any time, to remove the said .obstruction, so that the water could flow at any time in its natural channel.\nAnswer. \u201c In answer to the first question, \u2014 he would have a right to remove the said obstruction, before Kern had incurred the expense of building a saw mill on the faith of Rerick\u2019s promise, or he would have had a right, if the permission or promise had been after the building of the mill, but not after he had induced Kern to be at the expense of building the mill.\n\u201c2. That an action for diverting an ancient water-course, does not lie for removing an artificial obstruction from the natural channel, whereby the water was made to flow as it used to do from time immemorial.\nAnswer. \u201cThat is the general principle of the law; but to this there are exceptions, where, by so doing, the party commits a fraud, and an action will lie.\n\u201c3. That if the jury believe the whole \u00e9vidence exhibited by the plaintiff in this cause, Rerick could legally, in the fall of 1821, remove the dam placed in the forks of the stream, by Kern on Rerick\u2019s land, and for removing the same no action lies, whether Kern sustained thereby a loss or not.\nAnswer. \u201cIf the jury believe that there was no fraud in Re-rick\u2019s removing the dam, in which case he would have a legal right to do it, no action would lie.\n\u201c4. That if the jury believe the water, ever since the removal of the obstruction at the forks, has run, and continues to run, in its natural channel, as it used to do from time immemorial, their verdict should be for the defendant.\nAnswer. \u201cIf the jury so believe, and that no fraud was committed by removing this obstruction, or dam, then your verdict should be for the defendant.\u201d\nThe counsel for the defendant excepted to the opinion of the court, both in their charge to the jury, and in their answers to the several propositions submitted to them.\nGreenough, for the plaintiff in error.\n1. The plaintiff below, not satisfied with the great benefit he has derived, during a period of ten years, from the license granted to him by the defendant, wishes to establish it in perpetuity. To this he is not entitled. The bare permission to erect a dam on the defendant\u2019s land, without deed and without consideration, will not deprive the defendant of his property. The right to a water-course, is an incorporeal hereditament, which will only pass by deed, and cannot be claimed under a parol grant. Angel\u00ed on Water-courses, 41. 3 Bac. Ab. 386. Where, indeed, a valuable consideration passes, and the agreement is executed, which was the ca\u00e1e in Le Fevre v. Le Fevre, 4 Serg. & Rawle, 241, an interests vests.. In the case before the court, there was no contract, nor was any con-sideratiomgiven by the plaintiff below; the defendant, merely from gotfiTwili, having permitted him to keep up the dam, for the use of his mill, until his own interest called for a revocation of the permission. In Dexter v. Hazen, 10 Johns. 246, the defendant gave permission to the plaintiff to pass over his land with teams, &c. There was no consideration for the license, and it was held, that it might be revoked at pleasure. So, where the defendant agreed by parol to permit the plaintiff, for a guinea, to lay a tunnel over his grounds in order to draw water to the plaintiff\u2019s mill, and the guinea was not paid, the defendant having refused to receive it when it was tendered, Lord Et.lekborough decided that the permission was revocable, and gave no title in point of law to the plaintiff. If the judge had charged, that the license could not be withdrawn until the plaintiff had derived benefit from his mill'equal to the expense he had been at, there would have been no cause of complaint; but to go farther was error.\n2. There was no evidence of fraud, and yet the court left it to the jury to presume fraud. Where there is no dispute as to facts, fraud is a question of law. Sturtevant v. Ballard, 9 Johns. 342. If it be left to a jury to decide what is fraud, there will be no certainty as to property in Pennsylvania.\nLashells, for the defendant in error.\nBefore the plaintiff below went to the expense of building his mill, he obtained the defendant\u2019s consent to make the dam, and if he had not obtained this permission, he would have built upon the other stream. The plaintiff was employed during a year in building the mill, and the defendant was a witness to the prosecution of the work. It would be unjust to suffer the defendant, under such circumstances, to retract the license he had given. The case is quite different from that of a privilege to pass over another man\u2019s land, in reference to which no expense could have been incurred. If the plaintiff was induced to go into any expense, however small, by the license and encouragement of the defendant, that license can never be revoked. If it can be revoked at the end of ten years, it may at the end of ten months, or ten weeks, or immediately, which will scarcely be pretended. This case resembles a parol sale or a parol gift of land, accompanied with possession. If a father make a parol gift of land to his son, and possession be delivered, and improvements are made by the son, it is good. Syler v. Eckhart, I Binn. 178. It is a fraud for a man to conceal his title, while he sees another by mistake build on his land. 3 Bac. Jib. 301. A parol license, given to put a shed over an area, cannot be retracted without paying the expenses incurred in consequence of the license. 2 Esp. N. P. (Gould\u2019s Ed.') 268, (636.) The same principle is laid down by Judge Duncan, in Le Fevre v. Le Fevre, 4 Serg. & Rawle, 241. At all events, the plaintiff should not be permitted to retract his license, without indemnifying the plaintiff. He should at least place him in as good a condition as he would have been in, if the license had not been granted."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 267,
+  "last_page_order": 272
+}

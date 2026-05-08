@@ -1,0 +1,66 @@
+{
+  "id": 5104415,
+  "name": "Bostwick, receiver &c., vs. Abbott and others",
+  "name_abbreviation": "Bostwick v. Abbott",
+  "decision_date": "1863-09-21",
+  "docket_number": "",
+  "first_page": "331",
+  "last_page": "333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "40 Barb. 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 5187,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 1.2668234228257757e-07,
+      "percentile": 0.6137506472385069
+    },
+    "sha256": "b850f1ebce2d6aafb100710ba034312e86bb442bca787b7df58d66a98d9d8623",
+    "simhash": "1:9cb016f4e0c736f9",
+    "word_count": 925
+  },
+  "last_updated": "2023-07-14T15:03:12.728265+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bostwick, receiver &c., vs. Abbott and others."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Ingraham, J.\nThe judgment of dismissal, in the common pleas, may not be a conclusive bar to another action for the same cause. If the action was dismissed for want of evidence to sustain the plaintiff's case, or for any other cause than on the merits, it formed no bar, and the plaintiff had a right to bring a new action. But if the merits were inquired into on that trial then the defendants had a right to set up that record as a bar to this action. This is particularly so where the action is one that formerly would have been brought in a court of equity. (4 John. Ch. 140. 7 id. 286. Burhans et al. v. Van Zandt et al. 3 Selden, 525.)\n[New York General Term,\nSeptember 21, 1863.\nThe case showed that the\" plaintiff in the first action produced evidence in favor of his claim, and the finding of the court is that such evidence was offered on that trial.\nIt is said that the common pleas modified the judgment in that court by adding to the judgment the words \u201cwithout prejudice to the right of the plaintiff to bring another action;\" and the plaintiff contends that such addition prevents that judgment from being a bar. I do not assent to that doctrine. If the judgment would have been a bar to the second action, without these words, I am at a loss to see how the addition of them would change the effect of the judgment. That case was tried by the court without a jury. The judge heard the plaintiff's testimony and decided on the merits. Having so decided, he cannot destroy the effect of that decision by giving the plaintiff leave to bring another action. Suppose the case had been before a jury and they had found for the defendant. The court could not qualify the judgment by the addition to the judgment of the words above referred to.\nThis view of the effect of the former judgment renders it unnecessary to examine the other questions in the cause.\nThe judgment should be affirmed.\nSutherland, Ingraham and Leonard, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Ingraham, J."
+      }
+    ],
+    "attorneys": [
+      "C. Bainbridge Smith, for the appellant.",
+      "A. Boardman, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Bostwick, receiver &c., vs. Abbott and others.\nA judgment of dismissal, on a trial in a former suit between the same parties where the merits were inquired into, may be set up as a bar to a second action; especially if the action be one that formerly would have been brought in a court of equity.\nAfter a judge, at the circuit, has heard the plaintiff\u2019s testimony, and decided the case on the merits, dismissing the complaint, he cannot destroy the effect of that decision by amending the judgment so as to give the plaintiff leave to bring another action.\nTHIS was an appeal from a judgment entered at a special term, in favor of the defendants, on a trial by the court without a jury. The action was brought by the plaintiff, as receiver appointed in supplementary proceedings, on a judgment recovered against the firm of Abbott, Pollock & Cochran, among other things, to set aside an assignment executed by John Cochran and Eobert Gr. Pollock, composing the firm of Cochran & Pollock, to the defendants Stewart & Fiske, as fraudulent and void against creditors. The defendants alleged in their answer, among other things, that a former suit was commenced against them, by the plaintiff, in the Hew York common pleas, for the same cause of action, the trial of the cause upon the merits, and the entry of a judgment in favor of the defendants; and they set up that judgment as a bar to this action.\nThe justice before whom the, present action was tried found, among other facts, that before the commencement of this action the plaintiff herein impleaded the defendants herein, in an action brought by him against them in the court of common pleas, for the city and county of blew York, for the same causes of action as are set forth in the complaint in this suit; to which complaint the defendants put in their answers; whereupon the same questions were put at issue as are at issue in this action, which issues were afterwards tried at a special term of the said court, and the plaintiff produced testimony tending to show that the assignors were individually indebted to the defendant Fiske, and rested his case; whereupon the said special term, on the first day of February, 1861, rendered judgment against the plaintiff dismissing the plaintiff\u2019s complaint, which judgment was enrolled on the second of February, 1861. That on the 17th of December, 1861, and after issue was joined in this action, the court of common pleas, at a special term thereof, directed on the motion of the plaintiff, that the words \u201cwithout prejudice to the right of the plaintiff to bring another action,\u201d should be added to the judgment of that court so enrolled as aforesaid, and said words were added to the judgment so enrolled. That the plaintiff has not in this action raised or attempted to raise any point not raised in the said court of common pleas, and that the prosecution of a new suit for precisely the same cause of action after the trial in the court of common pleas, was improper. And the judge found, as matter of law, that the said judgment of -the court of common pleas was a bar to this action; and he ordered judgment for the defendants, with costs.\nC. Bainbridge Smith, for the appellant.\nA. Boardman, for the respondents."
+  },
+  "file_name": "0331-01",
+  "first_page_order": 331,
+  "last_page_order": 333
+}

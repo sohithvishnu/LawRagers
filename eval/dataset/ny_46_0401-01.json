@@ -1,0 +1,370 @@
+{
+  "id": 2052623,
+  "name": "The People ex rel. George W. McLean et al., Respondents, v. Ethan Flagg, Supervisor, and James W. Mitchel, Town Clerk, of the Town of Yonkers",
+  "name_abbreviation": "People ex rel. McLean v. Flagg",
+  "decision_date": "1871-11-10",
+  "docket_number": "",
+  "first_page": "401",
+  "last_page": "409",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 N.Y. 401"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "23 N. Y., 456",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 N. Y., 441",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 Barb., 286",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2256848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/58/0286-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y., 606",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15676
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/31/0606-01"
+      ]
+    },
+    {
+      "cite": "3 Denio, 382",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio, 457",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484013
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0457-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 545",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 John., 63",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369081
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0063-01"
+      ]
+    },
+    {
+      "cite": "14 Ill., 334",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2586784
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/14/0334-01"
+      ]
+    },
+    {
+      "cite": "22 N. Y., 95",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026274
+      ],
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/22/0095-01"
+      ]
+    },
+    {
+      "cite": "15 N. Y., 595",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2018079
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/15/0595-01"
+      ]
+    },
+    {
+      "cite": "46 Barb., 294",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5151345
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/46/0294-01"
+      ]
+    },
+    {
+      "cite": "7 N. Y., 9",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 N. Y., 188",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2035363
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/27/0188-01"
+      ]
+    },
+    {
+      "cite": "51 Ill., 37",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        816421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/51/0037-01"
+      ]
+    },
+    {
+      "cite": "51 Ill., 17",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        816480
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/51/0017-01"
+      ]
+    },
+    {
+      "cite": "16 Mass., 83",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "51 Barb., 312",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2246448
+      ],
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/51/0312-01"
+      ]
+    },
+    {
+      "cite": "35 N. Y., 551",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16942
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/35/0551-01"
+      ]
+    },
+    {
+      "cite": "13 How., 206",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 N. Y., 605",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036830
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0605-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y., 114",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029397
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0114-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y., 439",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. Y., 20",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497718
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0020-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y., 38",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021173
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0038-01"
+      ]
+    },
+    {
+      "cite": "41 N. Y., 123",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/41/0123-01"
+      ]
+    },
+    {
+      "cite": "24 Wend., 65",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2155261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/24/0065-01"
+      ]
+    },
+    {
+      "cite": "4 N. Y., 419",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/4/0419-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 719,
+    "char_count": 17417,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 2.046373223529702e-06,
+      "percentile": 0.9951773250100682
+    },
+    "sha256": "43ed3951f3695d1da6169bbdc6812490f853677e968c24df8f0ab5bb496293f1",
+    "simhash": "1:080f8839d87ca4b3",
+    "word_count": 3032
+  },
+  "last_updated": "2024-02-27T19:44:23.357701+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People ex rel. George W. McLean et al., Respondents, v. Ethan Flagg, Supervisor, and James W. Mitchel, Town Clerk, of the Town of Yonkers."
+    ],
+    "opinions": [
+      {
+        "text": "Church, Oh. J.\nThe legislation involved in this ease is challenged upon the ground, that it is not competent for the legislature, to compel the town of Yonkers to incur a debt for the improvements authorized to be made. It is conceded that the legislature could direct the improvements to be made, and could lawfully impose a tax upon the property of the citizens of the town to pay the necessary expenses, or that it might authorize a town debt to be created, with the consent of the people of the town, or some officer or officers representing the municipality ; but that it cannot directly compel the creation of the debt, without the consent of the citizens or town authorities.\nAll legislative power is conferred upon the senate and assembly; and if an act is within the legitimate exercise of that power, it is valid, unless some restriction or limitation can be found in the Constitution itself. The distinction between the United States Constitution and our State Constitution is, that the former confers upon congress certain specified powers only, while the latter confers upon the legislature all legislative power. In the one case the powers specifically granted can only be exercised. In the other, all legislative powers not prohibited may be exercised. It cannot be denied, that the subject of the laws in question is within legislative powers. The making and improvement of public highways | and the imposition and collection of taxes, are among the! ordinary subjects of legislation. The towns of the State'' possess such powers as the legislature confers upon them. They are a part of the machinery of the State government, and perform important municipal functions, which are regulated and controlled by the legislature. Private property cannot be taken for public use without compensation. But this principle does not interfere with the right of taxation for proper purposes. The legislature, in substance, directed certain highways to be made and constructed in the town of Yonkers, and imposed a tax upon the town to pay the expenses of the work, but to prevent too large a tax at one time, it directed bonds to be given, payable at different periods, so that no more than a limited sum should become due at one time.\nThe bonds to be given are town bonds ; they are to be issued by town officers, and the tax to pay them is imposed upon the property of the town. If the legislature may authorize the town to incur this debt, why may it not direct it to be done ? Asa question of power, I am unable to find any restriction in the Constitution. It is not within the judicial province to correct all legislative abuses.\nThat local expenditures and improvements should, in general, be left to the discretion of those immediately interested, is manifestly just, and is in accordance with the theory of our government. But when power is conceded, we have no right to inquire into the motives or reasons for doing the particular act.\nThe legislation in question is open to serious criticism. It compels a large, if not extravagant expenditure of money, and imposes onerous burdens upon the people without their consent. If the object of the expenditure was private, or if the money to be raised was directed to be paid to a private corporation, who were authorized to use the improvements for private gain, the question, in my judgment, would be quite different; and in this respect there is a limit, beyond which legislative power cannot legitimately be exercised. But the defendants cannot avail themselves of this principle. Here the purpose is confessedly public, and the taxing power for such purposes is restrained only by restrictive provisions, and whether a tax shall be imposed for the whole expenditure in one year, or spread over a series of years; and in the meantime the obligations of the town, given on matters of detail and discretion, which do not affect the power, and with which courts cannot interfere. It is claimed however, that the laws in question, violate that provision of the Constitution, which prohibits the creation of debts, except to a limited extent, unless the laws authorizing them are submitted to the people. (Constitution, art. 1, see. 12.)\nThe provision is, \u201c except the debts specified in the tenth and eleventh sections of this article, no debt shall be hereafter contracted by or in behalf of the State, unless such debt shall be authorized by a law,\u201d etc., to be submitted to the people. The debts referred to in the tenth and eleventh sections which are excepted, are, 1st. Debts which, in the aggregate, shall not exceed one million of dollars to meet \u201c casual deficits,\u201d \u201cfailures in revenues,\u201d or \u201cfor expenses not provided for.\u201d 2d. Debts to repel invasion. Collating the tenth, eleventh, and twelfth sections, it is evident that the prohibited debts are State debts; that is, debts against the State as such, and not town, county or city debts. The latter, unfortunately, are not prohibited. If the prohibition applied to municipal debts, it would not be competent for the legislature to authorize the creation of any such debts, except by a submission to the people. It is manifest that they can confer such authority, and there is nothing in the Constitution that forbids the legislature 'from exercising the power, directly itself, for proper local public purposes.\nIt is quite clear that the creation of the debt in question is not within the meaning of, and is not, therefore, prohibited by the restrictive clauses in the Constitution against the creation of State debts.\nIt is also claimed that these acts violate the thirteenth section of the seventh article of the Constitution, which provides, that \u201c every law which imposes, continues, or revives a tax, shall distinctly state the tax and the object to which it is to be applied.\u201d\nIt is urged, that while the cost of the roads are limited to $20,000 a mile, exclusive of bridges, the commissioners are authorized to build the bridges; and there being no limitation of the expense of building them, that the tax is not distinctly stated, and the laws are therefore void.\nConceding that the construction given to this clause of the Constitution by the defendants is the correct one, and that it applies to a local as well as a State tax, we think the point is untenable. The seventeenth section of the act of 1870, confers upon the commissioners power to make the road, and \u201cto grade, drain, gravel, and improve the same, and construct all necessary bridges therefor.\u201d The twenty-first section limits the aggregate expenses of \u201c making, grading, draining, and improving said road \u201d to $20,000 a mile, \u201c exclusive of bridges.\u201d\nThe nineteenth section provides, that \u201csuch sums of money as may be necessary to make, grade, drain, and otherwise improve said road, shall be raised by the issue of town bonds,\u201d etc.\nWe think that this act recognizes a distinction between the \u201c road \u201d and the bridges. It is true the former is limited to $20,000, while the latter is unlimited; but there is no provision in that act, or the act of 1869, for raising the money to pay for bridges.\nThe clause requiring the issue of bonds must be held to apply to the \u201c road,\u201d exclusive of bridges, as specified in the sections referred to. The \u201c said road \u201d is the road specified before, and that road excludes bridges. Neither under the act of 1869 or 1870 could the commissioners lawfully demand the issue of bonds to pay for constructing bridges. The act of 1871 supplied this defect, by expressly authorizing the issue of bonds for the bridges as well as the road, and limiting the expenditure therefor.\nIt is further objected, that the commissioners were not entitled to the issue of any bonds, until all the roads, specified in the act of 1870, had been duly laid out, and the report of the commissioners of estimate and assessment, as to all the roads, had been confirmed. By the original act of 1869, four roads were authorized to be laid out and improved; and section 3 of that act provided, that \u201cno part of the money to be expended shall be paid out, nor any contract thereof made, until all roads, for their entire length, have been laid out and established as herein provided, and the right of way shall be acquired for the section of the road on which the money is to be expended.\u201d\nSection 12 provides, that \u201c after the report of the commissioners of estimate and assessment shall be confirmed, the said report shall be delivered to the commissioners for laying out and making said roads; who shall, thereupon, be authorized to cause such improvements to be made.\u201d\nThe act of 1870 repealed the clause above quoted in section 3, but left section 12 unaltered. The report of the commissioners of estimate and assessment, as to the four roads specified in the act of 1869, was confirmed before the amendatory act of 1870 was passed, and no report has been made as to the four additional roads specified in the act of 1870.\nBy the repeal of the express restriction contained in section 3, we may infer an intention to have the four roads, as to which the report of the commissioners of estimate and assessment had been confirmed, constructed without requiring the confirmation of the report as to the additional roads. Section 12 is not necessarily inconsistent with this intention. At most, it contains only an implied restriction; and it is entirely consistent with the repeal of section 3, by construing the implied prohibition against proceeding with the work, to apply only to such portions of the improvements as to which no report had been made or confirmed; or, in other words, that the commissioners were authorized to proceed with such of the improvements as to which a report had been confirmed. Looking at all the provisions of both acts, and the action of the legislature, this seems to be the most rational construction. Besides the right to have the bonds issued is not made dependent upon the confirmation of the report, and it is, at least questionable, whether the town officers could avail themselves of this point if the construction claimed should prevail; but it is unnecessary to determine this question.\nWe feel constrained to affirm the judgment.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Church, Oh. J."
+      }
+    ],
+    "attorneys": [
+      "W. A. Butler, for appellants.",
+      "F. K. Bangs, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "The People ex rel. George W. McLean et al., Respondents, v. Ethan Flagg, Supervisor, and James W. Mitchel, Town Clerk, of the Town of Yonkers.\nThe Constitution of the State confers upon the legislature all legislative power; and if an act is within the legitimate exercise of that power, it is valid, unless some restriction or limitation can be found in that instrument itself.\nThe making and improvements of public highways, and the imposition of taxes, are among the ordinary subjects of legislation. The legislature, therefore, has power to direct the cons traction of a highway in any town, to compel the creation of a town debt by the issue of its bonds, and to impose a tax upon the property of the town to pay the bonds, without the consent of the citizens or town authorities.\nThe provision of section 12, art. 7, of the Constitution, prohibiting the creation of debts, except to a limited extent, unless the laws authorizing them are submitted to the people, applies only to State, and not to municipal debts.\nNeither the provisions of the act of 1869 (chapter 272, Laws of 1869), authorizing the towns of Yonkers and Bast Chester, in the county of Westchester, to make and improve several highways, etc., nor the act of 1870 (chapter 340, Laws of 1870), amending the same, are in violation of section 13, art 7, of the Constitution, which directs, that every act imposing a tax shall distinctly state the tax, and the object to which it is to be applied. Those acts recognize a distinction between the \u20181 road \u201d and the bridges, provision is made for the raising of money by the issue of bonds, etc., to pay for the former, and the amount is limited. But no provision is made to pay for the latter; and the issue of bonds for that purpose could not be required.\nThe commissioners appointed under said act of 1869, are authorized to construct the roads therein specified, and to require the issue of bonds to pay therefor, without waiting for the confirmation of the report as to the four additional roads specified in the act of 1870.\n(Argued September 5th, 1871;\ndecided November 10th, 1871.)\nAppeal from an action of the General Term of the second 1 judicial department, affirming an order of Special Term awarding a peremptory mandamus, directing defendants to issue the bonds of the town of Yonkers in the sum of $60,000, pursuant to certain acts of the legislature, relating to the laying out of roads in the towns of Yonkers and East Chester, in the county of Westchester.\nThe relators are commissioners appointed by chapter 262, of the Laws of 1869, entitled \u201c an act to authorize the towns of Yonkers and East Chester, in the county of Westchester, to widen, make, extend, and improve several highways in said towns.\u201d\nSections 1 and 2 appoint the commissioners with power to lay out and build four roads in said towns.\nSection 3 empowers the commissioners to build the road in sections with this restriction. \u201c But no part of the money to be expended shall be paid out, nor any contract thereof made until all the roads, for their entire length, have been laid out and established as herein provided; and the rights of way shall be acquired for the section of the road on which the money is to be expended.\u201d\nSections 4 and 5 require surveys and maps to be made, and commissioners of assessment and estimate to be appointed, who are to report their assessment to the court, to be confirmed, modified, or sent back as the court shall direct.\nSections 6 to 12 provide, that after the report is confirmed, it shall be delivered to the commissioners, \u201c who shall be, thereupon, authorized to cause such improvements to be made.\u201d\nSection 17 vest the commissioners with power, to make, grade, drain, gravel, and improve the roads 5 and to construct all necessary bridges therefor.\nSection 21 limits the aggregate expenses of \u201c making, grading, draining, and improving said road \u201d to $10,000 per mile, exdusi/oe of bridges.\nSection 19 directs, that such sums as shall be necessary \u201c to make, grade, drain, and otherwise improve said roads,\u201d shall be raised by the sale of town bonds, to be issued by the town supervisor and clerk, upon the requisition of the commissioners. The commissioners are to convert the bonds into money, and use the proceeds in \u201c making and improving said roads.\u201d All the acts required to be done by sections 1 to 62 were done before April 11, 1870, when the report of the commissioners of estimate and assessment was confirmed by the Supreme Court, and delivered to relators.\nThe legislature then passed an act amending the original one (chapter 340, Laws of 1871.) Four additional roads were authorized. That portion of section 3, above quoted, was repealed. The limitation of expense in section 21 was changed to $20,000 per mile.\nThe relators made a contract for building the road authorized by the original act, and made a requisition upon the defendants, supervisor, and town clerk, of Yonkers, for bonds to the amount of $60,000. The length of the road in that town was 11-^y miles ; the contract price over $60,000. The defendants refused to issue the bonds.\nW. A. Butler, for appellants.\nThe acts, as far as they provide for the issuing of bonds by relators, without the consent of the taxable inhabitants, are unconstitutional and void. (1 Ii. S., 337, \u00a7\u00a7 1, 2; People v. Mayor, etc., 4 N. Y., 419; Thomas v. Leland, 24 Wend., 65 ; People v. Lawrence, 41 N. Y., 123; Bank of Rome v. Village of Rome, 18 N. Y., 38; S. C., 19 N. Y., 20 ; Starin v. Town of Genoa, 23 N. Y., 439 ; People v. Mead, 24 N. Y., 114; Clarke v. City of R., 28 N. Y., 605; S. C., 13 How., 206; People v. Mitchell, 35 N. Y., 551; Thomson v. Lee Co., 3 Wal., 327; People v. Com. Council, N. Y., 3 Keyes, 81; Swart v. Hulburt, 51 Barb., 312, 317; Hampshire v. Franklin, 16 Mass., 83; People v. Mayor, etc., 51 Ill., 17; People v. Salomon, 51 Ill., 37.) They are void under section 12, article 6, of the Constitution. (People v. Kern, 27 N. Y., 188; Newell v. People, 7 N. Y., 9.) It was a condition precedent to construction of work, that all the eight roads should be laid out. (Town of Duanesburgh v. Jenkins, 46 Barb., 294; Eli v. Holton, 15 N. Y., 595; McKibbon v. Lester, 9 Ohio., N. S., 627; Hartung v. People, 22 N. Y., 95, 109; 1. and M. Canal v. Chicago, 14 Ill., 334.)\nF. K. Bangs, for respondents.\nThe relators are ministerial officers, having no discretion, and are liable for refusal to act as commanded by law. (Caswell v. Allen, 7 John., 63 ; People v. Mayor of B., 1 Hill, 545; People v. Brooks, 1 Denio, 457; Morris v. People, 3 Denio, 382; Ross v. Curtis, 31 N. Y., 606 ; People v. Martin, 58 Barb., 286.) The act does not confer unlimited power of taxation. The expense of roads is limited. No power1 to tax for bridges is given. (Clark v. Rochester, 28 N. Y., 605 ; Laws of 1851, p. 767, \u00a7 285; Laws of 1853, p. 596 ; Bank of R. v. Village of R., 18 N. Y., 38 ; Laws of 1869, chap. 907; People v. Mitchell, 35 N. Y., 551; Starin v. Genoa, 23 N. Y., 441; Gould v. Sterling, 23 N. Y., 456.) The act of 1870 does not change the position of relators, in reference to the roads mentioned in act of 1869. (Eli v. Holton, 15 N. Y., 595 ; Duanesburgh v. Jenkins, 46 Barb., 294.)"
+  },
+  "file_name": "0401-01",
+  "first_page_order": 419,
+  "last_page_order": 427
+}

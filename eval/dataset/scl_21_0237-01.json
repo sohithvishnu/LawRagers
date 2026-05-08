@@ -1,0 +1,71 @@
+{
+  "id": 2510991,
+  "name": "N. VARNEY VS. J. H. VOSCH; THE SAME VS. THE SAME",
+  "name_abbreviation": "Varney v. Vosch",
+  "decision_date": "1837",
+  "docket_number": "",
+  "first_page": "237",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "3 Hill 237"
+    },
+    {
+      "type": "official",
+      "cite": "21 S.C.L. 237"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "S.C. Ct. App.",
+    "id": 8810,
+    "name": "South Carolina Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 59,
+    "name_long": "South Carolina",
+    "name": "S.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 304,
+    "char_count": 4365,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 4.308583280525828e-07,
+      "percentile": 0.916972572532221
+    },
+    "sha256": "228db978f62cc6ef6ae4611fdb3696b6edb1ab31d5ce9b84fc857d32f0fbbb5d",
+    "simhash": "1:78da0ffe5ad26c46",
+    "word_count": 772
+  },
+  "last_updated": "2023-07-14T20:01:01.774894+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Gantt, Richardson, Evans, and Butler, JJ. concurred."
+    ],
+    "parties": [
+      "N. VARNEY VS. J. H. VOSCH. THE SAME VS. THE SAME."
+    ],
+    "opinions": [
+      {
+        "text": "Curia, per\nO\u2019Neall, J.\nFrom the reports of the magistrate, it does pot appear when the rent was due; for aught that appears, the suits might have been brought on the instant that it was payable. The rule is clear, that where nothing appears on the face of the proceedings to shew the' Want of jurisdiction, and the objection is not made in the court below, it cannot be taken in the court above. This would be enough for the purposes of these cases. But if it be conceded that the rent had been due one or two days, the plaintiff had the right to treat the defendant\u2019s contract as without the accrual of interest. The interest then due was incapable of reception, on account of its minuteness, and hence, on the maxim \u201c de minimis non curat le&p the plaintiff might legally disregard it. In puch a case as the present, I do not think the cases decided in relation to the process jurisdiction, have any application; there, the attempt was made by releasing a substantial part of the demand to give jurisdiction, which the court held could not be done. Here, as soon as the rent is due, a suit is instituted for its recovery, disregarding the interest on the rent, which was less than the smallest coin or denomination of money in circulation.\nThe motion to reverse the Recorder\u2019s decision, and to affirm the judgments of the magistrate, is granted.\nGantt, Richardson, Evans, and Butler, JJ. concurred.",
+        "type": "majority",
+        "author": "O\u2019Neall, J."
+      }
+    ],
+    "attorneys": [
+      "Rice, for the motion. Yeadon, contra?"
+    ],
+    "corrections": "",
+    "head_matter": "N. VARNEY VS. J. H. VOSCH. THE SAME VS. THE SAME.\nWhere nothing appears on the face of the proceedings to show a want of jurisdiction, and the objection is not made in the court below, it cannot be taken in the court above.\nWhere twenty dollars for a month\u2019s rent had been due but a few days, the plaintiff may treat the contract as without interest, and sue before a Magistrate*\nThese were two cases tried before a magistrate. The plaintiff claimed the sum of $20 in each, as for one month\u2019s rent, due under a certain \u00e1greemerit of leaser, in writing. The magistrate decreed ib favor of the plaintiff, for the sum of $20 in each case. The defendant appealed to the fcity recorder. The report of the magistrate to that court being identically the same in both cases, it is thought sufficient to insert his report iri feither case; which was as follows!:\n\u201c The plaintiff brought suit againt the defendant for $20, for one .month\u2019s\u2019 rent of a house in \u00c9lliott-street, due by agreement of lease, in writing, knd contracted to be paid monthly, in advance. The hand writing of defendant to lease, was proved. Defendant stated somethirig in defence, about plaintiff\u2019s having ordered him to give up the premises, but no proof was offered. I decreed for plaintiff $20. Defendant gave notice of appeal, but furnished me with no grounds.\n(Signed,) ROBERT E'DFE, Q, U.\nTried 5th January, 1837.\u201d\nThe case was heard on appeal, before 'the Honorable the Recorder of the city, when the counsel for the appellant insisted that the appeal should be sustained, on the ground of there being more than $20 due, to wit, one day\u2019s interest at the time of suit brought in the magistrate\u2019s court. After hearing the case, the record\u00e9r endorsed on back of magistrate\u2019s report,\n\u201c Appeal sustained, on the ground that the amount sued for exceeded the jurisdiction of a magistrate.\n(Signed,) JACOB AXSON, Recorder.\u201d\nGrounds of Appeal.\n1. That the amount sued for was $20 only, and therefor\u00e9, clearly within1 the jurisdiction of the magistrate.\n2. That whether interest was or was not due on the contract in this base, was \u00e1 question that could not be made in the first instance, except before the magistrate who tried the cause, and that plaintiff not having claimed it, and defendant not having set it up as a ground of defence at fhe trial in these cases, both,parties are now concluded on that point.\n3. That there is nothing in the law to prevent a creditor Suing before a magistrate for debt to the amount of $20, although the indebtedness may \u00e9xc\u00e9ed that amount, provided the creditor claimed only to the extent of $20, as his full satisfaction upon the particular contract.\n4. That a creditor* by suing for and recovering his principal debt, with-6ut interest, must be held to have released it, which he has a clear right tor do ; and that if the principal does not exceed $20, in such a case, he may shie for it before a magistrate, and recover.'\nRice, for the motion. Yeadon, contra?"
+  },
+  "file_name": "0237-01",
+  "first_page_order": 241,
+  "last_page_order": 243
+}

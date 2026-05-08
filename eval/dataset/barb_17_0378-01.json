@@ -1,0 +1,151 @@
+{
+  "id": 4955020,
+  "name": "The Steam Navigation Company vs. Weed and others",
+  "name_abbreviation": "Steam Navigation Co. v. Weed",
+  "decision_date": "1853-02-07",
+  "docket_number": "",
+  "first_page": "378",
+  "last_page": "384",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Barb. 378"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Barb. 213",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4909365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/11/0213-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 217",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Hill, 491",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Hill, 490",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Penn. Rep. 13",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        964931
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/13/0013-01"
+      ]
+    },
+    {
+      "cite": "16 Mass. Rep. 102",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035247
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/16/0086-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 137",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Hill, 37",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wend, 498",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005468
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0498-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 583",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 682,
+    "char_count": 12672,
+    "ocr_confidence": 0.46,
+    "pagerank": {
+      "raw": 1.8602212675036756e-06,
+      "percentile": 0.9943328742332082
+    },
+    "sha256": "daf6811af45bbb0511de90be15d57dd7517d552c45ea79584b71321534fa842a",
+    "simhash": "1:94aec5ff996f38fc",
+    "word_count": 2234
+  },
+  "last_updated": "2024-02-27T22:44:48.309491+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Steam Navigation Company vs. Weed and others."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Parker, J.\nI am inclined to the' opinion that the referee erred in not permitting the plaintiff to show that the making of advances and temporary loans, for the accommodation of customers, was incidental to the transportation business generally, at Albany. If it tended to prove that the loan in question was incidental to the purposes for which the corporation was created, it was certainly admissible. But without deciding this question, I think it is better to determine this cause upon the facts which were in evidence, as they presented questions of great importance which will probably be again raised, if a new trial should be awarded;\nThose questions are, whether the transaction was an act of banking, and a violation of the restraining act j and whether the defendants were at liberty to set up as a defense that the plaintiff had no right, under its charter, to make the loan.\nI suppose the referee was governed in his decision, by what was said by Savage, Ch. J., in Beach v. The Fulton Bank, (3 Wend. 583,) which was as follows: \u201c Incorporated companies having no powers but such as are granted, or necessarily incident, a company having no such power, express or implied, has no capacity to lend money, and of course, cannot sue for it.\u201d The observations of the judge on this subject were prefaced with the remark, \u201c that, perhaps, that point should not now be discussed, as that ground is not relied on in the answer,\u201d and the cause was decided on other grounds. What was said on this point, must therefore be regarded as a mere dictum, and not as authority. There are other cases, however, in which it seems to be assumed that the law is as stated by Chief Justice Savage, though I find none in which it has been so adjudged. There was no good reason for supposing that the making of the loan in this case was a violation of the restraining act. (1 R. S. 893, 3d ed.) It was not the discounting of a note. It was a loan of money for a single day, without taking any note or security; and, for aught that appears, without charge or intention to charge for its use. It was a single, isolated casual transaction, not for the purpose of gain, but to oblige a customer. It was not an act of banking. (People v. Brewster, 4 Wend, 498.) The question then was, not whether the loan was a violation of an express statute, but whether the corporation had power, express or implied, to make it. In other words, it was not a question of illegality, but of authority. I think, in such cases, the defendant who has received the money is not at liberty to question the authority of the lender.\nIn Silver Lake Bank v. North, (4 John. Ch. Rep. 370,) where it was alleged that a foreign corporation had exceeded its power in making a loan, Chancellor Kent said, \u201c it would rather belong to the government of \u00a1Pennsylvania to exact a forfeiture of their charter; than for this court, in this collateral way; to decide a question of misuser, by setting aside a just and bona fide contract.\u201d In the State of Indiana v. Woram, (6 Hill, 37,) the defendant\u2019s counsel contended that the Staten Island Whaling Company had no power, by its charter, to purchase of deal in state bonds ; and Bronson, J., in delivering the opinion of .the court, said, \u201cI agree with the counsel for the defendants; that this company had no authority to purchase or deal in these bonds. But since the decision in Moss v. The Rossie Lead Mining Co. (5 Hill, 137,) I do not see that a corporation can ever avoid its obligation, on the ground that it was given for property which the corporation was not authorized to purchase. And if the company was bound, I see no reason why the defendants should-not also be bound by the contract.\u201d\nThe case of The Chester Glass Co. v. Dewey, (16 Mass. Rep. 102,) goes much further than that under consideration. The plaintiffs claimed to recover for goods sold and delivered to the defendant. The defendant objected that the plaintiffs were prohibited by law to carry on such trade. Parker, Oh. J., said, \u201c The defendant cannot refuse payment on this ground; but the' legislature may enforce the prohibition by causing the charter to be revoked, when they shall determine that it has been abused.\u201d\nIn McCutcheon v. The Steamboat Co. (13 Penn. Rep. 13,) a foreign corporation had taken a lease of real estate without authority in its charter, and, in an action for the rent, the court enforced the contract. Coulter, J. said, \u201c Some things lie too deep in the common sense and common honesty of mankind to require either argument or authority to support them; and this, I think, is one of them.\u201d\nI think the true rule on this subject is laid down by Duer, J. in Palmer v. Lawrence, (3 Sandf. S. C. Rep. 170,) as follows : \u201c A defendant who has contracted with a corporation de facto, is never permitted to alledge any defect in its.organization, as affecting its capacity to contract or sue ; but all such objections, if valid, are only available on behalf of the sovereign power of the state,\u201d and he added, in the same opinion, \u201c It would be in the highest degree inequitable and unjust to permit him to rescind a contract, the fruits of which he retains and can never be compelled to restore.\u201d\nWhen it is a simple question of capacity or authority to contract, arising either on a question of regularity of organization, or of powers conferred by the charter, a party who has had the benefit of the contract cannot be permitted to question its validity, in an action founded upon it. Even where there has been a general restriction in the charter, an isolated case of excess beyond the limit prescribed, has been protected and the contract held binding, when the general practice of the corporation had been in strict conformity with its charter. Thus in Potter v. The Bank of Ithaca, (5 Hill, 490,) where the charter of a bank provided that its operations of discount and deposit should not be carried on elsewhere than in the village of Ithaca, and the cashier discounted a note at the city of New-York, for the purpose of securing a demand due the bank, it was held to be a valid note, and that the restriction in the charter related only to the customary and permanent business operations of the bank; not to an isolated transaction, like the one in question.\nThe same doctrine was held in Suydam v. The Morris Canal and Banking Co., (5 Hill, 491, note,) where the loan was made in the city of New-York, and the charter of the defendants provided that their banking operations should be carried on in the city of Jersey. In that case the lo.an was not made for the purpose of receiving a debt due to the banking company, and the decision was affirmed by the late court for the correction of errors. (6 Hill, 217.)\nIn The Sacket\u2019s Harbor Bank v. The Lewis County Bank, (11 Barb. 213,) there was a provision in the charter of each bank that it should not, directly or indirectly, deal or trade in buying or selling any goods, wares and merchandise or commodities whatsoever, unless in selling the same when truly pledged byway of security for debts due the corporation. It appeared that the plaintiff, in order to secure a debt, had taken a quantity of butter, to the amount of $10,000, which it subsequently sold to the defendant. The defendant, for the purpose of raising money, agreed to take the butter at its market price, and also money of the plaintiff and repay it, at a future day, the amount .of the money loaned and the price of the butter. In an action to recover on such contract the defendant set up its incapacity to purchase the butter from the plaintiff. But, it appearing to be an isolated transaction, it was held valid, and a nonsuit, which had been granted, was set aside.\n[Albany General Term,\nFebruary 7, 1853.\nWatson, Parker and Wright, Justices.]\nI am happy to come to the conclusion that the law will not sustain this most unconscionable defense. It ill becomes the defendants to borrow from the plaintiff $1000 for a single day, to relieve their immediate necessities, and then to turn around and say \u201cI will not return you this money, because you'had no power, by your charter, to lend it.\u201d Let them first restore the money, and then it will be time enough for them to discuss with the sovereign power of the state of Connecticut the extent of the plaintiff\u2019s chartered privileges. We shall lose our respect for the law, when it so far loses its character for justice as to sanction the defense here attempted.\n\u201cLex plus laudatur, quando ratione probatur.\u201d\nThe judgment rendered on the report of the referee must be reversed, and a new trial awarded.",
+        "type": "majority",
+        "author": "By the Court, Parker, J."
+      }
+    ],
+    "attorneys": [
+      "J. K. Porter, for the plaintiff.",
+      "D. Tillinghast, for the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "The Steam Navigation Company vs. Weed and others.\nIn an action by a foreign corporation, to recover a sum of money loaned in this state, the defendant is not at liberty to avail himself of the defense that the plaintiff was precluded by the terms of its charter from making such loam\nWhere it is a simple question of capacity to contract, arising either on a ' question of regularity of organization or of powers conferred by the charter, a party who has had the benefit of the contract cannot be permitted, in an action founded upon it, to question its validity.\nThis was an appeal from a judgment in favor of the defendants rendered on the report of a referee. The plaintiffs were a foreign corporation duly organized under the laws of Connecticut, doing business in that state, and also engaged in the trans-\u2019 portation business in the state of New-York, on the Hudson river, between Albany and New-York. They were authorized by their charter to transport freight and passengers and to tow vessels by the power of steam, and to transact other business incident thereto. And there was a proviso that nothing contained in .that act should be construed to authorize or empower such corporation to use its funds for banking transactions. The plaintiffs\u2019 line on the Hudson river was called the Swiftsure line.\u201d The business of the plaintiff was transacted at Albany, at .the office of the Steam Navigation Company, by Van Santvoord & Co. The defendants were partners, residing in the city of Buffalo, and, had previous to the transaction in question, forwarded large amounts of property to Van Santvoord & Co., tobe transported to New-York, which was forwarded by the plaintiffs\u2019 line. Such business was transacted exclusively by the plaintiffs and for their benefit. On the 7th of October 1851, the defendants sent the following letter to Messrs. Chip-man \u2022& Savage of Albany:\n\u201c Buffalo, October 7,1851.\nMessrs. Chipman & Savage,\nGents. When your Mr. Savage left here yesterday we promised to remit you $1000 to-day, and we had the promise of it this morning, where we were sure, as we thought, but have been disappointed ; but we shall surely have it to-morrow and if you are short, as we suppose you will depend on this, you must go to Van Santvoord & Co. and they must lend you $1000 for our acc\u2019t. They can and must do it: We have done very large business with them, since we have been in Buffalo, and have not asked a favor before-. We are sorry to disappoint you,' but our friends Van Santvoord & Co. must help us and you this time. Truly yours,\nElias Weed & Co.\u201d\nChipman carried this letter to Van Santvoord & Co. who, upon the faith thereof, advanced the $1000, by giving him a check therefor, on which he drew the money. The check was in the words and figures following :\n\u201c Office of the Swiftsure Line Freight Boats,\nAlbany, Oct. 8,1851.\nCommercial Bank of Albany, Pay to the order of Louis L. Seovel one thousand dollars.\n$1000. Van Santvoord & Co.\nAgents.\u201d\nEndorsed \" Louis L. Seovel.\u201d\nThe check was drawn upon and paid out of the plaintiff\u2019s funds, and Chipman advised the defendants that he had got the money upon the letter. This action was brought to recover for the money thus loaned.\nOn the trial the plaintiff\u2019s counsel offered to show that the making of advances and temporary loans for the accommodation of customers, was ordinarily incident to the transportation business generally, at Albany; This evidence was objected to as immaterial, and excluded. The referee decided, 1. That the money loaned was, in law, loaned by the plaintiff, and that the action was properly brought in its corporate name; 2. That the plaintiff had no right or power to loan money, or to maintain an action therefor, if loaned, in a matter in no wise incidental to, or arising out of, the purposes for which the corporation was created; And the referee held that the loan in this case, as well as the promise to pay, was a nullity; and that the plaintiff could not recover for money lent and advanced.\nJ. K. Porter, for the plaintiff.\nD. Tillinghast, for the defendants."
+  },
+  "file_name": "0378-01",
+  "first_page_order": 378,
+  "last_page_order": 384
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2134321,
+  "name": "Jackson, ex dem. Whitman and another, against Douglas",
+  "name_abbreviation": "Jackson ex dem. Whitman v. Douglas",
+  "decision_date": "1811-10",
+  "docket_number": "",
+  "first_page": "367",
+  "last_page": "368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Johns. 367"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 2272,
+    "ocr_confidence": 0.557,
+    "pagerank": {
+      "raw": 2.976143764926945e-07,
+      "percentile": 0.85068067674988
+    },
+    "sha256": "de495e6d8a46c786bf8913471d5914afb99fa7c71d73725fa9f5a827067a6c60",
+    "simhash": "1:e047ceab1024c88b",
+    "word_count": 410
+  },
+  "last_updated": "2023-07-14T21:14:41.123515+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Whitman and another, against Douglas."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThere is not a sufficient cause for interfering with the verdict. There was no uncertainty originally, as to the true location of the lots. It is very clear that the defendant possesses beyond the true line, between great lots No. 7. and 8. and the single fact, that one of the lessors of the plaintiff, about eight years ago, showed a mistaken line as the true line, is not, of itself, sufficient to conclude him, in this case. The motion is, therefore, denied.\nMotion denied.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Whitman and another, against Douglas.\nWhere there was no uiacer* tainty as to the true location of two adjoining lots of land) as originally made, near forty years ago, the single fact that otie'of the lessors in ejectment, had*, about eight years of itself, to coriago, shown to the defendant a mistaken line, as the true line, vns not sufficient clvde the lessors, or to set aside a verdict for the plaintiff.\nTHIS was an action of ejectment for part of great lot No. 8. in Henderson's patent. The cause was tried at the Herkimer circuit, in June, 1811, before Mr. Justice Van Ness. The lessors owned 150 acres of land, on the north part of lot No. 8. and extending across the whole width of the lot, as delineated on the map of the patent, exhibited at the trial. The defendant owned the whole of lot No. 7. and the only question was as to the linti bounding between the two lots. Several surveyors were admitted as witnesses, but it is unnecessary to detail their \u00bfvidence. It appeared that the defendant possessed 10 chains and ten links west of the true boundary line} which was the quantity of land in dispute. But a wit- ' ness for the defendant testified, that when the possession was taken, about eight years before the trial, a division fence was run on the line to which the defendant claimed, which was shown by one of the lessors, as the true line. The marks of the trees, constituting the boundary line between the lot No. 7. and 8. were about forty or fifty 0 years old} but in that part where the defendant had possession, the land was cleared, and n\u00f3 marked trees left. The jury, under the direction of the judge, found a verdict for the plaintiffs. A motion was made to set aside the verdict, which was submitted to the court, without, argument."
+  },
+  "file_name": "0367-01",
+  "first_page_order": 375,
+  "last_page_order": 376
+}

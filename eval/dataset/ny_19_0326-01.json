@@ -1,0 +1,66 @@
+{
+  "id": 497686,
+  "name": "Baker v. The City of Utica",
+  "name_abbreviation": "Baker v. City of Utica",
+  "decision_date": "1859",
+  "docket_number": "",
+  "first_page": "326",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 N.Y. 326"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 379,
+    "char_count": 7329,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 9.910444756145876e-07,
+      "percentile": 0.9824252301968184
+    },
+    "sha256": "efd5d5da873cee7b5b869f07828b08878a80bfb029678fc7a50d72619e5477bd",
+    "simhash": "1:26efa581484a6844",
+    "word_count": 1222
+  },
+  "last_updated": "2023-07-14T18:43:21.059211+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Baker v. The City of Utica."
+    ],
+    "opinions": [
+      {
+        "text": "Grover, J.\nThe plaintiff in this case was city surveyor of Utica, - an officer of the corporation defendant. Having accepted and entered into that-office, he must be deemed not only to have had notice of all the provisions of the charter, but also to have, acted with reference to all its provisions relating to the services which he, in such office, might be called upon to render. In respect, therefore,..to.compensation for those services, there can be in his favor no implied assumpsit on the part of the corporation, except such as arises out of the provisions of the charter itself. The services for which a recovery has been had in the Supreme .Court, were rendered by him in his official capacity, and consisted in the preparation of plans, specifications and estimates for the paving and grading of streets in Utica, and in the superintendence of the execution of those plans. These services were rendered by direction of the common council, and with the directions were coupled no provisions as to the mode in which he was to be paid. For all the services claimed in this suit, compensation was provided by the assessments imposed on the property owners, and none of the assessments had been collected when the suit was commenced, though the defendant had proceeded diligently in the process of enforcing them.\nThe improvements in question were made under section 66 of the charter (ch. 184, of 1849, 266, 267), which requires that the assessment shall include the expenses of surveying; and the city surveyor, therefore, stands in no better position to maintain an action against the city for his services, than any contractor under the same section, whose contract should not in terms confine him to the proceeds of the assessment for his remuneration.\nIt is true that if, after the plans had been prepared, the common council had not proceeded with the improvement, the surveyor would not have been without the means of procuring payment. In such a case his charges would have formed a proper charge, by way of contingent expenses against the city, under subdivision 5 of section 40 of the charter, and would have been payable out of the fund. That possibility does not, however, present any obstacle to our holding that no action can be maintained against the city if the work is prosecuted by the common council, inasmuch as if that be the true construction of the provisions of the charter, the plaintiff, as city surveyor, must be regarded as having accepted the office and rendered the services with a view to these very provisions, and to have contracted to receive his compensation from the contingent fund, in case the work should not be prosecuted, or from the proceeds of the assessment, when collected, in case the work was proceeded in by the common council.\nSection 70 of the charter provides that all moneys received by the treasurer upon any assessment list shall be kept distinct from all other moneys, and shall be drawn from him only by orders expressly directing their application to the payment of the expenses for which the assessment was made. Section 71 provides that no moneys belonging to the city shall be paid out by the treasurer upon orders drawn against moneys to be raised upon an assessment list.\nThe substance of these provisions is, that no city moneys shall be paid on assessment ord\u00e9rs, and that assessment moneys shall be paid only on assessment orders. Both affirmatively and negatively a strict separation of the funds and an accurate application of each fund to its own objects is prescribed. I see no ground, in reason or policy, for interfering with this plainly disclosed legislative purpose. If enforced it will ensure just what was clearly intended, that the city expenses proper shall be kept distinct from the expenses of assessments, while a contrary construction, which should mingle and,confuse the funds thus carefully separated, could tend only to mischievous results.\nThe resolution of the common council to give the plaintiff a draft payable from the general fund, when collected by assessment, cannot avail him in this case, as the collection had not taken place when the suit was brought. Even in case the collection had been previously made, such a resolution would have conflicted with the two sections above quoted.\nThe judgment should be reversed and a new trial ordered.\nComstock and Selden, Js., dissented; all the other judges concurring,\nJudgment reversed and new trial ordered.",
+        "type": "majority",
+        "author": "Grover, J."
+      }
+    ],
+    "attorneys": [
+      "Francis Kernan, for the appellant.",
+      "Ward Hunt, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Baker v. The City of Utica.\nA person accepting offic'e in a municipal corporation under a charter, providing a peculiar mode of compensation for his services can, in the absence of a different express contract, obtain compensation only in the case and manner thus provided.\nAn officer of a municipal corporation made surveys and plans for the improvement of a street, upon the order of the common council, without any provision as to the mode of his compensation: Held, that there was no implied assumpsit in his favor, except such as might arise from the charter of the corporation.\nThe charter providing that the expenses of such services should be included in an assessment, if the contemplated improvement should be executed; providing also for a general fund for contingent expenses; requiring such fund to be kept wholly distinct from the proceeds of assessments, and that no money chargeable upon the assessment funds should be paid from the general fund, the surveyor can maintain no action for his services, in respect to an improvement completed by the corporation, until an assessment has been collected or the corporation is in default for not proceeding with due diligence in making and collecting an assessment.\nAppeal from the Supreme Court. The action was brought to recover for services as \u201c city surveyor\u201d of the city of Utica; and was tried at the Oneida Circuit before Mr. Justice Bacon, without a \"jury, in June, 1856. It was proved that the plaintiff was elected city surveyor in March, 1855, and acted as such until March, 1856; that while he held that office he surveyed for and superintended the grading and paving of certain streets, and the construction of plank sidewalks; that his accounts therefor were included in .assessments made for the expenses of those local improvements, which assessments .the city was proceeding to collect, but they had not been collected when this action was brought. JSTo want of diligence. by the city in making the assessments, - or in relation to proceedings to collect the same, was imputed. The evidence of the plaintiff .being closed, the defendant moved for a nonsuit on several grounds,. and among others, in substance, that the services were rendered under the provisions of the city charter. providing for the payment of such services only by assessments, and that the plaintiff could have no cause of action until the assessments were collected, or the defendant failed in its duty in respect to defraying the expenses by. assessment. The motion was denied, and the defendant excepted. The court directed a judgment for the plaintiff for $277.21, the amount of his accounts with interest, and the defendant excepted. The judgment was affirmed, on appeal, at general term in the fifth district,. and the defendant appealed to this court.\nFrancis Kernan, for the appellant.\nWard Hunt, for the respondent."
+  },
+  "file_name": "0326-01",
+  "first_page_order": 326,
+  "last_page_order": 329
+}

@@ -1,0 +1,212 @@
+{
+  "id": 1326193,
+  "name": "John Jamieson v. Diebold Millemann",
+  "name_abbreviation": "Jamieson v. Millemann",
+  "decision_date": "1854-04-29",
+  "docket_number": "",
+  "first_page": "255",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "3 Duer 255"
+    },
+    {
+      "type": "official",
+      "cite": "10 N.Y. Super. Ct. 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Super. Ct.",
+    "id": 9659,
+    "name": "New York Superior Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wend. 213",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2007419
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/6/0213-01"
+      ]
+    },
+    {
+      "cite": "10 Mass. R. 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Wend. 380",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0380-01"
+      ]
+    },
+    {
+      "cite": "2 Gill, 221",
+      "category": "reporters:state",
+      "reporter": "Gill",
+      "case_ids": [
+        1031296
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/gill/2/0221-01"
+      ]
+    },
+    {
+      "cite": "14 Serg. & Rawle, 267",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8878406
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/14/0267-01"
+      ]
+    },
+    {
+      "cite": "10 Barb. 333",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2412996
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/10/0333-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 390",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Barb. 379",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/5/0379-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cow. 568",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156682
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/1/0568-01"
+      ]
+    },
+    {
+      "cite": "10 Conn. 375",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753310
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/10/0375-01"
+      ]
+    },
+    {
+      "cite": "11 Mass. 536",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Metc. 34",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Wend. 380",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018779
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0380-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 924,
+    "char_count": 20903,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 7.011515451257677e-07,
+      "percentile": 0.9658887448650482
+    },
+    "sha256": "41182a6e6e597f8de3de46e34400777cf1d57f9cdcbdc1b5fea4b361501d0b33",
+    "simhash": "1:bb0203ff809084ce",
+    "word_count": 3720
+  },
+  "last_updated": "2024-02-27T18:08:00.504651+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Jamieson v. Diebold Millemann."
+    ],
+    "opinions": [
+      {
+        "text": "Duer, J.\nThe charge of the judge upon the trial was, in my opinion, entirely correct. There is this resemblance, and this only, between a grant and a license, that each, while it remains in force, protects and justifies an entry upon the lands to which it relates, but the distinctions-that exist between them are such, and so material, as should prevent them, in any case, from being confounded. A grant passes some estate or interest, corporeal or incorporeal, in the lands which it embraces; can only be made by an instrument in writing, under seal, and is irrevocable, when made, unless an express power of revocation is reserved. A license is a mere authority; passes no estate or interest whatever; may be made by parole; is revocable at will, and when revoked, the protection, which it gave, ceases to exist. It is true, that when a license is annexed as an incident to a valid grant, so that its exercise is necessary to the possession or enjoyment of the property or thing granted, it cannot be revoked. (Wood v. Leadbitter, 13 M. & W. 808 ; Wood v. Manley, 11 A. & Ell. 34; Wettleson v. Sikes, 8 Metc. 34.) But I apprehend, that this is the only exception from the rule, that a license is revocable at pleasure, that the English law and our own admite, and the exception is manifestly not applicable to the present case. Here the permission to the defendant, to enter upon the lot of the plaintiff, was not given for a temporary purpose, but for that of erecting a permanent building, which he was to use and occupy during the residue of the plaintiff\u2019s term; and it is plain that, by holding that this permission could not be revoked, we should give to a mere and verbal authority the effect and operation \"of a valid grant, and would in effect decide that an interest in lands may be transferred by parole. Such a decision, however, would be contrary to all the cases in the English reports arid in our own, and, if sustained, would be a virtual repeal of the statute of frauds.\nThe only authorities' upon which the learned counsel for the defendant relied, in contending that the permission under which the defendant justified, although a parole license, was not revocable at all, or not revocable without a tender to the defendant \"of all the expenses, which, upon the faith of the continuance of the permission, he had incurred, were a nisi prius decision of Lord Ellenborough (subsequently affirmed by the King\u2019s Bench), and the case of French v. Kern, 14 Sergt. & Rawle, 269, and other cases in the Supreme Court of Pennsylvania.\nIn the case before Lord Ellenborough (Winter v. Broderick, 8 East. 308), the land and the possession of the land, to which the controversy .related, belonged not to the plaintiff, but to the defendant himself. It was an open space or area between his house and that of the plaintiffs, which, tinder a parole license from the plaintiff, he had covered by a skylight, a framework of wood and glass. The injury of which the plaintiff\" complained was, that, by this inclosure of the area, he was shut out from the light and air, to the enjoyment of which, as an easement annexed to his own land, he was entitled, and by the revocation of his license sought to be restored. Lord Ellenborough, however, was of opinion that the license having been fully executed, the defendant could not be made a wrongdoer, and be deprived of the whole benefit of his expenditure in the erection of the skylight at the mere pleasure of the plaintiff ; and at all events, that the assent given could not be withdrawn without a tender of all the expenses, which, upon the faith of its continuance, he had incurred. In my opinion, this case, admitting the propriety of the decision, has no analogy to the present, since not only was the license fully executed; but its operation was, not to transfer an interest in land, but merely to suspend the enjoyment of an easement. All that the case, therefore, proves is, that by a parole license without a deed, the enjoyment of an easement may be waived or extinguished. The doctrine of the case, properly understood, is, indeed, fully settled by other decisions. It is that where full effect may be given to a license by acts done on the lands of the licensee, although by these acts the enjoyment of an easement attached to the land of the licensor may be defeated, the usual objections to considering a license irrevocable do not apply, and consequently that, in such cases, if the license has been fully executed, it cannot be revoked. (Moore v. Rawson, 3 B. & C. 332 ; Liggins v. Inge, 7 Bing. 682.) But that this doctrine is wholly inapplicable when the acts which the license warrants are to be done by the licensee upon the lands of the licensor, and the effect of holding the license to be irrevocable, would be to give to the licensee a permanent interest or easement in these lands, has been determined in numerous cases in the English courts, in those of our sister States, and emphatically in our own. (Fentiman v. Smith, 4 East. 109; The King v. Inhabitants of Horndon, 4 M. & Gil. 562; Hewlins v. Shipman, 5 B. & C. 221; Wood v. Leadbitter, 13 M. & W. 838 ; Bryan v. Whistler, 8 B. & C. 288; Cocker v. Cooper, 1 Cr. Mees. & R. 418 ; Bird v. Higginson, 4 Nev. & Man. 505; Cook v. Stearns, 11 Mass. 536 ; Hayes v. Richardson, 1 Gill. & Johns. 366; Prince v. Case, 10 Conn. 375; ex parte Coburn, 1 Cow. 568 ; Mumford v. Whitney, 15 Wend. 380 ; Miller v. Auburn and Syracuse R. R. Co., 6 Hill, 61; Houghtailing v. Houghtailing, 5 Barb. 379; Brown v. Woodworth, id. 551.) It is true that in Taylor v. Waters, 7 Taunt. 374, the Court of Common Pleas in England appears to have held that an easement, and every other incorporeal interest or right, may be granted by a parole license, so as to render the license, as coupled with an interest, exempt from revocation; but that this was an erroneous decision has been clearly shown by Alderson, B., in his elaborate opinion in Wood v. Leadbitter, and. by the final judgment in this and subsequent cases, Taylor v. Waters must now be considered as conclusively overruled. It is certain that by the rules of the common law, anterior to and independent of the provisions of the statute of frauds, no incorporeal estate or interest can be created or transferred otherwise than by deed. It may, therefore, be said, with entire confidence, that no proposition of law is more fully established than that a license that, by its terms, would operate to pass an estate, interest, or easement in lands, if not wholly void, is revocable at the pleasure of the grantor and his representatives; and that when such is the character of the license, even its actual execution is no bar to its subsequent revocation. It may not indeed be so revoked as to render the licensee a trespasser ah mitio, but its revocation renders unlawful all subsequent acts, which its terms would otherwise have justified.\nIt cannot, however, be denied that the Supreme Court of Pennsylvania, in the cases to which we were referred, has held that a parole license may,'in special cases, have the full operation of a grant; but the decisions in Pennsylvania stand alone, and will be found, upon examination,' to proceed upon a doctrine which is peculiar to the courts of that state, and which has arisen entirely from the absence of any tribunal having a jurisdiction to administer equitable relief in the usual mode, and in the proper sense of the term. The decisions in Pennsylvania that have been cited are, doubtless, evidence of the law which there prevails, but as evidence of the law that we are bound to administer, they have no authority whatever. They are not to be reconciled with the principles of the Common Law, and are directly opposed to the long series of controlling decisions that I have quoted.\nI do not think it necessary to dwell long upon the next position of the defendants\u2019 counsel, namely, that the license, in this case, if revocable at all, could not be revoked until all the expenses which the defendant had incurred in its partial execution were refunded or legally tendered. I am not aware that the assertion rests upon any other authority than the dici'wm, of Lord Ellenborough in Winton v. Brockwell, and this, we have the authority of the same learned judge for saying, must be understood in a strict reference to the particular circumstances of the case in which it was uttered; that is, as applicable only where the license has been fully executed, and involves no more than the waiver or relinquishment of an easement or other privilege, not where, if held to. be irrevocable, it would operate as a transfer of an estate or interest in land.\nIn the case of the King v. the Inhabitants of Thorndon, it was held by the Court of King\u2019s Bench\u2014Lord Ellenborough delivering its opinion\u2014that a license affecting the use or enjoyment of the realty, although carried i/nto execution, is revocable at the pleasure of the party by whom it was granted, even when the circumstances are such, that the effect of its revocation must be wholly to deprive the licensee of the fruits of his money or labor; and this principle is distinctly affirmed in the subsequent cases of Hewlins v. Shipman, and Wood v. Leadbitter.\nWhere a license .is not simply gratuitous, but is founded on a valuable consideration, cases may, doubtless, arise, in which the licensee would have a just claim to be reimbursed for his expenses, and compensated for his labor; but even in such cases, if the license affects the use or enjoyment of the realty by the licensor, by creating an interest inconsistent with his own, I apprehend it has never been decided that the payment or a tender of full amends is a condition precedent to a revocation of the license\u2014a condition that must be performed before it can be recalled. If there is no authority for such a decision, and none has been produced, it does not appear to me that upon principle it ought to be made. I- cannot believe that if the parties should differ as to the amount of the compensation due, the licensee would be justified in continuing his labors and retaining his possession in defiance of the wishes of the owner. It would be his plain duty, in my opinion, to comply with the revocation, and seek his remedy by action.\n. We have no right to listen to the defence that was urged for the first time upon the argument before us, that the defendant purchased the fee, under an agreement with the plaintiff, that he should be permitted to enter upon the lot, construct an ice-house, and use and occupy it during the continuance of the plaintiff\u2019s term. This defence is not set up in the answer, nor does it appear that it was meant to be urged upon the tidal; and whether, had it been admitted and proved, it would assist the defendant,, is a question that I decline to consider.\nFor the reasons that have been given, the plaintiff is entitled to judgment upon the verdict.\nSlosson, J.\nHad the answer set up as a distinct defence that the defendant purchased the premises upon the understanding or agreement \u25a0 with the plaintiff, that he was to have the privilege of erecting his ice-house, as seems to have been proved by one of the witnesses upon the trial, I should think this a valid agreement between the parties, which, after the building had been commenced, might have been enforced in equity. (2 Story\u2019s Eq. Jurisp., \u00a7 751-761.) A sufficient consideration for the agreement, on the plaintiff\u2019s part, was the-preservation of his term under the lease which, but for such purchase by the defendant, would have been put an end to, or destroyed by the foreclosure of a mortgage, which was anterior to his lease. At any rate it would have operated as an estoppel m pads against the plaintiff.\nBut the defence is put wholly upon the license alleged to have been given by the plaintiff.\nThe license, which was by parol, was to erect a permanent structure on plaintiff\u2019s land. If operative, it created an interest in the land, and should therefore have been in writing. (2 R. S. 134-5. Cook v. Stearns, 11 Mass. 536 (see 15 Wend. 390.) Mumford v. Whiting, 15 Wend. 380. Davis v. Townsend, 10 Barb. 333.)\nIt occurred to me on the argument that a license could only be given by the owner of the land, but I see no reason for the distinction, and am of opinion that a lessee for years (whose interest is only usufructuary, and yet must be created by writing), can give a license equally with the owner of the land.\nBut though the license was void, it was a justification for all acts done tinder it before it was- revoked. (Miller v. Auburn and Syracuse R. R. Co., 6 Hill, 61. Pierrepoint v. Barnard, 2 Seld. 279.)\nThis, however, is its only operation. It constitutes an excuse for what would otherwise have been a trespass: if it had been a license to do what might properly be done under a license, and had not gone to the extent of creating, or attempting to create, an interest in the land itself, I should incline to the opinion that it could not be revoked without putting the defendant in the condition in which he was before the revocation, that is, making him whole. (15 Wend. S. C., p. 387.) But being absolutely void, except as a j ustification for a trespass,. its operation ceases there, and its revocation gives no right to compensation.\nThe judge\u2019s charge was, therefore, correct, and the judgment must be for the plaintiff.\nBoswobth, J., concurred with his brethren in rendering judgment for the plaintiff, with costs.",
+        "type": "majority",
+        "author": "Duer, J. Slosson, J."
+      }
+    ],
+    "attorneys": [
+      "L. B. Shephard for the defendant.",
+      "A. Mathews for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "John Jamieson v. Diebold Millemann.\nThe main distinction between a grant and license to enter upon lands is, that the latter, whether made by parole or in writing, is, in all cases, revocable at pleasure The single exception is where the license is annexed as an incident to a valid grant, and its exercise necessary to a beneficial enjoyment of the grant.\nA parole license that, if held to be irrevocable, would operate as a transfer of an estate or interest in land, is wholly void, except as a justification for acts done under and prior to its revocation.\nIn such cases, although the licensee in acting under the license has incurred expenses, a tender of amends is not a condition precedent to a valid revocation.\nHeld, upon these grounds, that the charge of the judge upon the trial, that the plaintiff had a right to revoke a license set up as a defence without a tender of amends, and that the defendant was answerable for all damages done by him after the revocation, was correct.\n(Before Duer, Bosworth, and Slosson, J.J.)\nApril 3;\nApril 29, 1854.\nThis was an action to recover damages for an entry, by the defendant, upon the plaintiff\u2019s close, a lot of ground on Twenty-sixth street in the City of New York, and digging and carrying away the soil.\nThe answer of the defendant denied that the plaintiff was entitled to the possession of the lot described in the complaint upon which the alleged trespass was committed, and averred that he, the defendant, was the owner thereof in fee, and that when he purchased the same he received from the plaintiff full license and permission to enter and build an ice-house and smoke-house thereon, and that his entry, and the excavations made by him, were under and by virtue of this license.\nIJpon these pleadings the cause was tried before the Chief Justice and a jury in October, 1853.\nThe plaintiff proved that he was entitled to the possession of the premises in question under a lease for five years, .of which more than two were unexpired when the alleged trespass was committed ; that the defendant entered thereon by workmen in his employ, and under his direction, in the month of March, 1853. and made a larsre excavation with the view, as he averred. to the erection of an ice-house; and that he continued the work for some days after he was expressly forbidden by the plaintiff, and until restrained by an injunction.\nThe defendant proved that in Hovemher, 1852, the fee of the lot held by the plaintiff under his lease was conveyed to him for a valuable consideration, and that before and after the purchase the plaintiff had said that he, the defendant, might enter and build an ice-house upon the lot if, by so doing, he would not injure the window-lights and alley-way of the plaintiff, and that the entry of the defendant was after this permission had been given, and for the sole purpose of building an ice-house.\nThe Chief Justice, in charging the jury, said that the plaintiff had a right to revoke the license given by him without any tender of amends to the defendant, and that for all damages done to the lot by the defendant and his workmen, after such revocation, the defendant was answerable. To this part of the charge the counsel for the defendant excepted.\nThe jury found a verdict for the plaintiff, and assessed his damages at $95.\n\u25a0The verdict was taken, subject to the opinion of the court at General Term, with liberty to the defendant then to move for a dismissal of the complaint.\nL. B. Shephard for the defendant.\nI. The complaint in this action should be dismissed. 1. The permission of Jamieson that Millemann might build an ice and smoke-house was a valid license, although by parole. It was not designed to convey any interest in the land, hut merely a right to do an act upon it. It did not absolutely exclude the licensor from the use of his land, nor was the ice-house contemplated by it a permanent structure within the Hew York and Massachusetts cases cited, viz: 3 Kent. Comm. 452; Barnes v. Barnes, 6 Vermont, 388; Ameriscoggin v. Bragg, 11 New Hampshire, 102 ; Woodbury v. Paishley, 7 id. 237; Mumford v. Whitney, 15 Wendell, 380; Houghtaling v. Houghtaling, 5 Barbour, 383; Davis v. Townsend, 10 Barbour, 333; Miller v. The Auburn R. R. Co., 1 Hill, N. Y. R. 61; Stevens v. Stevens, 11 Metcalf, 251. 2. As the question is presented in this case between the grantor and grantee of the license, it is proper as a principle of equitable estoppel, which prevents the plaintiff from setting up aright, inconsistent with his license, to the prejudice of the defendant. (Rerick v. Kern, 14 Serg. & Rawle, 267; 2d Hare & Wallace, American Leading Cases, p. 524.) 3. Millemann having incurred the expense of the excavations previous to the 7th of March, was entitled to a tender of amends upon revocation of the license before he could be stayed from proceeding under it. (3 Kent. Comm. 452; Addison v. Hack, 2 Gill, 221; Ameriscoggin v. Bragg, ut supra; Woodbury v. Paishley, ut supra ; Rerick v. Kern, ut supra.)\nA. Mathews for plaintiff.\nI. The only question in the case is contained in the exception to the charge, and this was correct both as a mere proposition of law and as warranted by the facts in this case. 1. The \u201clicense\u201d claimed was to erect a permanent structure for a permanent purpose, was \u201c an interest in lands\u201d (an easement and not a mere license), and by statute void without a grant in writing. It was even more than an easement, it was a usufructuary right to continual exclusive possession, use, and occupation of the land in question. (2 R. S. 134, \u00a7 6,135, \u00a7 8 ; Fentiman v. Smith, 4 East. R. 107; Hewlins v. Shippan, 5 Barn. & Cres. R. 221; Bryan v. Whistler, 8 Barn. & Cres. R. 288; Crocker v. Cowper, 1 Cromp., Mees. & Rose, 418 ; Bird v. Higginson, 4 Nev. & Man. R. 405 ; Wood v. Leadbitter, 13 Mees. & Welsby R. 838 ; Philips v. Thompson, 1 Johns. C. R. 145; Thompson v. Gregory, 4 Johns. R. 81; Jackson v. Buel, 9 Johns. R. 298 ; Noyes v. Chapin, 6 Wend. R. 464; Mumford v. Whitney, 15 Wend. 380 ; Miller v. Auburn and Syracuse R. R. Co., 6 Hill R. 62,; Green v. Armstrong, 1 Denio R. 556; Pitkin v. The Long Island R.R. Co., 2 Barb. C. R. 221; Wolff v. Frost, 4 Sand. C. R. 72; Pirrepont v. Barnard, 2 Seld. R. 279 ; Brown v. Woodworth, 5 Barb. S. C. R. 550 ; Houghtailing v. Houghtailing, 5 Barb. S. C. R. 357; Veile v. Osgood, 8 Barb. S. C. R. 130; Brydges v. Purcell, 1 Dev. & Batt. R. 49; Hayes v. Richardson, 1 Gill. & Johns. R. 382; Prince v. Case, 10 Conn. R. 375; Cook v. Stearns, 10 Mass. R. 533; Ruggles v. Lesure, 24 Pick. R. 187.) 2. The license was void, for want of consideration, and for uncertainty. (Thompson v. Gregory, 4 Johns. R. 81.) 3. Whether void or not, the license was revocable without tender of amends. (Dexter v. Hazen, 10 Johns. R. 266.)\nH. The plaintiff\u2019s title to the premises in question was older in fact, and in record, and better in equity and honesty than that of the defendant, as claimed under his agreement to buy, and his deed that followed it. (Jackson v. Post, 6 Conn. R. 120 ; Jackson v. Paige, 4 Wend. R. 585; Tuttle v. Jackson, 6 Wend. 213; Jackson v. Post, 15 Wend. R. 588 ; Jackson v. Leech, 19 Wend. R. 339 ; Hooper v. Pierce, 2 Hill R. 650.)\nIH. The verdict should be affirmed,-and judgment awarded for plaintiff, with costs.\nTV. If the verdict is not sustained, the case should be sent back for the plaintiff to have leave to rebut the evidence of license."
+  },
+  "file_name": "0255-01",
+  "first_page_order": 263,
+  "last_page_order": 272
+}

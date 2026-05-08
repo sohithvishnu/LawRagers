@@ -1,0 +1,66 @@
+{
+  "id": 1297816,
+  "name": "Westcott v. Thompson and another",
+  "name_abbreviation": "Westcott v. Thompson",
+  "decision_date": "1858-03",
+  "docket_number": "",
+  "first_page": "605",
+  "last_page": "609",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 N.Y. 613"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 413,
+    "char_count": 8089,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 4.4794374208229343e-07,
+      "percentile": 0.9222985587190604
+    },
+    "sha256": "ab409762e8f67bbe1eca26fee997012017f87dfc8e565f587f3ceb46d13b29ba",
+    "simhash": "1:be0f362230a6a85a",
+    "word_count": 1453
+  },
+  "last_updated": "2023-07-14T19:57:47.922150+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Westcott v. Thompson and another."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, Ch. J.\nIn order to review in this court the final decision of a referee, a case must be made containing the facts found by the referee, and his conclusions of law thereon, and the exceptions of the party who appeals. This has been many times decided in this court, and must be regarded as settled. Johnson v. Whitlock (3 Kern., 344) contains a full statement of the law upon this subject. The law requires us to adhere to the practice thus established in conformity with the Code. Nor is the law unreasonable in this respect, while the amount of business which comes to this court is so great as it now is. Justice to other suitors demands that no more labor shall be imposed on this court, in any case, than is necessary to dispose of the legal questions which it involves. We could, undoubtedly, gather from the evidence what facts the referee did find or should have found, but the statute has imposed that task, not upon us. but upon the referee, and our time does not permit us to perform it for him, to the delay of other business, even if the statute had left us at liberty to do so\nIn this case there is no sufficient finding of facts. The referee sets out the evidence at length, and tells us that the facts proved on the first trial do not materially differ from those proved on the trial to which his report relates, except as to one additional fact, which he states. What state of facts was proved on the first trial he omits to tell us.\n\u2022 There is, therefore, nothing before us on which the judgment can be reviewed. But as there is good reason to suppose that a question of some importance actually exists in the case, which has been passed upon by the Supreme Court, and which the appellant has failed to present to us, by mistake as to the proper mode of proceeding on a point as to which a very general misapprehension seems to prevail, the appeal will be dismissed conditionally only, that the appellant may be enabled to apply to the Supreme Court to procure a proper case.\nAll the judges concurring, it was ordered that the appeal be dismissed, unless, before the June term, the appellant should procure the return to be amended by obtaining a finding of facts by the referee, and conforming the case to the requirements of law, and for that purpose the appellant might apply to the Supreme Court, as he should be advised.\nOn the first day of June term the counsel for the appellant applied for an extension of time. He produced a finding of facts, signed by the referee on the 24th of Hay, 1858, which he had procured to be signed by the referee, upon notice to the respondents\u2019 attorneys. It appeared that the respondents\u2019 attorneys had signified in writing their intention to disregard the appellant\u2019s notice of application to the referee to settle the finding of facts, on the ground that the application should be made to the Supreme Court at general term. It further appeared that a motion was pending in the Supreme Court for the amendment of the return to this court, by inserting therein the referee\u2019s finding, so settled and signed by him, without the previous order of that court.\nJohnson, Ch. J.\nWhen this case was before the court at the January term, we held that it was not so presented as to enable us to examine the merits. We gave to the appellant leave to apply to the Supreme Court &s he should be advised, notwithstanding the appeal, for the resettlement of a proper Case with a finding of facts; and we fixed the time within which that was to be accomplished, having regard to the time which would probably be necessary to enable him to procure the leave and direction of the Supreme Court in the premises, and to proceed to the actual settlement of the case, if that court granted him relief upon his application. The record which he desires to amend is a record of the Supreme Court, and their direction and allowance is necessary to authorize its amendment. The whole proceeding is matter of practice, over which that court has control, and it is, of course, to be presumed that their power will be exercised under such circumstances and on such terms as justice shall require. Whether it is regular for the appellant to go at once before the referee with his proposed case, or whether he must first get the leave of the Supreme Court depends on their practice, and we do not exercise any control over it.\nThe case of Johnson v. Whitlock (3 Kern., 344) points out the mode of proceeding to review a decision of a referee, according to our views of the proper practice, and the appellant, if he wishes a review in this court, must procure a case to be made up as there pointed out.\nThe appellant seems to have been diligently endeavoring to procure a finding by the referee; and though we should incline to think he had not pursued the proper practice in applying first to the referee, we still think he ought to be allowed further time to enable him to make his application in the Supreme Court for the relief he requires and to follow out the directions which that court may give. For that purpose his time will be extended to the September term of this court; but he is to procure the settlement and print and serve Ms Cases in sufficient time to enable the respondent to notice the cause for that term. This time must, we think, be ample to enable the appellant to carry through any application like that in question in the Supreme Court. Should it, however, be found impossible to procure a decision of that court in the time limited, he will still be at liberty, on showing diligence, to make a further application for time to this court. The relief thus given is to be on payment of $10 costs.\nOrdered accordingly.",
+        "type": "majority",
+        "author": "Johnson, Ch. J. Johnson, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "Samuel Beardsley, for the appellant.",
+      "William C. Noyes, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Westcott v. Thompson and another.\nTho case of Johnson v. Whitlock (3 Kern., 344) points out the mode of proceeding to review the decision of a referee, as the Code of Procedure is construed by the Court of Appeals, and the appellant must procure a Case, to be settled as there pointed out, in order to obtain a review in this court. The proceeding is, however, matter of practice, over which the court from which the record comes up has entire control, and on which this court will make no order. It may, however, decline to dismiss the appeal, where it seems to have merits, and give leave to the appellant to apply from time to time to the court, whose judgment is appealed from, for leave so to amend the record as to bring up a case on which this court can examine the merits.\nAppeal from the Supreme Court. The action was to recover sixty-seven beer-barrels, alleged to be wrongfully detained by the defendants on the pretence that they were the purchasers thereof. The cause was tried before a referee, who made a report for the plaintiff, the judgment on which was reversed and a new trial ordered. It was again tried before the same referee, when the Case upon which the judgment had been reversed was produced, and it was stipulated that the evidence, as therein contained, should stand as evidence on the new trial, with such additional evidence as the parties might produce. The Case included all the evidence given on both trials, covering thirty-four printed pages, and the .second report of the referee, which contained no finding of facts, except in these words: \u201cI have heard the further proofs of the parties, and, having duly considered the same, I find that they do not materially vary the facts previously proven on the first hearing, except that they show that the barrels delivered by the plaintiff to D. Ham were actually to be returned, and, if not returned, two dollars each to be paid for them.\u201d He found, against his own opinion, but in conformity to the opinion of the court which set aside his first report, that the defendants were the owners, and entitled to the possession of the barrels mentioned in the complaint. Judgment was entered, on his report, for the defendants, which, on appeal, was affirmed by the Supreme Court at general term in the first district, and the plaintiff appealed to this court.\nSamuel Beardsley, for the appellant.\nWilliam C. Noyes, for the respondents."
+  },
+  "file_name": "0605-01",
+  "first_page_order": 613,
+  "last_page_order": 617
+}

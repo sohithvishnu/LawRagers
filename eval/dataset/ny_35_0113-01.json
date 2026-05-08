@@ -1,0 +1,92 @@
+{
+  "id": 16905,
+  "name": "Eliakim Reed, Respondent, v. Bushrod W. Farr, Appellant",
+  "name_abbreviation": "Reed v. Farr",
+  "decision_date": "1866-03",
+  "docket_number": "",
+  "first_page": "113",
+  "last_page": "119",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "35 N.Y. 113"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Johns., 377",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135899
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/10/0383-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y., 359",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297808
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0351-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 500,
+    "char_count": 13330,
+    "ocr_confidence": 0.525,
+    "pagerank": {
+      "raw": 1.8757561927610382e-06,
+      "percentile": 0.9944102918741594
+    },
+    "sha256": "8376ad26fc6dda37db5849440970a4705fdc355ce29e0a8990ab90d27004ac78",
+    "simhash": "1:89720d868d111da2",
+    "word_count": 2320
+  },
+  "last_updated": "2024-02-27T17:05:06.039534+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eliakim Reed, Respondent, v. Bushrod W. Farr, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Davies, Ch. J.\nThis is an action of trespass, and was originally commenced in a justice\u2019s court. Upon the defendant interposing a plea of title, that court was ousted of jurisdiction of the action, and the same was recommenced in the County Court. On the trial in the latter court, it appeared that the plaintiff and one Reed Edgerton were the owners of a lot of land known as lot Uo. 6, Sharp\u2019s Patent. In 1825, wishing to divide the same, they agreed that two men, Barker and Pettibone, should divide the lot according to value, and they did so, and eighty-five acres of the west part were set off to Reed Edgerton, and the remainder, the east part of the lot, was set off to the plaintiff. Barker, one of the persons selected to make the division, went into the possession of R\u00e9ed Edgerton\u2019s portion of the lot, and erected a fence on the easterly line or side thereof, as he supposed. This fence was erected prior to 1829, and the parties respectively continued to occupy the premises, in accordance with the line as thus located, down to the year 1854, when, in the fall of that year, the same was removed five or six rods on to the plaintiff\u2019s lot east. The strip of land thus taken possession of by defendant was from thirty to forty rods in length, and for the cutting of trees and grass thereon this action is brought. Upon the division, plaintiff and Edgerton mutually executed deeds to each other, and the description contained in these deeds would make the boundary between those lots correspond with the line to which the fence was removed in 1854. . Defendant claimed title under proceedings to foreclose a mortgage given by one Tarbell, and a sale thereon. In Tarbell\u2019s mortgage, and in the deed on the sale upon the foreclosure, the description corresponded, with that in the deeds on the division. Plaintiff was made a party to the foreclosure suit, and after the deed-had been given, a writ of assistance was issued to put the defendant in the possession of the premises described in the mortgage.\nThe court thereupon charged the jury, that the decree or-judgment in the foreclosure suit was conclusive on the plaintiff Reed as to the land covered by the mortgage; that the description by metes and bounds, or by courses and distances, contained in the mortgage, might be controlled by a previous practical location of the lines, and in that case the description contained in the decree of foreclosure, and the deed given upon the foreclosure and sale, would be in like manner controlled by such practical location; to which the defendant\u2019s counsel duly excepted. The judge further charged the jury, that if they should find from the evidence that there had been a practical location of the line between the Eliakim Reed lot and the Reed Edgerton lot by the old fence, and that the owners and occupants of said lots had respectively occupied up to the old fence as their recognized .boundary for over twenty years before the commission of the alleged trespass, the jury should find a verdict for the plaintiff. To which the defendant\u2019s counsel also excepted.\nThe defendant\u2019s counsel then requested the court to charge that Reed, the plaintiff, having been one of the parties defendant in the foreclosure suit, and service of the summons having been made on him, and the Complaint and the decree or judgment having described the land by metes and bounds, if the' jury find the strip in dispute is covered by the description in the decree or judgment, it will be a bar to the claim of plaintiff in this action. The court charged that this was the law of the case, unless the \"description in the decree and mortgage was controlled by a practical location, as before charged, and refused to charge as requested except with such modification. To which charge and refusal to charge defendant excepted. Defendant then requested the court to charge that a mere possession, without color of title, is not proof of a practical location that will bar the claim of the defendant derived from the purchaser at the foreclosure sale; and the court so charged.\nDefendant then requested the court to charge the jury that the foreclosure of the mortgage and proceedings and deed to the purchaser, in pursuance thereof, and his entry on the same under it, and the succession of title and possession to the defendant from and under the foreclosure sale, are evidence of title in defendant to the land, if included in the referee\u2019s deed to the purchaser; and that, if the jury find that the piece of land between the site of the old fence and the new fence was conveyed by the referee\u2019s deed, they should find for the defendant. The court refused so to charge, except as above charged, and defendant excepted. Defendant then requested the court to charge that the judgment or decree of foreclosure and deed to the purchaser are a bar to any claim of title set up by Elialdm Reed, plaintiff, either by a line fence or otherwise, and an entire bar to this action. _ The cotut refused so to charge, and the defendant excepted. Defendant then requested the court to charge that the mere act of cultivating the land, the owner being absent and the lot being of little value, is not necessarily evidence of title in the plaintiff/ and cannot be construed into evidence of title in plaintiff against his deed of 1825. That it will be presumed that it was occupied, not under claim of title, but by the mere passive neglect of the owner, and in subservience to his title, and is not evidence of the practical location, that will bar the defendant\u2019s claim under the judgment of foreclosure.\nThe court refused so to charge, and added that the question, whether the line of the two lots had been practically located at the old fence, was a question of fact for the\u201d jury, and the defendant excepted.\nDefendant requested the court to charge that, if the jury find that the old fence was erected before the survey and deed of 1825, and not as a line fence, the jury -should not find it to be a line unless they find an agreement between the owner and Reed making it so. The court refused so to charge, or to charge otherwise or different than as above stated. \u2022 To which decision defendant excepted. The jury found a verdict for the plaintiff, and judgment thereon was affirmed on appeal at the General Term of the Supreme Court. The defendant now appeals to this court.\nTarbell, the mortgagor, through whom the defendant claimed to have acquired the title of Reed Edgerton to the west part of the lot set off to him, acquired his title through a sale by order of the surrogate, on the application of the administrator of Edgerton for leave to sell his real estate to pay his debts. There can be no question that the deed from plaintiff to Reed Edgerton and the order of sale, and the deed thereon to Tarbell, and Tarbell\u2019s mortgage, and the decree of sale thereon, and the deed given in pursuance thereof, embraced the locus in quo.\nIt is undeniable, therefore, that the defendant has the regular paper title to the premises upon which the trespass was committed, and to determine the rights of the parties we are remitted to the effect of the location of the partition or line fence erected soon after the partition between plaintiff and Edgerton.- Barker, who was occupying the Edgerton portion of the lot, after the partition between him and plaintiff, built a fence on the supposed division line of their lots. He subsequently became the administrator of Edger-ton, and applied for the sale of his real estate to the surrogate. The fence thus erected was acquiesced in as the line of division for about thirty years, and was not.disturbed, or, as far as appears, questioned, until the removal of it in 1854. There was evidence of a practical location of the division line made in 1825, and acquiesced- in by all parties, down to the year 1854.\nBaldwin v. Brown (16 N. Y., 359) is not unlike this case, and quite decisive of it. It was there held that practical location and long acquiescence in a boundary line are conclusive, not upon the notion that they are evidence of a paroi agreement establishing the line, but because they are themselves proof that the location is correct, of so controlling a nature as to preclude evidence to the contrary. That the acquiescence of adjoining proprietors in the practical location of a boundary line between their lands is conclusive, although it be proved that such location was originally made under an agreement resulting from a mutual mistake as to facts. In the opinion of the court it is said, that the acquiescence in an established boundary line affords ground for a direct legal inference as to the true boundary line. It is held to be proof of so conclusive a nature, that the party is precluded from offering any evidence to the contrary. Unless the acquiescence has continued for a sufficient length of time to become thus conclusive, it is of no importance. The rule seems to have been adopted as a rule of repose, with a view of quieting titles; and rests upon the same reasons as our statute prohibiting the disturbance of an adverse possession which has continued for twenty years. In all cases in which practical locations have been confirmed upon evidence of this kind, the acquiescence has continued for a long period\u2014rarely less than twenty years: referring to the cases of Jackson v. Bowen (1 Caine\u2019s, 358), where it was thirty-six years; Jackson v. Dysling (2 id., 198), forty years; Jackson v. Vedder (Johns., 8), the same; Jackson v. Dieffendorf (id., 269), thirty-eight years; and in Jackson v. McCall (10 Johns., 377), forty-one years.\nThe judge in this action, therefore, properly charged the jury, that if they should find from the evidence that there had been a practical location of the line between the Eliakim Reed lot and the Reed Edgerton lot of the old fence, and that the owners and occupants of said lots had respectively occupied up to the old fence, as their recognized boundary line for over twenty years before the commission of the alleged trespass, the jury should find a verdict for the plaintiff.\nThe jury did so find, and accordingly rendered their verdict for the plaintiff. Upon the facts, as thus found by the jury, the case is brought directly within the doctrine of the case of Baldwin v. Brown (supra), and there was no error in the charge to the jury. The judge rightfully instructed the jury, that the decree or judgment in the foreclosure suit was conclusive on the plaintiff, Reed, as to the land covered by the mortgage. That the description by metes and bounds, or by courses and distances contained in the mortgage, might be controlled by a previous practical location of the lines, and in that case the description contained in the decree of foreclosure, and the deed given upon the foreclosure and sale, would be in like manner controlled by such practical location. The mortgage of Tarbell, and under which defendant claimed title to the locus in quo, was. given in 1835, ten years after the practical location of the boundary line, and it must be taken and deemed as conveying no greater or other right than Tarbell had at the time of its execution. If there had been, as the verdict of the jury establishes there was, a previous practical location of the boundary line, the description contained in the mortgage must necessarily be subordinated to such location, and at the time of the execution of the mortgage the possession was in accordance with such location, and that portion of the lot described therein, and not included within the boundary as located, was then held, and continued to be held for nearly twenty years thereafter, adversely to Tarbell and those claiming under him.\nIt was wholly immaterial, in this view of the question presented, whether the proceedings before the surrogate authorizing the sale of the lands of Reed Edgerton were admitted or excluded; whether such lands were conveyed to Tarbell, and by him included in the mortgage, and whether the deed of the referee upon the foreclosure sale included the same or not. The material inquiry was, whether there had been a practical location of the boundary line, and if so, whether the same had been acquiesced in for such a length of time as to make it conclusive upon the parties and their privies. The finding of the jury settles this fact, and whether or not this plaintiff was a party to the foreclosure suit, was of no practical moment. The proceedings in that action did not profess to affect any rights which he may have- acquired growing out of such practical location anterior to the date of the mortgage, and the judgment or decree in that action left such rights intact. The various requests to charge were, therefore, properly refused.\nThe judgment upon the verdict for the ulaintiff was correct, and should be affirmed.\nAll the judges concurring.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Davies, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "A. J. Parker and A. C. Hand, for the appellant.",
+      "Samuel Hand, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Eliakim Reed, Respondent, v. Bushrod W. Farr, Appellant.\nPractical location of a boundary line, and an acquiescence therein of the parties for a period of more than twenty years, is conclusive of the location of the boundary line.\nSuch location and acquiescence is deemed conclusive, on the ground that it is evidence of the correct location of so high a nature as admits of no contra- .. diction.\nA. J. Parker and A. C. Hand, for the appellant.\nSamuel Hand, for the respondent."
+  },
+  "file_name": "0113-01",
+  "first_page_order": 113,
+  "last_page_order": 119
+}

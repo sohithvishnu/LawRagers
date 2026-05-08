@@ -1,0 +1,79 @@
+{
+  "id": 2187631,
+  "name": "Delamater vs. Pierce",
+  "name_abbreviation": "Delamater v. Pierce",
+  "decision_date": "1846-10",
+  "docket_number": "",
+  "first_page": "315",
+  "last_page": "317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Denio 315"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "15 John. 229",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/15/0229-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 245,
+    "char_count": 4175,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 1.4118149717230323e-07,
+      "percentile": 0.6471161059969134
+    },
+    "sha256": "bfb449d5bb0588b65cf71801afd8047f743c260b5e8bc46efafbd08dd0820033",
+    "simhash": "1:481b647691d537ed",
+    "word_count": 726
+  },
+  "last_updated": "2024-02-27T21:08:00.605432+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Delamater vs. Pierce."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Beardsley, J.\nNo doubt the full statement of a party, when his confession is resorted to as evidence against him, must be received, although it does not follow that every part must necessarily be credited. The statement should be complete in order to make the language used intelligible, and to show clearly what the party intended to say or admit. If the entire statement, taken together, amounts to a denial of any present indebtedness, it will not, alone, warrant a recovery.\nBut where a party admits the existence of a particular debt, or the accuracy of certain items charged against him, although, at the same time, he sets up an offset of other items in his own favor, his admission is competent evidence to justify a recovery for the debt or items thus admitted, unless the alleged set-off is duly proved. Such a statement is an unqualified admission of a present indebtedness, although accompanied by an assertion of a countervailing demand by way of set-off in his own favor. But the assertion that a set-off exists does not prove its existence, although the admission may conclusively establish the debt or items claimed to be due from the party by whom the admission was made.\nIn this case the witness states that he showed the plaintiff\u2019s book to the defendant-, by which I understand that the items of the account, as charged and credited, were exhibited to him. And these items, as I interpret the evidence, were admitted by the defendant to be correct, although at the same time he added that he had an offset against them. If this is the sense in which the declaration of the defendant should be understood, and so I interpret it, it was quite sufficient to prove the plaintiff\u2019s demand, although it furnished no evidence whatever that the defendant had any claim against it by way of set off. His confession was evidence of his own indebtedness, although his assertion that he had an offset proved nothing in his own favor. Viewing the case in this light, I think there was no error in the judgment rendered by the justice.\nIt would be absurd to understand the defendant as admitting that the balance stated on the account was a just balance upon all the demands between the parties, as he claimed at the same time to have a farther and additional offset against the plaintiff\u2019s demand. It is, however, entirely consistent to understand him as admitting the accuracy of the items in the plaintiff\u2019s book, insisting, at the same time, that he had some additional demand in his own favor by way of set-off which should apply against the plaintiff\u2019s demands. In this sense I understand the evidence given before the justice. It was sufficient, as I think, to prove the plaintiff\u2019s case; and as no evidence of any set-off was given, the judgment of the justice was correct.\nJudgment reversed.\nIf the admission had been that the demand had once existed, but had been paid, it would have been of no avail to the plaintiff. (Smith v. Jones, 15 John. 229. And see the cases referred to in Cowen & Hill\u2019s Notes, 224, note 110.)\nThe judgment in the principal case was affirmed by the court of appeals, September, 1847.",
+        "type": "majority",
+        "author": "By the Court, Beardsley, J."
+      }
+    ],
+    "attorneys": [
+      "C. L. Monell, for the plaintiff in error.",
+      "R. E. Andrews, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Delamater vs. Pierce.\nProof that the defendant on being shown the plaintiff's account said, \u201c it is correct, but I have an offset,\u201d is sufficient to warrant a recovery for the amount of the account\nError to the Columbia C. P. to review a judgment of that court reversing on certiorari a judgment in favor of Delamater against Pierce, rendered before a justice of the peace. The action before the justice was assumpsit to recover $84,12, as the balance of accounts between the parties. The plaintiff\u2019s account, containing items on both sides and showing the above mentioned balance to be due him, had been rendered to the defendant, who afterwards came to the plaintiff\u2019s office and was shown the book from which it was taken, and in a conversation with the plaintiff\u2019s clerk, said, (as the clerk testified,) that the account was correct, \u201c but he had an offset.\u201d Upon this testimony the justice rendered a judgment for the plaintiff for the $84,12.\nC. L. Monell, for the plaintiff in error.\nR. E. Andrews, for the defendant in error."
+  },
+  "file_name": "0315-01",
+  "first_page_order": 315,
+  "last_page_order": 317
+}

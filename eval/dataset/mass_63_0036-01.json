@@ -1,0 +1,215 @@
+{
+  "id": 9453873,
+  "name": "Nahum S. Lund & wife vs. The Inhabitants of Tyngsborough",
+  "name_abbreviation": "Lund v. Inhabitants of Tyngsborough",
+  "decision_date": "1851-11",
+  "docket_number": "",
+  "first_page": "36",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "9 Cush. 36"
+    },
+    {
+      "type": "official",
+      "cite": "63 Mass. 36"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "24 Pick. 242",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2069304
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/41/0242-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 95",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0095-01"
+      ]
+    },
+    {
+      "cite": "7 Vt. 158",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/7/0158-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 320",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005521
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/4/0320-01"
+      ]
+    },
+    {
+      "cite": "3 Cush. 181",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1984027
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/57/0181-01"
+      ]
+    },
+    {
+      "cite": "11 Pick. 308",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2016159
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/28/0313-01"
+      ]
+    },
+    {
+      "cite": "4 Pick. 378",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2031155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/21/0393-01"
+      ]
+    },
+    {
+      "cite": "3 Conn. 247",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754619
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/3/0247-01"
+      ]
+    },
+    {
+      "cite": "8 N. H. 40",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6754872
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/8/0040-01"
+      ]
+    },
+    {
+      "cite": "19 Conn. 250",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753871
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/19/0250-01"
+      ]
+    },
+    {
+      "cite": "24 Pick. 242",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2069304
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/41/0242-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 95",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369196
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/7/0095-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 886,
+    "char_count": 22081,
+    "ocr_confidence": 0.581,
+    "pagerank": {
+      "raw": 3.1650943120023553e-06,
+      "percentile": 0.9976409821576471
+    },
+    "sha256": "be3579819982141b8de7db3c2361bd5cf5605b6f073297d2cf1e00401d96ea81",
+    "simhash": "1:3afba9a91212f1ca",
+    "word_count": 3802
+  },
+  "last_updated": "2024-02-27T22:18:44.049902+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nahum S. Lund & wife vs. The Inhabitants of Tyngsborough."
+    ],
+    "opinions": [
+      {
+        "text": "FletcheR, J.\nIt was maintained, on the part of the defendants, that the answers to the twelfth and thirteenth interrogatories in the deposition of John Kendall, and the answer to the seventh interrogatory in the deposition of George Wright, were improperly admitted in evidence, because they merely expressed opinions of the witnesses, who were not experts, and were not statements of any facts. But the court do not so understand the testimony. The witnesses are not asked their opinion as to the sufficiency or insufficiency of the road. But the inquiry was as to the actual condition of the road in point of fact, and as to what the witnesses knew, not what was their opinion on this subject. The answers of the witnesses describe the actual condition of the road as within their personal knowledge, and are not expressions of opinion* merely.\nThe answers are merely descriptive \u2014 in very general terms to be sure \u2014 of the defective state of the road; but the defendants might, if they had thought proper to do so, have required the witnesses to state in detail in what particulars the road was bad; and, in the answer of the witness Wright to the eighth interrogatory, the defect in the road is particularly described. But this general form of expression does not warrant the exception that the witnesses give opinions merely, and do not state facts. This exception, therefore, is not sustained in point of fact.\nThe only remaining exception is that taken to the admission in evidence of several answers in the deposition of Lydia Kendall. In these answers, the witness states that the physician, who was called to Mrs. Lund after she received the injury for which this suit was instituted, said that it was a very serious injury, and it would be three months, if not longer, before she would have the use of her limb ; and that he further said, her limb was not broken; \u201c he said it was worse injured than though the bone was broken ; that the ligaments were torn from the bone, and broken.\u201d It does not appear by the report how long it was after the accident happened when these declarations were made; it only appears that they were made at the time when the doctor was called to Mrs. Lund, and examined her after she was injured. The object of introducing these declarations was, to show the nature and extent of the injury. The defendants objected to the admission of the answers of the witness, containing these declarations of the physician; but they were admitted, and to this admission exception is now taken. The ground of the exception is, that the declarations of the doctor were hearsay merely, and, as such, were not admissible. The fact, which appears in the case, that the doctor had deceased at the time of the trial, does not affect the legal principle. It is no sufficient reason for receiving hearsay, that the person is dead; and, therefore, that is the best evidence which can be produced. It may be unfortunate for the party to have lost his evidence, but that furnishes no good reason for the admission of incompetent testimony.\nTo admit hearsay would be to admit evidence without the sanction of an oath, without cross-examination, and without those tests of truth which the law in general so wisely requires. There must, of necessity, be some general rule or principle of the law on the subject; and if mere declarations should be admitted in one case, they must be in every case; and if the declarations of one person are admitted, the declarations of every other person must also be 'admitted, and the trial of issues would be embarrassed, and justice obstructed and defeated by innumerable unfounded and conflicting declarations and statements. Parties would be defrauded of their rights and of then property by loose, inconsiderate, or ill-disposed assertions and remarks. The danger that casual observations would be misunderstood, misremembered, and misreported, increases the number and force of the objections to the admission of hearsay.\nThe law, therefore, in its wisdom, rejects hearsay. If the declarations in the present case are to be regarde'd as of this character, they were, beyond all question, improperly admitted.\nBut it is maintained, on the part of the plaintiffs, that these declarations should be regarded as a part of the res gestm, and thus admissible as original evidence. This is the main question in this case.\nIt is a well established principle of the law, that declarations which form a part of the res gestee, and are to be considered as a part of the transaction, do not come under the head of hearsay, but are admissible as original evidence.\nThis is a settled general rule; but, like other general rules, its application to particular cases is often attended with much doubt and difficulty. But it is wholly impracticable to bring this class of cases within the limits of any clearly defined and positive rules. There are, however, certain principles and tests, which are simple and intelligible, by which the admission of this kind of evidence must be determined. Its admission is npt left to the discretion of the presiding judge, as has been sometimes supposed; but is governed by principles of law, which must be applied to particular cases as other principles are applied, in the exercise of a judicial judgment ; and errors of judgment in this case, as in other cases, may be examined and corrected. If it were matter of discretion merely, there would, of course, be no fixed rules and no uniformity of decisions; and the exercise of this discretion would not be subject to exception and revision and correction.\nIn a branch of the law of evidence of so high importance, and under which questions are so constantly arising in practice as that in regard to the admission of declarations not made under oath, nor in presence of the parties in interest, it is extremely desirable that the law should be as clearly defined, and its principles as fully illustrated and explained, as may be practicable. Questions of this nature have frequently arisen in this court; but the decisions have been confined to the particular cases in hand, without any extended examination of the general subject.\nIt is proposed, in the present case, to consider the subject somewhat more at large, and to endeavor to set forth and illustrate, with some particularity, the principles and tests by which this class of questions must be determined.\nIf a declaration has its force by itself, as an abstract statement, detached from any particular fact in question, depending for its efiect on the credit of the person making it, it is not admissible in evidence. Such a declaration would be hearsay. As where the holder of a check went into a bank, and, when he came out, said he had demanded its payment; this declaration was held inadmissible to prove a demand, as being no part of the res gestee. This statement was mere narrative, wholly detached from the act of demanding payment, which was the fact to be proved. But when the act of a party may be given in evidence, his declarations, made at the time, and calculated to elucidate and explain the character and quality of the act, and so connected with it as to constitute one transaction, and so as to derive credit from the act itself, are admissible in evidence. The credit which the act or fact gives to the accompanying declarations, as a part of the transaction, and the tendency of the contemporary declarations, as a part of the transaction, to explain the particular fact, distinguish this class of declarations from mere hearsay.\nSuch a declaration derives credit and importance, as forming a part of the transaction itself, and- is included in the surrounding circumstances, which may always be given in evidence to the jury with the principal fact. There must be a main or principal fact or transaction, and only such declarations are admissible as grow out of the principal transaction, illustrate its character, are contemporary with it, and derive some degree of credit from it.\nThe res gestes are different in different cases ; and it is not, perhaps, possible to frame any definition which would embrace all the various cases, which may arise in practice. It is for the judicial mind to determine, upon such principles and tests as are established by the law of evidence, what facts and circumstances, in particular cases, come within the import of the terms. In general, the res gestee mean those declarations, and those surrounding facts and circumstances, which grow out of the main transaction, and have those relations to it which have been above described.\nThe main transaction is not necessarily confined to a particular point of time, but may extend over a longer or shorter period, according to the nature and character of the transaetion. Thus, where a debtor leaves his house to avoid his creditors, which is an act of bankruptcy, and goes abroad, and continues abroad, the act of bankruptcy continues during the continuance abroad for this purpose.\nSo declarations, to be admissible, must be contemporaneous with the main fact or transaction ; but it is impracticable to fix, by any general rule, any exact instant of time, so as to preclude debate and conflict of opinion in regard to this particular point.\nPerhaps the most common and largest class of cases In which declarations are admissible, is that in which the state of mind or motive with which any particular act is done is the subject of inquiry. Thus, where the question is as to the motives of a debtor in leaving his house and going and remaining abroad, so as to determine whether or not an act of bankruptcy has been committed, his. declarations when leaving his house and while remaining abroad, as to his motives for leaving his house and for remaining abroad, are admis--sible in evidence. Such declarations, accompanying the act, clearly belong to the res gestee. They are calculated to elucidate and explain the act, and they derive a degree of credit from the act.\nIt was on this principle that, on the trial of Lord George Gordon, the cries of the mob were received in evidence. The prisoner was tried for treason, committed, as it was charged, by levying war against the king; which consisted, in fact, as alleged, in attempting to effect by force a repeal of an act of parliament, which had been passed in favor of catholics. The prisoner presented a petition to parliament for a repeal of the obnoxious act, and, in doing this, was accompanied by many thousand persons whom he had collected and organized for the purpose, who took possession of the lobby and avenues to the house of commons in a menacing manner, and insulted and ill-treated some members of each house of parliament, and refused to retire after the petition had been presented; but insisted on a repeal of the offensive act, and kept up the cry of \u201c A repeal! a repeal! no popery! \u201d These cries manifestly formed a part of the res gestee, and tended to explain the purpose and intention of the multitude which the prisoner had called together and took with him in presenting the petition, and were, therefore, admissible in evidence.\nThe text books and the adjudged cases entirely agree, in regard to the general rules and principles which govern the admission of declarations as belonging to the res gestee. These rules are not arbitrary, but are founded on sound reason and just discrimination. They are not shifting and uncertain, depending on the exercise of any unrestrained discretion ; but are certain and settled, and should be strictly observed, as applicable to that great and important branch of the law, the admissibility of evidence.\nBut, though the adjudged cases do not conflict in regard to the general principles, it would not be easy to reconcile some of the decisions with the avowed and acknowledged principles. Declarations standing by themselves are hearsay; there must be some main fact or act, which is itself admissible in evidence; and declarations are admissible only in consideration of their bearing to such main fact or act certain relations, which have been before particularly described. Declarations bearing such relations to the main fact or act belong to the res gestee.\nEvery case has its own peculiar distinctive res gestee; and to determine, in any particular case, whether or not there is properly any main fact, and what declarations, facts, and circumstances belong to it, as forming the res gestee, is often very difficult, requiring very careful consideration and nice discrimination.\nThe case of Wright v. Tatham, 5 Clark & Finnelly, 670, forcibly illustrates this difficulty, and presents a very singular instance of disagreement among eminent judges. The point in issue was the sanity of John Marsden, and the particular question was, as to the admissibility in evidence of certain letters, which had been addressed to him by different persons, and which were found, after his decease, opened with other papers, in a cupboard under his book-case, in his private room. The great and difficult question was, whether there was any act, admissible in evidence, which these letters would qualify, illustrate, or explain, so that they were, on that ground, receivable.\nThe case was first tried before baron Gurney, and the letters were rejected. A bill of exceptions was tendered, and the case was argued in the exchequer chamber. Of seven judges who sat in that court, four thought the letters receivable and three were of a contrary opinion ; but the point was not decided, a new trial being granted on another ground. The cause was tried again before the same' learned baron, and, on this trial, the letters were admitted in evidence. A motion was, on this ground, made for a new trial; and lord Denman, after time taken to consider, delivered the judgment of the court, declaring the letters to be inadmissible, and therefore making the rule for a new trial absolute.\nThe cause was then tried before Mr. Justice Coleridge.. The letters were offered and rejected. A bill of exceptions was tendered; judgment was signed, as of course, for the plaintiff, in the court of king\u2019s bench; and a writ of error was then brought in the exchequer chamber. The judges of this court were equally divided in opinion, and the judgment of the court below was therefore affirmed. Upon this affirmance, a writ of error in the house of lords was brought. A question was put to the judges, whether these letters, three in all, were admissible in evidence on behalf of the plaintiff in error, who was the original defendant. Three of the judges were of opinion that all the letters were admissible; three considered that only one was admissible; and six thought that neither was admissible. So six were for reversing the judgment, and six for affirming it. The house of lords affirmed the judgment of the court below.\nThe authorities upon the subject of admitting evidence as belonging to the res gestee are numerous, but it will be sufficient to refer to some of them. 1 Greenl. Ev. \u00a7 108 ; 1 Starkie Ev. \u00a7 28; 1 Phillips, p. 231 (4th Amer. from 7th London ed.); Cowen & Hill\u2019s note, Part I., pp. 585, 586; Noyes v. Ward, 19 Conn. 250; Rawson v. Haigh, 2 Bing. 99; Ridley v. Gyde, 9 Bing. 349; Hadley v. Carter, 8 N. H. 40; Carter & Wife v. Buchannon, 3 Kelly, 513; Plumer v. French, 2 Foster, 450; Scaggs v. Mississippi, 8 Sm. & Mars. 722; Enos v. Tuttle, 3 Conn. 247; Poole v. Bridges, 4 Pick. 378; Allen v. Duncan, 11 Pick. 308; Commonwealth v. McPike, 3 Cush. 181; Haynes v. Rutter, 24 Pick. 242; 21 Howell\u2019s St. Tr. 542; Gray v. Goodrich, 7 Johns. 95.\nIt remains to apply the settled principles of the law to the particular case now under consideration. The declarations of the doctor, who was called to Mrs. Lund after the accident, and made an examination, were offered, to show the extent and nature of the injury she had received. There was no question in regard to the examination; that act, of itself, detached from the declarations, was wholly unimportant and immaterial. There was, therefore, in legal contemplation, no main act with which the declarations could be connected. The declarations, though made at the time, were, in no proper sense, a part of the examination. They merely announced the results, the opinion of the doctor, the conclusion at which he arrived. These declarations might have been made with precisely the same effect, at any subsequent time, a day or a week after the examination.\nThe declarations were mere abstract statements, wholly detached from any main act or fact admissible in evidence, and depending for then effect entirely on the credit of the doctor. They were the expression of a professional opinion, and had their weight wholly as such. Such \u2022 declarations are mere hearsay, and were clearly improperly admitted in evidence ; and, for that reason, a new trial must be granted.\nVerdict set aside, cmd new trial granted.",
+        "type": "majority",
+        "author": "FletcheR, J."
+      }
+    ],
+    "attorneys": [
+      "A. W Farr, for the defendants,",
+      "G. F. Farley, for the plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "Nahum S. Lund & wife vs. The Inhabitants of Tyngsborough.\nIn an action against a town, for injuries received in consequence of a defect in a highway, the answer of a witness who was asked the condition of the road, that \u201c there was a bad place at the side of the road; there had been a culvert put across. The condition of it was bad. At the mouth of the culvert, it was a steep right down; a culvert that I thought a dangerous place; \u201d is admissible in evidence, as it describes the actual condition of the road within the personal knowledge of the witness, and is not an expression of opinion merely.\nWhere the act of a party may be given in evidence, his declarations made at the time, and calculated to elucidate and explain the character and quality of the act, and so connected with it as to constitute one transaction, and so as to derive credit from the act itself, form a part of the res gestee, and are admissible in evidence.\nDeclarations of a physician, made at the time of his examination of an injury, oifered to show the nature and extent of the injury, \u2014 the examination itself, detached from the declarations, being wholly unimportant and immaterial, \u2014 are inadmissible in evidence, not being a part of the res gestee; although the physician be dead at the time of the trial.\nThis was an action on the case, tried in this court before Fletcher, J., in which the plaintiffs sought to recover damages for an injury alleged to have been received by the female plaintiff, in consequence of a defect in a highway in the town of Tyngsborough, which the defendants were legally bound to keep in such condition that the same might be safe and convenient for travellers, with their horses, teams, and carriages, al ill seasons of the year. The alleged defect consisted in a hole left open at the end of and extending around the mouth of a culvert, unguarded by any railing or covering.\nThere was evidence that the culvert extended across the road, and was covered with flat stones and earth, for a space of about twenty-three feet, and that the hole complained of was about six feet from the wheel rut ordinarily travelled, nearest to it; that there was no covering or railing over or around this place, or any thing to warn travellers of the existence of such a hole. As to the particular admeasurements of the size and depth of the hole, there was some variance in the testimony. It was represented to be from one to three feet deep, and from one foot six inches to six feet in length, and from ten inches to four feet in width.\nThe plaintiffs offered the deposition of John Kendall, that \u201c there was a bad place at the side of the road, where they put in the culvert. \u2014 There had been a culvert put across. The condition of it was bad. At the mouth of the culvert, it was a steep right down.\u201d\nThe plaintiffs also offered the deposition of one George Wright, \u201c that there was a bad place near there; a culvert that I thought a dangerous place. I should judge it was about eighteen inches deep and three feet wide, and I should think not far from six feet from the cart rat. It was a common across the road and end open.\u201d\nThe above answers were, on the trial, objected to by the defendants\u2019 counsel, on the ground that they conveyed an opinion. The counsel for the plaintiffs contended that they conveyed no opinion as to whether there was a defect in the road, but were simply descriptive expressions used by the witness, and qualified and explained by him.\nThe judge overruled the objection, and admitted the testimony.\nThe plaintiffs also introduced the deposition of one Lydia Kendall, in which were the following interrogatories and answers: \u2014\nInt. 9. \u201c At the time when he (the doctor) was called, and while engaged in such examination, what did he say concerning such injury, its nature, and extent ? \u201d\nAns. 9. \u201c I heard him say that it was a very serious injury > and it would be three months, if not longer, before she would have the use of her limb.\u201d\nInt. 11. \u201c At the time when (if ever) the doctor was called to Mrs. Lund, when she was injured, what did he say was the injury to the same ? \u201d\nAns. 11. \u201c He said it was more injured than though the bone was broken; that the ligaments were torn from the bone, and broken.\u201d\nThe defendants objected to the admission of these answers, upon the ground that they were hearsay evidence. It was admitted that Dr. Pierce, the surgeon mentioned in the deposition of Lydia Kendall, had died since the accident complained of, and previous to the taking of the deposition. The counsel for the plaintiffs urged the admission of his sayings and acts at the time of the accident, as part of the res gestee.\nThe judge overruled the objection, and admitted the testimony. The jury returned a verdict for the plaintiffs, and the defendants alleged exceptions.\nA. W Farr, for the defendants,\nas to the inadmissibility of the answers' of John Kendall and George \"Wright, cited 1 Greenl. Ev. \u00a7\u00a7 440, 441; Gibson v. Williams, 4 Wend. 320;, Lester v. Pittsford, 7 Vt. 158; and, to show the doctor\u2019s declarations inadmissible, 1 Greenl. Ev. \u00a7\u00a7 124-126; Gray v. Goodrich, 7 Johns. 95; Haynes v. Rutter, 24 Pick. 242; 1 Starkie Ev. 47. \u2022\nG. F. Farley, for the plaintiffs."
+  },
+  "file_name": "0036-01",
+  "first_page_order": 44,
+  "last_page_order": 54
+}

@@ -1,0 +1,182 @@
+{
+  "id": 5152015,
+  "name": "Maria Moody vs. The Board of Supervisors of Niagara County",
+  "name_abbreviation": "Moody v. Board of Supervisors",
+  "decision_date": "1866-09-03",
+  "docket_number": "",
+  "first_page": "659",
+  "last_page": "666",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 Barb. 659"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "36 Barb. 526",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2431714
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/36/0526-01"
+      ]
+    },
+    {
+      "cite": "25 Penn. Rep. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        975789
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/25/0503-01"
+      ]
+    },
+    {
+      "cite": "6 Blackf. 474",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "case_ids": [
+        6123742
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/blackf/6/0508-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. 571",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011103
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/9/0571-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 397",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018830
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0397-01"
+      ]
+    },
+    {
+      "cite": "43 Barb. 54",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5125436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/43/0054-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. Rep. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15595
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/31/0164-01"
+      ]
+    },
+    {
+      "cite": "43 Barb. 490",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5125993
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/43/0490-01"
+      ]
+    },
+    {
+      "cite": "19 How. Pr. Rep. 370",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2209409
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/19/0370-01"
+      ]
+    },
+    {
+      "cite": "3 B. 8",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 717,
+    "char_count": 17484,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 3.6953249335413827e-07,
+      "percentile": 0.8926645916422155
+    },
+    "sha256": "fdfe38c8f73236a5889c5c16b64655a6b28390b93c5c460946fe316075b33225",
+    "simhash": "1:d1b3cf7650393e43",
+    "word_count": 3036
+  },
+  "last_updated": "2024-02-27T19:53:07.113162+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maria Moody vs. The Board of Supervisors of Niagara County."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Daniels, J.\nThe right of the plaintiff to maintain the present action depends upon the provisions of an act passed by the legislature of this state, in 1855. (Laws of 1855, oh. 428. 3 B. 8. 874, 5th ed.) By the first section of that act it is provided that,' \u201c Whenever any building, or other real or personal property, shall be destroyed or injured in consequence of any mob or riot, the city or county in which such property was situated shall be liable to an action,. by or on behalf of the party whose property was thus destroyed or injured, for the damages sustained by reason thereof.\u201d By the third section it is provided that no recovery shall be had, if it shall appear upon the trial of the action, \u201cthat such destruction or injury of property was occasioned, or in any manner aided, sanctioned or permitted,, by the carelessness or negligence\u201d of the person or corporation ordering it; \u201c nor shall any person or corporation be entitled to recover any damages for any destruction or injury of property as aforesaid, unless such party shall have used all reasonable diligence to prevent such damage; and shall have' notified the mayor of such city, or the sheriff of such county, immediately after being apprised of any threat or attempt to destroy his or their property by any mob or riot, of the facts brought to his knowledge.\u201d The statute declares it to be the duty of the officer so notified; to take all legal means to protect the property attacked or threatened. These are the only provisions of this law which it is necessary to consider in the determination of this appeal:\nThe defendants\u2019 counsel contended that the act itself is in conflict with that provision of the constitution of this state which declares that \u201cthe county shall never be made responsible for the acts of the sheriff.\u201d But no act of the sheriff, whatever, is made the subject of complaint in this case; neither does the statute referred to profess to create a liability on account of any such act. It is the act of a mob, or riotous assembly, that creates the liability of the city or county, and not the act or default of the sheriff. No conflict, whatever, can be found between this statute and the constitutional provision referred to. This view of the statute has been already so fully maintained by judicial authority as to render any further reference to it at this time entirely unnecessary. (Wolfe v. Supervisors of Richmond Co., 19 How. Pr. Rep. 370. Schiellein v. Supervisors of Kings Co., 43 Barb. 490. Darlington v. Mayor of New York, 31 N. Y. Rep. 164. Luke v. City of Brooklyn, 43 Barb. 54.) In the present case no notice was given to the sheriff of the county' that any threat, or attempt, had been made, to destroy or injure the plaintiff\u2019s property. The statute requires such notice to be given, after the party has been apprised of such threat or attempt, and necessarily contemplates that a sufficient period of time shall intervene between the threat, or attempt, and the execution of it, to admit of the notice being given. For it could not have been the intention of the legislature to make the remedy of the party whose property should he injured or destroyed, dependent upon art act which it would be otherwise utterly impossible for- him to perform. To require the notice in all cases, would not only he idle, but it would also be absurd. Under such a construction, the redress which the statute provides would be only available in those cases where the mob, or riotous assembly, proceeded with so much deliberation and publicity as to allow their purposes to become known to the party whose property was intended to be injured or destroyed ; which of itself, in many cases, would prevent that purpose from being carried into execution, because it would afford the party an opportunity to prepare for its resistance. It could not have been the intention of the legislature to secure the remedy to cases of that-description, and to deny it where the usual secrecy should be observed, and no suspicion of any unlawful purpose or design could be apprehended until it should be carried into execution. There is no reason why the remedy should be provided for one class of cases, and denied to the other, by far the most numerous and frequent.\nThe liability of the city \u00f3r county, as it is declared in the \u2019first section of the act, is general, applying to all cases whatever where property may be destroyed by riots or mobs. And the comprehensiveness of this section is only so far restricted by that which follows it, as to deny the remedy provided for, where the party has been previously apprised of the threat or attack, and after being so apprised, failed to give the required notice. It is only in cases where the party has been so apprised; that he is required to give the notice. In those cases, diligence on the part of the owner of the property, in giving the notice, would often prevent the intended injury or destruction; and for that reason it was highly proper that the remedy should be made dependent on the use of that diligence. The law was not designed to require any thing unreasonable or impracticable, in these cases.\nThe proof upon the trial showed that the plaintiff was not apprised of any threat or attempt to injure or destroy her property, before the attack was made upon it, and from that time she was forcibly detained in custody until its destruction was complete. This put it entirely out of her power to give the notice mentioned in the statute. And it sufficiently excused the omission, not only within the apparent and obvious reason of the statute itself, but also within the case of Schiellein v. Supervisors of Richmond Co., (43 Barb. 490.)\nThe proof which the defendants offered by way of defense was properly rejected by the court, because, if given, it would constitute no answer to the action. It had already been shown that the houses were kept as places of public prostitution, which was sufficient to render them public and common nuisances. The offered evidence would have rendered them no more than that, although it would have tended to aggravate their character in that respect. It would be an exceedingly unsafe and dangerous doctrine to establish in any community, that a dwelling house or other property, might be lawfully destroyed, because, for the time being, it was devoted to a purpose which the law characterizes as a common public nuisance. Prejudice and passion would soon find occasions for its application that would prove incompatible with the preservation of good order and the security of private rights. Pretenses and surmises of the most unfounded nature would frequently be resorted to for the purpose of justifying or excusing the execution of the extravagant designs of fanaticism or revenge. A more complete device for breaking up the tranquility of the community in which it should be permitted, could hardly be devised. Turbulence and outrage would soon become more common occurrences than they already are; resulting in the end, in more serious injuries to the public morals than those endeavored to be redressed. Oases may possibly arise where that extreme remedy should be tolerated. But they will be found to be exceedingly rare indeed; particularly in view.of the statute of this state declaring that no entry shall be made into any lands with a strong hand or multitude of people. (3 R. S. 5th ed. 831, \u00a7 1.) The cases relied upon by the defendapts\u2019 counsel are of the exceptional character. In Meeker v. Van Rensselaer, (15 Wend. 397,) the destruction of a house built over tan vats, and cut up into numerous apartments inhabited by a crowd of people, in' a filthy condition, when the Asiatic cholera' prevailed, was held to be justifiable. It does not appear in 'the report of that case, that the nuisance could only be successfully abated by the destruction of. the building ; and on that account it must be regarded as of questionable authority.\nIn the case of Hart v. Mayor of Albany, (9 Wend. 571,) the nuisance could be abated, or removed, in no other manner than by the destruction of the floating warehouse itself; for the basin in which it was built was, so- constructed as- to render its removal from it impossible in any other way. But as to many of the instances mentioned in the opinions in that case, it is obvious that an abatement by the destruction of the thing occasioning the nuisance, would not only be improper, but that act would render the party destroying it liable for its value. Take, for instance, the case of the large ship occupying the dock appropriated only for small vessels ; the laying of timber in a public river ; the standing of the manufacturer\u2019s wagons before his storehouse on a public street, and the coachman waiting with his coach an unreasonable time for passengers. Although these acts were adjudged nuisances, it is plain that there- could be no legal justification, for that reason, for the destruction of the ship, in the one case, or of the timber, wagons or coach, in the other. (Id. 607.)\nIt is a common public nuisance to keep a tippling house, in and about which idle and dissolute persons are encouraged to assemble, drink, swear and quarrel. Also to keep a house with a faro table for the purposes of common gambling,, or a bowling alley for gain, and common use in the day and night time. (State v. Bertheol, 6 Blackf. 474. State v. Doon, R. M. Charlton, 1. State v. Haines, 30 Maine R. 65.) And yet it would be difficult to find any one who, on that account merely; would be bold enough to justify the destruction of the buildings so used, by the act of a riot or mob. But the necessary consequence of the doctrine contended for would lead to the justification of such an act, in either of those cases. They can not be distinguished, in principle,- from the present one. If the property in this case could be lawfully destroyed on account of the use' to which it was devoted being a nuisance,--the same reason would justify its destruction in all the others. The law does not sanction remedies which are so extreme and unreasonable.\n[Erie General Term,\nSeptember 3, 1866,\nFor the purpose of abating a nuisance, \u201cso much only of the thing as causes the nuisance should be removed. Thus, if a house be built too high, only so much of it as is too high should be pulled down. And in general where it is the wrongful use of a building that constitutes a nuisance, the remedy is to stop such rise, not to tear down or demolish the building.\u201d \u2022 (2 Hilliard on Torts, 95, 96, and cases referred to.) Justice Woodward, in delivering the opinion of the court in the case of Barclay v. Commonwealth, (25 Penn. Rep. 503,) says :\u2022 \u201cWhen an erection or structure constitutes the nuisance, as where it is put up in a public street, its demolition or removal is necessary to the abatement of the nuisance ; but where the offence consists in a wrongful use of a building, harmless in itself, the remedy is to stop such use, not to tear down or remove the building itself.\u201d \u2022 This is certainly the only just and sensible exposition that- can be given of the ruld providing for the abatement of nuisances, and under it the eviderice which the defendants offered would establish no legal excuse for the destruction of the houses in question, and the property which they contained. . To the same general effect is the case of Blodgett v. City of Syracuse, (36 Barb. 526,) which is \"also a direct authority against the defendants upon the precise point novs; under consideration.\nThe judgment\u2019should be affirmed.\nGrover, Marvin, Daniels and Demis, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Daniels, J."
+      }
+    ],
+    "attorneys": [
+      "G, D. Lamont, for the appellants.",
+      "P. 8. My, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Maria Moody vs. The Board of Supervisors of Niagara County.\nThe act of the legislature, of April 13, 1855, to provide for compensating par? ties whose property may be destroyed in consequence of mobs or riots, is not in conflict with the provisi\u00f3n of the constitution of this state which declares that \u201c the county shall never be made responsible for the acts of the sheriff.\u201d\nThe statute does not profess to \"create a liability on account of any act of the sheriff. It is the act of a mob, or riotoqs assembly, that creates the liability of the city or county, and not the act or default of the sheriff.\nThe proyisipn of the act, requiring notice to be given to the mayor of the city, or sheriff of the county, after the owner of property has been apprised that a threat or attempt has been made to destroy or injure the same, by any mob, or riot, necessarily contemplates that a sufficient period of time shall intervene between the threat or attempt, and the execution of it, to admit of the notice being given.\nIt was not the intention of the legislature, by the act above mentioned, to provide a redress which would be only available in those cases where them\u00f3b'or riotous assembly proceeded with so much deliberation and publicity :as!,to allow their purposes to become known to the party whose property was intended to be injured or destroyed, and to deny it where the usual secrecy should be observed, and no suspicion of any unlawful purpose or design-, could be apprehended, until it should be carried into execution;\nThe liability of the city, or county, as it is declared in the first section 'of the act, is general, applying to all cases whatsoever, where property may be destroyed by riots or mobs. And the comprehensiveness of this section-hronly so far restricted by that which follows it, as to deny the remedy provided\" for, where the party has been previously apprised of the threat or attack, and, after being so apprised, has failed to give the required notice.\nIn an action against a county, to recover the value of property destroyed by a riot or mob, the ulaintiff gave evidence showing that she was not apprised of any threat, or attempt, to injure or destroy her property, before the attack was made upon it; and that at the commencement of the attack she was forcibly taken by members of the village police, and others acting in concert-with the mob or riotous assembly, and detained in custody until the destruc-\ntion of her property was completed. Meld that such taking and detention put it out of the plaintiffs power to give the notice mentioned in the statute, and sufficiently excused the omission, not only within the apparent and obvious reason of the statute, but also within the case of Sehiellein v. Supervisors of Michmond County, (43 Mari. 490.)\nThe defendants in such action offered to prove that the houses destroyed, in addition to Being bawdy-houses, were the resort of thieves, robbers, murderers, and other criminals ; that immediately preceding their destruction, a citizen of the town, and one of the village police, was murdered by persons congregated and harbored in such houses; and that in consequence of the public excitement and exasperation occasioned thereby, the inhabitants of the village destroyed such houses, and the property contained in them. Meld that this evidence was properly rejected by the court; because, if given, it would constitute no answer to the action.\nThe fact that a house is kept as a place of public prostitution, is sufficient to render it a public and common nuisance.\nBut a house can not be lawfully destroyed by a riot or mob, merely because, for the time being, it is devoted to a purpose which the law characterizes as a common public nuisance.\nFor the purpose of abating a nuisance, so much, only, of the thing as causes the nuisance should be removed. And in general, where it is the- wrongful use of a building that constitutes a nuisance, the remedy is to stop such use; not to tear down or demolish the building, itself.\nTHIS action was brought to recover the value of two dwelling houses, and certain personal property contained in them, destroyed by a riot or mob on the 15th of September, 1865. The plaintiff gave evidence showing that she was not apprised of any threat, or attempt to injure or destroy her property by any riot or mob, until such destruction was commenced, and had considerably progressed. And when she became so apprised she was taken and detained in cusr tody until such destruction was completed, by members of .the village police and others acting in concert with the mob or riotous assembly. At the time when such houses and the property in \u2022 them were destroyed, and for some years previous to that, they were kept and maintained by the pla\u00f1ir tiff, and by her procurement, as houses of public prostitution.\nThe court refused to nonsuit the plaintiff. And the defendants offered to prove that such houses, in addition to being bawdy houses, .were the resort. of thieves, robbers.\nmurderers and other criminals, and that immediately preceding their destruction a citizen of the town of Niagara, and one of the village police, was murdered by persons congregated and harbored in such houses. And that in consequence of the public excitement and exasperation occasioned thereby, the inhabitants of the village in which the houses and property were situated, destroyed such houses and the property contained in them. This evidence was excluded by the court, and the defendants' excepted. The defendants\u2019 counsel asked the court to charge the jury that if the houses were common public nuisances, the plaintiff could not recover. The court declined so to charge, and the defendants\u2019 counsel excepted.\nThe jury found for the plaintiff, and from the judgment rendered on the verdict, the defendants appealed.\nG, D. Lamont, for the appellants.\nP. 8. My, for the respondent."
+  },
+  "file_name": "0659-01",
+  "first_page_order": 659,
+  "last_page_order": 666
+}

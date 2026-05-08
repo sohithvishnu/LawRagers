@@ -1,0 +1,222 @@
+{
+  "id": 4627195,
+  "name": "BOSTWICK a. ABBOTT",
+  "name_abbreviation": "Bostwick v. Abbott",
+  "decision_date": "1863-10",
+  "docket_number": "",
+  "first_page": "417",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 Abb. Pr. 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Duer, 50",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1328117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/9/0050-01"
+      ]
+    },
+    {
+      "cite": "4 N. Y., 71",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005557
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/4/0071-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch., 91",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975586
+      ],
+      "pin_cites": [
+        {
+          "page": "97"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0091-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y., 113",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492156
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/2/0113-01"
+      ]
+    },
+    {
+      "cite": "4 Den., 414",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485453
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0414-01"
+      ]
+    },
+    {
+      "cite": "14 Johns., 479",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376191
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0483-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. Ch., 174",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1984162
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/7/0174-01"
+      ]
+    },
+    {
+      "cite": "3 N. Y., 489",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007314
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/3/0489-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. Ch., 427",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1997898
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/3/0427-01"
+      ]
+    },
+    {
+      "cite": "2 Edw. Ch., 461",
+      "category": "reporters:state",
+      "reporter": "Edw. Ch.",
+      "case_ids": [
+        1986409
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/edw-ch/2/0461-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch., 140",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1978758
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/4/0140-01"
+      ]
+    },
+    {
+      "cite": "7 N. Y., 525",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Johns. Ch., 140",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1978758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-ch/4/0140-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 318,
+    "char_count": 5087,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 8.900267076764358e-08,
+      "percentile": 0.4999725852742766
+    },
+    "sha256": "ebce20aa493706a15a777079a236a36754f0e06f78ccef0e480e59841fccdf02",
+    "simhash": "1:92bca4f4a4e7a2d3",
+    "word_count": 912
+  },
+  "last_updated": "2024-02-27T21:31:20.981599+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BOSTWICK a. ABBOTT."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\u2014Ingraham, J.\nThe judgment of dismissal in the Common Pleas may not be a conclusive bar to another action for the same cause. If it was dismissed for want of evidence to\u2019 sustain the plaintiff\u2019s case, or for any other cause than on the merits, it formed no bar, and the plaintiff had a right to bring a new action. But if the merits were inquired into on that trial, then the defendants had a right to set up that record as a bar to this action. This is particularly so where the action is one that formerly would have been brought in a court of equity. (4 Johns. Ch., 140; 7 Ib., 286; Burhans a. Van Zandt, 7 N. Y., 525.) The case showed that the plaintiff in the first action produced evidence in favor of the plaintiff\u2019s claim, and the finding of the court is that such evidence was offered on that trial.\nIt is said that the Common Pleas modified the judgment in that court by adding to the judgment the words \u201c without prejudice to the right of the plaintiff to bring another action,\u201d and the plaintiff contends that such addition prevents that j udgment from being a bar. I do not assent to that doctrine. If the judgment would have been a bar to the second action without those words, I am at a loss to see how the addition of those words changes the effect of the judgment. That case was tried by the court without a jury. The judge heard the plaintiff\u2019s testimony, and decided on the merits. Having so decided, he cannot destroy the effect of that decision by giving the plaintiff leave to bring another action. Suppose the case had been before a jury, and they had found for the defendant, the court could not qualify the judgment by the addition to the judgment of*the words above referred to.\nThis view of the effect of the former judgment renders it unnecessary to examine the other questions in the cause.\nThe judgment should be affirmed.\nPresent, Sutherland, P. J., Ingraham and Leonard, JJ.",
+        "type": "majority",
+        "author": "By the Court.\u2014Ingraham, J."
+      }
+    ],
+    "attorneys": [
+      "C. Bainbridge Smith, for the appellant.",
+      "Andrew Boardman, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "BOSTWICK a. ABBOTT.\nSupreme Court, First District; General Term,\nOct., 1863.\nDismissal in Equity.\u2014Res Judicata.\u2014Effect of Judgment. \u2014Limitations.\nIn an action which formerly would have been tried in a court of equity, a dismissal of the complaint upon the merits of the cause is a bar to a second action for the same cause. *\nNor can this effect be prevented by directing that the dismissal be without prejudice to a second action.\nAppeal from a judgment.\nThis action was brought by Charles B. Bostwick, receiver, &c.\", against Charles A. Abbott, Robert G. Pollock, John Cochran, John Stewart, and. Cornelius Fiske, to set aside a general assignment made by the firm of Abbott, Pollock & Cochran. The plaintiff had brought a previous action for the same cause in the FTew York Common Pleas, which, after evidence had been heard on behalf of the .plaintiff, was \u201c dismissed, without costs, and without prejudice to the right of the plaintiff to. bring another action.\u201d The former adjudication was pleaded in bar of the present action. This cause was tried before Mr. Justice Gould, who adjudged that the assignment was valid, and also that the judgment in the Common Pleas, was a bar to the present action. The plaintiff appealed.\nC. Bainbridge Smith, for the appellant.\nI. The dismissal of the complaint in the Common Pleas is no bar to the present action. 1. A dismissal without prejudice constitutes no defence. (Perrine a. Dunn, 4 Johns. Ch., 140; Neafie a. Neafie, 7 Ib., 1; Griswold a. Jackson, 2 Edw. Ch., 461; Wilber a. Collier, 3 Barb. Ch., 427; Minturn a. Farmers\u2019 Loan & Trust Co., 3 N. Y., 489.) 2. The judgment of the Common Pleas, which declares that the'1 complaint was dismissed without prejudice, and should be no bar to the bringing of another action, cannot legally be inquired into or in any manner questioned by this court or any other tribunal. (Hawley a. Mancius, 7 Johns. Ch., 174; Pease a. Howard, 14 Johns., 479; Andrews a. Montgomery, 19 Ib., 162; Mitchell a. Hawley, 4 Den., 414.) 3. Exception was' taken to the admission of the testimony inquiring into the circumstances of the trial in the Common Pleas.\nII. The assignment is void upon its face, and also for extrinsic fraud.\nAndrew Boardman, for the respondents.\nI. The judgment of the Common Pleas was a bar to this action. 1. Judgment, of dismissal in an equity suit is a bar to another suit. (Ogsbury a. Lafarge, 2 N. Y., 113; Simpson a. Hunt, 1 Johns. Ch., 91, 97; Bateman a. Willoe, 1 Sehoales & Lefroy, 201; Doty a. Brown, 4 N. Y., 71; Bangs a. Strong, Ib., 315.) 2. The doubt which has arisen on the words \u201cdismissal of the complaint,\u201d as-used in the Code, is whether the Code has not applied the equity rule to all cases. It is uno where intimated that the effect of such dismissal in an equity suit has been affected. (Harrison a. Wood, 2 Duer, 50; Coit a. Bland, 12 Abbott' Pr., 462.) 3. There is no power in a court hearing an equity cause on the proofs, the proper parties being before the court, to dismiss the .complaint, allowing a party to commence another action for the same cause.\nII. The assignment - is valid upon its face, and there is no proof of extrinsic fraud."
+  },
+  "file_name": "0417-01",
+  "first_page_order": 433,
+  "last_page_order": 436
+}

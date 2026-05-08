@@ -1,0 +1,95 @@
+{
+  "id": 2010502,
+  "name": "Nixon and Barlett against Jeremiah G. Palmer",
+  "name_abbreviation": "Nixon v. Palmer",
+  "decision_date": "1853-06",
+  "docket_number": "",
+  "first_page": "398",
+  "last_page": "402",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 N.Y. 398"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Barb. 175",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2412688
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/10/0175-01"
+      ]
+    },
+    {
+      "cite": "20 John. 637",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2142479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/20/0637-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 433,
+    "char_count": 8065,
+    "ocr_confidence": 0.572,
+    "pagerank": {
+      "raw": 1.1763943019930003e-06,
+      "percentile": 0.9872390243601075
+    },
+    "sha256": "ca2a6e30a461cee2f8e404ffbaafde82532a1c0c8ff2a69ad7c1b9b157716db7",
+    "simhash": "1:10a3d48ffda7bdc2",
+    "word_count": 1452
+  },
+  "last_updated": "2024-02-27T16:47:26.433143+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Jewett, Taggart, Morse and Willard, JJ., concurred with Judge Mason.",
+      "Johnson, J., having been counsel in other cases involving the same question took no part in the decision.",
+      "Ruggles, Ch. J., did not hear the argument."
+    ],
+    "parties": [
+      "Nixon and Barlett against Jeremiah G. Palmer."
+    ],
+    "opinions": [
+      {
+        "text": "Mason, J.\nWithout considering the other questions in this case, I think the plaintiffs failed in their evidence to charge the defendant as the acceptor of the bill. It having been received in payment of an antecedent debt due them; they are not in the condition of bona fide holders for a valuable consideration. (Coddington v. Bay, 20 John. 637.) And, indeed, the bill being on its face accepted by James L. Palmer for the defendant, was notice that he professed to act under an authority, and imposed upon the plaintiffs the duty of ascertaining that he acted within it. (Atwood v. Munnings, 7 B. & C. 278.) If more were necessary to put them upon inquiry, it was shown by the fact that the acceptance was made in the plaintiff's counting room when the defendant was not present. . If, then, James L. Palmer had no authority to accept this bill to oav a ore-existing debt of Sandford, the defendant is not liable. The evidence only shows that the defendant authorized his son to accept a draft for $2,000 as his share of the capital to be contributed to the proposed partnership. This conferred no authority to accept this bill to liquidate an old debt of Sand'ford\u2019s. It can not for a moment be pretended that the original authority bound the defendant by the acceptance. It is however insisted that the defendant ratified it in his conversation with Sandford in November, when he stated to him that he gave his son authority to accept for him in the manner that he did. If there were any evidence to show that at the time the defendant said this he knew that the bill was used to pay one of Sandford\u2019s debts to the plaintiffs, then the conversation would establish an adoption and ratification of the acceptance. But in order to make the ratification of an unauthorized act of an agent binding, it must be made with full knowledge of the facts affecting the rights of the principal. (Dunlap's Paley on Agency, 171, note o; 172, note q; 7 Term R. 209; Story on Agency, \u00a7 324, 243; 9 Peters, 608, 629; 2 Man. & Gr. 721.) As the plaintiff failed to show an original authority from the defendant to his son to accept the bill, and relied upon the subsequent ratification of the act, he should have shown affirmatively that the defendant knew when he admitted the making of the acceptance that the bill was made for the accommodation of Sandford, and as there was no evidence of this fact the plaintiff failed entirely in showing an acceptance of the bill by the defendant. The question was distinctly raised on the defendant\u2019s motion for a nonsuit, and I think the justice at the circuit erred in not granting it, and in submitting the case to the jury, and that therefore the judgment of the supreme court should be reversed and a new trial awarded.\nJewett, Taggart, Morse and Willard, JJ., concurred with Judge Mason.\nGardiner, J., was in favor of affirming the judgment upon the ground that the deposition of Sandford furnished some evidence for the jury of an admission by the defendant of authority to his son to accept the bill.\nJohnson, J., having been counsel in other cases involving the same question took no part in the decision.\nRuggles, Ch. J., did not hear the argument.\nJudgment reversed and new trial ordered.",
+        "type": "majority",
+        "author": "Mason, J."
+      }
+    ],
+    "attorneys": [
+      "N. Hill, for appellant.",
+      "E. S. Van Winkle, for respondents,"
+    ],
+    "corrections": "",
+    "head_matter": "Nixon and Barlett against Jeremiah G. Palmer.\nAn authority given by a father to his son to accept in his name a bill of exchange for $2000 to be used for a particular purpose, will not warrant him in accepting a bill for- a part of the amount given for another purpose.\nWhere an acceptance is made by one professing to act as the agent of the drawee under a special authority, the party receiving the bill is chargeable with no tice of the extent of his powers.\nA subsequent ratification by a principal of the unauthorized act of a person professing to act as his agent, in order to be valid must be made with a full knowledge of the facts affecting his rights.\nThis action was brought in the supreme court upon a bill of exchange drawn upon the defendant by William G. Sanford to the order of the plaintiffs for $482-28, dated New York, October 29, 1846; and payable ninety days, after date. An acceptance was written upon it\u2014\u201c Jeremiah G. Palmer, by James L. Palmer.\u201d\nThe cause was tried at the New York circuit in October, 1847, before Mr. Justice Edwards. It appeared upon the cross examination of the plaintiff\u2019s witnesses that the bill was drawn at the plaintiff\u2019s store in New York, in payment for a bill of goods which had been sold to the draw'er in the July previous to the date of the note, and that the acceptance was written upon it by.the defendant\u2019s son, James L. Palmer, who was then present with the drawer. The evidence to show the authority of James L. Palmer, to accept the bill for the defendant, was a deposition of Sandford the drawer taken conditionally. It was as follows:\n\u201c In September last I saw Jeremiah G. Palmer, the defendant, and his son James L., at the house of the former. An arrangement was then partly made for James L. to go into business with me, and for his father to furnish him with $2,000; after that, in October, James L. and myself Went to Rochester, in the state of New York; I stayed there, and he went on to see his father at Mendon, and on his return, stated to me that his father could not then let him have the $2,000 in money, as he had not sold his wheat, but had given him, (James L.,) permission to accept a draft drawn on the defendant, at not less than 30 days. I then drew the bill of exchange in this suit, (now here shown to me,) and the said James L. Palmer accepted it for his lather; and it was then given to the plaintiffs for goods bought of them. In November following, I saw the defendant, at. Buffalo; his son, James L., was also there, and a conversation was had between us Respecting the drafts which Had been there drawn and accepted, including the one above produced. He stated to me, that he had given authority to. his son to accept for him in the manner he did. This draft was among the first drawn in.the said $2,000; one of $500, or thereabouts, was afterwards drawn for the same object.\u201d\nThe plaintiffs having rested, the counsel for the defendant moved for a nonsuit, on the grounds that no authority from the defendant to accept the bill had been proved so as to make him liable to the plaintiffs thereon, that upon the evidence, the authority given by the defendant, if any, was to accept bills for the purpose of enabling James L. Palmer to form a copartnership with Sandford; and that no such copartnership was shown, and neither Sandford nor James L. Palmer had any authority to use the same, and that the plaintiffs were not the holders thereof, for value: that if such copartnership had been formed, the bill was accepted only for the purpose of being used in .the business of the copartnership: that it had not been so used nor in any manner authorized or sanctioned by the defendant.\nThe court denied the motion and the plaintiffs excepted. Further evidence was then given by the defendant, which it is not important to state, when the counsel for the plaintiff renewed, the motion for a nonsuit which was again denied, and the case submitted to the jury, who rendered a verdict for the plaintiff for the amount of the bill and interest. A judgment entered thereon was affirmed at a genera] term of'the supreme court in the first district. (See 10 Barb. 175.) There were several questions argued in relation to the admission of the deposition of Sandford, \u2018 but they became immaterial in the disposition of the case.\nN. Hill, for appellant.\nE. S. Van Winkle, for respondents,\ninsisted that the authority given to James L. Palmer by the defendant, was unlimited, except as to the amount for which he could accept drafts; and that it was not exceeded in the acceptance of the bill in question, and the acceptance was valid; and that in any event the question as to the authority to accept, and whether the agent exceeded his authority, was one of fact, and proper to be determined by the jury, and that therefore the verdict ought not to be disturbed."
+  },
+  "file_name": "0398-01",
+  "first_page_order": 398,
+  "last_page_order": 402
+}

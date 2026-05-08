@@ -1,0 +1,68 @@
+{
+  "id": 8846060,
+  "name": "Battles versus Batchelder",
+  "name_abbreviation": "Battles v. Batchelder",
+  "decision_date": "1854",
+  "docket_number": "",
+  "first_page": "19",
+  "last_page": "20",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 Me. 19"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 245,
+    "char_count": 3300,
+    "ocr_confidence": 0.391,
+    "pagerank": {
+      "raw": 8.283159945918394e-08,
+      "percentile": 0.4790155719503338
+    },
+    "sha256": "e77337972fb49b313b2cb3277bce3c30c56cf136b9f29531b674df61dc19fce1",
+    "simhash": "1:56d259bb9c00364e",
+    "word_count": 576
+  },
+  "last_updated": "2023-07-14T16:29:29.134103+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Shepley, C. J., and Howard and Hathaway, J. J., concurred."
+    ],
+    "parties": [
+      "Battles versus Batchelder."
+    ],
+    "opinions": [
+      {
+        "text": "Tenney, J.\n\u2014\u25a0 The evidence rejected was offered as part of the res gestee. Declarations of a party at the time of the transaction, are expressive of the character, motive or object, and regarded as verbal acts,, indicating a present purpose and intention, and are admitted in proof like any other material parts of the res gestee. 1 Greenl. Ev. \u00a7 108. But the declarations of others having no connection with the transaction, after it has closed, and the parties have separated, can be nothing better than such hearsay evidence, 'as can never be held admissible. The proof excluded was of the latter character.\nAccording to the evidence reported, the language used by the parties, and their acts done thereupon, were sufficient to constitute a valid contract, if intended by them as that language and those acts would import, independent of other circumstances. , Whether they did so design, or whether the plaintiff did not intend to sell the horse for the price which he stated, and the defendant did not suppose he so intended, were questions which belonged to the jury to settle. This the jury have done, and the Court cannot properly interfere with the verdict which they have returned.\nExceptions and motion overruled.\nShepley, C. J., and Howard and Hathaway, J. J., concurred.",
+        "type": "majority",
+        "author": "Tenney, J."
+      }
+    ],
+    "attorneys": [
+      "Knowles & Briggs,",
+      "Peters, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Battles versus Batchelder.\nOf the proofs as part of the res gestee.\nAfter a transaction is closed and the parties to it have separated, the declarations of others haying no connection with the transaction, though relating to it, are not admissible in evidence,, as part of tho res gestee.\nON EXCEPTIONS from Nisi Prius, Appleton, J., presiding, and on motion for a new trial.\nReplevin, for a horse.\nIt appeared that the defendant and others bantered the plaintiff about his horse. He asked the defendant what he would give him for the horse, to which the reply was $40. Battles said, \u201chand over the money.\u201d Defendant said he \u201c did not know as he had so much money, but could borrow it of Simpson Rollins,\u201d to which Rollins answered that \u201che only had 75 cents.\u201d\nThe plaintiff then said, \u201cif either of you have got so much money, you may have him.\u201d The defendant then pulled out of his vest pocket $50 or $60, and counted out $40, and handed it to Battles. The plaintiff did not seem inclined to take the money, and it was laid upon his arm. There was some joking about it.\nThe defendant then went into the stable, near which the conversation was had, took out the horse and led him off.\nThere was some evidence offered by plaintiff that the horse was of a greater value.\nThe plaintiffs offered to prove, (as a part of the res gestee, showing how the bystanders regarded the transaction on the part of the defendant, and as showing tbe reason why plaintiff did not follow and reclaim bis horse, and why the plaintiff did not forbid the defendant from taking the horse away,) that one or more of the bystanders who heard the whole conversation, said to Battles, after Batchelder had gone out of hearing with the horse, in substance, \u201c you had better not go after him, it\u2019s all a joke; he will bring him back, and at worst it will only cost you a treat to get him.\u201d\nThe testimony was rejected. A verdict was returned for defendant, and plaintiff excepted.\nKnowles & Briggs,\nin support of the exceptions.\nPeters, contra."
+  },
+  "file_name": "0019-01",
+  "first_page_order": 19,
+  "last_page_order": 20
+}

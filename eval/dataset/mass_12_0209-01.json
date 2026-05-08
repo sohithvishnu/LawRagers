@@ -1,0 +1,130 @@
+{
+  "id": 2052026,
+  "name": "Thomas Emerson and Another versus The Providence Hat Manufacturing Company",
+  "name_abbreviation": "Emerson v. Providence Hat Manufacturing Co.",
+  "decision_date": "1815-03",
+  "docket_number": "",
+  "first_page": "209",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "11 Tyng 237"
+    },
+    {
+      "type": "official",
+      "cite": "12 Mass. 237"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Mass. Rep. 359",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053437
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0327-01"
+      ]
+    },
+    {
+      "cite": "10 Mass. Rep. 47",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2027017
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/10/0056-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. 372",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/18/0379-01"
+      ]
+    },
+    {
+      "cite": "5 Wheat. 326",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1442102
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/18/0326-01"
+      ]
+    },
+    {
+      "cite": "11 Mass. Rep. 97",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053427
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0096-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 835,
+    "char_count": 19062,
+    "ocr_confidence": 0.787,
+    "pagerank": {
+      "raw": 2.297597061684153e-06,
+      "percentile": 0.9960341317196485
+    },
+    "sha256": "6e6806bec47617a09b4704bdf64a3ee18761cb193c05b07a29a0b028cb47af1a",
+    "simhash": "1:8a73df68df59aa5f",
+    "word_count": 3362
+  },
+  "last_updated": "2024-02-27T20:59:33.389012+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Emerson and Another versus The Providence Hat Manufacturing Company."
+    ],
+    "opinions": [
+      {
+        "text": "Parker, C. J.\nSeveral objections have been made to the verdict in this case, which we will consider in the order in which they have been presented.\n* First, it is said the note offered to the jury, and ad- [ * 240 ] milled by the judge, purports, on the face of it, to be the note of Frink Roberts, and so will not support the declaration.\nBut there is no color for this objection. The form of words is usual, when one person intends to sign for another ; and the words, \u201c for the Providence Hat Manufacturing Company,\u201d prefixed to Roberts\u2019s name, must be considered as idle, and should be rejected, unless they designate the character.in which he gave his signature.\nIt is objected, also, that the note was permitted to go to the jury, before it was proved to have been made under an authority from those it purports to bind.\nBut it is immaterial whether the note or the evidence of its authority goes first to the jury, who must determine both points. Where an instrument under seal appears to be executed by attorney, and the authority of the attorney is disputed, before the instrument shall be admitted to the jury,'the letter of attorney shall be produced to the Court, who are to judge of its competency to sustain the act of the attorney. . But in all contracts made by agents or attorneys, in which the authority may be proved by oral testimony, the facts of signing and of the power to sign are both questions entirely for the jury ; and the order in which they shall be admitted is a matter of indifference.\nThe next question respects the competency of Roberts, whose testimony was received on the trial, and is essential to the support of the verdict.\nHe can be objected to solely on the ground of interest; for, considering him in the light of an agent, he may testify in that character, and he is not so connected with the note as to be inadmissible on the grounds stated in the cases of Fenn & al. vs. Harrison & al., and Buckland vs. Tankard, cited in the argument. On the point of interest, if he stands equally affected towards both parties, he is competent ; and any bias he may have towards one or the other goes to his credibility only. Now. by the note itself no [*241] interest can be imputed ; because, prima, * facie, it does not charge him, but those for whom he signed ; and, from \u25a0the facts testified by him, and which, for this purpose, may be considered as testified upon the voir dire, be is clearly as much interested on one side as on the other. For, if, by his testimony, the defendants are charged, as they have settled with him and allowed him the amount of this note, they will have a right of action against him ; and if they are discharged for want of authority in him to bind them in the note, the payees may consider it a note given by him personally, and may recover the amount of him. We are therefore satisfied that he is a competent witness.\nThese preliminary questions being thus disposed of, we come to the principal point in the cause; which was ably argued by the counsel on both sides. The first question is, whether the note declared on can, from the evidence in the case, be considered as the note of the persons who have associated under the name of \u201c The Providence Hat Manufacturing Company.\u201d It is obvious, that, to give it this character, an authority from the company must be proved to have been in Roberts, who undertook thus to charge them. No direct authority has been proved, but it has been insisted that Bujfum, viewed either as agent of the company, or as one of the associates to whom the principal conduct of the business was left by common consent, has, by his appointment, the evidence of which is in the case, constituted Roberts an agent of the company, with authority to bind them in this contract.\nWe are not satisfied that the plaintiffs are correct in the ground thus taken. If Buffum is to be viewed as an agent deriving his authority from the choice of the company, his power must be considered to be limited by the terms of his appointment; and, although the general administration of the affairs of the company were intrusted to him, we see no power given him to appoint sub-agents. Nor can such power be implied, for a confidence is supposed to exist between principal and agent, which is not communicated to sub-agents, * selected and appointed only by the agent. [*242] There is no doubt that the clerks, and other persons, necessarily employed by Buffum to execute the business of the company, may be considered as servants of the company, as far as their instrumentality is necessary for the due execution of the general concerns of the company, according to the spirit of their association. Thus, in a concern so extensive, in which it was contemplated to monopolize, as far as possible, the business of selling hats, factors might be employed by Buffum to buy stock and sell the manufactures. But it is not necessary, nor would it be safe, to allow persons of this description to make promissory notes, or other written contracts, to bind the company. It would be difficult to limit such transactions to cases beneficial to the company ; and it would be unreasonable to commit their whole interest into the hands of a multitude of inferior agents, when they had appointed a principal one, in whom they had reposed all their confidence. Nor, indeed, does it appear from the contract between Buffum and Roberts, that such a power as is contended for was attempted to be given. There is a general power to buy and sell, but no power to sign notes or other securities. As far forth as credit may be the necessary result of nuying and selling, the credit of the company, or of Buffum, might undoubtedly be pledged ; for, in such case, it will be correspondent only to the advantage gained by them by such credit. But to this effect the power of giving notes is not necessary ; and the exercise of it may be dangerous. Viewing Buffum, therefore, as an agent only, we are not satisfied that he could transmit the power vested m him, of making the company answerable upon a promissory note, or othei express promise to pay. And, on the other hand, if he is considered as the principal of a trading house, although in such case he would have power to bind the company to any extent, in relation to the common concerns ; yet we doubt whether he alone could authorize another person to do the same thing. At any rate, the circumstances of notoriety attending this company, and [ * 243 ] their employment of Buffum as an agent, * might prevent any person, dealing with him as the whole company on the ground of his copartnership authority, from having an advantage of any exercise of authority by him, beyond that which is incident to an agency.\nThere are cases, where an authority to make simple contracts of a mercantile nature for another may be implied from a previous permission to do the same acts, or an acknowledgment of them after they are made. But this point cannot be raised in the present case, there being no instance proved of any other note having been given by Roberts; and the circumstances in evidence, from which the knowledge of the company may be inferred, that Roberts was holding himself up to the community as their agent, proving nothing more than that they, knew he was buying and selling for them. Upon these considerations, we are of opinion that the case does not show com: petent authority in Roberts to make the note for the company, with which they are charged in the declaration.\nBut there is another view of the case, applicable to the count on indebitatus assumpsit for goods sold and delivered, which it is necessary to consider. If the goods have been sold and delivered to the company by the plaintiffs, through the instrumentality of Roberts, they must be held to pay for them, unless they have been discharged by some act of the plaintiffs themselves, with intent to discharge, or unless such be the legal effect of the transaction with Roberts.\nRoberts was ostensibly the agent of the company for purchasing furs. He advertised himself as such by the sign over his shop-door, intended to invite customers in to trade with him in that capacity. This had remained long enough to raise a violent presumption, that many out of an hundred joint traders, being within forty miles of this town, between which and the place of their residence there was a constant intercourse of business, knew that Roberts assumed to act as their agent. Buffum, the managing partner, knew and permitted this act of notoriety. Besides which, the books of Buffum, [ * 244] kept for the inspection of the principal * officers of the company, contained evidence that Roberts was considered an agent. The plaintiffs sold the goods, not to him personally, but to the company, as is proved by the note, which, although not binding on the company, is good evidence for other purposes to establish the plaintiffs\u2019 claim. The goods were also bought for the cony pony, according to Roberts\u2019s testimony, and actually went to their use.\nNow under these circumstances we think there could be no question, if no note had been given, that a count on indebitatus assumpsit would have been well maintained. The transaction would come fairly within the authority of Buffum to Roberts, to buy and sell for the company ; and that authority appears to be under no restriction, which would confine it to buying without credit. At any rate, Roberts appears to have been held out to the world as general agent of the company in this particular business ; and it is just and equitable, as well as legal, that they should suffer from his insolvency, rather than innocent persons, who dealt with him on the faith of his agency. Between individuals a case of this kind would admit of no doubt; and this company can claim no exemption from the common liabilities of a trading company, on account of the number of the associates, or the formality with which they conducted their concerns.\nThe only question remaining seems, then, to be, whether the taking of the note, in the form in which it was given, extinguished the implied promise which resulted from selling the goods.\n\u2022 Nowj although a negotiable promissory note, by the common law of this State, is holden to be a discharge of a simple contract, on which it may be founded; yet such a note, to effect such purpose, must be what it was intended by the parties to be, and available in law to the party who may receive it. The company have refused to recognize the note in question as theirs ; and, although by the operation of law it may be the note of Roberts himself, if the plaintiffs * choose so to consider it, yet they are not [ * 245 \"| bound to rely upon Roberts, to the prejudice of the legal claim they had upon the company. For it would be obviously unjust that a man, dealing with the authorized agent of another, and selling goods to the principal as supposed at the time, and taking a written promise to pay, which was intended to charge the principal, should be liable to have the promise denied by the principal, and be obliged, in consequence, to look only to the agent, who is generally much less responsible.\nJudgment according to the verdict.\nLong vs Colburn, 11 Mass. Rep. 97, and note to 2d ed.\u2014Mechanics Bank vs. Bank, of Columbia, 5 Wheat. 326. \u2014 Hall vs. Smith, 1 B. & C. 407. \u2014 2 D.& R. 584.\u2014Lord Galway vs Mathew, 1 Campb 403. \u2014 Clark vs. Blackstock, Holt, 474 \u2014March vs. Ward, 1 Peake, 131. \u2014Wilks vs. Bach, 2 East, 142 \u2014Mott vs. Hicks, 1 Cowen, 513. \u2014 Epis Soc. Dedham, 1 Pick. 372.\n3 D. & E. 757.\n5 D. & E. 578.\nA delegated authority can only be executed by the person to whom it was given. 2 M. & S. 299.\u20141 Rolle, Abr. 330. \u2014 9 Co. 476 \u20142 Rolle. Abr. 9.-9 Ves. 251-256.\u2014 Co Lit 112, C , 181. C. \u20141 Rolle, 329 \u20144 Campb 184. \u20146 Taunt. 197.\nCollyer on Partnership, 652. \u2014 Ducaney vs. Gill, 1 M. & M. 450.\u2014 4 C. & P. 120 \u2014 Dixon vs. Valpy, 10 B. & C. 128.\nThe general principle is, that the vendor shall have his remedy against the principal whenever he is disclosed, although unknown at the time of the sale. Thompson vs. Davenport, 9 B. C. 79. \u2014 Hornby vs. Lacy, 6 M. & S 166. \u2014 Morris vs. Cleasbey, 4 M. & S. 574. \u2014 Horsfall vs. Fontleroy, 10 B. C. 755.\nVide note to Chapman vs. Durant, 10 Mass. Rep. 47. And note to Tudor vs. Whiting, ante, 212.\nDucaney vs. Gill, 1 M. & M. 451.\u20144 C. & P. 121. \u2014 Robinson vs. Read, 9 B & C. 449. \u2014 Johnson vs. Johnson, 11 Mass. Rep. 359.",
+        "type": "majority",
+        "author": "Parker, C. J."
+      }
+    ],
+    "attorneys": [
+      "The cause was argued, at this term, by Crane, for the plaintiffs, and Rockwood, for the defendants ;"
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Emerson and Another versus The Providence Hat Manufacturing Company.\nWhere an instrument under seal purports to have been executed by an attorney, and the authority of the attorney is disputed, before the instrument goes to the jury, the letter of attorney must be produced to the Court, who are to judge of its competency.\nBut in all simple contracts, made by agents or attorneys, in which the authority may be proved by oral testimony, the fact of signing and the power to sign being both questions for the jury, the order in which they shall be proved is matter of indifference.\nAlthough a general agent of a trading company, being himself also one of the company, may have authority to make promissory notes binding on the company, yet a sub-agent appointed by him would not have such authority. But such sub-agent, appointed to purchase stock and sell goods for the company, may buy on credit, if not prohibited ; and the company will be bound by such purchase ; and the promissory note of the sub-agent given on such purchase, not being binding on the company, will not extinguish the implied promise of the company raised by the law on the purchase.\nThis was assumpsit on a promissory note, and also for goods sold and delivered ; being the same goods, the purchase of which made the consideration of the note declared on.\nA trial was had on the general issue, November term, 1813, before the present Chief Justice.\nThe note produced in evidence was in the words and figures following, namely ; \u201c Boston, Jan. 20th, 1810. For value received of Messrs. Emerson 8f Little, I promise to pay them, or order, seven hundred and thirty-one dollars and three cents, in twelve months and grace, for the Providence Hat Manufacturing Company. \u2014 Frink Roberts.\u201d The defendants objected to the admission of the note in evidence, until proof that Roberts was the agent of the company, with power to bind them in such cases. The objection was overruled by the judge.\nThe plaintiffs then produced the deposition of Benjamin Hibbard, testifying that he was one of the said company, that their stock amounted to about $ 15,000, and was divided into shares of $ 100 each ; that the business was carried on by an agent appointed by the company, acting with the advice of a committee, according to certain rules prescribed by the constitution of the company ; that Ar nold Buffum was one of the company ; was appointed [*238] * agent for them, and gave bond for the faithful discharge of his duty as such ; that his appointment was a matter of great notoriety, and that he continued to be the agent until the company stopped bus'iness-; that the said Roberts was appointed the agent of the company for the purpose of transacting their business in Boston, as the witness was informed by said Buffum ; that Roberts had a sign over his sbop-door in Boston, on which was written, \u201c Providence Hat Manufacturing Company Store,\u201d which was probably known to some of the company ; and that this continued until after the date of the said promissory note.\nWith the deposition of Hibbard, and authenticated by him, there came up a printed copy of the constitution of the company ; providing, among other things, that there should be annually chosen a president, and four directors, defining their duties and powers ; that an agent should be employed, whose duty it should be to devote his time to the concerns of the company, to purchase stock, tools, &c., oversee and employ necessary workmen, to have regular books of accounts, &c., and have a general superintendence and control (under the president and directors) of the whole business, &c. ; appointing the said Buffum to be such agent; and authorizing the agent, with the consent of the president and directors, to obtain a credit on account of the company to any amount, not exceeding in the whole $ 10,000. The said Frink Roberts was offered and admitted as a witness, against the objection of the defendants. He testified that he was appointed agent by Buffum, according to a written contract, which came up in the case ; that his employment was to sell bats and pur chase stock; that he frequently went to Providence, and there saw and conversed with Buffum on the subject of this concern, who treated him as agent, permitting him to see and examine the books kept by Buffum, in which there was an account with the witness as agent ; and that he [the witness] had settled several accounts with him as agent. He also testified that the note in question was given for the purchase of a lot of furs made by him, under said [*239] appointment, for the company ; * that part of the furs were sent to Providence for the company\u2019s use, and the remainder were sold by him in Boston, by order of Buffum, on the company\u2019s account; and that this transaction had been settled in his accounts with Buffum as agent, the amount of the purchase being charged by himself in the debit side of the account. Being desirous of making this purchase on his own account, which he was prohibited from doing by his contract, he went to Providence, to obtain leave to purchase them for himself, which was refused by Buffum\u25a0 The witness acted as the only agent of the company in Boston, having a shop in State Street, and a sign as before mentioned, for several months before and after the date of the note in question. He transacted business to a large amount under said appointment, and never knew or suspected that his authority to act for the company was questioned, until after he stopped payment, which was after the date of the note, and before it became due. He further testified that he never had any intercourse with any of the company but Buffum, and he did not know that any other member of the company knew of his appointment or acting as aforesaid, unless from his name appearing in the books. At the time of the witness\u2019s appointment he gave bond in the penalty of $ 5000, which, on his settlement with Buffum, as agent, was cancelled.\nUpon this evidence, the judge directed a verdict for the plaintiffs, for the amount of the note and interest, and it was so returned, there being no evidence offered by the defendants, to contradict the facts aforesaid. If the evidence was properly admitted, and would support the verdict, then the verdict was to stand, and be applied to such count in the declaration as the Court should direct ; otherwise, the verdict was to be set aside, and a new trial granted.\nThe cause was argued, at this term, by Crane, for the plaintiffs, and Rockwood, for the defendants ;\nand, being continued nisi for advisement, judgment was rendered at the following October term in Middlesex."
+  },
+  "file_name": "0209-01",
+  "first_page_order": 209,
+  "last_page_order": 215
+}

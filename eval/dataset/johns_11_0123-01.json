@@ -1,0 +1,121 @@
+{
+  "id": 2137648,
+  "name": "Jackson, ex dem. Van Cortlandt and Patten, against Van Corlaer",
+  "name_abbreviation": "Jackson ex dem. Van Cortlandt v. Van Corlaer",
+  "decision_date": "1814-05",
+  "docket_number": "",
+  "first_page": "123",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Johns. 123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Johns. Rep. 61",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Johns. Rep. 367",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Caines' Rep., 197",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johns. Rep. 502",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Rep. 355",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Caines' Rep. 336",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Caines' Rep. 493",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "case_ids": [
+        793352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cai/1/0616-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Rep. 51",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 487,
+    "char_count": 9766,
+    "ocr_confidence": 0.615,
+    "pagerank": {
+      "raw": 4.4675216351588373e-07,
+      "percentile": 0.9219469938208753
+    },
+    "sha256": "1eecb1eb930967a18673173647fbd32f918432ef998c1c80a26cce5f0477de45",
+    "simhash": "1:d8ec94c49050fe0e",
+    "word_count": 1765
+  },
+  "last_updated": "2024-02-27T21:14:24.171207+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Van Cortlandt and Patten, against Van Corlaer."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nWhether BleecJcePs line is correct or not cannot now be made a question between these parties; for they undertook to run and establish a line for themselves, which is the line run by Shephard in his survey about 19 years ago. According to that survey, the defendant is in possession of no land belonging to the lessors of the plaintiff) except a small piece lying east of the road and north of Shephard\u2019s line.\nAfter such a lapse of time, and the repeated acquiescence, on the part of the lessors, it would be unjust and inexpedient to disturb that line, admitting that it had been incorrectly settled at first. The parties themselves ought to be the best judges of the boundaries of their own lands; and after they have deliberately settled a boundary line between them, it would give too much encouragement to the spirit of litigation, to look beyond such settlement, and break up the lines so established between them. Though the small piece of land mentioned was not, probably, the object of the action, and is almost too trifling in value to be noticed, yet as the plaintiff\" is clearly entitled te i?ecover it, he must have judgment for that and no more.\nJudgment for the plaintiff, pro tanto<,",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Foot, for the plaintiff, contended,",
+      "Wendell and Russell, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Van Cortlandt and Patten, against Van Corlaer.\nNEW-YORK,\nMay, 1814.\nVV hereparbe?, claiming lands under different patents, had, nineteen years before the trial, caused a new survey, and had agreed that the line so run on that survey, to he the true boundary line between them, and had after-wards repeatedly acquiesced in such line; it was held that the line so set\u201dot j>e ques. turbed, though 8h0\u2122Sto have !jeen\u00bb at,first-incorrectly set-tied,\nTHIS was an action of ejectment for lands in the town of Hoosick, in the county of Rensselaer, and was tried before the Chief Justice.\nThe premises in question were claimed by the plaintiff, as part of great lot No. 30. in the Hoosick patent; more particularly as part of great lot (B.) in the subdivision of great lot No. 30. He gave in evidence, I. Letters patent, dated in June, 1688, to Jacobus Van Cortlandt, and three other patentees named, for the tract of land commonly called the Hoosick patent. 2. The will of Jacob Van Cortlandt, dated 12th May, 1739, devising the one fourth of the patent to his son, Frederick Van Cortlandt, for life, and after his death to all his children in fee. The plaintiff then deduced a regular title in fee, under this will, to Augustus Van Cortlandt, the lessor of the plaintiff, for a moiety of lot No. 30. in the patent, as possessed by the defendant. He further gave in evidence a deed from Augustus Van Cortlandt and his brother Frederick, to the other lessor, Patton, dated 28th Man, 1798, for the consideration of 236 pounds, \u201c for all that certain lot of land, situate, lying, and being, in the Hoosick patent, distinguished in a survey made by Naunring Visscher, by letter B., now in the possession of the said Robert Pail\u00f3n, and bounded northerly by lot No. 46- in the possession of John Ryan a$$5 Thomas Leonard, westerly by the farm of land now in possession of John Munro, Southerly by land now claimed by Daniel B\u201e Bradt, and easterly by the land of Henry Lake, being the easterly bounds of the said Hoosick patent, containing, by estimation, 236 acres, more or less.\nThe plaintiff next produced Bleecker\u2019s map and field book of the survey of the Hoosick patent, and proved that the defendant was in possession of part of lot No. 30. as laid down in the said map and field book.\nOne of the plaintiff\u2019s witnesses, on his cross-examination, stated that the defendant was in possession of part of lot No. 30. according to Bleecker\u2019s map and survey, the lines of which he had seen run so as to include the defendant\u2019s possession; that part of the land, being about one sixteenth part of an acre, in the possession of the defendant, was within the description contained in the deed of the 28th May, 1798, from A. and F. Fan Cortlandt to Patton, and that according to the survey of lot B. by Fisscher, the defendant had about 50 acres of that lot in his possession.\nThe defendant claimed the premises, in question as part of lot No. 2. in Snyder\u2019s patent, dated 24th March, 1762. He gave in evidence a deed from Crean Brush to Hendrick Lake, dated 25th September, 1762, conveying a lot of land, part of Snyder\u2019s patent. Part of the boundaries described were as follows : \u201c along the north bounds of lot No. 3. west to a tract of land, &c. called Hoosick, then along the east bounds of said tract called Hoosick, to the southwest corner of lot No. 1. then along the south bounds of lot No. 1. east to the place of beginning,\u201d &c. containing 160 acres, more or less.\nThe defendant gave in evidence a deed from Hendrick Lake to Abraham and Garret Lake, for said lot No. 2. dated 22d January, 1798, and a deed of a moiety of the same lot from Abraham to Garret Lake, dated 29th August, 1806.\nIt was proved that Hendrick Lake entered into possession of lot No. 2. not long after the date of his deed, that is, about five or six years before the late war. He cleared up to the road north of his lot, and the lands east of the road have been enclosed for above 30 years. The defendant is a tenant under Garret Lake. The witness understood the road to be the Hoosick line.\nAsahel Shephard, a surveyor, testified that about 19 years ago foe run out the east line of the Hoosiclc patent, (but at whose request he did not recollect, but he thought David Sprague paid him,) assuming the river as the base and running two miles east of the river, according to its bend. According to Bleecker\u2019s map and survey, the premises in question would be within the Hoosick patent, and include 42 1-2 acres east of the road and 8 1-2 acres west of it.\nAnother witness testified that he surveyed If acres of the premises in question, in January, If94, soon after the survey by Shepherd, at the request of Henry Lake. He understood there had been difficulties about the land, and the parties, Lake and Patton, recognised Shephard\u2019s line, as the true division line, and had settled and agreed to it, believing it to be the true line. About If acres west of the road and east of Shephard\u2019s line, fell to Lake, and Patton purchased it of him, and about 8 acres west of the road Patton gave up to Lake; that it was agreed and understood by them, on that settlement, that Lake was to give up to Patton all the land he held west of the line, and Patton then claimed the land west of the road, and said it was covered by his title and the Hoosick patent; that these pieces of land have ever since been held pursuant to that agreement.\nA deed was produced, dated 28th February, 1794, from Henry Lake to Robert Patton, for part of lot No. 2. in Snyder\u2019s patent, lying west of the road and on Shephard\u2019s line, particularly describing the bounds, and containing If acres and 24 rods, more or less.\nIt was further proved that about 11 years ago the lessor, Van Cortlandf, said he gave no deed of lands in Hoosick, but according to Shephard\u2019s survey. That Henry Lake, 33 years ago, was in possession east of the road and up to the road; that within ten years, the lessor and the defendant had mutually supported the division fence, as it now stands, between the pieces of land above mentioned, one of 8 acres, and the other of If acres. That about two years ago, Patton said \u201c there had been differences between the claimants under the Hoosick and Snyder patents ; but that he had settled according to Shephard\u2019s survey, supposing that to be the true one, but that he was a fool for having made the settlement.\u201d\nDavid Sprague testified that he was the agent for the Van. f\u00edorllandtSp as to the Hoosick lands, but he did not recollect wirether he employed and paid Shephard for that survey, but he had frequently employed him to make surveys, and was directed by Van Cortlandt to procure parallel lines to be run out from Hoosick river, two miles on each side, from the river as a base.\nIt was further proved, that after Shephard\u2019s line was run, Lake agreed with Patton to give up all the land, in his possession, west of that line, and Patton was to give up all that lay east of the line, which he had done, except a small piece or corner, less than one fourth of an acre, which the defendant held in his possession.\nThe Chief Justice was of opinion that Shephard\u2019s line was conclusive on the parties; that Patton\u2019s title did not extend beyond that line, and that Van Cortlandt was estopped by his deed from extending the line of lot No. 30. beyond the traverse line of Shephard; but that as a small piece of land west of Shephard\u2019s line was in possession of the defendant, the plaintiff was entitled to recover to that extent.\nA verdict was, therefore, by consent, taken for the plaintiff, subject to the opinion of the court on the whole case.\nFoot, for the plaintiff, contended,\n1. That the plaintiff had shown a title to the whole of the premises, there being no adverse possession sufficient to bar his claim. (2 Johns. Cases, 355. 1 Johns. Rep. 51.)\n2. That Van Cortlandt was not estopped by. his deed to Patton in 1798. (1 Caines\u2019 Rep. 493. 8 Mod. 313. Co. Litt. 352. a. 3 Johns. Cases, 103.) .\n3. That neither Van Cortlandt nor P.atton were concluded by any declarations or agreements of either, as to Shephard\u2019s line being the true line. (1 Caines\u2019 Rep. 336. 2 Johns. Rep. 355. 5 Johns. Rep. 502\u2014507.)\nWendell and Russell, contra,\ninsisted that the lessors of the' plaintiff were concluded by the agreement with Patton, establishing Shephard\u2019s line as the true boundary line between them.. They cited Jackson, ex dem. Nellis, v. Dysling, (2 Caines\u2019 Rep., 197.) Jackson, ex dem. Whitman, v. Douglas, (8 Johns. Rep. 367.) Stuyoesant v. Tompkins. & Dunham, (9 Johns. Rep. 61.)"
+  },
+  "file_name": "0123-01",
+  "first_page_order": 133,
+  "last_page_order": 137
+}

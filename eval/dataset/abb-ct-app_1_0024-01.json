@@ -1,0 +1,319 @@
+{
+  "id": 1111947,
+  "name": "THE ATLANTIC DOCK COMPANY v. THE CITY OF BROOKLYN",
+  "name_abbreviation": "Atlantic Dock Co. v. City of Brooklyn",
+  "decision_date": "1867-09",
+  "docket_number": "",
+  "first_page": "24",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "36 N. Y. 661",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/36/0661-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15595
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/31/0164-01"
+      ]
+    },
+    {
+      "cite": "4 Pet. 561",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wheat. 428",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Wend. 649",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Johns. 175",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380603
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/19/0175-01"
+      ]
+    },
+    {
+      "cite": "2 Conn. 382",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754859
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/2/0382-01"
+      ]
+    },
+    {
+      "cite": "19 Johns. 179",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/19/0179-01"
+      ]
+    },
+    {
+      "cite": "43 Barb. 54",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5125436
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/43/0054-01"
+      ]
+    },
+    {
+      "cite": "37 Barb. 357",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5091969
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/37/0357-01"
+      ]
+    },
+    {
+      "cite": "27 N. Y. 188",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2035363
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/27/0188-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 128",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023461
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/19/0128-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 377",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16291
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/32/0377-01"
+      ]
+    },
+    {
+      "cite": "47 Barb. 447",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946977
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/47/0447-01"
+      ]
+    },
+    {
+      "cite": "19 How. Pr. 370",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2209409
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/19/0370-01"
+      ]
+    },
+    {
+      "cite": "36 N. Y. 297",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/36/0297-01"
+      ]
+    },
+    {
+      "cite": "46 Barb. 659",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5152015
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/46/0659-01"
+      ]
+    },
+    {
+      "cite": "36 N. Y. 661",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498914
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/36/0661-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15595
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/31/0164-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 649",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "pin_cites": [
+        {
+          "page": "660"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Johns. 179",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380555
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/19/0179-01"
+      ]
+    },
+    {
+      "cite": "43 Barb. 54",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5125436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/43/0054-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 450,
+    "char_count": 7315,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 9.400688716603778e-08,
+      "percentile": 0.5157814220056846
+    },
+    "sha256": "46078e3aebf26251fa70605ab4a197c3627d937243f692e17dcb265fd81c66ac",
+    "simhash": "1:2ee0e482d2a9a940",
+    "word_count": 1309
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE ATLANTIC DOCK COMPANY v. THE CITY OF BROOKLYN."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nPorter, J.\nThe statute under which the action was brought is free from constitutional objection. Darlington v. Mayor, &c. of New York, 31 N. Y. 164.\nThe pier injured by the rioters was within the limits of the city of Brooklyn. It has been repeatedly adjudged that the boundary of territorial jurisdiction between the counties of New York and Kings is the actual line of low water on the Brooklyn side, whether corresponding with the original low water line on the East River shore, or varied by the permanent encroachment of docks, piers and wharves, or other artificial erections for the purposes of general commerce. Stryker v. Mayor, &c. of N. Y., 19 Johns. 179 ; Matter of Furman Street, 17 Wend. 649, 660; Luke v. City of Brooklyn, 43 Barb. 54; S. C. affirmed in court of appeals, June Term, 1865. The motion to dismiss the complaint was, therefore properly denied. A cause of action was established by the proof, and a nonsuit would have been plainly erroneous.\nIt is suggested that damages should not have been included in the verdict for the destruction of the dredging machine, on the ground that it was afloat on the waters of the Atlantic basin, and without the bounds of the city of Brooklyn. That question is not before us for consideration. Our province is simply to determine whether any erroneous ruling was made in the court below, and not to retry the original issue. The defendants requested no instruction to the jury on this subject, and they cannot complain of the judge, for omitting to pass upon a question of law which was not submitted to him for decision.\nThe court properly refused to charge that the pier had been dedicated by, the plaintiffs to the use of the public. Such an instruction would have \u2022 been wholly unwarranted by the evidence.\nThe judgment should be affirmed with costs.\nAll the judges concurred in this opinion.\nJudgment affirmed, with costs.\nOn the constitutional question, see, also, Baldwin v. Mayor, &c., p. 76 of this vol.; Moody v. Supervisors of Niagara, 46 Barb. 659; affirmed as Ely v. The same, 36 N. Y. 297 ; Wolfe v. Supervisors of Richmond, 19 How. Pr. 370; Luke v. City of Brooklyn, cited in the principal case above ; Sarles v. Mayor, &c. of N. Y., 47 Barb. 447; Orr v. City of Brooklyn, 36 N. Y. 661; Metropolitan Board of Health v. Heister, 37 Id. 661; Eastman v. Mayor, &c. of N. Y., 5 Robt. 389; People v. Pinckney, 32 N. Y. 377.\nNot reported.\nSee Matter of Thirty-second-street, 19 Wend. 128; People v. Kerr, 27 N. Y. 188; affirming 37 Barb. 357.",
+        "type": "majority",
+        "author": "Porter, J."
+      }
+    ],
+    "attorneys": [
+      "Alexander McCue, corporation counsel, for defendants, appellants;",
+      "Nathan Bur chard, for plaintiffs, respondents;"
+    ],
+    "corrections": "",
+    "head_matter": "THE ATLANTIC DOCK COMPANY v. THE CITY OF BROOKLYN.\nSeptember, 1867.\nAffirming 43 Barb. 54.\nThe actual line of low water mark on the Brooklyn side forms the boundary of territorial jurisdiction of the city of Brooklyn in that direction.\nA pier within the Atlantic basin, in the city of Brooklyn, is within the city of Brooklyn, although it be built on piles through which the tide ebbs and flows, and at a place not within the original low water mark. The court will not reverse a judgment on appeal on an objection to an item of the recovery, on a ground which was not taken below.\nThe Atlantic Dock Company sued the city of Brooklyn in the supreme court to recover for injuries to their property done by a mob, in July, 1863. . The action was founded on the act of 1855 (c. 428), which provides that when any property is destroyed or injured by a' mob, \u201c the city or county in which such property was situated shall be liable to an action by or in behalf of the party whose property was thus destroyed or injured, for the damages sustained by reason thereof.\u201d\nThe plaintiffs were a corporation owning a basin on the Brooklyn shore of the East River, for the accommodation of vessels, formed by the construction of bulkheads enclosing a considerable area of water below the original low water mark.\nIn 1845 the company had filed in the office of the register of deeds of the county a map, entitled \u201c Map of Property in the Sixth Ward of the City of Brooklyn, Port of New York, belonging to the Atlantic Dock Company.\u201d This map showed the entire basin clear of piers or any projections into the water in the nature of piers, beside the bulkhead forming the side of the basin.\nSubsequent to the filing of the map the company built a pier projecting' into the basin, by driving piles. The whole pier was below \u2014 i. e., beyond, \u2014 the original low water mark, and under and through it the tide ebbed and flowed.\nThis last mentioned pier, and a dredging machine belonging to the company, which was floating in the basin, also below the original low water mark, were destroyed by a mob, in July, 1863.'\nThese facts having been proved at the trial, defendants moved that the complaint be dismissed, because, 1. The property was not within the bounds of Brooklyn; and, 2. The statute of 1855 is unconstitutional; and also inoperative for uncertainty; and the action, if sustainable, should be against the county instead of the city.\nThe request for a nonsuit having been denied, defendants asked that the jury be instructed \u201cthat the pier in question was within lands dedicated to the public use by the plaintiff, and that no recovery could be had for damage thereto, in this action.\nThe motion was denied.\nExceptions were taken to both refusals; and the court submitted the case to the jury, who found a verdict for plaintiff for seventeen thousand four hundred and fifty dollars and sixty-six cents. Judgment having been entered, and affirmed by the general term, defendants appealed.\nAlexander McCue, corporation counsel, for defendants, appellants;\nInsisted that the vessel floating on the waters of the East River must have been without the territorial limits of Brooklyn, and in' those of New York; citing 3 R. S. 1 ed. p. 2; Stryker v. Mayor, &c. of N. Y., 19 Johns. 179; Ely v. Parsons, 2 Conn. 382; State of Alabama v. State of Georgia, 23 How. U. S. 505 ; Townsend v. MacDonald, 12 N. Y. (2 Kern.) 381; and distinguishing Luke v. City of Brooklyn, 43 Barb. 54.\nNathan Bur chard, for plaintiffs, respondents;\nAs to that point, cited Udall v. Trustees of Brooklyn, 19 Johns. 175; Matter of Furman Street, 17 Wend. 649; Piersall v. Post, 22 Id. 425. As to the constitutionality of the act; McCullough v. State of Maryland, 3 Wheat. 428; Providence Bank v. Billings, 4 Pet. 561; Darlington v. Mayor, &c. of N. Y., 31 N. Y. 164; Luke v. City of Brooklyn, above ; Kensington v. County of Philadelphia, 1 Harris, 76.\nBut the waters within the basin are in the county of New York. Orr v. City of Brooklyn, 36 N. Y. 661. In that case, which was decided at the same time as the case in our text, Hunt, J., says: \u201c The line follows the outer line of the pier [from Hamilton avenue] till it reaches the cut or opening of the Atlantic basin; then it follows the inner line of the pier around the four sides of the piers, and around the lines of the inner piers or wharves, till it reaches the westerly side of the cut or opening; then resuming the low water mark westerly along the shore of Long Island; . . . and it results in leaving the waters of the Atlantic basin within the territorial limits of the county of New York.\u201d\nThe pier in question in the case in our text was built out from the \u201c inner line of the inner piers or wharves \u201d above referred to, extending into the waters of the basin."
+  },
+  "file_name": "0024-01",
+  "first_page_order": 34,
+  "last_page_order": 37
+}

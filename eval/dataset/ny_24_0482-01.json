@@ -1,0 +1,66 @@
+{
+  "id": 2029408,
+  "name": "Aikin, Administrator, v. Wasson",
+  "name_abbreviation": "Aikin v. Wasson",
+  "decision_date": "1862-06",
+  "docket_number": "",
+  "first_page": "482",
+  "last_page": "484",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "24 N.Y. 482"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 304,
+    "char_count": 4661,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 1.5383892237752841e-06,
+      "percentile": 0.9921200039075637
+    },
+    "sha256": "52c8280640a02752e0acc9275153efca58ff900d85d95eba4a9ee0ce4c8364b5",
+    "simhash": "1:3a15eb4be8f4f614",
+    "word_count": 776
+  },
+  "last_updated": "2023-07-14T17:51:58.581474+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aikin, Administrator, v. Wasson."
+    ],
+    "opinions": [
+      {
+        "text": "Seldes, Oh. J.\nIt appears from the pleadings that the payee of the note, upon which the action is brought, was a contractor with the Albany northern Eailroad Company, of which the defendant is a stockholder, for the construction of a part of its road; that the note was given to him for an indebtedness growing out of such contract; and the question presented by the\" demurrer is, whether, as such contractor, he is entitled to the benefit of that clause of section 10, of the general railroad act of 1850, which provides, that \u201call the stockholders of every such Company shall be jointly and severally liable for all the debts due or owing to any of its laborers and servants, for services performed for such corporation;\u201d in other words,, whether he can be regarded as a laborer or servant of the Company within the meaning of the act.\nIt is obvious from the nature and terms of this and other provisions of the act, as, well as from a general policy indicated by analogous statutes, that the legislature intended to throw a special protection around that class of persons who should actually perform the manual labor of the Company. To accomplish this design, it is not necessary that the words \u201claborers and servants \u201d should receive their broadest interpretation. Indeed, such a construction would scarcely harmonize with the general scope and object of this and similar acts. In some very extended sense, the directors and other principal officers of the corporation may be considered as its agents and servants, and yet no one, I apprehend, would contend that the provision was intended for their benefit. The word \u2018 \u2018 servants \u201d is qualified, and to some extent limited in its meaning, by its association with the word \u201claborers,\u201d according to the familiar maxim, noscilur a sociis. It clearly would not include every one who should perform any service in any form for the Company. Such a construction is repelled, not only by the apparent reason for the enactment, but by the language used, which would naturally have been far more general if such had been its object.\nPrecisely where the line should be drawn between the different classes of persons who may perform services for such a Company, it may be somewhat difficult to determine; but it is unnecessary to attempt this discrimination in the present case; as it would be necessary to give to the word \u201cservant\u201d the largest and most extended signification possible in order to include' within it those who have made contracts with the Company to construct a portion of its road; and even then, I hardly see how the word could be held to include this class of contractors, especially if it is understood in any of its ordinary acceptations, as it should be, unless there is something in the case to point to a different interpretation. If, however, it might be possible to construe the word, under some circumstances, so as to include contractors, all the indications in the present case tend to a limited instead of an enlarged interpretation. Contractors, therefore, are not, in my opinion, embraced in the terms, or entitled to the benefits, of the provision. The judgment of the Supreme Court should, I think, be affirmed.\nAllen, J., delivered an opinion to the same effect.\nAll the judges concurring,\nJudgment affirmed,",
+        "type": "majority",
+        "author": "Seldes, Oh. J."
+      }
+    ],
+    "attorneys": [
+      "John K. Porter, for the appellant.",
+      "Orlando Meads, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Aikin, Administrator, v. Wasson.\nA contractor for the construction of part of a railroad is not a laborer or servant* within the provision of the general railroad act, making stockholders ,-personally liable for the debts of the corporation.\nApb-E'AL from the Supreme Court. Action to enforce an alleged \u00a1personal liability of the defendant, as a stockholder in the Albany Northern Bailroad Company, an insolvent corporation, organized under the general law of ,1850. It appeared on the trial that one Decker was a contractor with the corporation for grading and constructing a portion'of its road. The Company being indebted to him for the services of himself, his laborers and servants under such contract, gave him its promissory note for $2,047 in part payment. This note was transferred by Decker to the plaintiff\u2019s intestate; and, being protested, he recovered judgment against the corporation for the amount thereof, upon which execution was returned wholly unsatisfied. The court held, the plaintiff taking an exception, that the indebtedness for which the note was given was not a debt owing to a laborer or servant of the corporation, and directed a verdict for the defendant. Judgment thereon having been affirmed at general term in the third district, the plaintiff appealed to this court.\nJohn K. Porter, for the appellant.\nOrlando Meads, for the respondent."
+  },
+  "file_name": "0482-01",
+  "first_page_order": 484,
+  "last_page_order": 486
+}

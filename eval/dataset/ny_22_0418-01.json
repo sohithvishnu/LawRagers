@@ -1,0 +1,90 @@
+{
+  "id": 2026279,
+  "name": "Freligh v. Brink et al.",
+  "name_abbreviation": "Freligh v. Brink",
+  "decision_date": "1860",
+  "docket_number": "",
+  "first_page": "418",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 N.Y. 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Denio, 108",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485346
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0108-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y., 9",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019300
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/17/0009-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 4400,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 1.103653768428644e-06,
+      "percentile": 0.9856267682015438
+    },
+    "sha256": "50c0f7d94087dcadc85997fbfd5a46843a01d25037a35bd3057c2daf9aab7b93",
+    "simhash": "1:4eb4bd346fd5e1d0",
+    "word_count": 775
+  },
+  "last_updated": "2024-02-27T21:26:38.515504+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Freligh v. Brink et al."
+    ],
+    "opinions": [
+      {
+        "text": "Denio, J.\nThe Code requires these statements, where the judgment is for money already due, \u201c to state concisely the facts out of which \u201d the debt \u201c arose,\u201d and to show that the sum for which the judgment was confessed is justly due. (\u00a7 383.) The cases which have been decided here, upon this section, establish that it is not sufficient merely to set out a promissory note given by the debtor to the creditor, with an allegation that the amount of it is justly due (Chappel v. Chappel, 2 Kern., 215); that it is no better if, besides setting out a note, it add that it was given upon a settlement between the creditor and the debtor. (Dunham, v. Waterman, 17 N. Y., 9.) But in a case where it was stated that the note which was set out was given for borrowed money, the statement was held sufficient and the judgment valid. (Lanning v. Carpenter, 20 id., 447.) I am of opinion that the statement in the present instance was sufficient, according to the judgment in the last mentioned case. The note is set out with all necessary particularity as to parties, date and amount, and it is added, \u201c that amount of money being had by the defendants of the plaintiff.\u201d It would be hypercritical to hold this not to be a statement that the note was given for so much money that the defendants had received of the plaintiff; and, when it is added that the sum for which the judgment was confessed, which is less than the amount of the note and interest thereon, is justly due from the debtors to the creditor, it is sufficiently shown that the money was had by the debtors under a contract to repay it with interest. This shows it to have been money borrowed by the parties who gave the note and confessed the judgment to the payee of the note, who is plaintiff in that judgment; for the advancing of money by one party to another, to be repaid at a future time, is a good definition of the contract of lending. The case is, therefore, covered by the last decision; and the order of the general term must be affirmed.\nAll the judges concurring,\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Denio, J."
+      }
+    ],
+    "attorneys": [
+      "John K. Porter, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Freligh v. Brink et al.\nA statement is sufficient to authorize a judgment by confession, under section 383 of the Code, which states that the indebtedness arose upon a promissory note for $700 with interest, \u201c that amount of money being had by the defendants of the plaintiff, and upon which there is this day due $782.47, and the sum by us above confessed is justly due to the plaintiff.\u201d\nAppeal from an order of the Supreme Court at general term, reversing, on appeal, an order at special term setting aside the judgment entered by confession in this action, on account of a supposed defect in the statement required by the 883d section of the Code. The statement was duly sworn to, and was in the following words: \u201c James D. Brink and \u00a1Noah Snyder, defendants, hereby confess themselves indebted to Valentine Freligh, plaintiff, in the sum of eight hundred and sixty-two dollars and forty-eight cents, and hereby authorize him, or his executors, administrators, attorneys or assigns, to enter a judgment against us for that amount. The above indebtedness aro'se on a promissory note made by the defendants to the plaintiff, dated June 21,1854, in the sum of seven hundred dollars, with interest, that amount of money being had by the defendants of the plaintiff, and upon which there is this day due the sum of seven hundred and eighty-two dollars and forty-seven cents, together with eighty dollars and forty-one cents now due the plaintiff from the defendants, as costs in an action brought against the defendants by the plaintiff on said promissory note in Supreme Court, which suit is now discontinued by the plaintiff upon this confession of judgment to him by the defendants. And we hereby state that the sum hereby by us confessed is justly due to the said plaintiff, without any fraud whatever. Dated the 24th day of February, 1857.\u201d\nAmasa, J. Parker, for the appellant, insisted that the statement was fatally defective for the want of necessary precision, and particularly as to the consideration of the note: non con-stat but the money was had in payment of a preexisting debt; or for the benefit of some third person; or as a gift or for money collected by the plaintiff for the indebtedness; or for many other purposes which would not create an indebtedness. (Morse v. Bogert, 4 Denio, 108.)\nJohn K. Porter, for the respondents."
+  },
+  "file_name": "0418-01",
+  "first_page_order": 422,
+  "last_page_order": 424
+}

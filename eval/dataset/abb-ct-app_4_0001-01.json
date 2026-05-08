@@ -1,0 +1,133 @@
+{
+  "id": 1117516,
+  "name": "RANGER v. GOODRICH",
+  "name_abbreviation": "Ranger v. Goodrich",
+  "decision_date": "1867-09",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Abb. Ct. App. 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Wend. 484",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Johns. Ch. 417",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1982830
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/6/0417-01"
+      ]
+    },
+    {
+      "cite": "2 Cow. 285",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 N. Y. 575",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021229
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0575-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 202",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032809
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0202-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 41",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001790
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/4/0041-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. 581",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 382,
+    "char_count": 6931,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 4.436057418262789e-08,
+      "percentile": 0.277877397485336
+    },
+    "sha256": "7feebf7073ed485bea8fafed1217c1fdd3154d28c91a8269c443b14ce74fbb5e",
+    "simhash": "1:2b092097359afd6e",
+    "word_count": 1195
+  },
+  "last_updated": "2024-02-27T20:46:38.518701+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RANGER v. GOODRICH."
+    ],
+    "opinions": [
+      {
+        "text": "By the\nJ. M. Parker, J.\n[After stating facts.]\u2014 I think the referee was right in holding that the defendant could not he compelled to satisfy the mortgage as to the interest held hy the mortgagees, unless they were parties to the suit.\nIt is insisted, that the referee has found as a fact, that the plaintiff purchased the interest of the mortgagees for one hundred' and eighteen dollars, and knew that they have no farther interest in it, and so are not necessary parties. Taking the whole of the referee\u2019s report together, the finding of fact does not warrant that assumption. The most that can be said is, that the purchase was a conditional one, the security of the mortgage for the one hundred and eighteen dollars, to remain in the mortgagees until the money was paid, or otherwise secured.\nIn this view, even if the mortgagees were parties, the view of the supreme court at general term is correct, that the plaintiff would he entitled to a satisfaction of the mortgage, only upon payment of the one hundred and eighteen dollars.\nThe judgment is clearly right, and should he affirmed.\nAll the judges concurred.\nJudgment affirmed, with cost's.",
+        "type": "majority",
+        "author": "J. M. Parker, J."
+      }
+    ],
+    "attorneys": [
+      "II. Boies, attorney for plaintiff,",
+      "Benjamin H. Austin, Jr., for defendant, respondent;"
+    ],
+    "corrections": "",
+    "head_matter": "RANGER v. GOODRICH.\nSeptember, 1867.\nAfter assigning a part interest in a mortgage, the mortgagee accepted from the mortgagor a conveyance of the land, instead of foreclosing, and subsequently the assignee of the part interest in the mortgage procured the mortgagee to convey the premises to one to whom he had agreed to sell his interest in the mortgage, and he received from the latter, as the agent of the mortgagee, promissory notes for the value of the mortgagee\u2019s interest.\nHeld, 1 That the mortgagee was not bound to satisfy the mortgage without payment of the notes.\n3. That the mortgagee was a necessary party to an action to compel satisfaction of the mortgage.\nMercy Ranger brought this action against Charles B. Goodrich, in the supreme court, to obtain satisfaction of a mortgage. The mortgage in question was made by Caleb T. Blindbery to Jane E. and Harriet Blindbery to secure thirteen hundred dollars; and they assigned it to the defendant, the assignment in form transferring the whole of the mortgage debt, but in reality Goodrich\u2019s interest under the assigment was nine hundred dollars, and he held the mortgage as trustee or agent for the mortgagees to the extent of the residue of four hundred dollars. After this assignment had been made, the mortgagor made default, and instead of suffering a foreclosure, he conveyed the'premises to the mortgagees without regard to the assignment. .\nThe plaintiff, who owned a farm, arranged with the defendant to convey it to him, in exchange for an assignment of his interest in the mortgage, namely, nine hundred dollars and a year\u2019s interest. After the conveyance to the mortgagees above stated, this arrangement was changed, and defendant procured from the mortgagees a warranty deed conveying the premises to the plaintiff, who thereupon conveyed to defendant her farm, and gave to him, as agent for the' mortgagees, promissory notes to the amount of one hundred and eighteen dollars, which amount the mortgagees had consented to take for their interest in the mortgage. In so far as concerned the interest of the mortgagees, the defendant acted in this transaction as their agent, as plaintiff knew.\nThe notes being unpaid at maturity, the mortgagees .claimed to hold the mortgage as an outstanding security for the amount due on. them. The plaintiff insisted that the mortgage was paid; and brought this action to obtain a judgment that it be discharged of record. The answer was a general denial, and an allegation that the one hundred and eighteen dollars remained due on the mortgage. The referee held that the complaint-must be dismissed unless plaintiff made the Blindberys defendants, which plaintiff did not do.\nThe supreme court, on appeal, affirmed the judgment, for the reasons assigned in the following opinion by Grover, J.:\nThere was no merger of the mortgage, for the reason that when the land was conveyed to the Misses Blindbery, the legal title to the mortgage was vested in the defendant, in his own right, and as trustee for them to the amount of their interest therein, and for the further reason, that there does not appear to have been any intention -on the part of the- defendant, or of the girls, that the conveyance to them should extinguish the mortgage. The declaration of the defendant, at the time of the conveyance to the plaintiff, that the assignment \u00a9f the mortgage to him had not been recorded, and in effect, that the mortgage was extinguished by the conveyance, and no longer a lien, would conclude him and estop him from asserting any claim in his own right, by virtue thereof; but he holds the mortgage as trustee for the girls, and the inquiry is, whether the plaintiff is equitably entitled to have the mortgage satisfied as against them. It appears that notes were given the girls for the amount that they agreed to receive for their equitable interest in the mortgage, upon their conveyance of the land to the plaintiff. These notes, given for a portion of the purchase money, constitute a lien upon the land in equity. But this lien might be cut off by a conveyance by the plaintiff. The mortgage is only claimed as a lien for the amount of those notes, and the case shows -that the defendant offered to satisfy the same of record, upon payment of the notes. This was requiring from the plaintiff no more than she was equitably bound to do, and no injustice is done her by holding the mortgage as security for the notes. Ho reason is perceived why the plaintiff did not comply with this proposition, and I think the girls have the right to retain any security they may have for their debt. The plaintiff is not entitled to have the land discharged from the lien, without payment, and it is no injury to her to have the mortgage used for coercing payment, if available for that purpose. At any rate, equity will not interpose to compel the discharge of any real, or supposed security for a just debt, without payment. The maxim, that he that would have, must do equity, is applicable. It is not material to discuss the question whether the girls were necessary parties to the action, as the judgment should have been the same, had they been parties.\nPlaintiff appealed to this court.\nII. Boies, attorney for plaintiff,\nappellant;\u2014Insisted that taking the notes and conveying with warranty precluded defendant from claiming that the mortgage was a lien,\u2014citing Green v. Hart, 1 Johns. 581; Runyan v. Merserau, 11 Id. 534; Code, \u00a7 111; Jackson v. Willard, 4 Johns. 41; Jackson v. Blodgett, 5 Cow. 202; White v. Williams, 1 Paige, 502; Mickles v. Townsend, 18 N. Y. 575.\nBenjamin H. Austin, Jr., for defendant, respondent;\nCited James v. Morey, 2 Cow. 285; reversing 6 Johns. Ch. 417; Starr v. Ellis, Id. 393; 1 Greenl. on Ev. 201.\nAs to merger, see 1 Wend. 484; 1 Edm. 279."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 7,
+  "last_page_order": 10
+}

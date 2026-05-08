@@ -1,0 +1,85 @@
+{
+  "id": 2421775,
+  "name": "Penfield and others vs. Jacobs",
+  "name_abbreviation": "Penfield v. Jacobs",
+  "decision_date": "1856-01-14",
+  "docket_number": "",
+  "first_page": "335",
+  "last_page": "338",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 Barb. 335"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Barb. 451",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4876627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/6/0451-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 440",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 382,
+    "char_count": 6674,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 1.2949542917561635e-07,
+      "percentile": 0.6207885092914683
+    },
+    "sha256": "470dcfaada66304c596396ce236df8ac4a80666e21b7865774df750771a2e609",
+    "simhash": "1:b4da573dcf7085c0",
+    "word_count": 1180
+  },
+  "last_updated": "2024-02-27T18:57:04.416441+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Penfield and others vs. Jacobs."
+    ],
+    "opinions": [
+      {
+        "text": "Balcom, J.\nThe judgment of the justice should not be reversed on the ground that the whole admissions of the defendant, taken together, show that there was no liability on his part. If the evidence had shown but the simple declaration of the defendant, that \u201che had the goods, but paid for them,\u201d the evidence would not establish a right of action. There was enough in the statements of the defendant to warrant the justice in disregarding his assertions that he had paid the account. He at one time claimed he had the plaintiffs\u2019 receipt for the sam\u00e9, and at another time, when one of the plaintiffs was present, he pretended he paid it to a man he did not know, in Edgerton\u2019s bar-room. The justice might well distrust the defendant\u2019s memory as to his paying the account to any person; and besides, a payment to a stranger not shown to have had authority to receive the money, could not affect the case. The decision of the justice falls within the rule \u201cthat if a part of the confession goes to discharge the party making it, and is highly improbable, or there be evidence aliunde tending but slightly to discredit it, the jury or magistrate may reject it and give effect to the other part.\u201d (Kelsey v. Bush & Viele, 2 Hill, 440. 2 Cowen\u2019s Tr. ed. by Barb. 411. Dorlon v. Douglass, 6 Barb. 451.)\nThe position that the defendant waived his defense of the statute of limitations is equally untenable. The account was made a part'of the complaint; and the answer, including that of the statute of limitations, was written upon the back of it. And although this defense was not mentioned on the trial, or the cause summed up, or any point stated on which the defendant claimed judgment in his favor, or a rejection of any portion of the account; and although it entirely escaped the attention of the justice till after he had rendered the judgment, still I am of the opinion there was no waiver of this defense; any more than of the others written upon the account. It would be a dangerous precedent to establish, that upon such a state of facts a party should lose a legal defense appearing from the evidence. I think nothing short of the express consent of a party should be allowed to waive a cause of action, or a de-. f\u00e9nse set forth in the pleadings, in a justice\u2019s court. ' Any thing less might lead to abuses, and the memory of the magistrate might be substituted for the written pleadings of the parties, or his entries of their substance in his docket..\n[Delaware Special Term,\nJanuary 14, 1856.\nItems of the account amounting to \u00a71.65 were included in the judgment, which accrued more than six years prior to the commencement of the action, and no fact was proved to avoid the statute of limitations. The judgment must therefore be reversed for that sum and affirmed as to the residue. (Code, \u00a7 366.) Owing to the peculiarities appearing in the case, no costs are allowed to either \"party on this appeal. (Code, \u00a7\u00a7 368, 371.)\nBalcoyi, Justice.]",
+        "type": "majority",
+        "author": "Balcom, J."
+      }
+    ],
+    "attorneys": [
+      "William Yeomans, jun., for the respondents.",
+      "O. W. Smith, for the appellants."
+    ],
+    "corrections": "",
+    "head_matter": "Penfield and others vs. Jacobs.\nAfter a defendant has interposed the defense of the statute of limitations, in a justice\u2019s court, nothing short of his express consent will operate as a waiver of such defense.\nThe fact that such defense was not mentioned on the trial, nor the attention of the justice called to it, and that judgment was given for the plaintiff, by the justice, without thinking of the defense, is no waiver of the defendant\u2019s right to have the judgment reversed, where it appears to be wrong, from the evidence.\nA cause of action may be established by proof of the defendant\u2019s admissions, where the justice believes those that make against him and disbelieves those that make in his favor; the latter being inconsistent and contradictory.\nTHE plaintiff recovered a judgment against the defendant for $4.03 damages, and $1.42 costs, before Jesse Palmer, Esq., a justice of the peace; from which judgment the defendant appealed to the Delaware county court. After the appeal was made, Palmer was elected county judge of the county and was acting as such. He certified that fact, pursuant to \u00a7 30, sub. 13 of the code, and the cause was brought to a hearing at a special term of this court. The judgment was founded upon an account, containing several items. The right to recover for items amounting to $1.65 was barred by the statute of limitations. At the joining of the issue before the justice, the plaintiffs presented the account, and claimed judgment on it. The defendant\u2019s attorney wrote the answer upon it: 1st, denying the complaint; 2d, alleging that the right to recover on the account was tarred by the statute of limitations; 3d, that the defendant had paid the account. The action was tried without a jury. Only one witness was called, and his testimony was as follows: \u201cThe account complained on was left with him for collection, by the plaintiffs, who are partners. One of the plaintiffs, myself, and the defendant were together in my office, about a year ago. The defendant admitted the account, and made no objection to a single item, but claimed that he had paid it to a man in Edgerton\u2019s bar-room; and described the man; and said he took a receipt of the man; did not know who he was; and did not know his name. Mr. Penfield (one of the plaintiffs) told the defendant they had no agent. John Gould had one or two bills to collect. The defendant asked the plaintiff if he would be so unkind as to collect it after he had once paid it to his man. The plaintiff said he was confident the bill had never been paid.\u201d Being cross-examined the witness stated: \u201c The defendant claimed he had paid it to a man who represented himself to be an agent. I got Penfield and the defendant together to talk this matter over. Before that time, in another conversation, the defendant told me he had paid it and had Penfield\u2019s receipt. John Gould lives next door to the defendant. When I left, the defendant claimed he had paid it to that man in Edgerton\u2019s bar-room. The defendant told me before he and the plaintiff got together, that he had Penfield\u2019s receipt. After the parties \"got together the defendant did not claim that he had the plaintiff\u2019s receipt, but that he had paid it to some man unknown, in Edgerton\u2019s bar-room.\u201d The defense of the statute 'of limitations was not mentioned during the trial; nor was the cause summed up, but it was submitted to the justice as soon as the evidence was closed; and the counsel left the court without stating any point for the consideration of the justice; and this defense entirely escaped the attention of the magistrate until after he had rendered the judgment in the action.\nWilliam Yeomans, jun., for the respondents.\nO. W. Smith, for the appellants."
+  },
+  "file_name": "0335-01",
+  "first_page_order": 335,
+  "last_page_order": 338
+}

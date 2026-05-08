@@ -1,0 +1,66 @@
+{
+  "id": 1823246,
+  "name": "PERROTIN vs. CUCULLU",
+  "name_abbreviation": "Perrotin v. Cucullu",
+  "decision_date": "1834-06",
+  "docket_number": "",
+  "first_page": "587",
+  "last_page": "591",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 La. 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "La.",
+    "id": 9109,
+    "name": "Louisiana Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 10,
+    "name_long": "Louisiana",
+    "name": "La."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 476,
+    "char_count": 8986,
+    "ocr_confidence": 0.504,
+    "pagerank": {
+      "raw": 4.508800590662634e-07,
+      "percentile": 0.9232657965773294
+    },
+    "sha256": "6db5855eebc611ef200fcd9d80950d2d0614a650f78ad6de88b55c6d38322ba2",
+    "simhash": "1:aa2e7af5387ee9a0",
+    "word_count": 1567
+  },
+  "last_updated": "2023-07-14T16:02:15.234446+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PERROTIN vs. CUCULLU."
+    ],
+    "opinions": [
+      {
+        "text": "Mathews, J.,\ndelivered the opinion of the court. x\nThis was an action in which the defendant is sued as the drawer of a bill of exchange. Judgment was rendered in favor of the plaintiff in the court below, from which the defendant appealed.\nThe bill was drawn by one Lamerlere as agent for the defendant in favor of the plaintiff, on Henry Thompson of Baltimore, was endorsed by the payee, and after protest for non-acceptance, was taken up by the latter, who paid the amount to the holder, together with all legal costs and damages occasioned by the protest. The defence is want of authority in the person who assumed the agency to bind his principal.\nThe evidence of the case consisting principally of letters and other written documents which passed between the parties to the transaction, shows that Lamerlere was fully authorized by the defendant to represent him in the settlement of a variety of matters relating to his commercial business; and among other affairs had charge of a brig called the Seraphin as supercargo and agent, for which he i o o was empowered to procure a cargo of goods suitable for the A A \u00b0 \u00b0 marfcets of the Spanish Main, for and on account of the defendant. To effect this purpose he drew the bill as above stated in order to raise funds. The correspondence between him and his constituent shows an unbounded confidence on ,, me part o\u00ed the latter, to whom he stood m the relationship x of father-in-law. It is true that no specific power seems to have been given to the agent to bind his principal by drawing bills or signing notes. But it was necessary that money o o o J be raised for the purpose of carrying into effect the main object of his agency. The brig was laden with flour at Baltimore, and went from thence to Kingston in Jamaica, This article was on her arrival heavy and dull of sale, and cou]\u00bf no(; jn ariy reasonable time, afford the means of completing the principal object of the voyage by the purchase and transportation of merchandise suitable for the trade of Spanish America. Under these circumstances the agent certainly could not have met the views and complied with the intentions of his constituents in any manner more favorable to his interests than by raising funds on his credit. This course of conduct was adopted as the only means by which the important object of his trust could be brought to a favorable issue by the agent, and it might be questioned whether the assumption of power in this respect even without express authority, did contravene the 2966th article of the Louisiana Code; for it was an act contributing to the main purpose of the grant of power. Be this, however, as it may, we are of opinion that Cucullu\u2019s subsequent agreement to pay the bill out of a particular fund, should that fund be available, amounts to a sanction and ratification of what had been done by his agent.\nIt is, therefore, ordered, adjudged and decreed, that the judgment of the District Court be affirmed with costs.",
+        "type": "majority",
+        "author": "Mathews, J.,"
+      }
+    ],
+    "attorneys": [
+      "\u25a0Canon for the plaintiff.",
+      "Strawbridge and Hoa for \u2019the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "PERROTIN vs. CUCULLU.\nAPPEAL FROM THE COURT OF THE FIRST JUDICIAL DISTRICT.\nWhere an agent has charge of the vessel of his principal with a general authority to procure a cargo of goods suitable for a particular market, and draws and negotiates a bill of exchange to raise funds for this object, the principal will be bound to pay it, although the agent had no special power to this effect.\nEven without a specific power the agent can bind his principal by drawing bills and signing notes when it is necessary, to raise funds to carry into effect the main object of the agency.\nThe plaintiff residing at Kingston in Jamaica, instituted this suit against the defendant residing in New Orleans on the following bill of exchange: \u201cKingston, Jamaica, May-11, 1831.\n\u00ab Exchange for one thousand eight hundred dollars.\n\u201c Ninety days after sight this my first of exchange, pay to the order of Louis Perrotin, Esq. the sum of one thousand eight hundred dollars, value received, and place the same with or without further advice to the account of yours, &c.\n\u201c A. Lamerlere.\u201d\n\u201c To Henry Thompson, Esq. Baltimore.\u201d\nThe petition charges that Lamerlere was the agent of Seraphin Cucullu for conducting and managing the concerns of said Cucullu, in relation to the brig Seraphin and her cargo, and that he applied to the planliff in this behalf for certain sums of money which were advanced to him as the agent of the defendant. That in part payment of said sums so advanced, the agent drew the bill of exchange now sued on, and delivered it to the plaintiff who negotiated it, but \u25a0 which was protested for non-acceptance and taken up by him, with one hundred and forty-four dollars for return premium, twenty-seven dollars for exchange premium, and five dollars for costs of protest and postage. That demand of payment has been made on the defendant for whose account said bill was drawn, who refuses to pay the same. The plaintiff prays judgment for the aggregate sum of one thousand nine hundred and seventy-six dollars with interest an\u00bf costs.\nThe defendant plead a general denial.\nBouny, witness for plaintiff states, that when Mr. Lamerlere was going to the West Indies as the agent of the defendant, he gave him a letter to his brother-in-law in the island of Cuba. That after the return of Mr. Lamerlere to this city, witness received the draught sued on from the plaintiff for collection and presented it to Mr. Lamerlere, who stated that he had only acted as agent of the defendant in drawing it. Witness applied to defendant for payment, who refused, saying Lamerlere had gone beyond his instructions; that the brig Seraphin on the voyage in which Mr. Lamerlere went was commanded by Captain Boissier.\nLamerlere was dead and his signature to the draft admitted.\nDaron, witness for plaintiff; states that he was in the employment of the plaintiff as clerk when the brig Seraphin arrived at Kingston and was consigned to the plaintiff by Mr. Lamerlere as supercargo. That Mr. L. stated that he required a quantity of dry goods for a voyage he was about-making to the Spanish Main, and requested the plaintiff to procure them and he would give him a draft either on New Orleans or Baltimore for the amount. That Mr. L. represented himself as the agent of the defendant, and the captain of the brig Seraphin stated the same thing. The plaintiff procured the goods on his own credit, and shipped them on board the defendant\u2019s brig as requested by the agent, who drew the bill sued on and delivered it in payment.\nAuthentic copies of three letters written by the defendant to A. Lamerlere shewing that the latter was his agent to procure a cargo for the brig, and giving him full power to that effect, were annexed to the deposition of this witness and read in .evidence by*plaintiff.\nThe defendant produced in evidence a general power of attorney from the defendant to Lamerlere, to proceed to Baltimore and act his general agent to buy and sell goods and produce, to collect and pay debts, &c., and to manage and transact the business of the defendant throughout the Union in whatever way that in his opinion was best calculated to promote the interest of his principal. No mention is made in this power of his being appointed super cargo of the brig Seraphin.\nThe documents and letters showed that the brig had taken in a cargo of flour at Baltimore, and proceeded with Mr. Lamerlere as supercargo on board, to the West Indies, and on his arrival at Kingston in Jamaica, the transaction on which this'suit is founded took place.\nAfter it was closed and a new cargo procured, the vessel proceeded to the Spanish Main, and was destroyed by the Spanish fortress in the harbor of Porto Cabello. A suit was instituted and then pending against the New Orleans Insurance Company for the insurance on the value of the said brig and cargo.\nThe defendant in a letter to Thompson the drawee of the bill sued on, dated August the 6th, 1831, stated that if the insurance of the goods which were lost in the destruction of the brig Seraphin was recovered, it should be applied to the payment of the draft. This was exhibited by the plaintiff\u2019s counsel as evidence of a conditional promise to pay, and as a ratification of the authority to draw the draft.\nThe district judge was of opinion, that by the rules of the commercial law the defendant was bound by the acts of his agent in this case, and gave judgment against him for the amount of the bill, together with damages and costs, amounting to one thousand nine hundred and seventy-six dollars, and legal interest from the time of the demand of payment from defendant; the latter appealed.\n\u25a0Canon for the plaintiff.\nStrawbridge and Hoa for \u2019the defendant.\nwhore an agent lias charge or a vessel of ms principal with a fo proc\u00farela\u00b0cl^ able fot^apartieudrawsma^iegoi chango \u21220raiso funds for this object, the prinoipal will be bound toxiay it although thisCeffeM\u00b0wcr t0\nEven without a specific power the principal ^in<* by sigting bU1'notes savytomiseamds feot Th\u00edmain o\u00edjooto tie"
+  },
+  "file_name": "0587-01",
+  "first_page_order": 605,
+  "last_page_order": 609
+}

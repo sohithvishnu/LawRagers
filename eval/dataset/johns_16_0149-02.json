@@ -1,0 +1,61 @@
+{
+  "id": 378140,
+  "name": "Lawless against Hackett",
+  "name_abbreviation": "Lawless v. Hackett",
+  "decision_date": "1819-05",
+  "docket_number": "",
+  "first_page": "149",
+  "last_page": "151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 Johns. 149"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 212,
+    "char_count": 3165,
+    "ocr_confidence": 0.696,
+    "sha256": "54cb53d128f57acfea8e6a5577c22012617e6ea8499a8b357218a1cb66513e93",
+    "simhash": "1:aafb3422b23624b1",
+    "word_count": 562
+  },
+  "last_updated": "2023-07-14T20:07:00.382931+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lawless against Hackett"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe object of the act was to prevent abuse and fraud in the entry of judgments by confession on warrants of attorney. The specification ought to be so particular and precise as to apprise all persons interested of the nature and consideration of the debt. A statement as general as the common counts in a declaration is not sufficient. It ought to be as special and precise, at least, as a bill of particulars. If, for example, the consideration was for goods sold, the specification ought to state the kind, quantity, and price of the goods, and the time of sale, as in a bill of parcels. If the consideration was for a horse, or cattle sold, it should be so mentioned, and the price, as well as the time of sale. We think the specification in this case ivas too general, and the judgment and executi on must, therefore, be set aside.\nAnthon then asked leave to amend the specification on file.\nSlosson. There has been no notice of any motion to amend. Besides, there may be other judgment creditors.\nPer Curiam. We frequently grant leave to amend, though there has been no regular notice of an application for the purpose. We think the specification may be amended in this case; but so as not to interfere with the rights of any other judgment creditors, which may have, in the mean time, attached.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Anthon, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Lawless against Hackett\nThe specie-nature \u00b0f and ofth\u00eddebt,'\u201cre\u00ab: toijefik/wit! the r.ccord 011 entering up a judgment by virtueofawarrant of attorney, should be so precise and particular as to apprise all persons interested of the nature and consideration of the debt: it ought to be as precise, at least, as a bill of particulars; a statement as general as the commom counts in a declaration is not sufficient. If the debt be for goods sold and delivered, the kind, quantity, price of the goods, and time of sale, should be stated.\nSlosson, in behalf of David R. Lambert, a judgment creditor of the defendant, moved to set aside the judgment entered up in this cause, and the execution which had been issued thereon. It appeared, that the judgment had been entered up on the 4th of May, 1819, by virtue of a warrant of attorney, to confess judgment on a bond dated the v \u00b0 \u00b0 20th of April last, conditioned to pay 1,703 dollars, 93 . , \u201e .. f J cents; and that the specification of the nature and conside-\nration of the debt on which the judgment \u25a0 was entered, filed, according to the direction of the act passed. 21st of April, 1818, (sess. 41. ch. 269. sec. 8.) stated, that \u201c the bond was given for div\u00e9rs goods, wares, and merchandizes theretofore sold, and delivered by the plaintiff to the defendant; and also, for money lent and advanced by the plaintiff to the defendant at various times, the money lent being to the amount of 400 dollars, and the residue in goods sold and delivered as above mentioned.\u201d\nSlosson contended, that the specification was too general, and did not conform to the plain intent and meaning of the statute ; as it did not state the kind, or quantity of goods sold and delivered, nor the time of the sale and delivery thereof; nor what particular sums of money were lent, nor the dates of such loans.\nAnthon, contra."
+  },
+  "file_name": "0149-02",
+  "first_page_order": 157,
+  "last_page_order": 159
+}

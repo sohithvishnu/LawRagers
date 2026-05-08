@@ -1,0 +1,132 @@
+{
+  "id": 1946977,
+  "name": "Sarles vs. The Mayor, &c. of the City of New York",
+  "name_abbreviation": "Sarles v. Mayor",
+  "decision_date": "1866-11-05",
+  "docket_number": "",
+  "first_page": "447",
+  "last_page": "452",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "47 Barb. 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Bosw. 367",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1346053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/14/0367-01"
+      ]
+    },
+    {
+      "cite": "7 N. Y. Rep. 97",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Wend. 555",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2150335
+      ],
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/20/0555-01"
+      ]
+    },
+    {
+      "cite": "11 N. Y. Rep. 593",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2014754
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/11/0585-01"
+      ]
+    },
+    {
+      "cite": "3 Serg. & R. 541",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1800249
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/3/0541-01"
+      ]
+    },
+    {
+      "cite": "28 How. 352",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 542,
+    "char_count": 10488,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 2.009645910010911e-07,
+      "percentile": 0.744076778221433
+    },
+    "sha256": "f861f165549d1fc5d74f440999112e0e8d1db728d15875e40bf00a9c6015744f",
+    "simhash": "1:37f5e47f461cf886",
+    "word_count": 1840
+  },
+  "last_updated": "2024-02-27T16:37:36.250875+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sarles vs. The Mayor, &c. of the City of New York."
+    ],
+    "opinions": [
+      {
+        "text": "George G. Barnard, J.\nThe plain object of the law of 1855, {Sess. L. 1855, ch. 428,) was to compensate such unfortunate persons as should without fault on their part suffer loss by the violence of mobs. It is the duty of the state to provide protection to property from lawless violence, and the constitutional power to pass the act in question as incident to that duty has been declared by the Court of Appeals. (Darlington v. The Mayor, &c. of New York, 28 How. 352.)\nThe proof clearly shows that during the riots in Hew York the mob forcibly broke into the plaintiff\u2019s boot and shoe store and threw a large portion of his stock of goods in the street, then in possession of the rioters. That the property was instantly appropriated by the mob and carried away, in \u25a0 every direction. The store was then set on fire and consumed, with such of the plaintiff\u2019s property as was not thrown in the street from the store.\n[New York General Term,\nNovember 5, 1866.\nIt is claimed that for the property so carried away hy the mob no action lies. The law in question can have no meaning so restricted. It gives a right of action to a person whose property should be \u201c destroyed or injured \u201d in consequence of any mob or riot, for the damages sustained by reason thereof. The mob have taken from the plaintiff\u2019s premises his property, and as to him and within the meaning of this law, destroyed it.\nThe judgment should be affirmed, with costs.\nClerks, J. concurred.\nIngraham, J. dissented.\nJudgment affirmed.\nGeorge G. Barnard, Gloria and Ingraham, Justices.]",
+        "type": "majority",
+        "author": "George G. Barnard, J."
+      }
+    ],
+    "attorneys": [
+      "Richard O\u2019Gorman and John K. Hachett, for the appellants.",
+      "George W. Stevens, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Sarles vs. The Mayor, &c. of the City of New York.\nUnder the act qf the legislature of April 13, 1855, giving a right of action against the city or county to a person whose property shall he \u201c destroyed or injured \u201d in consequence of any mob \u00f3r riot, for the damages sustained, an action lies to recover the value of the property appropriated and carried away by the persons composing the mob, as well as of that which was destroyed. Ingraham, J. dissented. 1\nTHIS action was brought to recover a compensation for the loss of the plaintiff\u2019s stock of goods during the riot in the city/of Hew York, of July 13th, 1863. The action was brought pursuant to the provisions of chapter 428 of the Haws of 1855. The complaint avers that the plaintiff was the owner of a stock of boots, shoes, &a. at Ho. 1188 Broadway, in the city of Hew York, and of the lease of the premises ; that on the said 13th of July, the premises were riotously attacked and broken into, and the said stock of boots, shoes, &c. wholly destroyed,. and the building burnt and destroyed. It avers the presentation of the claim oti. which this action is founded to the comptroller of the city of Hew York and his refusal to adjust or pay. The answer denies information sufficient to form a belief, but admits the demand on the comptroller. The cause was referred to John B. Haskin, Esq. On the trial the plaintiff proved his ownership, the-value of the goods, and the loss or destruction thereof by the mob. The defendant moved to dismiss the complaint on the grounds:\n1st. That the act of 1855, under which the plaintiff seeks to recover, is unconstitutional in this respect, that it violates section 14, article 7, of the amended constitution of 1846, the act not appearing to have been passed by a constitutional quorum, as therein provided.\n2d. That it violates section 4 of article 1 of the constitution, which provides that no person shall be deprived of his property without due process of law.\nThe motion was denied. The defendant then proved that a part of the said boots, shoes, &c. were taken and carried away by the mob. The referee found the following facts, viz:\n1st. That on the 13th day of July, 1863, the plaintiff owned and was possessed of a stock of boots and shoes,' and of materials for the manufacture thereof, and of tools and implements for such manufacture, of the value of several thousand dollars, and which were on said day contained in the building known as Ho. 1188 Broadway, in the city of Hew York.\n2d. That on the said 13th day of July, 1863, the said building was, by a great multitude of people, with force and arms, riotously attacked and broken into, and the boots, shoes, materials, tools, and implements of the plaintiff were, by said-multitude of people and with strong hand, taken and carried away, and injured and destroyed, and the property therein lost to the plaintiff.\n3d. That the mob threw into the street nearly all of the plaintiff\u2019s boots, shoes, and gaiters, which were taken and carried away by them and appropriated to their use. That he (the referee) was unable, from the testimony before him, to determine the precise quantity or the real value of the boots, shoes, and gaiters thus thrown into the street, taken and carried away, and appropriated by the mob. That the value of the boots, shoes, and gaiters thus taken away and appropriated by the mob, according to the plaintiff\u2019s testimony, and the bill or claim submitted by him to the board of supervisors of the county of Hew York, was $4047.30.\n4th. That the value of the plaintiff\u2019s stock of boots, shoes, materials, tools, and implements taken and carried away, injured, and destroyed by said mob- or multitude of people as aforesaid, was $7164.73.\n5th. That the defendants did not protect the plaintiff in the possession of said1 stock of boots, shoes,- materials, tools, and implements against the said mob or multitude of people.\n6th. That on the 28th day of July, 1863, the plaintiff presented to the comptroller of the city of Hew York the claim upon which this action was brought, for adjustment, pursuant to the statute in such case made and provided; that the said comptroller neglected and refused to adjust the said claim within twenty days thereafter; and that on the 19th day of August, 1863, the plaintiff in writing did demand of the said comptroller an adjustment and payment of said claim, and that the .said comptroller has neglected and refused to adjust or pay the same.\nAnd the referee further reported that he found, as a conclusion of law, that the plaintiff was entitled to recover against the defendants the sum of $7164.73, with interest thereon, amounting in the whole to the sum of $7773.49, with interest from the date of the report, with costs. The referee reported in favor of the plaintiff for the full value of his property, including that portion which was appropriated by the persons composing the mob, as well as that which was destroyed,- and judgment being entered on the report, the defendant appealed.\nRichard O\u2019Gorman and John K. Hachett, for the appellants.\nI. The statute provides that compensation shall be made only for property which has been destroyed or injured in consequence of any mob or riot, (Laws of 1855, ch. 428, \u00a7 1,) and under its provisions no recovery can be had for property which was not \u201cdestroyed or injured in consequence of any mob or riot,\u201d but which was stolen and carried away at the time of its occurrence. ,\nII. At common law, previous to the enactment of the statute of 1855, no action could have been maintained by the plaintiff for his losses in consequence of the mob. The statute imposes a liability upon the defendants where none existed by the common law, and therefore detracts from their rights at common law, and is in derogation thereof; it must consequently be strictly construed. (3 Serg. & R. 541. 11 N. Y. Rep. 593.)\nIII. It is a \u201cquasi\u201d penal statute, imposing this liability upon the municipality as a kind of penalty for the failure to preserve the peace- within its limits, and should he interpreted strictly as required by the rules governing the interpretation of penal statutes.\n\u2022 IY. The finding of the referee, that the plaintiff is entitled to recover for the goods taken away by the mob, can be sustained jmly by interpreting the word \u201cdestroy,\u201d as used in the statute, to mean \u201c taken away and thereby lost to the plaintiff.\u201d The word \u201cdestroy,\u201d as applied to material things, has a distinct and ascertained meaning, viz: \u201c To annihilate a thing, or the form in which it exists.\u201d (See Web. Die.) The statute, therefore, is free from any ambiguity, and the learned referee erred when, by his interpretation, he extended its application to property \u201c taken away,\u201d as well as property actually destroyed or injured. The rule is, that when words have a definite apd precise meaning, it is not permissible to go elsewhere to restrict or extend their meaning. Courts-can not correct supposed errors, omissions, or defects of the law, and the most natural and obvious import should be given to the language used, without resorting to a forced construction to limit or extend the law. (Story on the Const. \u00a7 392. Smith\u2019s Stat. \u00a7 477. Walier v. Harris, 20 Wend. 555,562. 4Hill, 384. 7 N. Y. Rep. 97. 1 Kern. 593.)\nY. The construction and interpretation of the statute, as made in the case at bar, would render the defendants liable for every species of stealing committed within the limits of the city by more than two persons acting- in conjnnction, and accomplishing their unlawful purpose by violent means ; a result which is clearly beyond the intent qf the statute, the scope of which is only to afford compensation for the property which, being destroyed or injured, can not by any possible means be recovered ; but, for property taken away and stolen, the claimant is left to his common law remedies to recover the goods from the wrong doer.\nYI. The plaintiff is bound to establish his cause of action affirmatively, and, in the absence of any proof as to the amount of his \u201c stock \u201d destroyed, can not recover for any part thereof, and- should have judgment for the value of the fixtures only, which, being affixed to the store, will be presumed to have been burnt therein. As to the stock of boots, shoes, &c. the weight of evidence is that it was entirely appropriated and taken away by the mob previous to the firing of the building.\nGeorge W. Stevens, for the respondent.\nI. The act pursuant to which this suit was brought is constitutional. (Darlington v. The Mayor, &c. 28 How. Dr. Rep. 352.)\nII. The action of the mob was the proximate cause of the loss of the plaintiff.\nIII. The defendants are liable as well for the goods of the plaintiff, taken and carried away \u25a0 by the mob, as for those actually burnt and destroyed. {Laws of 1855, p. 800. Til-ton v. Hamilton Ins. Go., 1 Bosw. 367. Newmarket v. London and Liverpool Ins. Co., 30 Missouri Rep. 160.)"
+  },
+  "file_name": "0447-01",
+  "first_page_order": 447,
+  "last_page_order": 452
+}

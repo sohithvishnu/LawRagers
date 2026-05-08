@@ -1,0 +1,73 @@
+{
+  "id": 1112076,
+  "name": "BALTES v. RIPP",
+  "name_abbreviation": "Baltes v. Ripp",
+  "decision_date": "1866-09",
+  "docket_number": "",
+  "first_page": "78",
+  "last_page": "80",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Hill, 473",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 251,
+    "char_count": 4539,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 4.719567370958748e-08,
+      "percentile": 0.29603019326609387
+    },
+    "sha256": "bd42ca3d7403d60265fb053dd3160ac9b24b009a3dfa849f219cb8306ba25204",
+    "simhash": "1:de77b47016aaa82b",
+    "word_count": 789
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BALTES v. RIPP."
+    ],
+    "opinions": [
+      {
+        "text": "Leonard, J.\nThere is no ground for pretense, nor was it claimed at the trial that there was any fraud or mistake in the mortgage under which the plaintiff claimed title. The admissibility of the evidence cannot be urged for that purpose. The mortgage upon its face, as well as the due-bills, which were given for loans made some time before the execution of the mortgage, was due upon demand. The mortgagee was the absolute owner, at law, of the property mortgaged, from the moment of the demand, and the refusal or neglect of payment. The interest of Rittenbach was the right merely to pay off the mortgage debt, and his possession was that of a bailee merely. Fuller v. Acker, 1 Hill, 473. Rittenbach had no interest subject to sale on execution. The defendants cannot therefore make title to the property by the levy and sale.\nThe tendency of the evidence offered, as to the time of payment, was to vary or impair the legal effect of the mortgage and due-bills. It was properly excluded on that ground. The evidence was not offered to show fraud or any want of good good faith, as to the debt or mortgage. Had that defense been set up the question would have been different.\nThe evidence offered to prove that Ochsler bid at the sale for Ripp and not for himself, and that he had no possession of the property, was also properly excluded. Ochsler held himself out as a purchaser at the sale, and it is too late afterward to claim that he was acting as an agent merely. By bidding he assumed the character of a purchaser, and the plaintiff had the right to rely upon such act when he commenced his action; and Ochsler must be held as estopped from denying the legitimate conclusion which the plaintiff drew from his conduct.\nThere appears to have been no error at the trial, and the judgment should be affirmed with costs and damages.\nAll the judges concurred.\nJudgment affirmed, with costs, and ten per cent, damages.",
+        "type": "majority",
+        "author": "Leonard, J."
+      }
+    ],
+    "attorneys": [
+      "Britton & Ely, for defendants, appellants.",
+      "James J. Lourie, for plaintiff, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "BALTES v. RIPP.\nSeptember, 1866.\nOne who gives a chattel mortgage, specifying no time of payment, to secure a debt overdue, has thereafter no leviable interest in the mortgaged chattels. The mortgagee becomes the absolute owner, and the interest of the mortgagor is merely the right to pay off the mortgage debt, and his possession is that of a bailee.\nEvidence of a parol agreement that the mortgage should not he immediately payable, is not admissible.\nThe purchaser at a wrongful sale on execution, is thereby estopped from setting up, when sued for the conversion, that he acted merely as agent in the purchase.\nBernhard Baltes sued Adolph Ripp and Joseph Ochsler in the city court of Brooklyn, for the conversion of plaintiff\u2019s property. Plaintiff claimed title to the property by a mortgage given by one Reitenbach, on October 8, 1859. On October 25, defendant Ripp recovered judgment against Reitenbach ; and on November 2, 1859, the property was sold on execution under the judgment to defendant Ochsler.\nPlaintiff\u2019s mortgage named no time for the payment of the money which was secured by it, but it was proved on the trial that it had been given to secure certain moneys which had been loaned by plaintiff to Reitenbach, and for which due-bills had been given. These due-bills were also produced. They specified no time of payment. The chattel mortgage was duly filed. Defendants offered to prove an agreement of plaintiff with Reitenbach that the money should not be payable for a year; and they asked Reitenbach (who was a witness), when the notes and mortgage, or the money therein mentioned, was payable. The defendant Ochsler also offered to prove that he bid off the goods at the sale, not for himself hut for his co-defendant Ripp. All this evidence was excluded, and defendants excepted. Plaintiff had judgment.\nThe supreme court, at general term, on appeal from the judgment, held that at the time of the levy and sale the money payable and secured by the mortgage was overdue, and that Reitenbach had no interest in the property, and Ms possession was that of mere bailee, the absolute ownership being in plaintiff. They also held that the evidence as to the time at which the money was payable was properly rejected, since it was not offered to show fraud, and it was not competent to vary a written instrument by parol proof. They also held that the defendant Ochsler was estopped from setting up that he bid for another at the sale of the goods, as he was a co-trespasser. Defendants appealed to this court.\nBritton & Ely, for defendants, appellants.\nJames J. Lourie, for plaintiff, respondent."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 88,
+  "last_page_order": 90
+}

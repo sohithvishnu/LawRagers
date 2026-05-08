@@ -1,0 +1,66 @@
+{
+  "id": 2019303,
+  "name": "John Weston v. The City of Syracuse",
+  "name_abbreviation": "Weston v. City of Syracuse",
+  "decision_date": "1858-03",
+  "docket_number": "",
+  "first_page": "110",
+  "last_page": "114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 N.Y. 110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 386,
+    "char_count": 7322,
+    "ocr_confidence": 0.571,
+    "pagerank": {
+      "raw": 4.946741046574349e-07,
+      "percentile": 0.9348407957375121
+    },
+    "sha256": "d2f7321f69292c7e5446300baccd55a3dcac2ced9759c9c4412d98ec76e98cea",
+    "simhash": "1:bb63df8966ce4b0a",
+    "word_count": 1314
+  },
+  "last_updated": "2023-07-14T20:55:49.398274+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Weston v. The City of Syracuse."
+    ],
+    "opinions": [
+      {
+        "text": "Denio, J.\nThe parts of the charter of the city of Syracuse which are supposed to bear upon this case are the sections declaring that the common council shall be authorized to raise once in each year not exceeding fifty-three thousand dollars, to defray all expenses of the city, including all debts due from it (Laws of 1854, 78, tit. 12, \u00a7 1), and that which makes it a penal offence for an alderman to vote for any appropriation or the payment or expenditure of any money not authorized by or in violation of any provision of the charter, and which moreover provides that if the common council shall contract any debt after the first Tuesday in March in any year, and before the first Tuesday of March in the succeeding year, which shall remain unpaid for one month after the expiration of the year in which it is contracted, for want of funds in the treasury to pay it; or if it shall authorize any expenditure for any purpose in such year exceeding the amount which they are authorized to raise for such purpose, the aldermen voting to contract such debt shall be individually liable to the creditor, and the city shall not be liable, and the common council shall not audit or pay it. (tit. 11, \u00a7 6.)\nIt is argued by the counsel for the city that it is an evasion of these provisions for the common council to contract for work to be done after the close of the year in which the contract is made, and for which payments will be required which will be a charge upon the revenue of the next or any succeeding year. It does not appear what the aggregate amount of compensation to the contractors for the full performance of this contract would have been, but it is not pretended that it would have been equal to the whole annual revenue of the city, and probably it is only a small fraction of that amount. Then we must not assume that the common council which authorized the contract acted fraudulently with a view to evade the law. If there could have been any public and honest motive for entering into a contract in advance of the year during which it was to be performed, we are to intend that the common council acted upon such a motive; and it is easy to see that views of economy may have dictated the propriety of giving the contractor several months to bargain for and collect the materials for the work. Such a contract as this would not necessarily increase the expenses of the city for 1856 beyond the amount allowed by law. It was the duty of the common council of the year, on coming into office, to ascertain the charges upon the revenue for that year, arising out of the prior municipal legislation, and to act with reference to such charges in the other expenditures and engagements for the public service. In this way there would be no tendency in the contract in question to bring about an excess of taxation, or of expenditure for the year 1856.\nThe object of the sixth section of title eleven, besides providing a penalty in terrorem for a violation of law on the part of the members of the common council, is to prevent the possibility of an increase of the city debt. If the common council contract a debt which shall not be paid within the year, or within one month after its expiration, on account of a deficiency of revenue, it is not to be a public charge, but the private debt of the individual aldermen. But the compensation to this contractor was not a debtr, within the sense of this provision, until the service was performed and the contractor was entitled to be paid. It was, j no doubt, an obligation, in some sense, from the time the contract was entered into, but it was not a debt in the popular sense, and certainly not one to which the correlative term payment could- with propriety be applied, and it is such debts only which the provision speaks of. But it is further declared that if the corporation \u201c shall authorize any expenditure for any purpose in such year\u201d beyond the amount of the annual tax levy, it shall constitute a private debt of the aldermen and not of the city. In my opinion, the expression, in such year, qualifies the word expenditure and not the word authorize. In other words, the council must not authorize any expenditure to be made within the year exceeding the limit; but they are not forbidden to authorize in that year an expenditure to be made in a subsequent year, for services to be performed in such subsequent year. There would be no sense in contracting the amount of expenditure within the amount of revenue, unless the two sums were to meet and be adjusted in the same fiscal year.\nI think the judgment of the Supreme Court was right, and that it should be affirmed.\nAll the judges concurring,\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Denio, J."
+      }
+    ],
+    "attorneys": [
+      "John Molloy, for the appellant.",
+      "Sheldon Sf Brown, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "John Weston v. The City of Syracuse.\nThe common council of Syracuse is authorized under its charter (eh. 28 of 1854) to enter into a contract to he peformed in the political year succeeding that in which it is made, the execution of which will create a deht chargeable upon the revenue of that year.\nThe provision prohibiting the common council from authorizing an expenditure for any purpose in the current political year exceeding the amount of the annual tax levy, limits the expenditure within the year, but not the authorization of services to be performed in a subsequent year and involving expenditure in such year.\nThe obligation of a contract does not become a debt within the sense of the prohibitions of the charter until money becomes payable according to its terms.\nThe action in the Supreme Court was brought to recover damages for the breach of a written contract by which the plaintiff undertook to grade and pave a portion of Onondaga-street in the city of Syracuse, to the distance of one hundred rods at certain prices per foot for excavation and pavement, which, the defendant agreed to pay. The complaint averred that the plaintiff entered upon the performance of the work, and had procured and drawn upon the street-a quantity of stone and other materials, when the defendant ordered the work stopped, and forbade the plaintiff to proceed any further with it. The case was tried before Wm. F. Allen, as a referee, who found the execution of the contract and the breach as alleged, and that the plaintiff had sustained damages to the sum of $690.31, for which sum judgment was rendered, and affirmed at the general term. The contract was dated July 5, 1855, and provided that the work was \u201cto be done in the season of 1856, and completed by the first day of July in that year.\u201d Payments were to be made as the work progressed, and the whole was to be paid when the job was completed.\nThe defence set up was that upon the proper construction of certain provisions of the city charter, the common council could not lawfully contract for work to be performed during the year succeeding that in which the contract was made. It was shown by the defendant, and the fact was found by the referee, that during the year ending on the first Tuesday of March, 1856, the common council of Syracuse raised and expended the whole amount which they were authorized to raise in one year, namely $53,000, for other purposes than the expense of the pavement in question. The defendant appealed to this court, and the case was submitted on printed briefs.\nJohn Molloy, for the appellant.\nSheldon Sf Brown, for the respondent."
+  },
+  "file_name": "0110-01",
+  "first_page_order": 110,
+  "last_page_order": 114
+}

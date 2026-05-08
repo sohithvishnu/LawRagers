@@ -1,0 +1,91 @@
+{
+  "id": 5777079,
+  "name": "Schuneman vs. Palmer",
+  "name_abbreviation": "Schuneman v. Palmer",
+  "decision_date": "1848-09-04",
+  "docket_number": "",
+  "first_page": "225",
+  "last_page": "228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Barb. 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Mass. Rep. 317",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2005714
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/3/0278-01"
+      ]
+    },
+    {
+      "cite": "5 John. 196",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131467
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/5/0196-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 333,
+    "char_count": 7036,
+    "ocr_confidence": 0.703,
+    "pagerank": {
+      "raw": 2.697532938962573e-07,
+      "percentile": 0.8281338023954292
+    },
+    "sha256": "c577002f4fab671a85f90b72fb975357559dea729d7e99efe38d13576366a17a",
+    "simhash": "1:58227e06aacc34eb",
+    "word_count": 1269
+  },
+  "last_updated": "2024-02-27T20:56:55.753548+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schuneman vs. Palmer."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Harris, J.\nThe circuit judge was clearly right in refusing to charge the jury as requested by the plaintiff\u2019s counsel. The proposition assumes two facts, one of which had been proved and the other had not. The defendant had taken the plaintiff\u2019s wife away after he had received the plaintiff\u2019s notice, but instead of keeping her three days, he had himself brought her back the next day. But, I- think also that, if the facts had been as assumed by the plaintiff\u2019s counsel, the judge would still have been right in refusing to charge that such a state of facts would, as a matter of course, render the defendant liable for harboring the plaintiff\u2019s wife.\nIn an action like this, the material point of inquiry is the intent with which the defendant has acted. The bare fact that the defendant allowed the plaintiff\u2019s wife to ride in his wagon, or that he did not shut his door upon her when she came to his house, is not sufficient to sustain the action. It must appear that the defendant has acted from improper motives. The husband has a right to the society and assistance of his wife, and, whoever persuades or entices her to separate herself from him, and thus deprive him of that right, is liable to an action. Thus, if the defendant had opposed the plaintiff in an attempt to take his wife home; or had refused him access to his wife while she was remaining in his house; if be had attempted to conceal her from her husband; in short if he had done any thing with a view to deprive the plaintiff of the company or service of his wife, it would undoubtedly constitute such a har- - boring as the law contemplates when it gives this action' to the husband. Whenever a wife is unjustifiable in abandoning her husband, he who knowingly and intentionally assists her in thus violating her duty is guilty of a wrong for which an action will lie.\nIn Philip v. Squire, (Peake's N. P. C 82,) Lord Kenyon said that the ground of this action was that the defendant retained the plaintiff\u2019s wife against the inclination of her husband, whose behavior he knew7 to be proper, or from selfish and criminal motives. In that case the wife represented herself as having been ill used and turned out of doors by her husband. The defendant, at her request, received her into his house and suffered her to remain there, notwithstanding a notice from the husband not to harbor her. Lord Kenyon held that if the defendant did this from motives of humanity, the action could not be sustained. In this case the plaintiff\u2019s wife, alleging that she was unable to unlock the door of her own house, requested the defendant to allow her to ride home with him. He had a right to comply with this request if he was actuated by proper motives. Notwithstanding the notice not to harbor her, he was not bound to exclude her from his house. Unless the defendant had directly or indirectly attempted to influence or persuade her to leave her husband, or, having left him, not to return to him, he has done nothing to make him liable in an action either for enticing away or harboring the plaintiff\u2019s wife. (Hutcheson v. Peck, 5 John. 196. Turner v. Estes, 3 Mass. Rep. 317.)\nThe circuit judge was right, therefore, in leaving it to the jury to decide as to the motive with which the defendant acted, and to determine upon the facts proved, whether the defendant allowed the plaintiff\u2019s wife to go to his house and remain there with a view to deprive the plaintiff of her society, or whether it was a mere act of hospitality proper between the parties. I think also that the jury decided correctly, as the evidence appears in the bill of exceptions. The motion for a new trial must be denied.\nNew trial denied.",
+        "type": "majority",
+        "author": "By the Court, Harris, J."
+      }
+    ],
+    "attorneys": [
+      "M. Sanford, for the plaintiff.",
+      "J. Van Vleck, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Same Term.\nBefore the same Justices.\nSchuneman vs. Palmer.\nIn an action on the case for enticing away, and harboring, the plaintiff\u2019s Wife, the material point of inquiry is the intent with which the defendant has acted. It is proper, therefore, to leave it to the jury to decide as to the defendant\u2019s motive, and to determine, upon the facts proved, whether the defendant has allowed the plaintiff\u2019s wife to go to his house and remain there, with a view to deprive the plaintiff of her society; or whether it was a mere act of hospitality between the parties.\nThe hare fact that the defendant has allowed the plaintiff\u2019s wife to ride in his wagon, at her own request, or that he did not close his door upon her, when she came to his house, is not sufficient to sustain the action. It must appear that the defendant has acted from improper motives.\nThis was an action on the case for enticing away and harboring the plaintiff\u2019s wife. It was tried at the Greene circuit in May, 1847, before Parker, circuit judge. It was proved, upon the trial, that the families of the plaintiff and defendant had been several years on intimate terms; that the plaintiff and the defendant were both farmers, residing in the town of Athens, about two miles from each other; that the plaintiff and his wife had frequently been at the defendant\u2019s house together ; that the plaintiff\u2019s wife was a relative of the defendant\u2019s wife, the only relative she had in that neighborhood ; that for the last three years the defendant had frequently taken the plaintiff\u2019s wife into his wagon and carried her home with him, where she would sometimes remain several days. On the 5th of December, 1846, the plaintiff served a written notice upon the defendant, requiring him not to harbor his wife but to return her to his residence from which he had taken her. The notice was delivered to the defendant at Catskill. The plaintiff\u2019s wife had been with the defendant to Catskill that day. On their return the defendant stopped at the house of his son who resided on the plaintiff\u2019s farm. . The plaintiff\u2019s wife went to the plaintiff\u2019s house and tried to open the door, but found it so fastened on the inside that she could not get in. She then returned to the defendant and asked him if she could not ride home with him. He showed her the notice, and advised her not to go, but she made light of it and went. The next day the defendant told her he was afraid there would be trouble, and advised her to go home, and on that day he carried her home. It appeared that the plaintiff and his wife had lived unhappily together for several years.\nThe counsel for the plaintiff requested the circuit judge to charge the jury that if the defendant took the plaintiff\u2019s wife away from his house after the notice not to take or harbor her, and kept her three days contrary to notice, it was a harboring. The judge refused to charge that it would of course be a harboring, but left it to the jury to decide, upon the facts proved, whether her staying at the defendant\u2019s house was a harboring with a view to deprive the plaintiff of her society, or whether it was a mere act of hospitality proper between the parties; to which refusal and charge the counsel for the plaintiff excepted. The jury found a verdict for the defendant.\nM. Sanford, for the plaintiff.\nJ. Van Vleck, for the defendant."
+  },
+  "file_name": "0225-01",
+  "first_page_order": 225,
+  "last_page_order": 228
+}

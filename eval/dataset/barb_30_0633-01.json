@@ -1,0 +1,283 @@
+{
+  "id": 5028929,
+  "name": "William McCray vs. Mary McCray",
+  "name_abbreviation": "McCray v. McCray",
+  "decision_date": "1860-01-24",
+  "docket_number": "",
+  "first_page": "633",
+  "last_page": "637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Barb. 633"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "19 Penn. Rep. 461",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970610
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/19/0461-01"
+      ]
+    },
+    {
+      "cite": "13 John. 118",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374444
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/13/0118-01"
+      ]
+    },
+    {
+      "cite": "3 Sand. Ch. 279",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2166666
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/3/0279-01"
+      ]
+    },
+    {
+      "cite": "3 Gill, 138",
+      "category": "reporters:state",
+      "reporter": "Gill",
+      "case_ids": [
+        1703537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/gill/3/0138-01"
+      ]
+    },
+    {
+      "cite": "6 Maryland Rep. 443",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Penn, Rep. 174",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts, 509",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846113
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0509-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 255",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841240
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0255-01"
+      ]
+    },
+    {
+      "cite": "1 Watts & S. 383",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852651
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0383-01"
+      ]
+    },
+    {
+      "cite": "9 N.H. Rep. 386",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 N. H. Rep. 9",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6754706
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/8/0009-01"
+      ]
+    },
+    {
+      "cite": "14 John. 15",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0015-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 99",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Harrington, 532",
+      "category": "reporters:state",
+      "reporter": "Harrington",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Rand. 605",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "case_ids": [
+        6734193
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/27/0841-01"
+      ]
+    },
+    {
+      "cite": "3 Aik. 1",
+      "category": "reporters:state",
+      "reporter": "Aik.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Des. 592",
+      "category": "reporters:state",
+      "reporter": "Des.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Penn. Rep. 469",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Wend. 75",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/17/0045-01"
+      ]
+    },
+    {
+      "cite": "19 Penn. Rep. 461",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970610
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/19/0461-01"
+      ]
+    },
+    {
+      "cite": "3 Gill, 138",
+      "category": "reporters:state",
+      "reporter": "Gill",
+      "case_ids": [
+        1703537
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/gill/3/0138-01"
+      ]
+    },
+    {
+      "cite": "14 John. 15",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376201
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/14/0015-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 547,
+    "char_count": 9773,
+    "ocr_confidence": 0.541,
+    "pagerank": {
+      "raw": 6.454371903151517e-07,
+      "percentile": 0.9600675560621488
+    },
+    "sha256": "5a9e085ac541c6f7424ea07c728816bd1db2e8ed7ebe336621c44c0906bbc0ee",
+    "simhash": "1:8b624c293046e42a",
+    "word_count": 1775
+  },
+  "last_updated": "2024-02-27T19:02:44.432128+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William McCray vs. Mary McCray."
+    ],
+    "opinions": [
+      {
+        "text": "Balcom, J.\nThe defendant is guardian in socage of her infant daughter; (1 R. S. 718, \u00a7\u00a7 5, 6 ;) and if the daughter is. entitled to hold the farm in question, the defendant is rightfully in possession of it as her guardian in socage. (2 id. 153, \u00a7 20. 17 Wend. 75: 19 id. 306.) Besides, the defendant has a dower right in the farm, and is heir to her deceased daughter. She may claim the farm both as heir and guardian; and is therefore in a position to assert an equitable right to it, if her husband had such a right at the time of his death.\nThe decisions mainly relied on by the plaintiff's counsel were all made in actions of ejectment, before equitable defenses could be interposed in such actions. It must be conceded, however, that they show that a mere parol gift of land, though possession be delivered to the donee, only makes him a tenant at will of the donor. I do not understand the defendant\u2019s counsel to dispute this proposition : if I did understand him to deny it, I should surely say he was wrong.\nThe defendant's offer was not to prove a mere parol gift of the farm by the plaintiff to his son; it was much more. She offered to show a parol contract, part performance of it by the plaintiff, and entire performance of it on the part of her husband. It is inaccurate to say the transaction she offered to prove only amounted to a mere gift of the farm by the plaintiff to his son. (See Moore v. Small, 19 Penn. Rep. 469 ; 3 Gill, 138; Hart v. Hart, 3 Des. 592.) It is true her counsel called it a gift, at the trial. I think, in doing so, he misnamed it, because the plaintiff\u2019s love and affection for his son was one of its ingredients. The most material part of the offer was to prove that the defendant's husband labored eight years for the plaintiff, at his request; for which labor the latter, by reason of his love and affection for his son, paid him with this farm. Most clearly, if the labor was performed at the plaintiff's request, he was legally bound to pay his son for\nit. The offer goes further: it shows that the son accepted the farm in payment for his labor, took possession of it\u2014held it five years, until he died\u2014made improvements on it and paid the taxes on it as his own, by and with the approval of the plaintiff; that the plaintiff always treated his son as the owner of the farm, and at his deathbed informed him and the defendant he would never 'disturb them. Now considering the lapse of time since the son performed the labor for the plaintiff, the utter impossibility of the administrator of the son ever recovering compensation therefor; or for the improvements the son made upon the farm, and the immeasurable injustice that would flow by permitting the plaintiff to recover the farm, \"even if he would not plead the statute of limitations to any personal action the administrator should bring against him, it seems to me the plaintiff should not be permitted to rescind this parol contract for the want of a deed or writing so signed as to vest the title to the farm in his son. (See Bond v. Hopkins, 1 Sch. & Lef. Rep. 433.) \u201c The contract was so far in part executed as to render it unjust to rescind the same.\u201d (19 Penn. Rep. 461.) If there was such a parol contract, it is clearly against conscience, and fraudulent, for the plaintiff now to repudiate it. I think the proof offered would have brought the case within the principle applied by the assistant vice chancellor in Rhodes v. Rhodes, (3 Sand. Ch. R. 279.) It should not have been rejected upon any adjudication in this state ; (see Parlchurst v. Van Cortland, 14 John. 15 ; Malins v. Brown, 4 Comst. 403 ;) and I think the weight of authority in other states and in England is in favor of its admission. It seems to me the judge must have construed the offer to be one to prove a mere parol gift of the farm; whereas I construe it to be an offer to show a parol contract for the farm, founded on a valuable consideration, so far in part executed as to render it impossible to do substantial justice to the parties without enforcing it.\nIt is unavailing for the plaintiff's counsel to argue, that if the defense in this action prevails, our statute, which declares that estates or interests in lands shall not be created, granted, assigned, surrendered or declared, except by deed or writing properly executed, means nothing. We could not now hold, if we would, that no parol contract affecting interests in lands shall he enforced, though partly performed. The equity rule is wisely settled the other way. The only duty we now have to perform in an equity case, or where an equitable defense is interposed, is to see that the parol contract concerning the land in question is taken out of the operation of the statute, by such a part performance as renders it impossible to do substantial justice to the parties without enforcing it.\n[Broome General Term,\nJanuary 24, 1860.\nMy conclusion in this case is, that the evidence offered by the defendant should have been received; and that it would have entitled the defendant not only to hold the farm, but to such a conveyance from the plaintiff as would vest in her and her daughter the title to the farm, according to their respective rights as widow, mother, daughter and heirs.\nThe verdict in the action should be set aside and a new trial granted; costs to abide the event.\nMason, J. concurred.\nCampbell, J. dissented.\nblew trial granted.\nMason, Balcom and Campbell, Justices.]",
+        "type": "majority",
+        "author": "Balcom, J."
+      }
+    ],
+    "attorneys": [
+      "Henry B. Mygatt, for the defendant; cited and commented upon the following authorities:",
+      "Lester Chase, for the plaintiff, cited and commented upon the following authorities:"
+    ],
+    "corrections": "",
+    "head_matter": "William McCray vs. Mary McCray.\n\"In \"an action to recover possession of a farm, it was proved that a son of the plaintiff married the defendant, in 1849, and had two children by her, one of whom was living; that the son, in 1850, went into possession of the farm, by permission of the plaintiff, and occupied it until his death, in 1855; the plaintiff, during such occupancy, frequently saying the farm was his son\u2019s. The defendant offered to prove that her husband worked for the plaintiff about eight years after he became of age, at the plaintiff's request; that in consideration thereof, and of love and affection, the plaintiff gave the farm, by parol, to his son, who, in virtue thereof, entered on the premises, took possession, and made improvements, and paid taxes, on it, as his own, by and with the approbation of the plaintiff; that the plaintiff always treated his son as owner, and at the deathbed of the latter informed him and his wife that he would never disturb them. The evidence was excluded. field that the evidence offered should have been received; and that it would have entitled the defendant not only to hold the farm, hut to receive such a conveyance from the plaintiff as would vest in her and her surviving child the title to the farm, according to their respective rights as widow, mother, daughter and heirs. New trial granted. Campbell, J. dissented.\nTHIS action was brought to recover possession of a farm of land containing 149 acres. The action was tried at the Chenango circuit in September, 1859. It was proved that a son of the plaintiff married the defendant in 1849, by whom she had two daughters, one of whom was living and under six years of age at the time of the trial. The son went into possession of the farm, by permission of the plaintiff, in the spring of 1850; and lived on it with the defendant, and worked it, until his death in November, 1855. He left no will; and the defendant continued in possession of the farm and worked it, down to the time of the trial\u2014her daughter that was living residing with her. The other daughter died after the decease of her father. The defendant\u2019s husband was about thirty years of age when he married the defendant. Before the defendant\u2019s husband died, the plaintiff frequently said the farm was his son\u2019s. The defendant, under her answer setting up the facts, offered to prove that her husband worked for the plaintiff about eight years after he came of age, at the plaintiff\u2019s-request; that in consideration thereof, and of love and affection, the plaintiff gave the farm by parol to his son, who, in virtue thereof, entered on the premises in question,. took possession and made improvements, and paid taxes on it as his own, by and with the approval of the plaintiff; that the plaintiff always treated his son as owner, and at his deathbed informed him and his wife that he would never disturb them. The judge refused to allow the defendant to prove her offer and each and every part thereof; to which refusal the defendant excepted. The judge directed the jury to find a verdict for the plaintiff; to which direction the defendant excepted. The jury rendered a verdict for the plaintiff. The judge directed that the exceptions be heard in the first instance at a general term, and suspended judgment in the mean time.\nHenry B. Mygatt, for the defendant; cited and commented upon the following authorities:\nBond v. Hopkins, 1 Schoales & Lefroy\u2019s Rep. 413; Morphet v. Jones, 1 Swanst. 181; Lacon v. Martius, 3 Aik. 1; 1 Colle\u2019s Parl. Cas. 108; 17 Eng. Law and Eg. 212; 3 Gill & J. 127; 6 Rand. 605; 1 Harrington, 532; 21 Missouri Rep. 331; 20 id. 81; 14 Georgia Rep. 683; Rathbun v. Rathbun, 6 Barb. 99; 1 John. Ch. 274; 14 John. 15; 4 Blackford, 383; 9 Alabama Rep. 756; 8 N. H. Rep. 9; 18 Conn. R. 222; 9 N.H. Rep. 386 ; 1 Watts & S. 383 ; 3 Watts, 255; 1 Binney, 378 ; 6 Watts, 509; 12 Penn, Rep. 174; 19 id. 469; 6 Maryland Rep. 443; 3 Gill, 138; Rhodes v. Rhodes, 3 Sand. Ch. 279; 3 Dess. 593.\nLester Chase, for the plaintiff, cited and commented upon the following authorities:\n2 R. S. 134, \u00a7 6; 1 id. 738, \u00a7\u00a7 136, 137; Jackson v. Rogers, 1 John. Cas. 33; S. C., 2 Caines\u2019 Cases in Error, 314; Jackson v. Ellis, 13 John. 118; Jackson v. Whitbeck, 6 Cowen, 632; 2 Humphrey, 174; 1 Bailey\u2019s Ch. 175; 8 B. Monroe, 566; 19 Penn. Rep. 461."
+  },
+  "file_name": "0633-01",
+  "first_page_order": 633,
+  "last_page_order": 637
+}
