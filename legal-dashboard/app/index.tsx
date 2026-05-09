@@ -309,24 +309,22 @@ export default function Index() {
         if (!searchResponse.ok) throw new Error('search');
         const searchData = await searchResponse.json();
 
-        setCases(prevCases => {
-          const updatedCases = [...prevCases];
-          searchData.cases.forEach((incomingCase: CaseItem) => {
-            const existingIndex = updatedCases.findIndex(c => c.id === incomingCase.id);
-            if (existingIndex >= 0) {
-              updatedCases[existingIndex].hitCount = (updatedCases[existingIndex].hitCount || 1) + 1;
-              updatedCases[existingIndex].distance = (updatedCases[existingIndex].distance + incomingCase.distance) / 2;
-            } else {
-              updatedCases.push({ ...incomingCase, hitCount: 1 });
-            }
-          });
-          const sortedCases = updatedCases.sort((a, b) => {
-            if ((b.hitCount || 1) !== (a.hitCount || 1)) return (b.hitCount || 1) - (a.hitCount || 1);
-            return a.distance - b.distance;
-          });
-          finalCasesState = sortedCases;
-          return sortedCases;
+        const updatedCases = [...cases];
+        searchData.cases.forEach((incomingCase: CaseItem) => {
+          const existingIndex = updatedCases.findIndex(c => c.id === incomingCase.id);
+          if (existingIndex >= 0) {
+            updatedCases[existingIndex].hitCount = (updatedCases[existingIndex].hitCount || 1) + 1;
+            updatedCases[existingIndex].distance = (updatedCases[existingIndex].distance + incomingCase.distance) / 2;
+          } else {
+            updatedCases.push({ ...incomingCase, hitCount: 1 });
+          }
         });
+        const sortedCases = updatedCases.sort((a, b) => {
+          if ((b.hitCount || 1) !== (a.hitCount || 1)) return (b.hitCount || 1) - (a.hitCount || 1);
+          return a.distance - b.distance;
+        });
+        finalCasesState = sortedCases;
+        setCases(sortedCases);
 
         if (searchData.cases.length > 0 && !selectedCase) setSelectedCase(searchData.cases[0]);
         contextText = searchData.context_text;
@@ -421,7 +419,7 @@ export default function Index() {
           </View>
           <View style={styles.nodeLabelContainer}>
             <Text style={[styles.nodeLabelText, isSelected && { color: '#007AFF' }]} numberOfLines={1}>{isCritical && "🔥 "}{c.id}</Text>
-            <Text style={styles.nodeDistanceText}>{(c.hitCount ?? 0) > 1 ? `Hits: ${c.hitCount}` : `Dist: ${c.distance.toFixed(2)}`}</Text>
+            <Text style={styles.nodeDistanceText}>{(c.hitCount ?? 0) > 1 ? `Hits: ${c.hitCount}` : `Dist: ${c.distance?.toFixed(2) ?? 'N/A'}`}</Text>
           </View>
         </TouchableOpacity>
       );

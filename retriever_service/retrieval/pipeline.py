@@ -370,9 +370,14 @@ def _format_result(chunk: dict[str, Any], return_debug: bool) -> dict[str, Any]:
     meta = chunk.get("metadata") or {}
     text = _strip_prefix(chunk.get("text", ""))
 
+    raw_case_id = meta.get("case_id")
+    case_id_int: int | None = None
+    if raw_case_id is not None and str(raw_case_id).strip().isdigit():
+        case_id_int = int(raw_case_id)
+
     result: dict[str, Any] = {
         "chunk_id": chunk["chunk_id"],
-        "case_id": meta.get("case_id"),
+        "case_id": case_id_int,
         "text": text,
         "score": chunk.get("reranker_score") or chunk.get("rrf_score") or 0.0,
         "source": {

@@ -143,7 +143,7 @@ def _build_chroma_where(
     """Convert retrieval filter primitives to a ChromaDB where clause."""
     clauses: list[dict[str, Any]] = []
 
-    if "min_ocr_confidence" in filters:
+    if "min_ocr_confidence" in filters and filters["min_ocr_confidence"] > 0:
         clauses.append({"ocr_confidence": {"$gte": float(filters["min_ocr_confidence"])}})
 
     if "min_pagerank_percentile" in filters:
