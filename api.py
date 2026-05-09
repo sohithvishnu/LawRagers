@@ -7,9 +7,11 @@ os.environ["USE_TORCH"] = "YES"
 
 import httpx
 import io
+import json
 import sqlite3
 import uuid
 
+import chromadb
 import ollama
 import PyPDF2
 
@@ -18,7 +20,9 @@ from fastapi.responses import StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
 from httpx import HTTPStatusError
 from pydantic import BaseModel
-from typing import Any, Optional
+from typing import Any, List, Optional
+
+from indexer import get_device, make_embedding_function, chunk_text, doc_id
 
 from retriever_service.retriever_client import (
     build_search_response,
@@ -51,6 +55,16 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+# ---------------------------------------------------------------------------
+# ChromaDB client (Library Manager — firm libraries only)
+# ---------------------------------------------------------------------------
+
+_device = get_device()
+_ef = make_embedding_function(_device)
+_chroma = chromadb.PersistentClient(path="./chroma_db")
+_SYSTEM_COLLECTIONS = {"user_workspace"}
 
 
 # ---------------------------------------------------------------------------
@@ -427,3 +441,61 @@ async def get_anchors(
         f"/sessions/{session_id}/anchors",
         params={"min_hits": min_hits, "limit": limit, "weight_by_pagerank": weight_by_pagerank},
     )
+
+
+# ---------------------------------------------------------------------------
+# Library Manager — firm-library collection management
+# ---------------------------------------------------------------------------
+
+@app.get("/databases")
+def list_databases():
+    names = [c.name for c in _chroma.list_collections()
+             if c.name not in _SYSTEM_COLLECTIONS]
+    return {"databases": names}
+
+
+@app.post("/databases/create")
+async def create_database(
+    db_name: str = Form(...),
+    files: List[UploadFile] = File(...),
+):
+    if db_name in _SYSTEM_COLLECTIONS:
+        return {"error": f"'{db_name}' is a reserved collection name."}
+
+    parsed: list[tuple[str, bytes]] = []
+    for f in files:
+        parsed.append((f.filename or "upload", await f.read()))
+
+    def generate():
+        collection = _chroma.get_or_create_collection(name=db_name, embedding_function=_ef)
+        total = len(parsed)
+
+        for i, (filename, content) in enumerate(parsed):
+            text = ""
+            if filename.lower().endswith(".pdf"):
+                try:
+                    pdf_reader = PyPDF2.PdfReader(io.BytesIO(content))
+                    for page in pdf_reader.pages:
+                        extracted = page.extract_text()
+                        if extracted:
+                            text += extracted + "\n"
+                except Exception:
+                    pass
+            else:
+                try:
+                    text = content.decode("utf-8")
+                except UnicodeDecodeError:
+                    text = content.decode("latin-1", errors="ignore")
+
+            chunks = chunk_text(text)
+            if chunks:
+                ids       = [doc_id(db_name, filename, c) for c in chunks]
+                metadatas = [{"source": filename, "db_name": db_name} for _ in chunks]
+                collection.upsert(documents=chunks, metadatas=metadatas, ids=ids)
+
+            progress = round(((i + 1) / total) * 100)
+            yield json.dumps({"progress": progress, "status": f"Indexed {filename}"}) + "\n"
+
+        yield json.dumps({"progress": 100, "status": "complete"}) + "\n"
+
+    return StreamingResponse(generate(), media_type="application/x-ndjson")
