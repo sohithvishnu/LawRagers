@@ -1,0 +1,109 @@
+{
+  "id": 15622,
+  "name": "Abraham R. B. Moses, Respondent, v. Moritz Bierling et al., Appellants",
+  "name_abbreviation": "Moses v. Bierling",
+  "decision_date": "1865-03",
+  "docket_number": "",
+  "first_page": "462",
+  "last_page": "464",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 N.Y. 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "21 Barb., 145",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2421136
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/21/0145-01"
+      ]
+    },
+    {
+      "cite": "21 N. Y., 549",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Bosw., 73",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1338376
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/18/0073-01"
+      ]
+    },
+    {
+      "cite": "34 Barb., 90",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5071239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/34/0090-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 331,
+    "char_count": 5284,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 3.748657572455472e-06,
+      "percentile": 0.998193910146885
+    },
+    "sha256": "9feeb5c53640cd465f076aac1fc0049971a76131533b824ca84b90d1e7f2bb69",
+    "simhash": "1:6071b036fefe1ae8",
+    "word_count": 895
+  },
+  "last_updated": "2024-02-27T21:30:53.797125+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Abraham R. B. Moses, Respondent, v. Moritz Bierling et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Porter, J.\nShortly after the commencement of the pres ent war, the defendants imported four thousand Prussian muskets, for the purpose of selling them at an advance to the government. Before the arrival of the shipment, they employed the plaintiff to negotiate a sale, stipulating that he should receive a commission of two per cent upon the price as a compensation for his services. They agreed, as the jury find, that the plaintiff should have the sale of the guns, to the exclusion of all other brokers. The market price of muskets of this description was then four dollars and sixty cents in the city of \u00a1New York. The defendants mentioned five dollars as their asking price, but they imposed no limitation upon the plaintiff as to the amount or terms of sale. On the arrival of the muskets, he promptly negotiated a sale to a government officer at $4.75 per gun, amounting, on the four thousand pieces, to $600 more than the market value. The defendants made no objections to the price or terms of sale; but declined to deliver the muskets, or to pay the agreed commission, on the sole ground, that through the agency of another broker they had already negotiated-a sale to a third party.\nThe only question of law in the case, entitled to serious consideration, is whether the plaintiff was entitled to his agreed commission, on a sale negotiated by the authority of the defendants, but which they declined to ratify; and which failed of consummation for the sole cause, that they had already sold the property to a third party, through the agency of another broker, in fraud of their agreement with the plaintiff.\nThe authorities on which the appellants rely, and others not cited on the argument, clearly establish the proposition, that until the broker has faithfully discharged the obligation assumed in the contract with his principal, he is not entitled to the agreed commission. (Jacobs v. Kolff, 2 Hilt., 133; Corning v. Calvert, 2 id., 56; Barnard v. Monnot, 34 Barb., 90; Barnes v. Roberts, 5 Bosw., 73; McGavock v. Woodlief, 20 How. U. S., 221; Broad v. Thomas, 7 Bing., 99; Read v. Rann, 10 Barn.& Cress., 438.)\nBut it is equally well settled, that when one of the contracting parties either prevents or waives the literal performance of a condition precedent, which the other is ready and offers to fulfill, he cannot avail himself of such non-performance to relieve him from his own obligation. (Young v. Hunter, 2 Seld., 204; Holmes v. Holmes, 5 id., 527; Carman, v. Pultz, 21 N. Y., 549.)\nA broker, employed to make a sale, under an agreement for the exclusion of all other agencies, is entitled to his commissions when he produces a party ready to make the purchase at a satisfactory price; and the principal cannot relieve * himself from liability by a capricious refusal to consummate the sale, or by a voluntary act of his own, disabling him from performance. (Wentworth v. Luther, 21 Barb., 145; Kock v. Emmerling, 22 How. U. S., 69; Van Lien v. Burns, 1 Hilt., 134; Holly v. Gosling, 3 E. D. Smith, 262.)\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Porter, J."
+      }
+    ],
+    "attorneys": [
+      "George C. Barrett, for the appellants.",
+      "Gershom A. Seixas, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Abraham R. B. Moses, Respondent, v. Moritz Bierling et al., Appellants.\nA broker, employed to negotiate a sale, is not entitled to commissions until he has performed the undertaking assumed in the contract with his principal.\nWhen he produces a proper party, ready to make the purchase at a price satisfactory to the principal, he performs his undertaking, and is entitled to his commissions, unless the principal has already parted with the property.\nWhen the principal contracts with the broker for the exclusion of all other agencies, he cannot relieve himself from liability for commissions, by negotiating a sale in fraud of the agreement through the agency of a different broker.\nWhen one of the contracting parties either waives or prevents the,literal performance of a condition precedent, which the other is ready and offers to fulfill, he cannot avail himself of such non-performance to relieve him from his own obligation.\nAppeal from the affirmance, in the Rew York Common Pleas, of a judgment rendered for the plaintiff on the trial before Judge Beady and a jury.\nThe action was to recover commissions earned by the plaintiff, in negotiating a sale of 4,000 Prussian muskets for the defendants.\nIt was proved that the service was requested by the defendants, and that it was performed with reasonable despatch by the plaintiff.\nThere was some slight conflict of evidence on the question whether the sale was in accordance with the instructions, and whether the contract provided for the exclusion of all other brokers; but both these issues were settled in favor of the plaintiff by the jury.\nThe defendants declined to accept the purchaser, and to pay'the plaintiff\u2019s commissions, on the ground that they had sold the muskets in the meantime to another party, through the agency of a different broker.\nThe judge charged the jury, in substance, that if the agreement was for the exclusion of all other agencies, the procurement by the plaintiff of a purchaser, in accordance with his undertaking, entitled him to his commissions. The defendants excepted to the charge, and appealed from the judgment, which was sustained at the General Term.\nGeorge C. Barrett, for the appellants.\nGershom A. Seixas, for the respondent."
+  },
+  "file_name": "0462-01",
+  "first_page_order": 462,
+  "last_page_order": 464
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1297808,
+  "name": "Baldwin v. Brown",
+  "name_abbreviation": "Baldwin v. Brown",
+  "decision_date": "1857-12",
+  "docket_number": "",
+  "first_page": "351",
+  "last_page": "357",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "16 N.Y. 359"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "16 Wend., 285",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149126
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/16/0285-01"
+      ]
+    },
+    {
+      "cite": "12 Wend., 127",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11268375
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/12/0127-01"
+      ]
+    },
+    {
+      "cite": "10 John., 377",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135899
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/10/0383-01"
+      ]
+    },
+    {
+      "cite": "3 John., 8",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129906
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0008-01"
+      ]
+    },
+    {
+      "cite": "9 John., 61",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372334
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/9/0061-01"
+      ]
+    },
+    {
+      "cite": "8 John., 367",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134321
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/8/0367-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 621,
+    "char_count": 12526,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 4.479374419480471e-06,
+      "percentile": 0.9986358278030881
+    },
+    "sha256": "7d6b0cca94d78450b15bee20a6fbf5756984a94f56665c7b0d982f70d5b7427c",
+    "simhash": "1:fb7de94c3c036022",
+    "word_count": 2172
+  },
+  "last_updated": "2024-02-27T21:26:22.813624+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Brows', J., delivered an opinion to the same effect; Com-stock and Shankland, Js., were absent; all the other iudges concurring,"
+    ],
+    "parties": [
+      "Baldwin v. Brown."
+    ],
+    "opinions": [
+      {
+        "text": "Selden, J.\nIt is unnecessary, in the view I take of this case, to decide the question raised upon the construction of the deed from Thomas to Joseph Brown. It is undoubtedly a general rule that, where the lands conveyed are described by corases and distances, and also by reference to natural objects or fixed and permanent monuments, if there is a discrepancy between the two, the former description must yield to the latter. The reason is, that mistakes are deemed more likely to occur with respect to courses and distances than in regard to objects which are visible and permanent. This, however, is by no means an inflexible rule. Where there is anything in the description which shows that the courses and distances are right, they will, of course, control; because the primary object, in all cases, is to arrive at the real intent of the parties. For instance, where it is apparent upon the face of the deed that the intention was to convey a specific quantity of land, if the courses and distances given would include that precise quantity, but the description by fixed monuments would embrace more or less, it is clear that the former should be followed. To do otherwise would be to defeat the plain intent of the parties. It is obvious, too, that the reason for relying upon monuments, in preference to courses and distances, applies with much greater force to such , as are natural and permanent than to those which are artificial, especially where the latter were erected as the result of a survey by courses and distances. But without pausing to inquire how these and other qualifications of the rule in question might affect the present case, I pass to the consideration of another point.\nThe referees have found that the disputed line was actually-surveyed and run prior to the execution of the deed from Thomas to Joseph Brown, in 1808; that the grantor and grantee united in building a fence upon the line so run; and that this fence was maintained, by the original parties and by those claiming under them, substantially upon the same line, from the time of its erection by Thomas and Joseph Brown to the year 1852, when this suit was commenced. That during this entire period, of more than forty years, the original parties and those succeeding to their rights treated the fence as the true division line between them, and occupied and cultivated their respective lands accordingly.\nThese facts would seem to bring the case clearly within the settled rule in this state, which forbids the disturbance of a practical location which has been acquiesced in for a long series of years.\nThe counsel for the appellant takes the ground that the rule in question is based upon the idea of an agreement, either express or implied, as to the location of the line, and he cites .numerous cases to show that an agreement which is founded upon a mutual mistake of facts is not obligatory upon the parties. But I apprehend the counsel is in error in assuming that a parol agreement, either actual or supposed, fixing the boundaries, lies at the foundation of the rule. It is true that several of the cases make this suggestion, and speak of the long acquiescence of the parties as affording evidence of such an agreement. It is difficult, however, to support the rule upon such a basis. If acquiescence for a great number of years in an erroneous location is obligatory upon the parties merely as evidence of a previous parol agreement, then it must follow that any other proof establishing such an agreement would be equally conclusive upon them. If it is the agreement which binds, the nature of the proof, provided it be competent, is of course immaterial.\nHence, upon this theory, a deed may be made to convey land not at all described in it, by means of a mere parol agreement, adopting boundaries entirely different from those mentioned in the deed. There are several dicta in this state which go, perhaps, to that extent, but no adjudged case. On the contrary, whenever the question has directly arisen, it has been held otherwise. In Jackson v. Douglas (8 John., 367) there was a virtual agreement as to the line, and possession taken and continued for eight years in accordance with it, and yet the court held that this did not settle the question of boundary. Again, in Stuyvesant v. Dunham (9 John., 61), when a crooked line having been maintained for more than twenty-five years, the parties had mutually agreed that the line was in reality straight between two admitted termini, yet on one of the parties acting upon this agreement, and running a straight line, the other was held not bound.\nIt seems impossible to hold that a mere parol agreement, adopting a line different from that described in the deed,- is obligatory, without violating the statute of frauds, both in its letter and spirit. It is said in some of the cases, by way of sustaining the doctrine, that the agreement does not transfer the title, but simply determines the boundaries of the land described; a distinction, the soundness of which may well be doubted. The supposition of such an agreement, in cases of long acquiescence in an established line, is, as I apprehend, entirely superfluous. The acquiescence in such cases affords ground not merely for an inference of fact, to go to the jury as evidence of an original parol agreement, but for a direct legal inference as to the true boundary line. It is held to be proof of so conclusive a nature that the party is precluded from offering any evidence to the contrary. Unless the acquiescence has continued for a sufficient length of time to become thus conclusive, it is of no importance. The rule seems to have been adopted as a rule of repose, with a \"view to the quieting of titles; and rests upon the same reason as our statute prohibiting the disturbance of an adverse possession which has continued for twenty years. In all cases in which practical locations have been confirmed upon evidence of this kind, the acquiescence has continued for a long period, rarely less than twenty years. In Jackson v. Bowen (1 Caine, 358), it was thirty-six years; in Jackson v. Dysling (2 id,, 198), forty years; in Jackson v. Vedder (3 John., 8), the same; in Jackson v. Dieffendorf (id., 269), thirty-eight years; and in Jackson v. McCall (10 John., 377), forty-one years.\nIf the only effect of acquiescence is to prove a previous parol agreement, there must be many cases where such acquiescence for a few years only, attended by other corroborating circumstances, would afford evidence as strong as acquiescence alone for a much longer period; and yet no such case has ever arisen. In Kip v. Norton (12 Wend., 127), an acquiescence of four or five years, and in Adams v. Rockwell (16 Wend., 285), of eleven years, were held insufficient. There may be cases in which an express agreement recognizing an erroneous boundary will conclude a party; as where the other party, acting upon the faith of such agreement, has made expensive improvements, the benefit of which will be lost to him if the line is disturbed. Such cases, if they exist at all, rest upon a different principle, viz., that of estoppel in pais, and have no bearing upon the question under discussion.\nIt follows from this reasoning that it is no answer to the proof of acquiescence in this case, that parties are not bound by an agreement entered into under a mutual mistake as to facts. The plaintiff is precluded, upon principles of public policy, from setting up or insisting upon a line in opposition to one which has been steadily adhered to upon both sides for more than forty years. If necessary, in order to establish this line, the law will presume a conveyance in accordance with it. This is decisive of the case, without regard to the question whether the plaintiff\u2019s claim is barred under the statute concerning adverse possession.\nIt is clear that there can be no recovery of the small strip of land in possession of the defendant, in consequence of the removal of the fence for the purpose of clearing up the ridge. That removal was made by the mutual consent of the parties, and it was as much the duty of the plaintiff as of the defendant to restore the fence to its original location. At all events the plaintiff was bound to give the defendant notice to replace it before commencing a suit. The demand of possession proved in the case makes no reference to the strip in question.\nThe judgment of the Supreme Court should be affirmed.\nBrows', J., delivered an opinion to the same effect; Com-stock and Shankland, Js., were absent; all the other iudges concurring,\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Selden, J."
+      }
+    ],
+    "attorneys": [
+      "Henry Smith, for the appellant.",
+      "Amasa J. Parlcer, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Baldwin v. Brown.\nPractical location and long acquiescence in a boundary line are conclusive, not upon the notion that they are evidence of a parol agreement establishing the line, but because they are of themselves proof that the location is correct, of so controlling a nature as to preclude evidence to the contrary.\nThe acquiescence of adjoining proprietors, for forty years in the practical location of a boundary line between their lands, is conclusive, although it be proved that such location was originally made under an agreement resulting from a mutual mistake as to facts.\nThe rule that fixed monuments are to prevail 'over courses and distances, in applying the description of land, applies with less force to those which are artificial than to natural and permanent objects, and fails entirely when, from the designation of quantity or other elements of description, it is apparent that the courses and distances are correct. Per Selden, J.\nAppeal from the Supreme Court. The action was brought to recover a strip of land four rods in width, and containing about six acres, lying between farms of which it was admitted that the plaintiff and defendant were respectively the owners. The cause was submitted .to referees, who reported in favor of the defendant, and found the following facts: In January, 1808, Thomas Brown, who was the common source of title, conveyed to Joseph Brown, under whom the plaintiff derived title, a farm described as containing one hundred acres ; the second boundary line is described in the deed as running upon a given course \u201c twelve chains and fifty links to a stake and stones.\u201d This line was run by a surveyor shortly before the delivery of the deed, who located the stake and stones at the distance of eleven chains (instead of twelve) and fifty links from the beginning of the line. Thomas and Joseph Brown, in the year 1808 or 1809, built a division fence between their lands, which started from the stake and stones, and ran along a line thus erroneously located by the surveyor. Both the parties to the deed, and their respective grantees, occupied and' cultivated the land up to this fence on their sides respectively, claiming to own to the fence, down to the summer of 1852, and neither Joseph Brown nor those holding his title claimed to own beypnd the fence. The fence had been moved, from time to time, by the consent of the owners on both sides, for the purpose of cleaning up the hedges which had grown along side it, and the line had thus become zigzag. In the summer of 1852, the plaintiff and defendant agreed to employ a surveyor to run and straighten the line, so that they .could rebuild the fence on the true line. In pursuance of this agreement, the surveyor ran the line, and it was then discovered, for the first time, that the premises of the plaintiff fell short of one hundred acres by about six acres, and that the line above mentioned, as located, fell short just one chain of the distance described in the deed from Thomas Brown to Joseph Brown, and in all the subsequent conveyances. The surveyor ran a new line; the plaintiff required the defendant, by written notice, to surrender possession :of the strip included between the fence and the thus ascertained line, and upon refusal brought this action. The plaintiff excepted to the report of the referees, in favor of the defendant, on the ground, among others, that it should have been .in his favor as to a.small strip of land belonging to him, which, .in consequence of the removal of the fence, by consent of the parties, for the purpose of clearing up a ridge, had been left inclosed with the land on the defendant\u2019s side of the fence. Judgment was entered on the report of the referees, and was, -on appeal, affirmed by the Supreme Court, at general term in the sixth district. The plaintiff appealed to this court.\nHenry Smith, for the appellant.\nAmasa J. Parlcer, for the respondent."
+  },
+  "file_name": "0351-01",
+  "first_page_order": 359,
+  "last_page_order": 365
+}

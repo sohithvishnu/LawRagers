@@ -1,0 +1,91 @@
+{
+  "id": 2019341,
+  "name": "Laub v. Buckmiller",
+  "name_abbreviation": "Laub v. Buckmiller",
+  "decision_date": "1858-06",
+  "docket_number": "",
+  "first_page": "620",
+  "last_page": "628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 N.Y. 620"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "25 Wend., 402",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/25/0307-01"
+      ]
+    },
+    {
+      "cite": "25 Wend., 402",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026591
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/25/0307-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 627,
+    "char_count": 15165,
+    "ocr_confidence": 0.567,
+    "pagerank": {
+      "raw": 2.760394231183477e-07,
+      "percentile": 0.8335231127374607
+    },
+    "sha256": "f72586147c7ab531d71c1174abad19a3e1e4da39346e869d7cc240c17c7a6be2",
+    "simhash": "1:30920c00574899c2",
+    "word_count": 2582
+  },
+  "last_updated": "2024-02-27T22:16:43.661042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Laub v. Buckmiller."
+    ],
+    "opinions": [
+      {
+        "text": "Roosevelt, J.\nThe plaintiff asks that a certain misdescription in his title deeds may be corrected, and that he may be awarded possession of the premises intended, according to their true boundaries, with damages for the alleged unlawful withholding. As the practice formerly stood, this would have been an incongruous complaint. But since the Code, \u201c the distinction between actions at law and suits in equity, and the forms of all such actions and suits heretofore existing, are abolished.\u201d (\u00a769.) The constitution, it is true, speaks of \u201c equity\u201d as distinguished from common \u201cjurisdiction,\u201d and of \u201c equity cases\u201d as distinguished from \u201ccases at law,\u201d and of cases entitled to \u201c trial by jury\u201d as distinguished from cases where that mode of trial was not \u201c heretofore used.\u201d But then it provides, also, for the appointment of three commissioners, whose duty it should be, seemingly with no other limit except legislative \u201c adoption,\u201d to \u201c simplify, abridge and reform.\" I shall not, however, discuss the constitutionality of the Code. The point not having been raised, may be safely reserved for another occasion. I shall assume, as has been several times decided, that \u201clegal and equitable relief may be asked for in one action,\u201d and that the plaintiff, claiming under a defective deed and showing sufficient grounds for its \u201creform,\u201d may have the same remedy as if he had brought two actions, one to reform the instrument and the other to enforce it as reformed.\nThe alleged mistake, in the present case, consisted of an error in one of the boundary lines. Three of the lines are without difficulty. The easterly line is one chain and twenty-five links along the road; its two termini being, clearly indicated. The westerly boundary is parallel with the eastern, and of precisely the same length. The north boundary runs nearly due east and west, deviating only five degrees, and being exactly two chains in length. The south boundary is not given. It must, of course, run between the south termini of the other two; but its length not being stated, it may be either crooked or straight. As the contents, however, are specified (one-quarter of an acre), and as a straight line of two chains, at right- angles, will make that exact quantity, the law, on the principle ut magis valeat quam pereat, will presume a parallel straight line of the same dimensions as the northern boundary, or, in other words, a regular rectangular parallelogram in preference to an irregular figure; especially where the description, as in this case, relates to a small town lot on the road side, and not to an extensive farm.\nThe defendant, moreover, admits, for such is the effect of his demurrer, that the erroneous description \u201c wag intended to cover the premises\" claimed, but insists, as matter of law, that the intention failed. He concedes, also, that the lot was part of the estate of the deceased Bichard Morrison, and that it was in the town of Hamburgh and on the designated highway. In the absence of any proof or suggestion to the contrary, we must presume that the deceased owned no other lot in the town. We have, then, the case of a surrogate\u2019s deed, conveying \u201c Bichard Morrison\u2019s quarter acre lot\u201d in a specified town. Such a description, even without the aid of the road, the posts, and the other particulars which are not open to doubt, would be sufficient of itself. (Dygert v. Pletts, 25 Wend., 402.)\nThe Supreme Court at general term, therefore, very properly overruled the defendant\u2019s demurrer, and as he declined availing himself of the liberty of putting in an answer, the judgment should be simply affirmed, with costs.\nThe court concurred in the result of the preceding opinions.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Roosevelt, J."
+      }
+    ],
+    "attorneys": [
+      "F. J. Fiihian, for the appellant.",
+      "Perry G. Parker, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Laub v. Buckmiller.\nAn administrator\u2019s 'deed, made upon a sale under a surrogate\u2019s order, is effectual to convey premises described therein as a quarter of an acre, owned by the intestate, in a specified lot and town, one corner of the premises being definitely located by the description, and it not appearing that the intestate owned any other land in said town.\nThe addition to such description of an erroneous statement of metes and bounds which might form three sides of a parallelogram, but could inclose no land whatever, does not vitiate the grant.\nIt seems that an action will not lie to correct the description of land contained in a surrogate\u2019s records, order of sale, and a deed executed in pursuance thereof nor to reform a sheriff\u2019s deed.\nAppeal from the Supreme Court. The complaint alleged that, on the 11th day of November, 1822, one Richard Morrison was seized of the following real estate: \u201cAll that certain piece or parcel of land situate and being in the town of Hamburgh, county of Erie, known as a part of lot number two, in the ninth township, and eighth range of the Holland Land Company\u2019s land, and bounded as follows : Beginning at the western extremity of the highway, thirteen chains ninety-five links south of the north line of said lot number two; thence south, and bounding on said highway, one chain and twenty-five links, to a post at the intersection of the highway; thence north, eighty-five degrees west, two chains to a post; thence north, parallel with the east line, one chain and twenty-five links to a post; thence south, eighty-five degrees east, two chains to the place of beginning; containing itto of an acre, be the same more or less.\u201d\nThe complaint then states certain proceedings before the \u2022 Surrogate\u2019s Court of Erie county, by the administrator of Morrison, for the sale of the real estate. In the petition of the administrator of Morrison, and the deed afterwards executed by him December 1, 1837, in pursuance of the surrogate\u2019s order, the premises are described as part of lot two in the ninth township and eighth range, and as being in the town of Hamburgh, and as bounded as follows: \u201c Beginning at the western extremity of the highway, thirteen chains and ninety-five links south of the north line of said lot number two; thence south, on said highway, one chain and twenty-five links, to a post; thence north, parallel with the east line, one chain and twenty-five links, at the intersection of the highway, to a post; thence north, parallel with the east line, one chain and twenty-five links, to a post; thence south eighty-five degrees east, two chains to the place of beginning, containing r0-0 of an acre, more or less.\u201d The complaint avers that this last description was intended to cover the premises first mentioned and described, and no other; and also that possession of the premises first described was delivered to the purchaser at the administrator\u2019s sale.\nThe complaint then sets out divers conveyances, by which the land is conveyed to different persons, and finally on the 17th day of June, 1844, to the defendant; the recovery of three judgments against the defendant which were duly docketed so as to become liens on the land ; the issuing of executions on two of those judgments by virtue of which the land in controversy was sold to the plaintiff, and a deed duly executed to him by the sheriff.\nThe description of the land in all the proceedings and conveyances, as well by the sheriff as the administrator, subsequent to the filing of the administrator\u2019s petition before the surrogate, is the same as the description contained in that petition. The plaintiff demanded possession of the premises from the defendant, who was in possession, before bringing suit.\nThe complaint contains a prayer for judgment that the description of the premises in the several orders of the surrogate, and the proceedings and conveyances subsequently executed, be reformed and corrected so as to conform to the description first above given, and that the plaintiff recover of the defendant (who is alleged to be in possession of the premises) such possession.\nThe defendant demurred to the complaint on the ground that it contained no cause of action. Judgment was given for the defendant at the special term; and, the plaintiff appealing, the court at general term in the eighth district reversed the judgment, Mr. Justice Greene, delivering its opinion as follows:\nGreene, Justice. The allegation- of title in the plaintiff, accompanied as it is with allegations showing how he acquired his supposed title, does not entitle him to recover, if, in fact, he failed to acquire a title through the various conveyances set out in the complaint. The question depends entirely upon the sufficiency of the second description, set forth in the complaint, to pass a title to the premises in dispute. Does that description then identify this land. with sufficient certainty as the land intended to be conveyed ? It must be conceded that the place of beginning is certain and easily ascertainable. It is in the western extremity or line of the highway, thirteen chains and ninety-five links south of the north line of lot number two, of which the premises described are a part. The first course is equally definite, being \u201cthence south on said highway one chain and twenty-five links, to a post.\u201d The difficulty arises in dealing with the description of the next course, which is manifestly inaccurate and indeed unintelligible. It is \u201cthence north, parallel with the east line, one chain and twenty-five links, at the intersection of the highway, to a post.\u201d The place of beginning, as we have seen, is in the western line of the highway, and the first course runs on that line. The last course mentioned in the description runs from a point \u2022 still west of this to the place of beginning, thus clearly indicating the .line first described as the east line of the lot, and. the description of the second course requires that it shall run from the termination of the first, and parallel to it, in a direction opposite from that which the first course runs.\nThat there is a mistake in the description of the second course is apparent from two facts : In the first place, it is impossible to run such a line, and in the next place it is repugnant to that part of the description that precedes it. It remains to be seen whether enough can be gathered from the rest of the description to. do away with the obscurity occasioned by the description of this second course, and identify the premises in dispute with reasonable certainty. The third course is thus described: \u201c Thence north, parallel with the east line, one chain and twenty-five links, to a post.\u201d Thus we have two lines,, nearly identified, as being the east and west lines of the lot, running parallel to each other, and being each one chain and twenty-five links in length.\nThe starting point of the west line is- not intelligibly given in the description of it, owing to the mistake in the description immediately preceding it. But the termination of this line is definitely fixed by the description which is given of it, when read in the connection with the description of the last line.\nThat description is in these words: \u201cthence south eighty-five degrees, east two chains to the place of beginning.\u201d The termination of the westerly line is thus fixed at a point north, eighty-five degrees west of the place of beginning, and two chains distant therefrom.\nWith this point thus fixed, and the length and course of the line, which are accurately described, the starting point is clearly enough indicated to be ascertained with mathematic certainty. The only imperfection in this description, then, is, that the south line of the premises is not given in terms. But from what is given, I think the premises in question are described and designated with sufficient certainty. It is apparent,- from a careful reading of the description, that the error arose from mistaking the west for the south line of the premises, and inserting a description of the west line twice. The mistake, however, is not, in my opinion, one which should be held to defeat the operation of the conveyance. Rejecting that part of the description, we have still enough to designate a parallelogram of land, being part of lot number two, and lying west of the highway and south of the point in the line of the highway designated as the place of beginning, extending two chains east and west, and one chain and twenty-five links north and south. No construction that can be put upon the erroneous part of the description, if indeed it is susceptible of any possible construction that can make it intelligible, can change this result.\nThis case is stronger for the plaintiff than the case of Dygert v. Tletts (25 Wend., 402). That was an action of ejectment. The plaintiff claimed title under the will of his father. The defendant claimed under a sheriff\u2019s deed, executed, and a sale of the premises described in the deed, on an execution against the plaintiff. The description in the deed was, all the right, title and interest of the said John Dygert, of, in and to all that certain lot of land, being on the south side of the Otsquago creek, bounded, &c.. The description then gives one line only, and does not state on which side of the line the lands intended to be conveyed are situated. The plaintiff gave in evidence the will of his father, which substantially described the same line, it being the north line of lots formerly owned by the plaintiff\u2019s father. The defendant proved that the land claimed by the plaintiff was in fact between the line described in the deed of the sheriff and the creek. The circuit judge held the deed void for uncertainty. The Supreme Court granted a new trial. Nelson, Ch. J., held that the description in the deed, taken in connection with the conceded fact that the premises in dispute lay adjoining the creek, and the fact that no ambiguity existed in consequence of proof that the plaintiff owned any other lot, or that there was another lot to which the description was applicable, was sufficient to designate the lot in dispute. The learned chief justice said: \u201c The plaintiff owned but one lot, and in respect to it every line and locality in the deed went to designate it.\u201d In this case, we have every circumstance that existed in the case cited, and the additional fact that the defendant who bought by this identical description has possessed and occupied the land in dispute ever since he took his deed.\nI think the learned justice at the special term erred in holding that the complaint disclosed no cause of action. I concur with him in the opinion upon which, I apprehend, the cause was decided by him, that this court has no power to correct the records of the Surrogate\u2019s Court, or the description of the premises contained in the sheriff\u2019s deed. It seems to have been assumed, on the argument at the special term, that such correction was necessary, but I think the complaint shows title in the plaintiff, and that he is entitled to recover upon its averments.\nThe'judgment should be reversed, and the defendant should have leave to withdraw his demurrer and answer on payment of costs in twenty days.\nThe defendant elected not to withdraw his demurrer and answer, and judgment final having been perfected against him, appealed to this court.\nF. J. Fiihian, for the appellant.\nPerry G. Parker, for the respondent."
+  },
+  "file_name": "0620-01",
+  "first_page_order": 620,
+  "last_page_order": 628
+}

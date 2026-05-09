@@ -1,0 +1,103 @@
+{
+  "id": 2032809,
+  "name": "Jackson, ex dem. Barclay & Bayard, against Blodget",
+  "name_abbreviation": "Jackson ex dem. Barclay v. Blodget",
+  "decision_date": "1825-10",
+  "docket_number": "",
+  "first_page": "202",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Cow. 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 John. Rep. 580",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/1/0580-01"
+      ]
+    },
+    {
+      "cite": "18 John. 487",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        8710839
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/18/0487-01"
+      ]
+    },
+    {
+      "cite": "4 John. Rep. 43",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 John. Rep. 590",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 538,
+    "char_count": 11768,
+    "ocr_confidence": 0.617,
+    "pagerank": {
+      "raw": 1.3407033545224036e-06,
+      "percentile": 0.9899333899389501
+    },
+    "sha256": "bd75fd5004215c8c9ce91337707e9ed7155479bab3cfd21e00be7970be77d1aa",
+    "simhash": "1:3b3fcd73f4666ec6",
+    "word_count": 2062
+  },
+  "last_updated": "2024-02-27T16:22:07.774054+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Barclay & Bayard, against Blodget."
+    ],
+    "opinions": [
+      {
+        "text": "Curia, per Sutherland, J.\nThe bond from Hopkins to Barclay, was assigned by Barclay, to Rice, on the 28th of August, 1815 ; and notice of the assignment was given by Rice to Hopkins within three days thereafter.\nThe power of attorney from Barclay to Cole, to ask for and receive, &e. all that was due from Hopkins and others to Barclay, was given the 8th of November, 1815; more than two months after the assignment from Barclay to Rice. So far, therefore, as this demand against Hopkins was concerned, the power of attorney was a nullity. There was nothing due from Hopkins to Barclay upon it. The debt had become the property of Rice, and Hopkins had notice of it. Any payment, therefore, from Hopkins to Cole, upon this, bond, was a payment in his own wrong, and in fraud of the rights of the assignee. If Hopkins had no right to make the payment, Cole certainly had no right to receive-it; and any discharge, either of the debt or the mortgage, as between Hopkins and Rice, was a mere nullity. The power of attorney to Cole contained no express authority to discharge the mortgage. If he possessed that power, it was because it was implied in the authority given to receive what was due from Hopkins, and to give a receipt or discharge for it. But nothing being due from Hopkins to Barclay upon this bond, it having been previously transferred, there could be no implied authority to discharge the mortgage; which did not constitute a distinct and independent debt, but was merely collateral to the bond.\nIt is very clear, that if Cole had no authority to receive payment of the bond, he had none to discharge the mortgage. Whether the assignment of the bond, therefore, to Rice, carried with it the mortgage as its incident, or not, the acknowledgment of satisfaction by Cole, was an unauthorized and void act.\nIt is not pretended that Barclay expressly reserved the mortgage, when he assigned the bond to Rice, for the purpose of discharging it. What then was the legal operation of that assignment upon the mortgage? Was it, ipso facto, a discharge ? If it was not, then the mortgage must have accompanied the bond, although not expressly named in the assignment; for it could not exist as an independent security in the hands of one person, while the bond belonged to another. The debt, (the evidence of which was the bond,) is the principal; the mortgage the accessory \u2022, and omne princip\u00f3le trahit ad se accessorium. It is said by Lord Mansfield, in Martin v. Mowlin, (2 Burr. 978,) that a mortgage is a charge v.pon the land; and whatever will give the money, will carry the estate in the land along with it, to every purpose ; that the assignment of the debt, or forgiving it, will draw the land after it as a consequence, though it were only by parol. (Richards v. Syms, Barnard. Ch. Rep. 90, 93.) This opinion of Lord Mansfield was expressly recognized by the Court of Errors, in Green v. Hart, (1 John. Rep. 590.) There the mortgage was delivered to the assignee with the n\u00f3te, which was assigned. But Spencer, J. who delivered the unanimous opinion of the Court says, \u201c Had the mortgage not been delivered, nor any thing said about it, I should have considered the respondent, (the assignee,) on the failure of the mortgagor to pay the note, entitled to the aid of the mortgage.\u201d He observes, that it was competent to \"the parties to agree, that the mortgage should not be resorted to by the holder of the note ; but the proof of such agreement lies on the appellant, and it should be explicit.\nSo in Jackson v. Willard, (4 John. Rep. 43,) which was a case involving the question, whether lands mortgaged can be sold on an execution against the mortgagee, before foreclosure, it is observed by Kent, Ch. J. that \u201c the mortgage, before foreclosure, is but an incident attached to the debt, which cannot be detached from its principal; that the mortgage interest, as distinct from the debt, has no determinate value, and is not a fit subject of assignment. If i should be assigned, the assignee must hold the interest a the will and disposal of the creditor who holds the bond.\nThe control over the mortgaged premises must essentially reside in him who holds the debt. It would be absurd in principle, and oppressive in practice, for the debt and the mortgage to be separated, and placed in different and independent hands. (Pow. on Mortg. 1115-16.) The mortgage is the accessory, and accessorium non ducit, sed sequitur princip\u00f3le?\nThe mortgage in this case, therefore, although not expressly named, accompanied the bond, in judgment of law, when it was assigned to Rice; and vested in him all the rights of the mortgagee. There is no necessity, therefore, of resorting to the subsequent assignment of the mortgage itself by Barclay, except as affording evidence that he had not complied with the condition mentioned in the original assignment of the bond, upon which that assignment was to become void; and that the assignment, therefore, though originally conditional, as between Barclay and Rice, had become absolute.\nThe defendant, or those for whom he holds, claim as grantees of Hopkins, under a deed of December 10th, 1818; and seem to put forth as a ground of equity, at feast that the mortgagee, or his assignees, by leaving the mortgage m the hads of Cole, had been guilty of laches ; and enabled him and Hopkins to perpetrate a fraud upon an innocent purchaser. There is nothing in this case, to show that the grantee of Hopkins was an innocent purchaser; that he had not full notice of all the facts in the case. But admitting that he had not, it;would not vary the legal rights of the parties.\nI am of opinion that the plaintiff is entitled to judgment.\nJudgment for the plaintiff.",
+        "type": "majority",
+        "author": "Curia, per Sutherland, J."
+      }
+    ],
+    "attorneys": [
+      "L. F. Stevens, for the plaintiff.",
+      "H. Stephens, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Barclay & Bayard, against Blodget.\nThe assignment of a bond, or debt, secured by mortgage, passes the interest in the mortgage.\nThe debt is the \u2022 principal, and the mortgage but an accessory, which cannot exist as an independent debt.\nIf, therefore, after the assignment of a bond secured by mortgage, though the mortgage be not delivered, and notice of such assignment to the obligor, he pay the debt to the mortgagee, and take a discharge, this is in his own wrong, and void as to the assignee.\nEjectment, for part of lot No. 79, in the township of Virgil, and county of Cortland, tried at the circuit in that county, September 22d, 1832, before Rochester, C. Judge.\nOn the trial, the plaintiff gave in evidence a mortgage from one Hopkins to Barclay, one of the lessors of the plaintiff, of the premises in question, dated July 20th, 1815; which was proved and registered on the same day. This mortgage was conditioned for the payment of 450 bushels of rye, and 4 barrels of pork, according to the condition of a bond hearing the same date. He then gave in evidence an assignment, endorsed upon the bond, from Barclay to one Rice dated the 28th of August, 1815, reciting that Rice had become bail to the sheriff for Barclay, at the suit of one Johnson, and stating that in consideration of Rice\u2019s undertaking as bail, he did thereby assign, &c. all his right, &c. in the bond to Rice, upon the condition, that if he should pay Johnson\u2019s demand with costs, so as to indemnify Rice, then the assignment to be void; otherwise to be of force, so far as to indemnify Rice.\nIt was admitted that Rice gave Hopkins notice of this assignment, within three days after it was executed.\nThe plaintiff then offered in evidence an assignment endorsed on the bond from Rice to Bayard, one of the lessors of the plaintiff, dated the 12th February, 1817; and declaring that in consideration of Bayard\u2019s indemnity to Rice, against his obligation as bail, he did thereby assign, foe. his right, &c. in the bond, to Bayard. The introduction of this assignment, as evidence, was objected to, but it was admitted; and the plaintiff then proved an assignment of both mortgage and bond from Barclay to Bayard, dated May 23d, 1817, duly proved, and registered by the clerk of Cortland county, June 28th, 1817.\nThe defendant then gave in evidence a written power of attorney dated November 8th, 1815 ; by which Barclay appointed one Cole his attorney, to ask, demand, sue for and recover all that was due or owing to him from Hopkins, and Parnham, Shevalier, Coburn and Abby; and to receive all sum or sums of money, due to him from Shevalier, Coburn and Abby; and to release and discharge the same; and to do all things, touching the premises, as himself could do, were he personally present at the doing of the same.\nThe defendant then offered in evidence a receipt given by Cole to Hopkins, dated October 28th, 1816, of 450 bushels of rye and 4 barrels of pork ; and expressed to be the sum in full to satisfy the mortgage.\nThe plaintiff objected to this receipt as evidence, on the ground that the assignment to Rice, and notice to Hopkins operated as a revocation of Cole\u2019s authority; and that the payment was not in good faith ; and the Court sustained the objection.\nThe defendant then gave in evidence a regular discharge of the mortgage, dated April 10th, 1817, signed and sealed by Cole in Barclay\u2019s name, attested by two witnesses, ac- - knowledged and registered in the Cortland clerk\u2019s office sufficient in form to discharge the mortgage according tc the statute, &c.\nIt was admitted that the defendant was in possession as the tenant of one Messenger; and a deed in fee, of the premises in question, from Hopkins to Messenger, dated December 10th, 1818, duly proved and recorded, was given in evidence.\nIt was also admitted, that, at the time of the several as signments, the mortgage was in possession of Cole, and was by him delivered to Hopkins, when the discharge was executed ; and by the latter delivered to Messenger, when he received his deed.\nVerdict for the plaintiff, subject to the opinion of the Sm preme Court.\nL. F. Stevens, for the plaintiff.\nThe discharge was void. Cole\u2019s authority did not reach such a case. Beside, a statute discharge cannot be given by attorney. The clerk who records it has nothing before him showing the authority. Jackson v. Hopkins, (18 John. 487,) decides that this very power could not be recorded. If so, it was void. It could operate as notice to no one, within the statute, (1 R. L. 373.)\nThe payment to Cole was in fraud of the rights of the parties. The bond was previously assigned, and carried the mortgage as its incident. (1 John. Rep. 580.)\nCole\u2019s power to receive the debt was revoked by the assignments and notice to Hopkins: these acts being inconsistent with the power.\nH. Stephens, for the defendant.\nThe plaintiff seeks to recover against a bona fide purchaser, upon a latent equity ; though the latter took from a grantor having all the evidences of payment about him.\nJackson v. Hopkins goes on tjie ground that the power was not duly proved. On the the trial of this cause, the due execution of the power was not disputed. But the \u2019 right to register is not material. The payment of the mortgage was in itself a discharge. It was not delivered with the assignments. Barclay had a right to separate the bond and mortgage, by assigning one and retaining the other. The bond was the principal; the mortgage a mere collateral security. A.t any rate, the assignees are guilty of gross neglect, in not getting possession of the mortgage, and leaving it behind, to impose upon the pur-' chaser from Hopkins ; and if there be any loss, they should bear it. The subsequent assignment of the mortgage by Barclay, without its being delivered, and the registry of that assignment, could not alter the case. This was an unofficial registry; and was notice to nobody. (James v. Morey, 2 Cowen\u2019s Rep. 246.) The mortgage was paid before the assignment; and Bayard took subject to all previous equities."
+  },
+  "file_name": "0202-01",
+  "first_page_order": 202,
+  "last_page_order": 207
+}

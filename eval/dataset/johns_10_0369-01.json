@@ -1,0 +1,59 @@
+{
+  "id": 2135942,
+  "name": "Credit against Brown",
+  "name_abbreviation": "Credit v. Brown",
+  "decision_date": "1813-08",
+  "docket_number": "",
+  "first_page": "369",
+  "last_page": "369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Johns. 365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 109,
+    "char_count": 1272,
+    "ocr_confidence": 0.443,
+    "sha256": "e51e6b189aac0dcc30dc5ce4140e6efa94f2d2ce8c5a868e3b884b79e888a43d",
+    "simhash": "1:e3e60c0880c0ad78",
+    "word_count": 222
+  },
+  "last_updated": "2023-07-14T20:10:00.617269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Credit against Brown."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThere was no proof by which to charge the defendant, except his own confession, which the jury ought to have taken altogether, and not to have charged him with killing the dog) without giving due weight to what the defendant said, at the same time, in justification. He killed the dog, but he did so, because the dog assaulted him, in the night, in the highway. It was, therefore, a justifiable act, and the verdict of the jury was against, law and evidence.\nJudgment reversed. -",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Credit against Brown.\nIn an aciiosi of trespass Col1 killing a dogv; the plaintiff proved thai the defendants confessed he killed the plaintiff\u2019s dog(j who assaulted him in the highway, 5zc\u201e\nIt was that the con\u00bb fession mns\u00fa be taken alte\u00bb gether, and amounted ton justification.\nIN ERB.ORs on certiorari, from a justice\u2019s court; Brown sited Credit, before the justice, in trespass, for killing the plaintiff\u2019s dog. The defendant pleaded not guilty. There was a trial by jury. The plaintiff proved that the defendant confessed that he shot the plaintiff\u2019s dog, who assaulted him in the main road; and the defendant, at the trial, also confessed the fact, and the necessity of killing the dog.\nThe jury gave a verdict for the which the justice gave judgment. for three dollars, on"
+  },
+  "file_name": "0369-01",
+  "first_page_order": 389,
+  "last_page_order": 389
+}

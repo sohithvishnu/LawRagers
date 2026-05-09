@@ -1,0 +1,224 @@
+{
+  "id": 2036826,
+  "name": "William J. Kerr v. Richard E. Mount, jun., executor, &c.",
+  "name_abbreviation": "Kerr v. Mount",
+  "decision_date": "1864-01",
+  "docket_number": "",
+  "first_page": "659",
+  "last_page": "666",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "28 N.Y. 659"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Wend. 91",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0053-01"
+      ]
+    },
+    {
+      "cite": "11 John. 175",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137593
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0175-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 31",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 526",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Mass. 479",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hill, 524",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Wend. 535",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145749
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/5/0535-01"
+      ]
+    },
+    {
+      "cite": "9 John. 383",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Wend. 170",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/5/0170-01"
+      ]
+    },
+    {
+      "cite": "2 Black. 845",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Mass. Rep. 500",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053451
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0449-01"
+      ]
+    },
+    {
+      "cite": "12 John. 257",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139232
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/12/0257-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 91",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020960
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/17/0053-01"
+      ]
+    },
+    {
+      "cite": "11 John. 175",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137593
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/11/0175-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 31",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Wend. 170",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145717
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/5/0170-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 663,
+    "char_count": 16068,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 2.6203928101533124e-06,
+      "percentile": 0.9967907395373243
+    },
+    "sha256": "181510a8cd0f1e70568f49c89377a37cec13f3c24d63f7dc909f6f8f52970897",
+    "simhash": "1:c6e3a2b9582e020a",
+    "word_count": 2858
+  },
+  "last_updated": "2024-02-27T22:03:59.891753+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William J. Kerr v. Richard E. Mount, jun., executor, &c."
+    ],
+    "opinions": [
+      {
+        "text": "Denio, Ch. J.\nThe warrant of attachment was undoubtedly void. It could only be issued where an action was depending. The authority to grant it against a non-resident of the state is given only \u201c in an action for the recovery of money against a defendant who is not a resident of the state.\u201d (Code, \u00a7 227.) The mere issuing of a summons is not the commencement of an action for general purposes, (\u00a7 99.) Besides, the Superior Court had not jurisdiction of the action attempted to be commenced. In certain actions enumerated in \u00a7\u00a7 123 and 124 of the code, that court has jurisdiction, without regard to the defendant\u2019s residence, when the cause of action shall have arisen in th\u00e9 city; but an action on contract, for the recovery of money, is not among those there enumerated. In all other actions where there is only a. single defendant he must, to give the court jurisdiction, reside in the city or be served with the summons therein, (\u00a7 33.) Moreover where process has been set aside for irregularity, the party at whose instance it was issued can not justify under it, though probably the officer may. (Chapman v. Dyett, 11 Wend. 31.) The position mainly insisted on by the counsel for the defendant is, that if the seizure were considered to be illegal and an act of trespass on the part of the defendant, still the injury to the property by the negligence of the sheriff\u2019s officer was not chargeable to the defendant, but only to the sheriff. By procuring the process and placing it in the hands of the officer, the defendant, it is urged, became responsible only for conduct on the part of the officer which he would have had a right to pursue if the process had been valid. He did not direct or countenance the culpable negligence and inisconduct by which the property was injured, but only the seizure of it and the keeping-of it securely and carefully. If he had only done this, the property would have been returned to the plaintiff in the same state it was in when seized; the damages would have been nominal. In this action it is contended no recovery except as to the missing lamp, could be had, because it is brought to recover for the injury, and not for the seizure. This argument overlooks the legal nature of the action.- It was in substance an action for trespass de bonis asportatis, with an admission not usually inserted in the plaintiff\u2019s pleading in such an action, or at all necessary, that the trespasser had returned the property, and a qualification annexed to that concession, that it was returned in a damaged condition. If the same facts had appeared in evidence without having been set out in the complaint, the return would have gone in mitigation of damages, to. a certain extent, but in a degree less by the amount of injury they had sustained by the sheriff\u2019s negligence. (Vosburgh v. Welch, 11 John. 175; Hanmer v. Wilcox, 17 Wend. 91.) The circumstance that the plaintiff had unnecessarily inserted a statement of the mitigating fact in his complaint was of no legal consequence. The process being void, the party who set it in motion, and' all persons aiding and assisting him, were prima facie trespassers. If, though void as respects the party, it were yet regular and apparently valid on its face, it might protect the officer against an action, on the principle of Savacool v. Boughton, (5 Wend. 170;) but this prot\u00e9ction, being extended to the officer upon motives of policy, would' not at all aid the party. Acts which the officer might justify, would be trespasses against the party. There is no principle with which I am acquainted which can shield the defendant from the damages which the plaintiff has sustained by his wrongful act in causing this property to be seized under a void warrant of attachment. Hence I am in favor of affirming the judgment appealed from.\nJohnson, J.\nThe attachment under which the goods in question were taken and held hy the sh\u00e9riff, was set aside hy the Superior Court of the city of New York for irregularity. I incline to the opinion that the attachment was a nullity on account of the court, out of which it was issued, having no authority to issue stich a process. But I have not examined that question, because, conceding it to have been issued by proper authority in respect to jurisdiction, still it having been set aside as irregular, it' afforded no justification afterwards for acts previously done under it, to the party in whose favor it was issued. If issued by competent authority, and regular upon its face, it might afford protection to the officer for his acts previously done under it, but none whatever to the party. As to him, it was then, as though no process whatever had been issued, and the goods had been taken and detained by his order without any process. (Chapman v. Dyett, 11 Wend. 31; Smith v. Shaw, 12 John. 257; Hayden v. Shad, 11 Mass. Rep. 500; Codington v. Lloyd, 8 Adol. & Ell. 449; Parsons v. Lloyd, 2 Black. 845.) The moment it was set aside, the party became a trespasser ah initio.\nThe return of the property in such a case only goes in mitigation of damages. It is no answer in bar of the action for the wrong. (Hanmer v. Wilsey, 17 Wend. 91.) The officer in such a case is the agent or servant of the party in whose favor the process is issued, and the party is clearly liable for any injury to the goods caused by his negligent or careless acts while such goods are in his possession.\nThe judgment should therefore be affirmed.\nAll the Judges concurred.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Denio, Ch. J. Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "J. E. Burrill, for the appellant.",
+      "John C. Dimmick, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "William J. Kerr v. Richard E. Mount, jun., executor, &c.\nAn attachment can be issued against a non-resident of the state only where an action for the recovery of money is depending.\nThe mere issuing of a summons is not the commencement of an action, for general purposes. Until it is served, in case of a non-resident, so as to give the court jurisdiction of the person of the defendant, no attachment against \u25a0 his property can be issued.\nIn all actions, except those enumerated in sections 123 and 124 of the code, where there is only a single defendant, he must, to give the Superior Court of the city of New York jurisdiction, reside in the city, or be served with the summons therein.\nWhere process has been set aside for irregularity, it will afford no justification to the party at whose instance it was issued, for acts done under it.\nA process being void, the party who sets it in motion, and all persons aiding and assisting him, are prima facie trespassers, for seizing property under it.\nActs which an officer might justify under process actually void but regular and apparently valid on its face, will be trespasses as against the party.\nThe moment process is set aside for irregularity, the party becomes a trespaser ah initio; and the return of the property will only go in mitigation of damages. _ It is no answer in bar of an action for the wrong.\nThe officer, in such a case, is the agent or servant of the party in whose favor the process is issued, and the party is liable for any injury to the goods, caused by his negligent or careless acts while such goods are in his possession.\nAppeal by the defendant from a judgment of the Supreme Court. The complaint alleged the illegal seizure by the original defendant, Moffat, of two casks of certain valuable lamps called oleostatic lamps, being fifty-eight in number, under pretense of an attachment in favor of one Cole, against the property of the plaintiff.' It admitted that all the lamps except one had been returned to the plaintiff under certain proceedings in the Superior Court of the city of New York, but it alleged that when returned they were in a damaged state, having been injured after the taking. The answer set up an attachment in favor of Cole against the plaintiff, and it denied that the lamps sustained any injury before their return to the plaintiff. It appeared on the trial that the plaintiff resided in the city of Philadelphia, and that on the 3d of May, 1849, Calvin L. Cole applied, on affidavit, to Thomas J. Oaklet, Chief Justice of the Superior Court, for a warrant of attachment against the property of the plaintiff. The affidavit of Cole stated that the plaintiff was not a resident of this state, hut a resident of Philadelphia, in the state of Pennsylvania, and was indebted to the defendant in the sum of $450 for the rent of certain premises in Broadway, New York, and added, \u201cand deponent has commenced an action for the recovery of said sum of money, a summons has been issued therein.\u201d The Chief Justice accordingly issued a warrant reciting the affidavit, and directing the sheriff of the city and county of New York to attach and safely keep all the property of the plaintiff in the present action, which was within the city and county of New York. It appeared that under this precept a deputy sheriff had seized and taken possession of the two casks of lamps, the taking having been directed by Moffat, the original defendant in this action, who acted in behalf Cole and the alleged creditors. It further appeared that on the 7th of November, 1849, the plaintiff Kerr caused a motion to be made in the Superior Court to set aside the attachment and require the sheriff to return the property to the said plaintiff. On this motion an order was made setting aside the attachment. The case is reported in 2 Sandf. Sup. Ct. Bep. p. 660. Long afterwards the sheriff returned the casks of lamps, except one of the lamps, to the plaintiff, and they were thenceforth kept in a store under his direction. The plaintiff\u2019s evidence showed that while in the hands of the deputy sheriff, the lamps had been taken out of the casks and put back into them, in doing which they had been considerably damaged. There was some contradictory evidence on the subject of the damage. At the close of the plaintiff\u2019s evidence the defendant\u2019s counsel moved for a nonsuit, on the ground that the defendant was not in any event responsible for the injury to the lamps; and he excepted to the refusal of the judge to grant the motion. At the close of the case he desired the jury to be charged that the defendant Moffat was not responsible for any damage to the property in question caused by or resulting from the negligence of the sheriff; that the damage was too remote, and that Moffat, if liable at all, was only liable for the taking of the property. The judge declined to so charge, but on the other hand he charged that if the jury found that the plaintiff was the owner of the property, and that it was taken and removed by the sheriff by the direction of Moffat, the plaintiff was entitled to recover for the injury done to it between the removal and the return of it to the plaintiff. The defendant\u2019s counsel excepted to the several rulings against him, and to the charge. The verdict was for the plaintiff for $483 damages. After an affirmance at the general term, the original defendant, Moffat, brought this appeal. During its pendency he died, and the present defendant, his executor, was substituted in his place, The case was submitted on printed briefs.\nJ. E. Burrill, for the appellant.\nI. In seizing the property, the sheriff acted in his official capacity as an.officer of the law, and not as the private agent of the defendant, and the attachment was a full protection to him. (Savacool v. Boughton, 5 Wend. 170; Parker v. Walrod, 16 id. 518; Webber v. Gay, 24 id. 485; Parsons v. Lloyd, 3 Wils. 34; 1 Archb. Nisi Prius, 365; 2 id. 507, 509.)\nII. As soon as the property was taken by the sheriff, it was in the custody of the law, and beyond the reach and control of the defendant, and he is not liable for the injuries thereafter sustained by it. 1. In retaining the custody of the property, the sheriff acted in his official capacity, and not as the private agent of the defendant. 2. The complaint charges that the damage complained of resulted from a violation and neglect of duty on the part of the sheriff, in not taking proper care of the property after it had been seized and taken possession of by him. 3. There is no proof that the defendant had any control over the property after it had passed into the hands of the sheriff, or that he in any manner interfered therewith. (Cases under Point I; Jenner v. Jolliff, 9 John. 383.)\nIII. The defendant\u2019s liability in respect to the property arose from having put the sheriff in motion, by the delivery of the attachment to him for execution, and all that was done by the sheriff, at the instigation or by the direction of the defendant, was the seizure of the property, and the defendant\u2019s liability must be limited to the damages resulting from the natural and proximate consequences of such act. (2 Greenl. Ev. \u00a7 256; Armstrong v. Percy, 5 Wend. 535-8; Crain v. Petrie, 6 Hill, 524.)\nIY. This action is not brought to recover damages for the original taking, but for the damages arising from injuries to the property occasioned by the want of that care and diligence in respect to the custody of the property, which the sheriff was properly and legally bound to exercise. And the rule of damages is not necessarily the same as in an action of trespass for the original taking.\nV. Regarding the sheriff as the agent of the defendant, still the only authority presumed by the law to have been conferred upon him, is an authority to do all lawful acts belonging to his employment. (Story on Agency, \u00a7 308; Foster v. Essex Bank, 17 Mass. 479; Gray v. Portland Bank, 3 id. 264.)\nYI. The evidence did not establish that the attachment was void or irregular, or that it had been set aside on either of those grounds; but, on the contrary, it appears that the attachment was legally and rightfully issued, and non constat that it was not set aside on giving the undertaking required by law. (Newberry v. Lee, 3 Hill, 526, 7; Code, \u00a7\u00a7 229, 240.)\nVII. The attachment was valid and effectual, and justified the taking and detention of the property. (Code, \u00a7\u00a7 227-229.)\nJohn C. Dimmick, for the respondent.\nI. The attachment under which the property in question was taken was unauthorized and without jurisdiction on the part of the court or officers issuing it, as Kerr, the defendant in the attachment, was not a resident of this state, and had not been served with a summons in the action in the Superior Court when the attachment was issued.. All persons concerned in the taking of the property were, therefore, trespassers. (Fisher v. Curtis, 2 Sandf. Sup. Court Rep. 660.)\nII. If the attachment had been regular in the first instance, yet having been set aside by the court, it can not be any protection to the defendant Moffat, and he stands before the court as though he had taken the goods without any process whatever; for a process set aside by the court is as no process. (Chapman v. Dyett, 11 Wend. 31.)\nIII. The defendant Moffat being one of the original trespassers concerned in taking the property, is liable to the plaintiff for all damages sustained by the plaintiff in consequence of the wrongful taking of his property on returning the same in an injured condition. 1. By taking the property Moffat became liable to the plaintiff for the full value of the property. 2. This amount of damages may be mitigated by showing that the plaintiff subsequently repossessed himself of the property: the benefit the plaintiff derived thereby depending upon the condition of the property when returned, will be deducted from the full value he would otherwise recover. (Vosburgh v. Welsh, 11 John. 175; Hanmer v. Wilsey, 17 Wend. 91.)\nIV. The action we have brought is the substitute for trover or trespass before the code, and there can be no doubt that before the code Moffat was liable to us in trov\u00e9r or trespass for these goods, and in that action the plaintiff would recover the whole value of the goods, subject to the right of the defense to show in diminution of damages a return of the property. If the property, when returned, was injured to half its valu\u00e9, the plaintiff\u2019s damages would be diminished one half, and the residue he would be entitled to recover. (See cases above cited under third point.)"
+  },
+  "file_name": "0659-01",
+  "first_page_order": 663,
+  "last_page_order": 670
+}

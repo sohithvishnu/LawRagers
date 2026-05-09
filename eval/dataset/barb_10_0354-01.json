@@ -1,0 +1,85 @@
+{
+  "id": 2413731,
+  "name": "Troup vs. Hurlbut",
+  "name_abbreviation": "Troup v. Hurlbut",
+  "decision_date": "1851-01",
+  "docket_number": "",
+  "first_page": "354",
+  "last_page": "359",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Barb. 354"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wend. 525",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Wend. 568",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Wend. 226",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 553,
+    "char_count": 12400,
+    "ocr_confidence": 0.471,
+    "pagerank": {
+      "raw": 3.361387075581038e-07,
+      "percentile": 0.8753070159688847
+    },
+    "sha256": "8588787c313388241a93a4ec54400cc6398a28093ae940c38d6400f8f85f4b57",
+    "simhash": "1:300782f14f48a64c",
+    "word_count": 2204
+  },
+  "last_updated": "2024-02-27T17:24:18.612535+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Troup vs. Hurlbut."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Monson, J.\nThis action was commenced on the 31st of January, 1849, to recover damages for overflowing the plaintiff\u2019s land, by reason of the defendant\u2019s mill-dam, and was brought to trial before Mr. Justice Johnson and a jury, at the Broome circuit, on the 12th December, 1849, when a verdict was rendered for the defendant. On the trial the defendant offered in evidence, a deed from William Rogers to John Dusenbury, dated 16th October, 1817; also a deed from Rogers to Crocker, dated 18th July, 1817, and a deed from Coryell to Crocker, dated 12th of April, 1815. To which the counsel for the plaintiff objected, on the grounds that they had not been acknowledged, or proved, or recorded; and were void as against, the plaintiff who claimed to be a bona fide purchaser without notice. But the court overruled the objections and admitted the deeds in evidence. Dusenbury went into possession under his deed, and the defendant offered to show that the property described in said deeds had been held agreeably to them, from their dates to the commencement of this suit.\nThe general doctrine is, that whatever puts a party upon inquiry, amounts, in judgment of law, to notice; provided the inquiry becomes a duty, as in the case of purchasers and creditors, and would lead to the knowledge of the requisite fact by the exercise of ordinary diligence and understanding. (4 Kent's Com. 179.) So the purchaser of an estate in the possession of tenants is chargeable with notice of the extent of their interests as tenants; for, having knowledge of the tenancy, he is bound to inform himself of the conditions of the lease. The general rule is, that possession of land is notice to the purchaser, of the possessor\u2019s title. (Id. and note b.) Where the purchaser under an unregistered deed was in the open and visible possession of the premises, it was held sufficient notice to protect him against a subsequent purchaser, and to charge the latter with a knowledge of his rights. (6 Wend. 226.)\nIf a deed is 30 years old, it may be admitted in evidence without any proof of its execution, (1 Phil. Ev. 477,) provided the possession of the thing it assumes to convey has gone along and been held in accordance with its provisions. (Cowen & Hill\u2019s Notes to Phil. Ev. p. 1311.)\nThe plaintiff objects to the charge of the judge to the jury, that if they found that the mill was built in 1814, and was in operation when the deed from Nichols to Crocker was given, and that the defendant had not flowed more land than was flowed at the time Crocker received his deed, then the defendant was entitled to a verdict. This deed was dated 12th April, 1815, and conveyed the Gregory and Dusenbury lot on which the mill stood. The defendant, as I understand, derives title from Nichols, to the lands overflowed, by subsequent conveyances ; and which, having been duly recorded, the plaintiff claimed entitled him to be considered as a bona fide purchaser without notice. I am unable to discover any error in this charge.\nThe general principle insisted on by the plaintiff is undoubtedly correct; that there must have been a continued adverse using of the water for twenty years, to a certain extent, to give a right by possession to overflow to that extent. (17 Wend. 568.) But we will suppose a mill in operation, whose dam causes an overflow of three acres of land. The occupant of the mill takes a deed from the owner of the land, of two acres, including the mill and dam. I should think that the grantee acquired the right to maintain the dam at the height it was at the time of the purchase, and that he and his grantees would not be responsible to the grantor, or those holding under him, for any injury which the other acre might receive from an overflow of water produced by the dam. (5 Wend. 525. 4 Kent\u2019s Com. 467.) Quando aliquid conceditur, conceditur id sine quo illud fieri nonpossit. (4 Kent\u2019s Com. 467, note e. Willes, 197. 1 Saund. 323, note 6.)\nThe plaintiff in his second point says that the dam was raised in 1845, flowing more land than was covered before; but the jury have found that the defendant had not flowed more land than was flowed at the time Crocker received his deed, and I do not think their verdict is so entirely against evidence as to justify us in disturbing it.\nI am of opinion that the judgment should be affirmed.",
+        "type": "majority",
+        "author": "By the Court, Monson, J."
+      }
+    ],
+    "attorneys": [
+      "Dickinson & Tompkins, for the appellant.",
+      "Hotchkiss & Seymour, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Same Term.\nBefore the same Justices.\nTroup vs. Hurlbut.\nA deed thirty years old may be admitted in evidence without any proof of its execution; provided, the possession of the property which such deed assumes to convey has gone along with, and been held in accordance with the provisions of the deed.\nThe open and visible possession of premises, by a purchaser, under an unregistered deed, is sufficient notice to protect him against a subsequent purchaser, and to charge the latter with a knowledge of the occupant\u2019s rights.\nThe general rule is, that possession of land, is notice to the purchaser, of the possessor\u2019s title.\nIt is the general doctrine, that whatever puts a party upon inquiry, amounts, in judgment of law, to notice; provided the inquiry becomes a duty, as in the case of purchasers and creditors, and would lead to the knowledge of the requisite fact by the exercise of ordinary diligence.\nSo,' the purchaser of an estate in the possession of tenants is chargeable with notice of the extent of their interests; for, having knowledge of the ten. ancy, he is bound to inform himself of the conditions of the lease.\nThis was an appeal to the general term of the court, hy the plaintiff, John Irvine Troup, from a judgment entered on a verdict rendered for the defendant, John Hurlbut. The action Was brought to restrain the defendant from flowing, hy means of his mill-dam, the lands of the plaintiff; and to recover da\u00bb\u00bb ages for the injury which the plaintiff had thereby already sustained. The plaintiff was the owner of lots Nos. 9 and 12 in Nichols\u2019 Tract, in the county of Broome, and the defendant was in possession, as owner, of a saw-mill and the mill-dam thereof, on another lot in the said tract, known as the Dusenbury and Gregory lot, and which adjoined lots Nos. 9 and 12. The mill-dam was constructed across Fly creek, which flows from lot No. 12, to the line of the defendant; and by reason of his dam. the water in the creek was obstructed, and thrown back upon lots Nos. 9 and 12, by that means overflowing several acres of the plaintiff\u2019s land. The defendant in his answer set up the uninterrupted possession and occupation of the mill and mill-pond for upwards of thirty years then last past, in himself and those under whom he claimed ; and averred that he and they, for that space of time, had held the same adversely and in hostility to all other persons claiming or pretending to have any right or title thereto; and that he and they had, for that space of time, flowed the lands covered by said pond, in hostility to all persons claiming the lands, or claiming any right to prevent the flowing of those lands ; and that he and they had occupied and enjoyed for the same space of time, the mill, mill-dam, pond of water, and all the ground covered by the same, as their own estate, property, land and water privilege. The answer denied all the right and claim of the plaintiff as set forth in his complaint. The reply of the plaintiff denied all the allegations in the answer, except the defendant\u2019s possession of the mill and dam, and pond, for about three years, which was admitted. The reply also claimed that about 12 years previous to that time the mill and dam were suffered to go to decay, and were unoccupied for about two years, with the pond drawn off; that for 10 years then past the dam had been raised higher than originally, and more land had been flowed.\nThe cause was tried at the Broome circuit in December, 1849, before Justice Johnson and a jury. On the trial, the plaintiff, amongst other documentary evidence, produced an exemplified copy of the will of Henry Nichols, duly proven, &c. by which the lands, claimed by the plaintiff were, devised to him, and to Rebecca Davidge and Elizabeth Nichols; and a partition deed executed by and between the said three devisees, dated April 1, 1835, and recorded in Broome county, February 3, 1837, by which the said lands were conveyed to the plaintiff, and in consideration whereof, he released other premises to the other devisees. The defendant proved that the first mill was built in 1814 or 1815, when William Rogers was in possession; and after giving in evidence the record of a judgment in the court of common pleas of Broome county, in favor of one Fuller, against Rogers, docketed September 15, 1815, offered in evidence a deed purporting to be executed on the 16th of July, 1818, by Oliver Huntington, late sheriff, &c. by Thomas Hicox, late deputy, to John Dusenbury, and duly acknowledged on the-same day, reciting a sale on an execution in favor of said Fuller against Rogers for certain premises therein described; \u201c and also the one equal undivided third part of a certain saw-mill, seat and appurtenances thereunto belonging, situate in said town, [Windsor] and on a lot of land in the possession of William Walker, but owned by John Dusenbury.\u201d But the judge rejected the evidence on the ground that the defendant had not produced the execution. The following deeds were then offered in evidence on the part of the defendant, and objected to by the plaintiff\u2019s counsel, but admitted by the judge: Deed from William Rogers to Ezekiel Grocker, dated July 18, 1817, conveying an undivided one third part of the right to overflow lands of Rogers, which deed was duly acknowledged 19th July, 1817; a power of attorney from Henry Nichols to Emanuel Ooryell, dated April 30,1812, authorizing him to sell and convey all land belonging to him in Broome county; a deed from Emanuel Ooryell, attorney for Henry Nichols, to Ezekiel Grocker, dated April 12, 1815, conveying the Gregory and Dusenbury lot; a deed from Dusenbury and Gregory to George H. Eggleston of the same premises, dated June 22,1844, and a deed from G. H. Eggleston to the defendant and R. H. Johnson, of the same premises, dated June 28,1847. Exceptions were taken on behalf of the plaintiff to the several decisions of the judge admitting these deeds in evidence. D appeared in evidence that there had. been three mills at different times; the first, built in 1814 or 1815, stood 15 to 20 years ; the second stood about as long; and the third mill was built by Eggleston about 3 or 4 years before the trial. There was much conflicting testimony as to the height to which the several dams had raised the water in the pond, and the quantity of land they respectively, flowed. Five witnesses, who were examined on the part of the plaintiff, swore positively that the present dam of the defendant flowed the water much higher than the former one, and that the pond was larger than the old one. Eggleston, who had the mill and dam, now occupied by the defendant, rebuilt in 1845, testified that the dam he built was 6 or 8 feet higher than the dam was when he came there, and the pond flowed more land than it did when he went there. Alexander Rogers, who was one of the owners of the first mill when it was built in 1815, and helped build it himself, testified that it did not raise the water so high as the present mill and dam. Of the five witnesses who were examined for the defendant on this point, only one swore positively that the water was raised as high by the old dam as by the new one; one said that he thought the present mill raised the water six or eight inches higher than the second one; the other three did not speak very decidedly.\nThe judge charged the jury that they were to find, first whether the defendant had any right to flow lots 9 and 12; and second, if the defendant, having a right to flow those lots in any degree, had exceeded that right. He also charged the jury that if they should find that the'mill was built in 1814, and ivas in operation when the deed from Nichols to Crocker was given, and that the defendant had not flowed more land than was flowed at the time Crocker received his deed, then the defendant would be entitled to a verdict. The plaintiff\u2019s counsel excepted to the charge, and to each part of it. The jury found a verdict for the defendant.\nDickinson & Tompkins, for the appellant.\nHotchkiss & Seymour, for the respondent."
+  },
+  "file_name": "0354-01",
+  "first_page_order": 354,
+  "last_page_order": 359
+}

@@ -1,0 +1,71 @@
+{
+  "id": 2511916,
+  "name": "HUGH GREER VS. JOHN NORVILL",
+  "name_abbreviation": "Greer v. Norvill",
+  "decision_date": "1837",
+  "docket_number": "",
+  "first_page": "262",
+  "last_page": "265",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "3 Hill 262"
+    },
+    {
+      "type": "official",
+      "cite": "21 S.C.L. 262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "S.C. Ct. App.",
+    "id": 8810,
+    "name": "South Carolina Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 59,
+    "name_long": "South Carolina",
+    "name": "S.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 454,
+    "char_count": 8977,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 4.465351525902126e-06,
+      "percentile": 0.9986275261607916
+    },
+    "sha256": "e439f3211caeb38e47e05b1f450780f8fcdb297cc15386b8438202e24ff0bab1",
+    "simhash": "1:aa2af0d3f2029537",
+    "word_count": 1619
+  },
+  "last_updated": "2023-07-14T20:01:01.774894+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Earle and Evans, JJ. concurred.\u2019 Gantt, J. dissented."
+    ],
+    "parties": [
+      "HUGH GREER VS. JOHN NORVILL."
+    ],
+    "opinions": [
+      {
+        "text": "Curia, per\nButler, J.\nJustice seems to have been dime by the verdict of the jury in this case, and it is with reluctance that a majority of the court feel themselves constrained to send it back on one of the grounds taken by the defendant.\nAlthough the defendant\u2019s 2d ground has little to do with the merits of the case, it is of some importance in itself, and should not be passed over with silent indifference by the court. It grows out of the following state of facts.\nIsaac Smith had been empannelled on one of the regularly organized juries, for Fall Term, 1836, of Sparlanburg court. When this case was called, and about to be opened \u2014 and after both parties announced themselves ready for trial, the counsel for the plaintiff objected to Mr. Smith\u2019s sitting on the jury, alleging that he was such a violent enemy of the coun-' sel that he was appehensive the juryman would not do his client justice i the defendant\u2019s counsel objected to'the juryman\u2019s leaving the box \u2014 contending that he had a right to have his cause tried by the jury as he then found it empannelled and organized. The judge held that the objection of plaintiff, by way of challenge, was not sufficient to remove the juryman ; but, upon its being suggested by plaintiff\u2019s counsel that Mr. Smith was tax-collector of the district \u2014 the judge told him he was at liberty to\u2019 retire. It must be remarked, however, that he claimed no exemption, and did not make the motion that he should be excused; and the case stands thus \u2014 the juryman left the box on the motion and at the suggestion of one party, in opposition to the other, by leave of the court, not ob-\" t'ained at the instance of the juryman himself.\n\u25a0I will consider first the rights of the juryman. 2d. The rights of the judge ; and 3d. the rights of the parties to the issue.\n1st. Every tax-paying citizen of South Carolina is liable to be drawn as a juryman ; and when it falls-to his lot he has a right to serve, which no one can deprive him of, unless it can be shown that he labors under some legal disability which disqualifies him, or-unless he can be challenged for some good and sufficient cause by the parties in court. A legal exemption does not affect .the right, or in any wise abridge the privilege, of any man to sit on a jury. This privilege is of little value ordinarily, but there may be occasions and junctures in the republic, when a citizen would soonr er perish than yield his privilege.\n. A juryman may be excused at any time when he is not actually engaged in.the trial of a cause ; but he can at no time be arbitrarily discharged against his consent. A legal exemption is not a legal disqualification ; and until a juryman makes an application himself to be excused, a judge .should be loth to interfere with him. In this case Mr. Smith did not make an application himself to be discharged, but the application and suggestion came from one of the parties. The court did not sustain the party\u2019s motion or deny the juryman\u2019s right, but suffered the juryman to yield his privilege, against the consent of one of the parties to the issue. Now, it is obvious that the juryman gave up his seat' not exactly by virtue of an\" illegal challenge, but in consequence of it. I think the challenge should not only have been rejected, but that the juryman should have been instructed to keep his seat1. I do not say that a juryman might not be chair lenged for favor, by reason of his enmity either to one of the parties or to their counsel; but his incapacity must appear from higher evidence than the assertion or opinion of .counsel.\n2d. 1 maintain in its fullest plenitude the right of a judge to excuse a juryman on his application, for any cause which the judge may deem in his discretion legal and sufficient. But the right of excusing a juryman, on his application, is a very different thing from discharging him on the application of one of the parties. After a trial has commenced, and the jury is charged with the case, no juror can withdraw except from necess\u00fa ty, the consent of the parties, or the permission of the law; as where a juryman is taken ill, is withdrawn to make a mis-trial, or where the term has expired before the .termination of the case. As soon as the trial commences the parties acquire their rights, and cim compel the jury charged with the case to decide on it.\nNow, when do these rights of either party commence 1 It seems to me that as soon as the parties say they are ready to go to trial, they acr quire some right to control the jury. The very fact that one may chai? lenge, implies that another may object and require the challenge to be sustained before the panel can be broke. If one could make an objection, and the court could give the juror leave to withdraw without the consent of the other party, the party objecting might as well practically have no right at all. And this brings me to the question, what rights have the parties ? Either party has the right of challenge, and may show that the whole jury, or any part of them, should not sit in judgment on the case ; but if the challenge is not sustained, the opposite party has a right to the jury as it was empannelled. 1 am not now speaking of the right of a juryman to claim his legal exemption, but of the right of either party to remove him without the consent of the other. And I come to the conclusion that where neither party has a right to object to a juror, it is not competent for the court or the other party to remove him, except by consent. In this case it is very evident that Mr. Smith withdrew contrary to the consent of one of the parties, and upon the application of the other. The judge did not make an order that the juryman should withdraw, but gave him leave, under circumstances that he could not well \u00edemain. He was told by one of the parties that he had not that indifferency which would alone render him fit to pronounce an honest verdict. If Mr. Smith had remained, and, had decided against the plaintiff, his motives might have been arraigned with suspicion and censure; and if he had decided for him, his firmness might have been questioned. What could he do but withdraw under such circumstances, if he were at liberty to do so? And what advantages might not be obtained in this way ? By getting rid of .one juryman and substituting another, a wonderful difference may be made in the tribunal. The supernumerary jurymen are known, and frequently the order in which they stand ; and to remove one juror and substitute another, is giving a party a great advantage. This advantage would be frequently obtained if parties were not at liberty to stand upon and sustain their rights. Give the opposite party a right \u00f3f veto, and you secure him against the consequences of vague and licentious challenges of his adversary. Where the parties have rights, the power of the judge must be subordinate to them,- and I think the defendant\u2019s counsel had a right to object to the withdrawal of Mr. Smith, unless the plaintiff\u2019s counsel sustained his challenge by good and sufficient reasons. This juryman formed a part of the tribunal to which the defendant was willing to trust his cause when he announced himself ready for tri&l; that tribunal was changed contrary to his consent, and a new one formed at the instance of his adversary. I presume the change made no material difference in this case; por do I believe any undue advantage was sought. It is sufficient to say, however, that such might be the case, if the practice were to receive the sanction of the court.\n4. W. Thomson, for the motion. Henry and Bobo, contra.\nFrom all that I have said, I come to this conclusion : it is competent for a presiding judge to excuse or discharge a juryman on his own application ; but after the parties announce themselves ready for trial before a particular jury, the judge cannot discharge one of that jury, at the instance of one party and contrary to the consent of the other, unless the ground of challenge be-legal and properly sustained. The parties should be regarded as standing on their rights. Vague and capricious objections should not receive the countenance of the court. They only serve to irritate parties and to embarrass the court.\nIt is probable that a new trial will result in the same verdict. But the motion for a new trial must be granted.\nEarle and Evans, JJ. concurred.\u2019 Gantt, J. dissented.",
+        "type": "majority",
+        "author": "Butler, J."
+      }
+    ],
+    "attorneys": [
+      "4. W. Thomson, for the motion. Henry and Bobo, contra."
+    ],
+    "corrections": "",
+    "head_matter": "HUGH GREER VS. JOHN NORVILL.\nIt is competent for the presiding judge to excuse or discharge a juryman o\u00a1/ his own application; but after the parties announce themselves ready for trial,' before a particular jury, the judge cannot discharge one of that jury, at the instance of one party and contrary to the consent of the other, unless the ground \u00f3'f challenge be legal and properly sustained.\nB\u00e9f\u00f3re Richardson, J. at Spartaiilmrg, Fall Term, 1836.\nThe facts connected with the only ground of appeal on which the Court of Appeals expressed an opinion, are stated in the following opinion of that Court."
+  },
+  "file_name": "0262-01",
+  "first_page_order": 266,
+  "last_page_order": 269
+}

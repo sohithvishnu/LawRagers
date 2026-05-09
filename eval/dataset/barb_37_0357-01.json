@@ -1,0 +1,908 @@
+{
+  "id": 5091969,
+  "name": "The People of the State of New York, The Trustees of the Sailors Snug Harbor in the City of New York, James Brown, William W. Chester, George W. Varian and Samuel B. Althause vs. John Kerr and eleven other individuals and the Mayor, Aldermen and Commonalty of the City of New York",
+  "name_abbreviation": "People v. Kerr",
+  "decision_date": "1862-07-21",
+  "docket_number": "",
+  "first_page": "357",
+  "last_page": "430",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 Barb. 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "25 Wend. 462",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026600
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/25/0353-01"
+      ]
+    },
+    {
+      "cite": "13 Barb. 646",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777843
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/13/0646-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. 571",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011103
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0571-01"
+      ]
+    },
+    {
+      "cite": "1 Denio, 524",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0524-01"
+      ]
+    },
+    {
+      "cite": "1 Serg. & R. 219",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 N. Y. Rep. 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Wend. 77",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2022093
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/18/0077-01"
+      ]
+    },
+    {
+      "cite": "22 Barb. 490",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Barb. 489",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Barb. 244",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4930961
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/15/0244-01"
+      ]
+    },
+    {
+      "cite": "28 Barb. 240",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2424452
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0240-01"
+      ]
+    },
+    {
+      "cite": "4 Duer, 22",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 How. Pr. 389",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2194461
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/8/0389-01"
+      ]
+    },
+    {
+      "cite": "6 Met. 425",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        9454331
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/47/0425-01"
+      ]
+    },
+    {
+      "cite": "28 Barb. 210",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2424527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0210-01"
+      ]
+    },
+    {
+      "cite": "7 Abb. 108",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 N. Y., Rep. 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Abb. 289",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wend. 351",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011203
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0351-01"
+      ]
+    },
+    {
+      "cite": "19 John. 372",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 N. Y. Rep. 163",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wend. 159",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass. R. 453",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000718
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0371-01"
+      ]
+    },
+    {
+      "cite": "11 Barb. 414",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4909575
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/11/0414-01"
+      ]
+    },
+    {
+      "cite": "8 Wend. 85",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147362
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0085-01"
+      ]
+    },
+    {
+      "cite": "2 John. 357",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6774024
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "447"
+        },
+        {
+          "page": "483"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/2/0356-01"
+      ]
+    },
+    {
+      "cite": "7 Barb. 524",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Dana, 289",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        4431541
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/38/0289-01"
+      ]
+    },
+    {
+      "cite": "10 Barb. 360",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2413829
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/10/0360-01"
+      ]
+    },
+    {
+      "cite": "11 Pet. 639",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 John. 358",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140938
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0358-01"
+      ]
+    },
+    {
+      "cite": "7 Pick. 507",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 531",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Wend. 9",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2022082
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/18/0009-01"
+      ]
+    },
+    {
+      "cite": "5 Duer, 130",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1350858
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/12/0130-01"
+      ]
+    },
+    {
+      "cite": "15 Barb. 193",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4932083
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/15/0193-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. 577",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1933863
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/2/0577-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 311",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485411
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0311-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. Rep. 97",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297806
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "231"
+        },
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0089-01"
+      ]
+    },
+    {
+      "cite": "16 Pick. 175",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2022291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/33/0175-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 469",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cush. 63",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1986170
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/58/0063-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 567",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Barb. 223",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2413425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/10/0223-01"
+      ]
+    },
+    {
+      "cite": "4 Hill, 384",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Hill, 31",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wend. 325",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0325-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 638",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "pin_cites": [
+        {
+          "page": "663, 668, 694"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Cranch, 51",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Mass. R. 146",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Barb. 273",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4940943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/16/0273-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y. Rep. 514",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 N. Y. Rep. 506",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/14/0506-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 459",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8594026
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/3/0459-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 10",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Hill, 621",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Wend. 131",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "pin_cites": [
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Harr. 389",
+      "category": "reporters:state",
+      "reporter": "W.W. Harr.",
+      "case_ids": [
+        1864882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/del/4/0389-01"
+      ]
+    },
+    {
+      "cite": "4 Pick. 464",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Wheat. 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/22/0001-01"
+      ]
+    },
+    {
+      "cite": "9 John. 507",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372216
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/9/0507-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. R. 143",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/2/0137-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 21",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Barb. 85",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 N. Y. Rep. 486",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2016209
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/12/0486-01"
+      ]
+    },
+    {
+      "cite": "18 Wend. 10",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Wend. 446",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Dana, 290",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Barb. 450",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Barb. 194",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Barb. 508",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4886377
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/7/0508-01"
+      ]
+    },
+    {
+      "cite": "6 Whart. 25",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836978
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/6/0025-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Wend. 148",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Barb. 364",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5781353
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/35/0364-01"
+      ]
+    },
+    {
+      "cite": "18 Wend. 11",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 N. Y. Rep. 522",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Denio, 381",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0381-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch, 87",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        530387
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/10/0087-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 531",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Wend. 9",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2022082
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/18/0009-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. Rep. 97",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297806
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0089-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 567",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Wend. 462",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026600
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/25/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 3079,
+    "char_count": 154389,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 4.739611156335774e-07,
+      "percentile": 0.9297140489657891
+    },
+    "sha256": "52516df66982170ec2dae36bbb36a3bb4514ba1a7913f25ac9d98d9ea7512c97",
+    "simhash": "1:b3329d76078aaec3",
+    "word_count": 27175
+  },
+  "last_updated": "2024-02-27T21:02:18.994385+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, The Trustees of the Sailors Snug Harbor in the City of New York, James Brown, William W. Chester, George W. Varian and Samuel B. Althause vs. John Kerr and eleven other individuals and the Mayor, Aldermen and Commonalty of the City of New York."
+    ],
+    "opinions": [
+      {
+        "text": "Welles, J.\nThis action was commenced in July, 1860, to restrain John Kerr and his eleven associates from constructing the rail road authorized by the act of April 17, 1860, entitled \u201cAn act to authorize the construction of a rail road in the seventh avenue, and in several other streets and avenues in the city of Hew York,\u201d (Sess. Laws of 1860, ch. 513, jo. 1042;) and to restrain the corporation\u2014the defendants, the mayor &c.\u2014from giving assent-to the construction of such rail road. The complaint was verified on the 11th July, 1860. On the 16th of the same month an order was made by a justice of this court in the first district, requiring the defendants to show cause at a special term to be held in said district at a subsequent day,1 why an injunction should not be granted as prayed for and demanded in the complaint; and in the mean time, and until the further order of the court in the premises, that the defendants and each of them, their agents, &c. be enjoined and restrained from entering into or upon either of the said streets or avenues mentioned in the complaint, for the purpose of laying. or establishing such rail road, &c.; and the defendants, the mayor &c., were thereby enjoined and restrained from doing 'any act or thing in furtherance or aid of the grant contained in said act, or to promote the construction of said rail road, until the further order of the court, in the action.\nThe defendants, the mayor &c., demurred to the complaint, and the defendants Kerr and his associates put in their answer, before any order was made at the special term upon the order to show cause, &c. On the 9th day of January, 1861, an order was made, at special term, against Kerr and his associates, continuing the injunction until the final hearing of the cause; and on the 20th of March in the same year judgment was rendered, at special term, sustaining the demurrer of the defendants, the mayor &c. The defendants Kerr and his associates, who are denominated the private defendants, have appealed to the general term from the order made at special term continuing the injunction as to them, and the plaintiffs have appealed from the judgment sustaining the demurrer interposed by the defendants, the mayor &c. These appeals are now before us for adjudication.\nI shall first consider the questions involved in the appeal from the order continuing the injunction against the private defendants.\nThose defendants insist that the act of the legislature in question authorizes them and their assigns to construct, operate and use a rail road, and to carry passengers thereon for compensation, through, upon and along certain streets and avenues in the city of Kew York, commencing on the seventh avenue, at the southern extremity of the Central park, and running along and through a great number of streets and avenues, as particularly described and enumerated in the first section of the act. To this claim the plaintiffs interpose a number of objections. It will be proper to state and consider them in -the order in which they are presented.\n1st. It is contended that the statute under which the defendants Kerr and his associates claim the franchise in question should he construed as granting the use of the streets, &c. only after compensation made to, or agreed upon with, all owners of any interest in the lands forming the streets, and that it does not establish such right absolutely and unconditionally, or authorize the proceedings contemplated by the grantees in the act, and which were arrested by the injunction. This objection is founded upon the provision contained in the third section of the act, to the effect that in case any real estate or interest therein be required for the purpose of constructing the rail road, for which the persons named in the act, or their assigns, shall be unable to agree with the owner or owners for the use or purchase thereof, they may acquire the same in the manner specified in the 14th, 15th, 16th, 17th, 18th, 19th, 20th and 21st sections of the general rail road act of 1850. The plaintiffs insist that before this rail road can be lawfully constructed, the use or title of the land in the streets over which it Is to pass must be acquired in the same manner as lands are acquired for rail roads authorized by the general rail road act. But this, it seems to me, is an error, as a brief reference to the third section will show. The provision in question commences, \u201cand should any real estate or interest therein be required,\u201d &c.; clearly indicating that, in the contemplation of the legislature, it was uncertain whether the taking or occupation of any real estate would become necessary for the construction and operation of the road. Whether such necessity should be found to exist, was a contingency, to meet which the provision in question was inserted. If the construction and use of the rail road would constitute the taking of real estate, every foot of land thus occupied through all the routes described would inevitably have to be taken, and there would be no such contingency to guard against or provide for, and no propriety in the hypothetical form of the provision; and when the concluding paragraph of the section is considered, it would .seem that all doubt on the question was intended to be removed. It is as follows: \u201c But in all cases, the use of the said streets and avenues for the purpose of said rail road as herein authorized, shall be considered a public use, consistent with the uses for which the mayor, aldermen and commonalty of said city hold said streets and avenues.\u201d This provision is in the nature of a qualification of the general language of the other, which immediately precedes it, and in my opinion excludes the construction now attempted to be given to the latter by the plaintiffs. It is apparent, from the whole scope and tenor of the act, as it seems to me, that the legislature in passing it assumed the right to grant the franchise in question absolutely and unconditionally, so far as the occupation of the streets and avenues mentioned, for the purposes of the rail road, was involved; and that the clause in the third section upon which the plaintiffs rely in support of their position under consideration, was intended to provide for cases where it might become necessary by reason of numerous angles in the contemplated routes of the road and consequent short curves, and possibly for turn-outs and stations, to take some real estate, not within the streets or avenues, and actually owned or possessed by individuals.\nWhether the legislature had the constitutional power to grant to the persons named the unconditional right to construct and operate the said rail road within the public streets and avenues mentioned, in the manner provided in the act, and without paying for the land or otherwise acquiring the right thus to use it, is another question, which will be presently considered.\n2d. The plaintiffs contend further, that if construed as an- absolute grant of the use of the streets, without compensation for such use, the act in question is void for its repugnance to the constitutional prohibition against the taking of private property for public use without compensation. (Constitution of 1846, art. 1, \u00a7\u00a7 6, 7.) The parties who make this challenge to the validity of the act, are first, The People of the state of Hew York, by their attorney general, and second, the private plaintiffs\u2014the Trustees of the Sailors Snug Harbor, James Brown, William W. Chester, George W. Var\u00edan and Samuel B. Alfchause.\nThis objection is a vital one, and if well taken, disposes of the whole case, as well against the right claimed by the grantees in the act, as against the validity of the act itself. If the act is void for want of power in the legislature to pass it, the acts intended and threatened by such grantees would, if committed, be a public nuisance; and either class of the plaintiffs, or both conjointly, may maintain this action for the injunction\u2014the private plaintiffs, or a part of them, on the ground of the special damage or inconvenience to them as owners of lots adjacent to, or abutting upon, some of the streets in question, as alleged in the complaint, and the people of the state for the purpose of preventing the commission of a public nuisance. The defendants whose rights in this respect we are now considering, concede that a rail road is a special use, not embraced in the notion of a highway; that when not authorized by law, such use of a highway is a public nuisance; that when, for want of legal authority, it is thus a public nuisance, the adjacent proprietor may be specially incommoded by reason of his proximity, and may consequently maintain an action. The propositions contained in these concessions are unquestionably sound, and are well sustained by authority. But it cannot be doubted that if the act in question does not contravene any constitutional provision, the idea that the construction and operation of this rail road would be a public nuisance must be discarded; and in that case it is equally clear that none of the plaintiffs have any standing in court. The act, if constitutionally valid, must be sustained, whatever may be thought of the wisdom or expediency of its provisions.\nBefore proceeding to examine the question of the power of the legislature to pass this act, it is proper to premise: First, that the constitution declares the legislative power of the state to be vested in the senate and assembly, (Art. 3, \u00a7 1;) Second, that it is an established maxim, that a statute, the object and provisions of which are among the acknowledged powers of legislation, is to be presumed valid and constitutional, unless the contrary is clearly demonstrated; that a discussion of the question should therefore proceed upon such presumption, and the objector be regarded as holding the affirmative, and be required to make out a clear case, free from any reasonable doubt. (Fletcher v. Peck, 6 Cranch, 87. Ex parte McCollum, 1 Cowen, 564. Morris v. The People, 3 Denio, 381. Newell v. The People, 3 Selden, 109, per Edmonds, J.) Third, that the subjects of roads and highways, and streets in cities and villages have, time immemorial, been regarded and acted upon as among the legitimate, appropriate and ordinary objects of legislative cognizance. It has been the invariable practice of our colonial and state legislatures to pass laws laying out and establishing them, and for their alteration and discontinuance. Not a session, I believe, has passed without more or less legislation on the subject. The powers of all local authorities on the subject derive their force and vigor from the legislature. Since thte commencement of the era of rail roads in this country, the same legislative power has been exercised without objection, in the passage of laws for their creation and supervision.\nThe way is now prepared for the examination of the principal question in the case, to wit: whether the statute authorizing this rail road is in conflect with the constitution, for the reason stated in the objection under consideration\u2014 that it omits mating any provision for compensation by the private defendants to the corporation of the city of New York, the private plaintiffs or any other other party, for the franchise granted. In order to maintain this objection, it must appear that private property is authorized to be taken for public use. But what private property is contemplated to be taken ? None whatever, that I have been able to discover, except such in respect to which it has been shown provision is made in the act for- compensation to the owners, provided it should become necessary to take any. The fee of the streets and avenues resides in the corporation of the city of New York, in trust, to be kept open forever as streets for the use of the public. This is a public trust for the benefit of the whole people of the state, in which the citizens of the city have the same legal interest and right as, and no other or greater than, the citizens, of each and all other parts or portions of the state.\nAssuming that the occupancy of the streets and avenues by the rail road, as provided in the act, would be taking property, within the meaning of the constitutional inhibition, it would be taking public and not private property. The trust vested in the corporation proceeded from the sovereign power, either of the crown of Great Britain or of the state of New York, or from both, and exists for the use and benefit of all the people of the state, who are the beneficiaries or cestuis que trust, for whom the trust was created, and by whom, through their legislature, it is sustained and continued. The mayor, aldermen and commonalty are a municipal corporation\u2014a public artificial existence\u2014emanating and deriving all its powers from the same sovereign source. Like all other municipal corporations, it was created for public purposes only. It has been from time to time, by force of it charters, both ancient and modern, and by various legislative enactments, very properly vested with a great variety of corporate powers and privileges, many of which are probably incapable of voluntary legislative resumption. With the exception of these, the power of the state legislature over the city, its government, its inhabitants and all their interests, rights and obligations, is as perfect and absolute as it is over any other part of the state.\nThe 16th section of the charter of 1730, granted in the fourth year of the reign of George II, called the \u201c Montgomerie charter,\u201d gave to the common council power to establish, direct, lay out, alter, repair and amend streets, lanes, alleys, highways, water-courses and bridges throughout the city and island. The late Chancellor Kent, in his notes on the charter, remarks, in reference to this section, among other things, .as follows: \u201c This grant is of a public nature, without any private interest or property or revenue connected with it, and it has always continued with the common council under free and active exercise; subject 'nevertheless, at all times, to legislative interference and direction-. The legislature interferes with the power, in their discretion, and I think there can be no question as \"to the right of the legislature to do so, for the power is not exclusive in the corporation, nor irrevocable, nor in the nature of the grant of a private right. The common council exercise it consistently with legislative directions, and in other cases where the statute law is silent.\u201d (Kent\u2019s notes on the charter, 252.)\nIt will not be denied that it was competent for the legislature to have subjected the grant in question to the payment of damages or compensation. Indeed it is contended, on the part of the plaintiffs, that such a provision was indispensable to the validity of the act. And I entertain no doubt that it was equally competent to direct such damages or compensation to be paid into the state treasury, to the credit of any or either of the state funds. This, I think, follows from the fact that the corporation hold the streets for the use of the people of the state. It would be simply absurd to say that they hold them in trust for themselves. If the legislature had thought proper they could, in the exercise of their supreme legislative power, have directed such .damages or compensation to be paid into the city treasury, or have devoted the money to general or local, educational or charitable purposes, or have given it such other direction as, in their judgment, they deemed discreet and best. If this be so, it seems to follow that the power to exempt the grantees from the payment of any damages or compensation for the franchise granted, is clearly within the scope of legislative authority.\nBut the occupation of the streets for the purpose of constructing and operating this rail road does not involve the talcing of property, in such a sense as to come within the prohibition of the constitution, which implies, first, a private ow\u00faer; second, a taking from him; and third, the property or thing taken, having th\u00e9 legal qualities of property, and the owner\u2019s interest in which is capable.of legal estimate. I have shown that the streets are not in the hands of private owners, and that whatever is to be taken is not private property. The grant in the statute is of a franchise. (Davis v. The Mayor &c., 14 N. Y. Rep. 522, 523.) Franchise and liberty, says Blackstone, are synonymous terms, and their definition is a royal privilege or branch of the king\u2019s prerogative, subsisting in the hands of a subject. (2 Bl. Com. 37.) This royal prerogative in England, is, by our form of government, vested in the legislature, who in granting the franchise take nothing from any one ; nor do they part with any thing, except the right to grant to another' the same franchise, their power over which is exhausted by the grant first made. And the grantee takes nothing but a right to do certain things or enjoy certain privileges; and this he does not take from any one, only as he receives it at the hands of the legislature. The franchise may be of great value to its possessor ; still it is nothing but a creature of the mind, intangible, and cannot be seen or felt. We have a mental conception of it, but it cannot be perceived by any of the senses. If its enjoyment requires the appropriation of private property belonging to another, the legislature may authorize such appropriation upon payment of just compensation to the private owner, provided the object and purpose of the grant are for the public use, and not otherwise.\nThe legislature might constitutionally have passed a law for the construction of this rail road at the expense of the state or of the city, as a street improvement, to be used and operated by all persons who desired, with vehicles adapted to the improved or changed condition of the streets, subject to the payment of tolls or license fees, either to the state or the corporation of the city, or without such payment, under such regulations as the common council might prescribe. (Davis v. The Mayor &c. of New York, 14 N. Y. R. 530, per Corn-stock, J.) It could not be done by municipal legislation, because it would be a new use of the streets, not contemplated by the charter, as is clearly shown by Judge Denio in the case last cited. But the power of the legislature will not, I apprehend, be questioned ; nor can it be successfully contended that in an act for such purpose, it would be indispensable to its validity that it contained provisions for the payment of compensation to any party for taking real estate within the bounds of the streets. And yet, in the case supposed, there would be precisely the same talcing of property as in the present case. If any property would be taken, it would be for public use; and just so in the case before us. In all our rail road corporations, private property is allowed to be taken, upon compensation to the owner, on the ground that it is taken for public use. (Bloodgood v. The Moh. and Hud. River R. R. Co., 18 Wend. 11, and resolution at the end of the case, on page 77.) In all those cases, actual and exclusive possession of the private property is taken by the rail road companies. In the case at bar, I cannot perceive that the construction of the rail road in the streets and avenues, and operating it when completed, involves the taking of property. The iron rails are to be laid down, but the grade of the streets is not to be interfered with. The track of the road does not become the property of the grantees. All they get is a license or liberty, irrevocable it may be, to construct and operate the road, to be enjoyed subject to the rules and regulations of the common, council. No one is prohibited from passing over and along the track with teams and vehicles, the same as if no such track had been constructed, or the act had not been passed, subject only to the prior right of the owners of the franchise to use it with their carriages or cars. The act does not transfer any property to the private defendants. All it does in this respect is to grant to them the liberty to use\u2014not to take\u2014public property for public use, without excluding other persons from their former use of the same property. And the use which is thus granted is nothing more than the privilege of passing and repassing over and through the streets in question with a species of conveyance different from any which the public generally enjoy or use. It does not give a possession, even assuming that streets were private property, for which the private owner could maintain ejectment. The provision of the constitution invoked by the plaintiffs, was not, as I think, intended to embrace a case of this description.\n3d, The plaintiffs also challenge the validity of the act, upon the ground that it contravenes section 9 of article 1 of the constitution. That section provides that \u201c The assent of two-thirds of the members elected to each branch of the legislature shall be requisite to every bill appropriating the public money or property, for local or private purposes.\u201d The plaintiffs contend that the act confers the public property for a private purpose, in surrendering to the grantees a portion of the public easement in the streets. It is hardly necessary to devote much time or labor to this objection. The plaintiffs, if I apprehend them rightly, do not place much reliance upon it. If the views herein put forth, in considering the second objection\u2014that the grant of the franchise in question is for a public and not a private use\u2014are sound, or the conclusion arrived at on that subject be correct, a perfect answer is furnished to this objection, assuming that the act did not receive the assent of two-thirds of the members elected in each branch of the legislature, but that it was passed by a vote of two-thirds of a quorum present in each house, pursuant to section 9 of art. 4 of the constitution.\nI have thus, at much greater length than I could have wished, considered and disposed of the general propositions of the plaintiffs in support of the injunction, and am brought to a conclusion adverse to their right to maintain it.\nSince the argument in this case, this court, sitting in general term in the second district, has. decided the case of The Brooklyn City and Newtown Rail Road Co. v. The Coney Island and Brooklyn Rail Road Co., in which it is held, among other things, that the legislature possesses the power to confer upon a corporation the privilege of building and using a horse rail road in the streets of a city, without the consent of the owners of the soil over which the streets are laid out; such a use of the street being merely a mode of exercising the public right of travel, and not an appropriation of the property of the owners of the land, requiring compensation in damages. That such a franchise or. privilege may also be created or conferred without the consent of the city authorities, if the legislature sees fit to repeal, pro tanto, the portions of the general rail road act, or of any other statutes requiring such consent. (35 Barb. 364.) The case did not coin\u00e9 under my observation until a few days since, nor until the foregoing opinion was principally prepared. If that decision is good law, it in effect disposes- of the present case in favor of the defendants. It is needless to say that I concur in the principles it enunciates. So far as the provisions of the act under which \"the private defendants claim the right to construct and operate the rail road in question conflict with the general rail road statute, or any other statute on the subject of rail roads in cities which were enacted prior to the passage of the former, the latter statutes are, pro tanto, repealed by it. (Act of 1860, ch. 513, p. 1042, \u00a7 5.).\nFor the foregoing, among other reasons, I think the order of the special term continuing the injunction should be reversed, and the injunction discharged.\nIn relation to the order and judgment sustaining the; demurrer by the mayor &c., it follows as a necessary consequence, from the views expressed upon the appeal just .considered, that such order and judgment should be affirmed: Because, if the conclusions arrived at are correct, or in other words, if the statute in question is free from any constitutional objections, and I am not in error in the interpretation I have given it, none of the plaintiffs have any legal ground of complaint, or any legal standing in court. If this were not so, the demurrer is well taken, and should he sustained for the reasons so well stated in the opinion of the learned justice who held the special term.\nSutherland, J.\nI think it is immaterial to the decision of any question presented by the appeals from the orders made at the special term in this case, whether the fee of thd streets upon or through which the rail road is to be constructed and operated, is in the city corporation, or in the abutting lot owners. Whether they have been opened and devoted to public use under the street acts, or have come by grant, dedication or usage, these streets are public highways, as much so as the Hudson river, or as an old country common highway, or a country public road laid out under the highway act. (2 R. S. 5th ed. 394 et seq.) The grant in the Dongan charter, of the streets, &c., was a grant of them for .public use. Land taken under the street acts, without the consent of the owners, has been deemed taken for public use. (Matter of Albany street, 11 Wend. 148. Embury v. Conner, 3 Comst. 511.) Land in the city which has been expressly or impliedly dedicated for streets, has been dedicated to the public: the ^public are the people of the state, and not the inhabitants of the city merely.\nThe jus .publicum, or right of the people in common in a highway, is not property, whether viewed in the abstract, or in the concreta; nor does it rest on' or arise from contract. It can hardly be said to be derived from government; but it is evident that there must be some power in every state to lay out, alter and discontinue highways, and to regulate the public use of them. What power has been conceded by the courts to the legislature of this state over its public highways, will be shown hereafter.\nThe act of the legislature, authorizing John Kerr and his associates named in the act, to construct and operate the rail road, with its turnouts and switches, is a mere legislative license to do so. It does not authorize them to alter the grade of the streets, or to remove any of the soil thereof, or to dig up, or disturb the same, any further than may be required to construct the road with its turnouts and switches. We must assume that, when constructed, the rail road will conform to the present grade of the streets, and that the process of its construction will not cause any greater disturbance of the bed or soil of the streets, or inconvenience to the public, than a re-paving of the streets would cause.\nThe act does not declare or require as a condition, or otherwise, that Kerr and his associates shall obtain the consent of the city corporation, or of the abutting lot owners, to the construction of the road; nor does it declare or require as a condition, or otherwise, that Kerr and his associates shall acquire the fee of the streets, or any estate or interest in the soil or bed of the streets, as distinguished from the public use to which they have been devoted or appropriated; but the third section of the act contains this provision: \u201cAnd should any real estate or interest therein he required for the purpose of constrcting said rail road on said route or routes, as above specified and authorized, for which the said persons above named, or their assigns, shall be unable to agree with the owner or owners for the use or purchase thereof, they may acquire the right to use, or title to the same, in the manner specified in the fourteenth, eighteenth, nineteenth, twentieth and twenty-first sections of the said act of April second, eighteen hundred and fifty, (the general rail road act,) except that in any of the proceedings for any of the purposes authorized by this section, it shall not be necessary that the petition to the supreme court shall make an allegation of or reference to any incorporation, capital stock, surveys or maps, or of the filing of any certificate of location. But in all cases the use of said streets and avenues for.the purposes of said rail road, as herein authorized, shall be considered a public use, consistent with the uses for which the mayor, aldermen and commonalty of said city hold said streets and avenues,\u201d\nIt is plain to me, from the whole act, more particularly from the extraordinary provisions of the fourth section, that the provision of the act above quoted presents, and was ingeniously and designedly carefully worded to present this question, to wit: Could the legislature constitutionally anthorize Kerr and his associates to construct and operate the rail road as authorized by the act, without the consent of the owner or owners of the fee of the streets and avenues upon or through which it was to be constructed, whether such fee be in the city corporation or the abutting lot owners, and without making any compensation to such owner or owners ? If the legislature had power to authorize Kerr and his asso- f ciates to construct and operate the rail road without such' consent, and without making any such compensation, I think' the act gives them, and was intended to give them, such an-. thority; for, concede this legislative power, and no property, estate or interest in the streets and avenues is \u201crequired for the purpose of constructing\u201d or operating the rail road as authorized by the act.\nThe legislature cannot. take_the property either of the city corporation or of the abutting land owners, and give it to Kerr and his accociates, without consent and without due compensation, even for public use; nor can the legislature take such property, without consent, for private use, even ytithjujl compensation; and to deprive one of the use of his land, is .depriving him of his land; for, as Lord Coke long ago said, \u201cWhat is land but_the uses, thereof ?\u201d An act of the legislature undertaking to authorize the construction and operation of a rail road over a man\u2019s land, in his possession, and of which he has all the present uses, without taking it, but leaving the fee or title in him, without his consent and without compensation, would be just as unconstitutional as if it undertook to take the land, or to transfer the fee of it, without consent and without compensation. The existence of the road would be a continuing trespass. If such road should be constructed under a paroi license, such paroi license could not transfer the title, on account of the statute of frauds, but the owner of the land would have no action for damages, either direct or consequential, from its construction or continuance, sustained while the license remained unrevoked. (Miller v. The Auburn and Syracuse R. R. Co., 6 Hill, 61.)\nIt will be noted that in the case just cited the action was not trespass, but case, for consequential damages, and that the rail road was constructed upon a street in Auburn, but that the question as to the right of the company to locate and continue their road on the street, without the consent of the plaintiff, an abutting land owner, without being liable to him for any direct injury as having the fee of any portion of the street, did not arise, and was not decided.\nThe rail road to be constructed by Kerr and his associates is to be constructed and operated through or upon certain public streets in the city of Hew York, every inch of the surface of which is devoted to public use as highways ; and it is plain, if the privilege conferred on them, of using the streets for the construction and operation of the rail road, is consistent with the public use as highways for which the streets were opened under the street acts, or dedicated or appropriated by the owner or owners of the fee, that it is immaterial where the fee of the streets is; for then- such use of the streets, though it may be a new mode of using them for public travel, is within the purpose for which they were devoted to public use, and such new mode of using them cannot be said to deprive the owner or owners of the fee, of any private property, or private possessory right, in or to the streets.\nThe'act confers on Kerr and his associates the privilege of constructing and operating the rail road, and of carrying passengers on it for compensation. I cannot see why this privilege must not be considered as conferred for the purpose of facilitating public travel, and as consistent with the use to which the streets have been appropriated as public highways 5 as much so as the privilege of running a line of omnibuses through the streets, to carry passengers for compensation. nopolyponferreci t'or the purpose of.carrying passengers on public highways, and therefore either mode of using the street is within the purpose and consistent .with the use for which they were given up to the public. The abutting lot owners, as citizens, may have a right to complain of the monopoly, or as abutting lot owners, or otherwise, of consequential damages; but assuming the fee of the streets to be in them, I do not see how they can complain that the use of the streets by Kerr and his associates for the purpose authorized by the act, will not be consistent with the purpose for which the streets were given up to the public.\nThe indirect or consequential injury.to the abutting lot owners, which may be caused by the construction or operation of the rail road, will be precisely the same, whether the fee of the streets he in them, or in the city corporation. I cannot see how either its construction or its operation, as authorized by the act, can be or cause any direct injury to the owner or owners of the fee of the streets, simply as such, whether the fee be in the city corporation or in the abutting lot owners. It is plain, that the whole question of damage is one, as to indirect or consequential, not direct damage.\nMy intellect is not acute enough to see how the carrying of- passengers in cars on iron rails, inserted in the pavement of a street, can be or cause any greater injury to the fee of the street, or to the owner or owners of the fee as such, than the carrying of passengers in omnibuses through the street. Considering the complete and extensive servitude in favor of the public, with which the fee of the streets through which the rail road authorized by the act is to be constructed, is charged, I do not know that it is using too strong language to say, that it is absurd to say that either use of these streets can possibly be any injury, either to the fee, or its owner or owners, simply as such. I believe it is true as a physical fact, that the motion of the car shakes the earth less than that of the omnibus.\nThese views, as to the immateriality in this case, of the question which has been so much discussed, whether the fee of the streets in the city of New York is in the city corporation, or in the abutting lot owners, is. sustained -by the decision of the general term in the second district, in the case of The Brooklyn City Rail Road Co. v. The Coney Island and B. R. R. Co., (35 Barb. 364.) They are also in accordance with the views expressed by the supreme court of Connecticut, per Ellsworth, J., in Elliot et al. v. Fair Haven Rail Road, (Law Reporter, Feb. 1861, p. 619, &c.) They appear to me to be sustained by the views expressed by Ch. J. Shaw, in Commonwealth v. Temple, (Am. Law Reg., Sept. 1861, p. 678, dec.) In the case of The Philadelphia and Trenton R. R. Co., (6 Whart. 25,) it was directly held per Gibson, Ch. J., that the provision in the constitution of Pennsylvania, that private property shall not be taken for public use without compensation, did not prohibit the legislature of that state granting to a rail road company the privilege of laying rails on the streets'of Philadelphia, and of .using the rail road so made. At page 45, Ch. J. Gibson, after citing cases to show that the legal title of the ground probably remained in him who owned it when the street was laid out, says, \u201cbut even that is an immaterial consideration; for an adverse right of soil could not impair the right of way over it, or prevent the legislature from modifying, abridging, or enlarging its use, whether the title were in the corporation or a stranger.\u201d He afterwards says, \u201c what then is the interest of an individual inhabitant as a subject of compensation, under the constitutional injunction that private property be not taken by a corporation for public use, without it ? Even agreeing that his ground extends to the middle of the street, the public have a right of way over it. Neither the part used for the street, nor the part occupied by himself, is taken away from him; and as it was dedicated to public use without restriction, he is not within the benefit of the constitutional prohibition, which extends not to matters of mere annoyance. The injury of which he can complain, is not direct, but consequentialI do not mean by quoting this without comment, to imply that I approve of the construction of the constitutional prohibition, that it does not extend to consequential damage; although, as I shall show hereafter, if may b\u00e9'c\u00f3nsidered as a settled doctrine of American law, that it does not; but I do approve of what Ch. J. Gibson says, to show that the question of damage was one merely of consequential damage; that there was no direct taking of any property in the soil of the street, and no direct injury to the abutting lot owner, in respect of his ownership of the soil of the street, assuming that his ground extended to the middle of the street.\nThe whole opinion of Chief Justice Jones, in Drake v. Hudson R. R. Co., (7 Barb. 508,) goes to show that he considered it immaterial, in that case, whether the fee of the streets was in the abutting lot owners, or in the corporation. I think the like remark may be made as to the opinions of the judges in Milhau v. Sharp, (15 Barb. 194. See also Hamilton v. The N. Y. and Harlem R. R. Co., 9 Paige, 171; Adams v. Saratoga and Washington R. R. Co., 11 Barb. 450; Chapman v. Albany and Schenectady R. R. Co., 10 id. 365; Lexington and Ohio R. R. Co. v. Applegate, 8 Dana, 290.)\nIf the use of the streets authorized by the act would be a nuisance if unauthorized, and if the fee of the streets is in the abutting lot owners, it does not follow that the abutting lot owners could maintain trespass for such use, or that such use will be inconsistent with the purpose for which the streets were laid out or dedicated as highways; there may be traveling nuisances; there maybe a use of a street as a highway, which, if unauthorized, will be a nuisance.\nIf a full grown elephant, however docile, should be driven up Broadway in the middle of the day, such use of the street would no doubt be a nuisance, as those having horses in the street would soon discover; but who would suggest that the owner or owners of the fee of the street could maintain trespass against his keeper on the ground that this was a new use of the street, or one not anticipated when the street was laid out, or dedicated.\nDriving droves of cattle through the streets of a city may be a great nuisance, and the drovers liable for consequential damages, for such use of the streets, after an ordinance forbidding it\u2014but could the owners of the soil of the streets maintain trespass for such forbidden use, on the ground that such use of the streets was inconsistent with the purpose for which the streets were laid out or dedicated as highways, or on any other ground ?\nThe city authorities might undertake to grant to a manufacturing company, or to an individual, the privilege of carrying gunpowder or some foetid article through a particular street of the city in a way so dangerous or offensive, as absolutely to drive those living in the street out of it. If made without authority, the grant would not protect the company or individual thus using the street under the grant against actions for consequential damages ; but who would suggest, if those living in the street owned the ground to the middle of the street, that they could maintain trespass for such use of the street ?\nSteam may yet be used to move ordinary wagons and coaches, carrying freight and passengers, up hill and down hill, over common country highways.. I can see that such new use of a country road, the noise and smoke of the engine, with its train of wagons or coaches, might be a nuisance to the farmers and others living on the road, and to all traveling the road with horses\u2014but can it be pretended that the farmers and others owning the fee of the road could maintain trespass for such use of the road; or that the legislature would not have power to authorize such use, without compensation for the fee or any private property or possessory right in the road ?\nWhat has been said does not at all interfere with the cases holding that the owner of the soil may maintain an action of trespass for obstructing a country highway, or for an unauthorized interference with his private possessory rights in it. (Lade v. Shepherd, 2 Strange, 1004. Harlow v. Humiston, 6 Cowen, 189. Dygert v. Schenck, 23 Wend. 446, and other cases cited by counsel.) But I doubt, considering that the ordinary public use of the streets in the densely inhabited portion of the city, under the regulations of the city authorities, practically leaves to those living on them no private use or private possessory right of or in them, whether the doctrine of these cases can reasonably be applied as to obstructions in these streets, assuming the fee in them to be in the abutting lot owners.\nI think the cases, The Trustees of the Presb. Church in Waterloo v. The Auburn and Roch. R. R. Co., (3 Hill, 567,) and Williams v. New York Central R. R. Co., (16 N. Y. Rep. 97,) should be considered as having been decided on the theory that the acts of the legislature authorizing the construction of the roads (the Auburn and Bochester in the first case, and the Utica and Syracuse in the other case, to the rights and liabilities of which the Hew York Central by the act of consolidation succeeded,) required these companies to acquire the title to the soil of the highway, and to. compensate the owner therefor. The first rail road act passed in this state, (the Mohawk and Hudson, passed in 1826,) and all those passed subsequently, authorized the company (if not enjoined absolutely as a condition) to acquire title to the land necessary for the construction of the road. The acts also contained a clause substantially the same in all of them, authorizing the company to construct their road across or upon any highway, but upon condition of restoring the highway so as not unnecessarily to have impaired its usefulness. The universal practice had been for the rail road companies to take .and pay for the title to the land, ancLnot to compensate the owner merely for the use .of the land, leayin^Jh^jfee.or legal title in him. I do not know how far this universal practice and the authority, if not requirement in the acts, to \u2022 acquire the fee or legal title of the land, and not merely the use of it, and the requirement in the acts, when a highway was used, to restore it to its former usefulness, may have led to the decisions last referred to; but I must say that I do not believe these decisions would ever have been made, had it not been for the circumstances or considerations just adverted to. If in these cases the court intended to hold that the legislature of this state had not the power to authorize the construction of a rail road across or upon a public highway, without compensation to the owner of the fee of the highway, they appear to me to be irreconcilable with the full force and effect which has been given, and which must be given, to the decision of the court of' errors in Bloodgood v. Mohawk and Hudson R. R. Co., (18 Wend. 10,) and with the decisions in Lansing v. Smith, (4 id. 9,) and Gould v. Hudson River R. R. Co., (2 Selden, 522,) and other cases which will be cited hereafter, establishing the doctrine_that. tbnjegisjtoiuze (irrespective of the constitution of the United State) has unlimited power over public highways, and can obstruct, alter or discontinue them, or grant exclusive special privileges in or of their use, without, any.comp.ensationrioj.ndividuals_foirindi^tmjury, or.mere^onsequentialjiamage.\nBut in any view of the cases in 3 Hill and 16 N. Y. Rep., above spoken of, they do not apply, and probably were not intended to apply, to horse rail roads in cities, conforming to the grade of the stre\u00e9ts. So also, the case of Brown v. Cayuga and Susquehanna R. R. Co., (12 N. Y. Rep. 486,) must be deemed to have been.decided \u00f3n the ground that the authority given by the act of- the legislature to construct the rail road across any stream, &c., only authorized the company which constructed'the rail road, to construct it across the stream in such a manner as not to cause injury to those owning adjoining property; or if the stream could not be crossed without causing such injury, that the section of the act giving the authority impliedly required that the company should make compensation for such injury. Judge Johnson says, in his opinion, that the question was \u201c one of construction, whether the language of the legislature,\u201d &c.\nIt is plain to me, that this question as to the fee of the streets of the city of New York, has had too important a place given to it in these city rail road cases. What is this fee, and what is its value ? It is the mere legal skeleton fee in the ground or soil of the streets divested of all private uses, and of all private possessory rights, of, or in, the surface of the streets at least, by the complete devotion of the surface to public use; which public use is so extensive as, under proper regulations of it by the city authorities, practically to leave no room for any private use or private possessory_right. ft may be called the legal organic remain of the body of living public uses rising from it. It is not a possibility of reverter, like that by the feudal law left in the feoffer or grantor, on every feoffment or grant in fee, before the statute of quia emptores ; but as to value, it is of no more value than such possibility of reverter would have been, divested of all feudal services. It is a present legal estate, but really only of nominal value, for its value as to any particular street is the value of the possibility of the public use ceasing by the discontinuance of the street; and as the privilege of the use of the streets granted to Kerr and his associates must probably be deemed to have been granted subject to the right of the city authorities to discontinue the streets, under the act of 1818, or otherwise, I do not see h.ow this privilege can affect this possibility .of re.vert.er,__not of the fee, but-of the uses of the fee. If the fee of the streets, upon or through which the rail road is to be constructed, is in the city corporation, (as it certainly is, if they were opened under either the street act of 1807, or of 1813;) and if the use of the streets by the city corporation for laying water and gas pipes, and granting permits to build private vaults under the surface of the streets, is or should be considered a private use, or property right; I do not see how the construction or operation of the rail road can interfere with such use or right. Indeed, probably the privilege granted to Kerr and his associates, should be considered as granted subject to such use of the streets beneath the surface, by the city corporation.\n' It is curious, and I must confess not very agreeable to me to see, with what tenacity the courts have held on to this skeleton fee in public highways, with the avowed purpose of protecting..private rights from legislative power, as if by way of compensating for the apparently little struggle, with which such rights have been yielded up to legislative power in respect to indirect or consequential damages, however great or destructive, caused by the grant and exercise of legislative monopolies.\nIf the streets through or upon which the rail road is to be constructed are public highways; and neither its construction or operation will deprive the owner or owners of the fee of the streets, whether the fee be in the city corporation or the abutting lot owners, of any private right of property, use or possession in or to the streets ;'jit follows,jthat the only question presented by the appeal from the order of the special term continuing the injunction, is simply one as to the power of the state legislature over a public highway; as to the public, whom I consider the attorney general as representing in this case; as to the private plaintiffs as abutting lot owners or occupiers, who allege that as such they will suffer certain special resulting or consequential damages, by the construction and operation of the rail road; and as to the city corporation, having or claiming certain chartered rights.\nAs the corporation is a defendant and not a plaintiff, I am not entirely satisfied that the question of legislative power, as to it, is in the case; but the justice at special term held, if the act of the legislature was unconstitutional and void as to the city corporation, that the construction and operation of the road would he a nuisance as to the public, and that the private plaintiffs, alleging individual special resulting damages, consequently had a right to the injunction asked for; and I shall not criticise very closely the right either of the attorney general, or of the private plaintiffs, to raise the question of legislative power as to the city corporation; particularly as the act expressly prohibits the city corporation from doing any act to hinder, delay or obstruct the construction or operation of the road.\nThe question of power as to the public, and the question of power as tojbhe private plaintiffs, as alleging apprehended individual consequential damages merely, may he considered as qne question; for it is perfectly settled, as the cases cited hereafter on the question of legislative power will show, if the legislature had the constitutional power to authorize Kerr and his associates to construct and operate the rail road as to the public, so that neither its mere construction, nor its mere operation in pursuance of the act, will not and cannot be a public nuisance, it had the constitutional power to authorize the construction and operation of the road as to the private plaintiffs in this case, or any other individual or individuals, \"without their consent, and without providing for any compensation to them for mere consequential damages; and it may be conceded, if the legislature had not this power as to the public, that then the construction or operation of the road would he a nuisance; and any individual suffering special consequential injury thereby, would have an action for the same; and that the private plaintiffs, as alleging apprehended individual consequential damages, or the attorney general in behalf of the public, or both jointly, would have a right to the injunction asked for, restraining Kerr and his associates from proceeding to construct the road under the act.\nSo far as the cases, Fletcher v. Auburn and Syr. R. R. Co., (25 Wend. 462,) and The First Baptist Church in Schenectady v. The Schenectady and Troy R. R. Co., (5 Barb. 85,) hold, or the court therein intended to hold, that a railway company may \"be authorized by the legislature to construct and operate its road upon a public street or high- \u2022 way, without regard to any private property, use, or right of individuals, in or to the street or highway, and yet be liable to individuals for consequential damages from the mere construction or operation of the road according to the act of the legislature authorizing its construction and operation, when no provision is made in the act for compensation for such consequential damages, they are in conflict with the settled principles of American law as to the power of the state legislatures over public highways, and over the rights of the public and of individuals in them, hereafter stated, and with the cases cited, and many others which might be cited, sustaining or declaring it.\nAll questions as to any direct injury to the private plaintiffs, as having any individual or private rights of property, use or possession, in or to the streets through or upon which the rail road is to be constructed, being out of the way; the first question to be considered then is, had the legislature the constitutional power to authorize Kerr and his associates to construct and operate the rail road, as to the public; and as to the private plaintiffs, without their consent, and without providing for any compensation to the private plaintiffs for their alleged indirect or mere consequential damages, as abutting lot owners or occupiers, or otherwise ?\nIt is clear that at common law a common highway could not be changed without the \"king\u2019s license, first obtained upon a writ of ad quad damnum, and an inquisition thereon first found, that such a change would not be prejudicial to the public. (1 Hawk. P. C. 201, chap. 76, \u00a7 3. Jacobs\u2019 Law Dictionary, Highway, p. 208, \u00a7 34. Thomas v. Sorrell, Vaugh. 340, 341. The King v. Warde and Lyme, Cro. Ch. 266. For form of lorit, see Jac. Law Die., Ad quad damnum.) From the form of the writ, and the cases cited, I think it clear that the writ of ad quad damnum stood between the crown and the jus publicum, or the right of the king\u2019s subjects in common in a common highway; and that the crown, at common law, had not the power to discontinue or obstruct a common highway, or impair or modify this public or common right, until the writ issued. (James v. Hayward, Cro. Ch. 184. Rex v. Inhab. of Fleaknow, 1 Burr. 465.) In the case of Thomas v. Sorrell, (Vaugh. 341,) above cited, it is said, \u201c that if, upon the return of an ad quad damnum, it appears to be ad damnum vel prejudicium of no man, the king may then license the stopping of an ancient highway, or diverting a water-course, or part of it, for the concern is then wholly his own; but without his license it can never be done, though a better way be set out, and so returned upon an ad quad damnum.\u201d In another part of the opinion it is said that the king could not dispense with the law declaring the obstructing a highway, diverting a water-course, or breaking down a bridge, to be a nuisance, though only punishable by the king, \u201c because such a dispensation would take away the action of those who had particular damage by the offense done.\u201d The king could grant the soil under navigable rivers and arms of the sea, but he could only make such grants subject to the public right of free navigation. He could not authorize or legalize a public nuisance, by authorizing an obstruction to such public right. (Lansing v. Smith, 4 Wend. 21, 22, opin. of the Chancellor. Atty. Gen. v. Johnstone, 2 Wils. Ch. 95. King v. Ward, 4 Adol. & Ellis, 392. Atty. Gen. v. Parmentier, 6 Exch. Rep.) It is clear, too, that the king could not, at common mon law, grant to a corporation, or an individual, such a special, exclusive privilege in the use of a common highway, as is conferred on Kerr and his associates by the act of the legislature of this state, because.it confers or grants a monopoly; certainly not without the writ of ad quad damnum first being issued. (1 Hawk. P. C. 230, 231. Jacob\u2019s Law Dic., Ad quad damnum.) Jacob says: \u201cAd quad damnum is a writ which ought to be used before the king grants certain liberties, as a fair, market, &c, which may be prejudicial to others. It is directed to the sheriff to inquire what' damage it may do for the king to grant a fair, market,\u201d &c.\nParliament is. theoretically omnipotent; and of course this jus publicum, or public right in a highway, within its jurisdiction, is, and always has been, entirely under its control; and so indeed are all the property rights of the king\u2019s subjects. Theoretically, there is no limit to .the power of parliament within its jurisdiction, other than physical impossibility ; but it would appear that parliament has generally thought it right, in authorizing the construction of rail roads, to extend its protection to private property so far as not only to require compensation to be made for property directly taken, but for mere consequential damages, or when property not taken is injuriously affected by the construction or operation of the road. (See Sedg. on Stat. and Con. Law, 523, 524, n.; Queen v. Eastern Counties R. Co., 10 Adol. & El. 531; Glover v. North Staff. R. Co., 5 Eng. Law & Eq. 335; Act of the 6th and 7th Wm. IV. ch. 109; Turner and others v. The Sheff. and Roth. R. Co., 10 Mees. & Wels. 425; The Act 8th and 9th Victoria, ch. 18, commonly called, the Land Clause Consolidation Act; East and West India Lochs and Birmingham June, R. Co. v Gatthe, 3 Man. & G. 115; Glover v. North Staff. R. Co., 15 Jur. 673, 20.) It may be stated as a well settled American doctrine, that the state legislatures have unlimited power over public rights in a highway, and can obstruct, modify, impair or extinguish them, as to any highway, or portion of a highway, except so far as the state power is qualified by the commercial clause in the constitution of the United States, without malting any compensation to individuals for resulting or consequential damages.\nIn 1797 the legislature of the state of New York passed an act (20th Session, ch. 70) granting to Anthony Dobbin and another, for a term of years, the exclusive privilege of running stage wagons or other carriages for the transportation of passengers between Groshen, Orange county, and the city of Hew York, and imposing a penalty of $500 upon any other person or persons who should \"do the like. See also act (26 id. ch. 20) granting like exclusive privileges in the use of another highway, to Torrence Donally and others, with like penalty. Also act (27 id. ch. 37) granting like exclusive privilege in the use of another highway, with like penalty, to Levi Stephens and another. In Perrin v. Sikes, (1 Day\u2019s Rep. 19,) decided in 1802, the court of errors of Connecticut held that a grant by the legislature of that state, to one Sikes, of the exclusive privilege of running stage wagons on the post road leading from Hartford to Boston, as far as the state line, with a penalty imposed upon others who should do the like, was valid. In Wales v. Stetson, (2 Mass. R. 143,) decided in 1806, the supreme court of Massachusetts, per Parsons, Ch. J., held that the legislature of that state had power to authorize a turnpike company to erect a toll gate upon a public highway. The plaintiff was non-suited on a construction of the act, that the legislature did not intend that the gate should be placed on the old highway ; but the point of legislative power was distinctly held by the court. This case will be referred to hereafter, on another point.\nThe acts of the legislature of the state of Hew York, passed in 1797 and 1803, granting to Robert R. Livingston and Bobert Fulton, for a term of years, the exclusive right of navigating by steam all waters lying within the state, with severe penalties against all others who should do the like, were held valid by the court of errors. (Livingston v. Van Ingen, 9 John. 507. Ogden v. Gibbons, 17 id. 488.) These acts were held to be unconstitutional and void as against Gibbons who had taken out a United States coasting license for a steamboat, by the supreme court of the United States, solely on the ground that they were in conflict with the commercial clause in the constitution of the United States. Gibbons v. Ogden, 9 Wheat. 1.) In Commonwealth v. Breed, (4 Pick. 464,) it was held that an act of the legislature of Massachusetts, authorizing the building of a bridge over navigable waters within the commonwealth, was constitutional ; that the legislature were to determine when public convenience or necessity required such an obstruction to navigation ; and upon what terms and conditions it should be allowed; that it had power to regulate and control all public highways and navigable waters. In Spring v. Russell and others, (7 Greenl. 273,) it was held that the plaintiff had no right of action against certain canal proprietors, who, under an act of the legislature of the state of Maine, had turned the channel of the Saco river, and thus prevented the plaintiff floating his logs down the river, as otherwise he would have done. In Bates v. The Rail Road Co., (4 Harr. 389,) it was held that the legislature of the state of Delaware had the right to authorize the obstruction of the navigation of White creek, a navigable stream within the state, by the building of a bridge over the stream, without compensation for consequential damages\u2014so held as against the plaintiff, who had mills above the bridge, to which vessels with masts could come before the erection of the bridge, and who brought the action for damages. In 6 W. & Serg., 101, (Monongahela Navigation Co. v. Coons,) it.was held that the legislature of Pennsylvania might constitutionally authorize the Monongahela Navigation Company to create slack water navigation by means of locks and dams in the Monongahela river, without providing for any consequential damages to individuals\u2014so held where the plaintiff\u2019s mill was injured by such obstructon. In O\u2019Connor v. Pittsburgh, (6 Harr. Penn. R. 187,) it was held that there was no remedy for damages in cutting down a street by legislative authority, though a building on adjacent property be destroyed. In this case, Gibson, Oh. J., (p. 190,) says: \u201cThe constitutional provision for the case of private property taken for public use, extends not to the case of property injured or destroyed.\u201d (See also Radcliff\u2019s Executors v. Mayor of Brooklyn, 4 Comst. 195.)\nIn this state, this unlimited power of the state legislature, except as qualified by the commercial clause in the constitution of the United States, maybe said to have been assumed in The People v. The Rensselaer and Saratoga R. R. Co., (15 Wend. 131, 132;) and also in Renwick v. Morris, (3 Hill, 621.) It was asserted by the chancellor in the broadest terms, in Lansing v. Smith, (4 Wend. 10.) On page 21 he says: \u201cIn deciding upon the constitutionality of the act of 1823, (the act under which the defendants had constructed a pier, &c. which cut off or obstructed the plaintiff\u2019s access to the Hudson river, as the owner of a wharf built on land under water, granted by the state,) it will be necessary to ascertain what were the rights of the plaintiff as against the state previous to the passage of that act. The people of this state, as the successors of its former sovereign, are entitled to all the rights which formerly belonged to the king 'by his prerogative. Through the medium of their legislature they may exercise all the powers which, previous to the revolution, could have been exercised by the king alone, or by him in conjunction with his parliament; subject only to those restrictions which have been imposed by the constitution of the state or of the United States.\u201d What is peculiar about this case is, that the court of errors held so closely to the chancellor\u2019s doctrine of qualified state omnipotency, that by their decision of it, they repudiated the claims of the state\u2019s own grantee for consequential damages.\nAlthough I do not suppose, considering the absolute omnipotency of parliament, the nature and history of our written constitutions, and the infirmities of the language in which they were necessarily expressed, that any generality as to state legislative powers, so bold and perilous as that stated by the chancellor in this case, can be uttered with the full force of judicial authority; yet the orderly administration of justice compels me to yield to the decision itself the highest respect and authority.\nIn Gould v. The Hudson River R. R. Co., (2 Seld. 522,) the doctrine of the chancellor in Lansing v. Smith, of the qualified omnipotency of the state legislature, was referred to and approved; and the court of appeals held that the legislature had the power to authorize the construction of the defendant's rail road along the shore of the Hudson, between high and low water mark, without compensation to individuals for consequential damage. So held against the plaintiff, \u2022who was the owner of a farm on the bank of the river, and who alleged special damage from the construction of the road, by being thereby cut off from all access to the river, except across the road. In Wilson v. Blackbird Creek, (2 Peters, 251,) it was said, that independent of the commercial clause in the constitution of the United States, the question of the power of a state over its highways, was a question entirely between it and its citizens. This unlimited power of the state, legislature oyer the public, highways of the state, except as qualified by the constitution of the United .States, was assumed by the late Nicholas Hill throughout his argument in the Albany bridge case.\nThe 3d section of the turnpike act of 1807, (1 R. L. 231, 232,) and the 29 th section of the turnpike act, (1 R. S. 583,) and the 26th section of the act concerning plank and turnpike roads, passed in 1837, giving turnpike and plank road corporations a right to enter upon and take possession of any highway on appraisal of the public interest, and without making any. compensation for the fee, or for any resulting damage to individuals, assumed this unlimited power of the state legislature ; and this provision in those acts has been held to be constitutional. (Benedict v. Goit, 3 Barb. 459.)\nThe act of April 20th, 1818, (Davies\u2019 Laws, 620,) providing for the closing of streets in the city of New York, implies a complete power in the legislature over those streets as highways. The act provides for compensation to owners of the estate for loss or damage by or in consequence of closing streets; but the cases on-this question of power will not permit a doubt, that the legislature had the power, at least as between it and individuals suffering consequential loss or damage, to authorize the closing of any public street or highway in the city, without providing any compensation for such consequential loss or damage.\nThe power to close a street, without compensation to individuals for resulting damages, certainly implies the power to qualify the public use of a street, by the construction and operation of a rail road without such compensation.\nI think it may be said, that the power of the legislature to authorize the construction and operation of a rail road in a street of the city of New York, with the consent of the city corporation, without any compensation to the abutting lot owners for resulting damages, if the fee of the street was in the city corporation ; or if the fee of the street was in the abutting lot owners, and the act authorizing the construction of the' road required such fee to be taken and paid for, upon compensation to the abutting lot owners for such fee only, without compensation to them for consequential damages ; was assumed by the court of appeals, in Davis v. The Mayor &c., (14 N. Y. Rep. 506. See Judge Denio\u2019s opinion, pp. 522, 524.) But whether assumed in that case or not, such power inevitably follows, from the cases above cited, and many others which might be cited on this question, of the power of the state legislature over public highways.\nOf course it follows that the legislature has this power with the consent of the city corporation, without compensation to the abutting lot owners for consequential damages, assuming the fee of the street to be in them, if the act authorizing the construction and operation of the road does not require this fee or any estate or interest of the abutting lot owners in the street to be taken and paid for, and such new.- use of the street, being for the purpose of public travel, is consistent with the public use of such street as a highway, for which it was laid out or dedicated, and therefore will not deprive the abutting lot owners of any private property, use, or posses-^ spry right in the street.\nIt isjDerfectiy_settled, thatjin act or thing authorized by law, cannot bg_,gx_nuisance. (See opinion of Denio, J. in Davis v. The Mayor &c., 14 N. Y. Rep. 514, and cases there cited.) Indeed, it would be absurd to call the construction or operation of the rail road by Kerr and his associates, in pursuance of the act, a nuisance, if the legislature had the constitutional power to pass the act.\nIt undoubtedly.follows from, the doctrine of the unlimited power of the state legislature 07er_high ways, thafjh^legijdature has power to authorize an individual _px a corporation Jo do a thing which at common law would be a publiejmisance. however destructive it may be in its consequences Jo indixid,ual property or rights, or however inconvenient. It maypbe, to the public, without any compensation for consequential damages. Indeed, this, is only stating the doctrince in.. a hifferent form.\nI have expressed the opinion, and endeavored to show, that neither the act, nor the construction of the rail road under the act, requires the taking of any private property directly; and if this is so, the question whether the privilege was granted for public use, or from public considerations, is not in the case; but if the act enjoined it as a condition, that the fee of the streets should be acquired and paid for, it is perfectly settled, that the act would not be unconstitutional because it does not provide compensation for indirect or consequential damages. (Radcliffs Ex\u2019rs v. The Mayor &c. of Brooklyn, 4 Comst. 195. The Canandaigua and Niagara Falls R. R. Co. v. Payne, 16 Barb. 273. Hatch v. Vermont Central R. R. Co., 25 Verm. B. 49. Miffin v. Rail Road Co., 16 Penn. R. 193. Clark v. Saybrook, 21 Conn. R. 313.)\nAnd independent of the declaration, on the face of the act, that the use of the streets authorized by it shall be deemed a public use, &c., it is, perhaps, equally well settled that the use of the streets authorized by the act must be deemed a public use. (Bloodgood v. The Mohawk and Hudson R. R. Co., 18 Wend. 9.)\nI have cited the cases on the question of legislative power over highways, without any comments of my own on the theories of the state constitutions which must have led to these decisions. Such comments would be useless, and probably out of place. I have only to say that they necessarily lead to the conclusion that the legislature of this state had the constitutional power to authorize Kerr and his associates to construct and operate the rail road in question, as to the public; and also as to the private plaintiffs in this case, without any compensation to them for consequential damages, as abutting lot owners or otherwise.\n\\ It is hardly necessary to say that the act of the legislature, conferring on Kerr and his associates the privilege in question, cannot be held void on the ground that it creates or confers a monopoly. Many if not most of the cases above cited on the question of legislative power are cases in which the question of power arose between the grantee or grantees of a legislative monopoly, and third parties, claiming that they had been or would be injured thereby. I am not aware of any case in which an act of a state legislature has been held void on f the ground, alone, that it created or conferred a monopoly, j\nThe only other question to be considered in this case then is, whether the legislature had the constitutional power to authorize Kerr and his associates to construct and operate the rail road, through or upon the streets of the city, without the consent of the city corporation. The legislature, by the act, not only undertake to grant this privilege without the consent of the city authorities, but the act expressly prohibits them from doing any act 11 to hinder, delay or obstruct the construction or operation of said rail road.\u201d The question is, whether the city corporation is protected by its charter from an act of the legislature like this.\nAt common law, corporations were divided into aggregate and sole; and there was another division of corporations, either aggregate or sole, into ecclesiastical and lay, and lay corporations were of two sorts, civil and eleemosynary. (1 BL Com. 469 to 472.) Civil corporations were sometimes called corporations for public government, and eleemosynary corporations, corporations for private charity; and hence it was said in the books that corporations were of two sorts, one for public government, and the other for private charity. (Fortescue\u2019s Rep. 299. Philips v. Bury, 1 Lord Raymond, 5. S. C., 4 Mod. 106. Lord Holt\u2019s opinion in this case, from Ms manuscript, 2 T. R. 652.) This common law distinction between corporations for public government, and for private charity, was taken not at all with reference to the power of the crown over the two sorts of corporations, or their franchises, but solely with reference to the private visitorial power or government, conceded by law, to the founder and endower of a private charitable corporation. Lord Holt (2 T. R. 352) defines these two sorts of lay corporations. He says: \u201cAnd that we may the better apprehend the nature of a visitor, we are to consider that there are in law two sorts of corporations aggregate, such as are for public government and such as are for private charity. Those that are for the public government of a town, city, mystery, or the like, being for public advantage, are to be governed according to the law of the land, &c.; of these there are no private founders, and consequently no particular visitor; there are no patrons of these,\u201d &c. He then defines a private or particular corporation for charity. It is evident that a bank or manufacturing corporation or any corporation created for the purpose of carrying on or promoting any art, or mystery, would, at common law, have come within the class arid definition of corporations for public government.\nThere was no such distinction between corporations, as public and private, taken with reference to the power of the crown over their charters or franchises, known to the common law. (See Hale\u2019s Analysis of the Law, 51-54. Also authorities before cited on this point.) The king could not abolish any lay corporation, or new model it, or alter its powers without assent. (King v. Passmore, 3 T. R. 244, 246. Rex v. Vice Chancellor of Cambridge, 3 Burr. 1656.)\nThere was no occasion at the common law for any such division of lay coporations into public and private, either with reference to the power of the crown, or of parliament\u2014 for parliament was omnipotent; and the crown had not the power arbitrarily to abolish, take away, or alter the charter or franchises of any lay corporation. Of course a corporation could at common law forfeit its chartered franchises by misuser or nonuser: and they could be taken away by a judgment of forfeiture in a jiroper legal proceeding: \u25a0 In Wales v. Stetson, (2 Mass. R. 146, decided in 1806,) before cited, Parsons, Oh. J. said: \u201cWe are also satisfied that the rights legally vested in this or in any corporation cannot be controlled or destroyed by any subsequent statute, unless a power for that purpose be reserved to the legislature in the act of incorporation.\u201d In Terrett v. Taylor and others, (9 Cranch, 51, decided in 1815,) Story, J. said : \u201c A private corporation, created by the legislature, may lose its franchises by a misuser or a nonuser, and they may be resumed by the government under a judicial judgment upon a quo warranta to ascertain and enforce the forfeiture. This is the common law of the land, and is a tacit condition annexed to the creation of every such corporation.\u201d\nUpon a change of government, too, it may be admitted that such exclusive privileges attached to a private corporation as are inconsistent with a new government, may be abolished. \u201c In respect also to public corporations which exist only for public purposes, such as counties, towns, cities, &c., the legislature may, under proper limitations, have a right to change, modify, enlarge or restrain them, securing however the property for the uses of those for whom, and at whose expense, it was originally purchased.\u201d So far as I have been able to investigate the point, this was the first judicial intimation in the United States of the reasonableness or propriety of a division of corporations into public and private, with reference to the power of the state legislatures over their charters and franchises; or of the reasonableness or propriety, if this division was to be made, of placing chartered cities in the same category as towns and counties, recognized and known as quasi corporations. What Judge Story said on this point in Terrett v. Taylor and others, was certainly said qualifiedly; but I think it may be said, nevertheless, to have been the most momentous dictum that ever came from a judge\u2014for this division of corporations into public and private, with reference to the power of the state legislatures over their charters and franchises, was recognized in the Dartmouth College case, (4 Wheat. 638, 663, 668, 694,- decided in 1819;) and thus recommended, was adopted by the state courts\u2014and the consequence is, that the charters, and all the governmental, or mere political franchises of cities, some of them with charters dating back long prior to the revolution, lie prostrate at the feet of the state legislatures, to be altered or modified to suit the views or purposes of a political majority\nThe considerations of public policy, and even of personal liberty, which might be urged against the propriety of instituting this classification of corporations, with reference to state power, I have never seen adverted to; nor havej ever \"been able_to_see whyjhe charter of a city was not just as much a cqntrac_t, _as the charter of a bank, or of Dartmouth College. It is certain that Mr. Webster\u2019s argument in the Dartmouth College case, and the common law authorities cited by him, in the main, applied with as much force to the charter of a city, as to that of Dartmouth College.\nIt is plain that I am right in calling the remarks which I have quoted from Justice Story\u2019s opinion in Terrett v. Taylor and others, a dictum. What was the question in that case? The Episcopal church of Virginia, previous to the revolution, had certain lands which were confirmed to her by various statutes of the state, passed from 1776 to 1788; the legislature afterwards, by two statutes, repealed the statutes confirming the right of the church to the lands, and thus undertook to divest her of the lands. The question was, whether the repealing statutes were constitutional; and it was held that they were not. How, can it be said that the decision of this question called for what was said by Mr. Justice Story, as to the distinction between public and private corporations P It can hardly be said that the decision of the question in the Dartmouth College case, whether the charter of the college was a contract, within the meaning of the clause in the constitution of the United States declaring that no state shall make any law impairing the obligation of contracts, called for all that was said by the judges in that case, as to the distinction between public and private corporations, with reference to state power over them. But I am convinced that this distinction is now so firmlysettled by authority, and has. been so generally recognized, that it would be practically,, useless, if not considered absurd to attempt, Jyyapy constitutional theory or general reasoning, to disturb it. It only remains, therefore, to see what the doctrine is distinctly; how far it has been recognized by the courts of this state; whether it applies to the charters of the city of Hew York; and if so, how it affects the question of the power of the state legislature to pass the act in question, as between the legislature and the city corporation.\nIn Angell & Ames on Corporations, \u00a7 31, the distinction between public and private corporations is stated thus: \u201c The main distinction between public and private corporations is, that over the former the legislature, as the trustee or guardian of the public interest, has the exclusive and unrestrained control, and acting as such, as it may create, so it may modify' or destroy, as public exigency requires or recommends, or the public interest will best be subserved. Private corporations, on the other hand, are created by an act of the legislature which, in connection with its acceptance, is regarded as a compact, and one which, so long as the body corporate faithfully observes, the legislature is constitutionally restrained from impairing,\u201d &c.; citing the Dartmouth Col lege case, (4 Wheaton,) and a large number of other cases, decided in different states of the Union; in most, if not in all of which state cases, I think it will be found that the Dartmouth College case is cited and relied on. See 2 Kent\u2019s Commentaries, 305, where the doctrine is stated substantially the same.\nIn the case of Bonaparte v. The Camden and Amboy R. R. Co., (1 Bald. Cir. Ct. R. 222,) it was said, \u201cgenerally speaking, public corporations are towns, cities, counties, parishes, existing for public purposes; private corporations are for banks, insurance, roads, canals, bridges, &c., where the stock is owned by individuals, but their use may be public.\u201d In this state the distinction between public and private corporations, with reference to the power of the state legislature over them, was recognized and applied in The People v. Morris, (13 Wend. 325.) In this case it was held that political powers conferred upon a corporation for the local government of a place, such as cities and villages, are not vested rights against the state, and may be abrogated by the legislature as well by \u00e1 general law affecting the whole state, as by a special act altering the powers of the corporation. It was also held in this case, that an individual corporator cannot object to an act of the legislature altering, modifying or abrogating any power or franchise conferred by the charter upon the corporation. In this case, it was said by Nelson, J. \u201cIt is an unsound and even absurd proposition, that political power-conferred by the legislature can become a vested right as against the government in any individual or body of men. It is repugnant to the genius of our institutions,\u201d &c. Again he says: \u201c Many of the English charters, incorporating cities and towns, were likewise acquired by means of an appeal either to the fears, avarice, or generosity of the crown, and like those on the continent are to be viewed, as they are in truth, in the nature of a bill of rights. It was the acquisition of so much liberty conceded by, or extorted from, a sovereign claiming nearly absolute power; and hence the idea of inviolability so generally and justly attached to them. They were constitutional charters, which the crown could not encroach upon without violating the freedom of the subject. Most if not all the leading cases in the books, involving the question of the inviolability of these charters in the English courts, arose between the prerogatives of the crown and the corporation. The right or power of parliament in England, or of the legislature here, to interfere with these bodies, created as auxiliaries to be employed in the government of the state, would present quite a different question.\u201d\nI cannot- avoid saying with diffidence, that I cannot see why a legislative encroachment upon the charter of a city is not just as much a violation of the freedom of its inhabitants, as an encroachment by the crown would have been. The violation of the freedom of the citizen or subject depends certainly upon the extent and character of the encroachment, and not upon the form or source of the power from which it c unes.\nThe Montgomerie charter of the city of Sew York, dated January 15, 1730, authorized the aldermen of the city, with certain other officers, to hold and keep courts of general sessions of the peace in and for the city and county of New York. The legislature, by an act passed May 14, 1840, annulled the power conferred on the aldermen of the city by the charter of 1730, to officiate as judges of the court of general sessions. This act was held to be constitutional in The People v. Purdy, (2 Hill, 31.) The court, per Bronson, J., said (p. 33) : \u201c The power of the legislature to alter the charters of public corporations without their consent\u2014provided rights of property are not affected by it\u2014cannot be doubted. Cities and villages exercise powers of government\u2014a portion of the sovereign power of the state\u2014within a limited district. Such privileges cannot, from their very nature, be the subject of an inalienable grant. They may be recalled at pleasure. Whether the act of 1840 was a wise or politic exercise of the legislative power, is a question with which we have nothing to do.\u201d This case also decided, what indeed is plain, that the provision of the state constitution, that nothing contained in it \u201c shall annul any charters to bodies corporate and politic,\u201d left the charters granted by the British crown, subject to the power of the staid legislature, the same as if they had been granted by the legislature, without reserving the right to repeal or alter them. This case was reversed by the court of errors, (4 Hill, 384,) but upon a ground no way affecting its authority, upon the point for which it is cited here.\nThe nineteenth section of the Montgomerie charter, conferred upon the corporation the office of gauger of all gaugable liquors and vessels, and of measurer of salt, grain and all measurable merchandises ; and of \u25a0 surveyor and packer of bread, &c., with all the fees and perquisites arising therefrom. An act of the legislature was passed in 1832, regulating the measuring of grain in the city; which authorized the appointment of a measurer general, and between ten and twenty measurers by the governor and senate. The act declared that no persons except those appointed under the act should measure any grain in New York for hire or reward. This act of the legislature was declared valid by the superior court of the city, Ch. J. Jones delivering the opinion. The case is cited note 34, Kent's Char., but I do not find it reported.\nWithout adverting particularly to the numerous instances in which the state legislature has, particularly of late years, altered and remodeled the charter and franchises of the city, without its assent; and which have been submitted to by the city authorities, apparently without their dissent\u2014the recognized division of corporations into public and private, with reference to legislative power; the consequent well settled doctrine that the state legislatures have full power and control over the charters and mere governmental or political franchises of cities ; and the cases last cited, relating to legislative interference with the charter of the city of New York; will not permit an escape from the cqnclusion,.that the legislature of this state has full power over the governmental or political franchisesqlthe; city of .New York. Even the Dartmouth College case concedes that the property and property franchises of public corporations are protected from legislative power. (See also Bailey v. The Mayor &c., 3 Hill, 531; Benson v. The Mayor &c., 10 Barb. 223.)\nThe act of the' legislature, granting to Kerr and his associates the use of the streets for the rail road, undoubtedly interferes with the full power given in the sixteenth section of the Montgomerie charter to the common council of the city, \u201c not only to establish, appoint, order and direct the making and laying out of all other streets, &c. not already laid out, but also the altering, amending and repairing all such streets,- &c. heretofore made or laid out, or hereafter to be made or laid out, &c., in such manner as the said common council, for the time being, or the major part of them, shall think or judge to be necessary and convenient for all inhabitants and travelers there.\u201d This power is a franchise. I do not see that the privilege granted by the act can interfere with any other franchise or charter power of the city. The question then is, whether this power over the streets and the laying out oft-he same, can be called property, or a property franchise ?\nChancellor Kent, speaking of this grant of power over streets, says (Kent\u2019s Char. note 31) : \u201c This is a grant of a public nature, without any private' interest or property or revenue connected with it, and it has always continued with the common council, subject, nevertheless, at all times, to legislative interference and direction and he refers to various acts, colonial and state, as instances of such legislative interference and direction. It is plain that this power over the streets cannot be called a property, franchise. It is a power to lay out streets and regulate them as highways, for public use.\nThe complaint in this case alleges that the privileges and franchises attempted by the act of the legislature to be conferred on the grantees named in it, are of great pecuniary value ; and that certain individuals named, citizens and tax payers of the city, offered and proposed to the legislature, \u201c in case the right of way described in said bill (the act of the legislature in question) could be legally secured to them, in the manner provided in said bill, and the opportunity and option afforded them, to pay therefor the sum of one million of dollars to the corporation of the city of New York, for the benefit of the city,\u201d &c. \u2022 I do not see how this allegation, assuming it to be true, can affect the question whether the act interferes with any property right of the city corporation, or any other question in the case.\nIf the corporation had power to grant this privileged use of the streets, and had grant\u00e9d it, and received a million of dollars for it, the money would have been property; but surely such sale of the privilege would not have made the power granting it a property franchise. If the legislature had accepted the offer alleged in the complaint in this case, and the privilege had been granted to those making the offer, and the money had been paid to the city corporation, would this have made the power of legislation a property franchise ? Those asking for the favors of political or governmental power, may be very willing to pay for them; but if they do, it cannot he said that it changes the nature of the power. \" \u2022\nThe corporation has certain revenues as incidental to the power of licensing hackney coaches and public carriages, conferred, I believe, by the act of 1813; but this power, I suppose, ^of^^tiiejiiature^of^aJ^licejmwer, and the revenues incidental to it as such. The same remark may probably be made as to the license fees for running rail road cars, the right or practice of exacting which would seem to be acknowledged by the act in question.\nIn every aspect, then, of this question of the- power of the legislature to confer this privileged use' of the streets on Kerr and his associates\u2014as to the public\u2014:as to the private plaintiffs alleging apprehended consequential damages\u2014as to the city corporation, claiming protection by its charter\u2014I am not permitted, by the decisions of our courts, to escape the conclusion that the legislature had the power, without the. consent of the city, and without compensation to. the-private plaintiffsjfor conseq uenti.al damages; and that, the order-made by the .special term in this case, continuing the temporary injunciion, should therefore be reversed.\nAs to the order of the special term, sustaining the demurrer of the mayor &c., I concur in the conclusion of Judge Welles, that the order should be affirmed, on the ground stated by him. It may also be observed that there is no allegation in the complaint, of any fact to show that the mayor, &c. had any intention to act adversely to the rights claimed by the plaintiffs.",
+        "type": "majority",
+        "author": "Welles, J. Sutherland, J."
+      },
+      {
+        "text": "Leonard, J.\nAfter careful consideration, I am unable to concur with my associates in reversing the order continuing the injunction.\nI disagree with the learned justice who writes the leading opinion for reversal, in holding that the coporation of the city of New York have no beneficial interest in the streets. Every new use which is not inconsistent with the original use by the public under the trust by which the title is held by the municipal corporation for a highway, belongs to the municipality, and not to the people of the state at large. The rail road track when laid makes use of a certain portion of the land constituting the street. It is a new use, which enures, pecuniarily, to the profit of the grantees, and, as a convenience, only to the advantages of the public. The corporation, with, the permission of the legislature, may construct the rail road and enjoy the profit. That right flows from and is attached to the fee of the land constituting the street, and is vested in the corporation. The right of the public in the streets of the city is for a highway only, as heretofore used and enjoyed; not for laying a rail road. It is the municipality that have paid, for the land in the streets, not the public at large.\n[New York General Term,\nJuly 21, 1862.\nFor these reasons, and those referred to in my opinion at the special term, I am convinced that the right demanded is one which the public may not take from the municipality of the city of Hew York without payment. That the payment, when made, must go to the city treasury, for the relief of local tax payers, and not for any other public use.\nI dissent from the opinion reversing the injunction order.. I concur in the order- sustaining the demurrer of the mayor, &c. of the city of Hew York to the complaint, with costs.\nOrder continuing injunction reversed, and order for injunction discharged. Order and judgment sustaining demurrer to complaint affirmed.\nSutherland, Leonard and Welles, Justices.]",
+        "type": "dissent",
+        "author": "Leonard, J."
+      }
+    ],
+    "attorneys": [
+      "William Allen Butler, John Van Bur\u00e9n and William Gurtis Noyes, for the plaintiffs.",
+      "Henry H. Anderson, for the mayor &c. of the city of Hew York.",
+      "0. 0\u2019Conor, for the defendants Kerr and others.",
+      "W. M. Evarts, for the defendants Kerr and otherg."
+    ],
+    "corrections": "",
+    "head_matter": "The People of the State of New York, The Trustees of the Sailors Snug Harbor in the City of New York, James Brown, William W. Chester, George W. Varian and Samuel B. Althause vs. John Kerr and eleven other individuals and the Mayor, Aldermen and Commonalty of the City of New York.\nThe act of the legislature, passed April 17,1860, to authorize the construction of a rail road in the seventh avenue, and in certain other streets and avenues in the city of New York, is not to he construed as granting the use of the streets, &c. only after compensation made to, or agreed upon with, all owners of any interest in the lands forming the streets, and as not establishing such right absolutely and unconditionally.\nIt is apparent from the whole scope and tenor of the act that the legislature, in passing it, assumed the right to grant the franchise absolutely and unconditionally, so far as the occupation of the streets and avenues mentioned, for the purposes of the rail road, was involved.\nThe act is not void as being repugnant to the constitutional prohibition against the taking of private property for public use, without compensation, for the reason that it omits making any provision for compensation to the corporation of the city of New York, or to property owners, for the franchise granted.\nThe fee of the streets and avenues resides in the corporation of the city of New York, in trust, to keep them open forever as streets for the use of the public. Lbonabd, J. dissented.\nThe trust vested in the corporation proc\u00e9eded from the sovereign power, either of the crown of Great Britain, or of the state of New York, or from both; and exists for the use and benefit of all the people of the state, who are the beneficiaries or cestuis que trust for whom the trust was created, and by whom, through their legislature, it is sustained and continued.\nThe power to exempt the grantees from the payment of any damages or compensation for the franchise granted by the act of April 17,1860, was clearly within the scope of legislative authority.\nThe occupation of the streets for the purpose of constructing and operating the rail road authorized by that act, does not involve the talcing of (property, in such a sense as to come within the prohibition of the constitution; which implies first, a private owner; second, a taking from Mm; and third, the property or thing taken having the legal qualities of | property, and the owner\u2019s interest in which is capable of legal estimate.\nThe streets are not in the hands of private owners, and whatever is authorized by the act to be taken is not private property. The grant in the statute is of a franchise. And the act authorizing the grantees to construct and operate the rail road, with its turnouts and switches, is a mere legislative license to do so.\nThe act of April 17, I860, does not transfer any property to the grantees of the franchise. It only grants to them the liberty to use\u2014not to take\u2014\u25a0 public property for public use, without excluding other persons from the use thereof.\nThat act does not contravene section 9 of article 1 of the constitution, by appropriating the public property for a private purpose, in surrendering to the grantees a portion of the public easement in the streets, without having been passed by a-two-thirds vote.\nIf the legislature had the power to authorize the grantees to construct and operate the rail road mentioned in the act, without the consent of the owner or owners of the fee of the streets and avenues upon or through which it was to be constructed, whether such fee be in the city corporation or the abutting lot owners, and without making any compensation to such owner or owners, the act gives them, and was intended to give them, such authority. Per StJTHBKLAND, J.\nWhether the streets of the city of New York have been opened and devoted to public use under the street acts, or have come by grant, dedication or usage, they are public highways.\nAnd if the privilege conferred on the grantees, of using the streets for the construction and operating of their rail road is consistent with the public use as highways for which the streets were so opened; dedicated or appropriated, it is immaterial where the fee of the streets is; for then such use of the streets, though it may be a new mode of using them for public travel, is within the purpose for which they were devoted to public use; and such new mode of using them cannot be said to deprive the owner or owners of the fee, of any private property, or private possessory right, in, or to the streets. Per Sutherland, J.\nIt may be stated as a well settled American doctrine, that the state legislatures have unlimited power over public rights in a highway; and can obstruct, modify, impair or extinguish them, as to any highway, or portion of a highway, except so far as the state power is qualified by the commercial clause in the constitution of the United States, without making any compensation to individuals for resulting or consequential damages. Per Sutherland, J.\nThe legislature had the constitutional power to authorize the grantees mentioned in the act of April 17., 1860, to construct and operate the rail road therein mentioned, as to the public, and also as to abutting lot owners, without making any compensation to them for consequential damages.\nIt also had the constitutional power to authorize the grantees to construct and operate the rail road, through or upon the streets of the city, without the consent of the city corporation.\nThe legislature has full power over the governmental or political franchises of the city of New York. Per Sutherland, J.\nNeither the people of the state, nor individuals owning property abutting upon the streets, can maintain an action against the grantees mentioned in the act of April 17, 1860, and the corporation of New York, to restrain such grantees from constructing the rail road authorized by that act, and the corporation from giving its assent to the construction of such rail road; none of the plaintiffs having any legal ground of complaint, or any legal standing in court.\nOK appeal by the defendant Kerr and the eleven other individual defendants from an order made by Leonabd, J. at the Kew York special term, dated January 9, 1861, continuing the injunction until the final \u25a0 hearing. Also on appeal by the plaintiffs from a judgment in favor of the defendants the mayor &c. of the city of Kew York, on demurrer to the complaint. The above appeals were argued at the Kew York general term on the 29th, 30th and 31st days of May, 1861, before S\u00fcthebland, Leonabd and Welles, J ustices.\nWilliam Allen Butler, John Van Bur\u00e9n and William Gurtis Noyes, for the plaintiffs.\nFibst, As to the appeal from the order continuing the injunction.\nI. The digging up by the defendants of the central part of the streets and avenues mentioned in the complaint, removing portions of the pavement, and laying down iron rail road tracks, for the transportation of passengers for their own profit, would, unless clearly and expressly authorized by law, constitute a nuisance. (Fowler v. Sanders, Cro. Jac. 446. The King v. Russell, 6 East, 427. Rex v. Carlisle, 6 Car. & Payne, 636. Rex v. Cross, 3 Camp. 226. Rex v. Jones, Id. 230. The King v. Moore, 3 B. & Adol. 184. The Commonwealth v. Passmore, 1 Serg. & R. 219. The King v. Ward, 4 Ad. & El. 384. The People v. Cunningham, 1 Denio, 524. Hart v. The Mayor of Albany, 9 Wend. 571. Hentz v. Long Island Rail Road Co., 13 Barb. 646. Heywood v. The Mayor of New York, 8 id,. 486. Davis v. The Mayor of New York, 4 Kern. 506, per Denio, C. J. pp. 524, 525.) Independently of the obstruction to the streets which, it is alleged, the digging up of the pavement and laying the tracks would cause, and the injurious consequences which would result therefrom to the public, and to the private owners of property along the line of the proposed rail road, the taking of the streets for rail road purposes would be in itself an appropriation of the streets for a new use, inconsistent with the original purpose and design for which the streets were opened, and therefore, unless expressly authorized by law, a nuisance. (Austin\u2019s case, 1 Vent. 189. Woolrych on Ways, 3. Sir John Lade v. Shepherd, 2 Strange, 1004. Fletcher v. Auburn and Syracuse R. R. Co., 25 Wend. 462. Presbyterian Society of Waterloo v. Auburn & Roch. R. R. Co., 3 Hill, 567. Inhab. of Springfield v. Conn. Riv. R. R. Co., 4 Cush. 63. Benedict v. Goit, 3 Barb. 469. The Commonwealth v. Wilkinson, 16 Pick. 175. Davis v. The Mayor, 4 Kern. 506. Williams v. N. Y. Central R. R. Co., 16 N. Y. Rep. 97. Grew v. The Broadway R. R. Co., Sup. Court, Mass., July, 1860. Commonwealth v. Temple, same court, in banco, July, 1860.) In this last case the court decided, Shaw, C. J. delivering the opinion, that the defendant was properly convicted of a misdemeanor for maliciously obstructing the Malden and Melrose Horse Bail Boad Company in the use of their track, by not turning out in a public street, between Charlestown and Boston, to allow the passage of a car. The defendant contended that the right of the horse rail road company to use the highway was subject to the right of the public to use the highway as they had done previously. The court say: \u201c This position we think manifestly unsound. The legislature having granted a new and peculiar use of the highway, the right of the public to use it, as they had done, is thereby qualified, and must be adapted to such new use.\u201d See also 2 R. L. 1813, (p. 424, \u00a7 198,) by which the law of the road, requiring vehicles to turn out to the right, was applied to the streets of the city of Hew York.\nII. The acts proposed by the defendants in constructing, maintaining and operating the contemplated rail road, thus constituting in themselves a continuing public nuisance, and also threatening special injury to the private plaintiffs in this action, this suit is properly brought, and the remedy, by injunction, properly sought by the people and by their co-plaintiffs. Unless the defendants show affirmatively, and beyond all doubt, that their intended interference with the streets is authorized by law, the plaintiffs are entitled to the relief demanded. (2 Story\u2019s Eg. \u00a7\u00a7 921, 922. Eden on Inj. by Waterman, 259, 267 and notes. Moore v. Browne, Dyer, 319. Lutterel\u2019s case, 4 Co. 86. Glynne v. Nichols, Comb. 43. Prickman v. Tripp, Id. 231. Finch v. Resbridger, 2 Vern. 390. The Atty. Gen. v. Cohoes Co., 6 Paige, 133. Baines v. Baker, Amb. 158. Samson v. Smith, 8 Sim. 272. Spencer v. The London and Birmingham R. R. Co., Id. 193. Atty. Gen. v. Richards, 2 Anst. 603. Corning v. Lowerre, 6 John. Ch. 439. Oakley v. The Trustees &c., 6 Paige, 262. Fish v. Dodge, 4 Denio, 311. Gardner v. Trustees of Newburgh, 2 John. Ch. 162. Lawrences v. The Mayor &c., 2 Barb. 577. Davis v. The Mayor &c., 4 Kern. 526.)\nIII. The act of the legislature of April 17, 1860, under which, alone, the defendants assert the right to enter upon the streets, dig them up, and lay, construct and maintain their rail road, does not establish such right, nor authorize the proceedings thus proposed. 1. Upon the true interpretation of the act, it does not authorize the defendants to proceed in the construction of the rail road, until they have agreed with all persons owning the land, or any interest therein, in any of the streets mentioned in the act, for the use or purchase thereof, or have acquired the right to use, or title to, the same, in the manner specified in the act. (See see. 3; also general rail road act, Laws of 1850, \u00a7\u00a7 14 to 21.) (1.) Until compensation is made, as thus required, to the owners of the streets proposed to be occupied, the contemplated acts of the defendant would be wholly unauthorized, and should be restrained. (2.) The fee of the streets is either in the corporation or in the private owners of the adjoining lands. (Hoffman\u2019s Treatise, 259. Milhau v. Sharp, 15 Barb. 193. Bartow v. Draper, 5 Duer, 130.) It is immaterial where the fee is vested, provided compensation is made, or consent acquired; and until this is done, the defendants have no right to proceed. (3.) The provision of \u00a7 3, that \u201c the use of said streets and avenues for the purpose of said rail road, as herein authorized, shall be considered a public use, consistent with the uses for which the mayor, aldermen and commonalty hold said streets and avenues,\u201d does not affect the question of the title of the corporation, or the right to compensation. Even where the taking of a highway for rail road purposes has been adjudged to be for a public use not inconsistent with its original purpose, compensation has been required. (Beekman v. The Saratoga and Sch. R. R. Co., 3 Paige, 45.) (4.) It is clearly manifest that the defendants intend to proceed without making any compensation for the use of the streets. 2. Whatever may be the true interpretation of this act, the legislature cannot authorize the taking of the land in the streets for the purpose of. establishing a rail road, without making just compensation to the owners of the soil. (Grotius de Jur. B. & P. b. 8, chap. 14, \u00a7 7. Puffendorf, de Jur. Nat. & Gent. b. 8, ch. 5, \u00a7 7. Bynkershoeck, Quaest. Jur. Pub. b. 2, ch. 15. Black. Com. vol. 1, p. 139. Const. U. S. amendment art. 5. Const. of N. Y. art. 1, \u00a7\u00a7 6, 7. Bloodgood v. Mohawk and Hud. R. R. Co., 18 Wend. 9. Pres. Soc\u2019y v. Auburn and Roch. R. R. Co., 3 Hill, 567. Seneca R. R. Co. v. Same, 5 id. 170. Fletcher v. Same, 25 Wend. 462. Williams v. N. Y. Central R. R. Co., 16 N. Y. Rep. 97.) In the case last cited, the legislature, by the express terms of the charter of the rail road company which laid the road, authorized the company to intersect with and build upon any highway. (Laws of 1836, p. 319, \u00a7 11.) The municipal authorities of the city of Syracuse gave their express consent, in legal form, to the building of the road on Washington street, in that city. The question in the case, as stated in the opinion of Seldeh, J. was \u201c whether the state and municipal authorities combined could confer upon the rail road company the right to construct their road upon this street, without obtaining the consent of the plaintiff or making him compensation ?\u201d (p. 100.) Held that they could not; such an appropriation of the highway being the imposition of an additional burden upon, and a taking of the property of, the owner of the fee, within the meaning of the constitutional provision which forbids such taking without compensation; the highway being appropriated for a new irse, inconsistent with its use as a street, compensation must be made to the owner of the fee. The present case, irrespective of the claims of private owners, presents the question whether, independently of municipal consent, the legislative grant is valid; in respect to which we insist as follows\u2014assuming the fee to be in the corporation: 3. The act in question is invalid upon the interpretation claimed by the defendants, inasmuch as it makes no provision for compensatian to the corporation of the city of New York, as the owners of the fee of the streets in trust for the citizens, and, on the contrary, by its terms, compels their consent to the appropriation of the streets for a new and exclusive use by the defendants, without compensation. (1.) In respect to all the streets mentioned in the act, the fee is either in the property owners on each side, subject to the public easement or right of way, or it is in the corporation. (2.) If the fee is in the corporation, as here assumed, it is so by virtue of .the provisions of the statutes of 1807 and 1813, relating to the opening of streets. (Hoff. Treatise, 289.) These provisions are as follows: Chapter 115 of the laws of 1807, \u00a7 9, provides that upon confirmation of the report of the commissioners for opening any street, \u201cthe mayor, aldermen and commonalty of the city of New York shall become and be seised in fee of all the lands in the said report mentioned that shall be required for the purposes of streets, and may take possession of the same or any part or parts thereof; in trust, nevertheless, that the same be appropriated and kept open for a part of a public street, avenue, place or square, forever, in like manner as the other public streets, avenues, squares and places in said city are, and of right ought to be.\u201d The law of 1813 contains the same provision. (2 R.L. of 1813, ch. 86, \u00a7 178.) And by \u00a7 192 of the last mentioned chapter it is enacted, that \u201c all the estate, right, title, interest, claim and demand, whatsoever, of the people of this state, of, in and to all lands at any time heretofore left for streets or highways in the city of New York, by any person or persons whomsoever, shall be and hereby is vested in the mayor, aider-men and commonalty of the city of New York, and their successors, for the use of streets and highways.\u201d (3.) The estate thus vested in the corporation is a trust estate. It is not a municipal trust, but a private trust, so that in respect to the estate vested in them, and any disposition they may make of it, the corporation are clothed with like powers, and subject to like duties and responsibilities, as any private trustee. (Milhau v. Sharp, 15 Barb. 193. Thewin v. Lewis, 4 Mylne & Cr. 249. Bailey v. The Mayor &c., 3 Hill, 531. Lawrence v. The Mayor &c., 2 Barb. 577. Agar v. Regents Canal Co., Coop. Eng. C. 77.) (4.) The taking of the soil of the streets for the proposed rail road would be a taking for a new and inconsistent use, for which compensation must be made to, or consent obtained from, the owner of tlie fee. (5.) So such consent has ever been given by the corporation. If attempted to be given without adequate compensation, it would be a gross and flagrant breach of trust, the franchise for the new use being of great value, as is abundantly proved by the persistent efforts of the defendants, during eight years, to procure and control it, by the competition in the legislature for the grant, by the offers of compensation by wealthy citizens, and by the known travel and traffic on the route proposed. (6.) So compensation to the corporation, as owners of the fee in trust, is provided by the act, according to the defendant\u2019s . interpretation of it. The use of the streets and avenues for the purposes of the rail road, is, by the terms of section 3, to be \u201c considered a public use, consistent with the uses for which the mayor and aldermen hold the said streets and avenues.\u201d And by sec. 4 the corporate authorities, in all departments, and of all grades, are required to promote the construction and protect the operation of the rail road. (7.) The grant, if it had been made by the common council, would have been void, as a breach of the trust upon -which it holds the streets. The worst features of a monopoly are stamped upon this grant, It is a grant to private individuals and their assigns, without corporate existence, restraints or liabilities. It is perpetual, and without the usual safeguards of forfeiture for misuser or nonuser. Mo right is reserved to amend, alter or repeal, and none is implied. Eights acquired under it, as soon as vested, will be irrevocable. (Chitty on Prerog. 132, ch. 8. 3 Kent\u2019s Com. 458. Fletcher v. Peck, 6 Crunch, 87. Charles River Bridge case, 7 Pick. 507. Gregory v. Shelby College, 2 Met. Ky. R. 589.) The license fee is fixed at the rates now paid on other roads, and cannot be increased hereafter. The track is made a part of the public street, thereby imposing on the municipal authorities the duty and' expense of keeping it in repair. It is an absolute, unqualified, unconditional surrender of the street, pro tanto, to the defendants. It could not be upheld if made by the corporation. (Davis v. The Mayor &c., 4 Kern. 506.) (8.) The corporation, as owners of the fee of the streets, in trust, could not permit their use for such purposes, without compensation, except by an abuse of its trust powers. The legislature cannot coerce the surrender by the trustee, of the trust property. The provisions of the law requiring acquiescence on the part of the trustee, to the diversion of the trust estate, are nugatory. 4. The act is invalid, inasmuch as it makes no provision for compensation to the corporation of the city of New York, as trustees of the fee for the franchise granted by the act; such franchise being the property of the corporation, and creating a new easement, or exclusive right of way in the streets. (I.) Irrespective of the question whether the rail road is a new and inconsistent use of the street, the grant to these defendants of the exclusive right of carrying passengers by rail road on these streets, for profit, is a franchise. (Beekman v. The Saratoga and Sch. R. R. Co., 3 Paige, 75. Davis v. The Mayor &c., 4 Kern. 523, per Denio, C. J.) \u201c The right granted to these associates would be the very definition of a franchise/'\" (See also The People v. Utica Ins. Co., 15 John. 358 ; Charles River Bridge v. Warren Bridge, 11 Pet. 639 ; 3 Kent\u2019s Com. 458 ; 2 Black. Com. 37; Chapman v. Alb. and Sch. R. R. Co., 10 Barb. 360 ; 2 Hilliard, Real Property, 45-47.) (2.) The fee of the soil of the streets being in the corporation in trust for streets &c,, the public easement and right of way, of which the corporation are the trustees and custodians, cannot be abridged by carving out of that easement a franchise to be enjoyed by private persons, even though for public use, without full compensation. -The right of eminent domain does not imply a right in the sovereign power to take the property of one citizen and transfer it to another, even for a full compensation, unless the public interest is to be so promoted as to render such taking necessary. Even then, only so much as is absolutely necessary for the public use can be granted; the residue remaining in the owner. (Beekman v. Sar. and Sch. R. R. Co., 3 Paige, 75, per Walworth, Ch. Varick v. Smith, 5 id. 137. 2 Kent\u2019s Com. 410. Embury v. Conner, 3 Comst. 511. Heyward v. The Mayor &c., 3 Seld. 314) If the legislature determine that such taking is necessary, they can only authorize it upon full compensation to the owner of the property affected, whatever may he the character of that property. A vested easement, right of way, or right to the use of a water-course, is property, within the meaning of the constitution, as much as land, and cannot be interfered with by the exercise of the right of eminent domain, except for full compensation. (See causes supra, third point, sub. 1; Gardner v. Newburgh, 2 John. Ch. 162.) It follows that no exclusive franchise, for the benefit of private individuals, can be granted out of a public street without compensating the owner for the abridgement of the free right of way before enjoyed. (3.) The grant cannot be construed as a resumption by the people of a right of way which belongs to all the inhabitants of the state, and which can be conferred by the legislature as a gratuity. The act of 1813 (2 R. L. 1813, ch. 86, \u00a7\u00a7 178,192) vests the title of the state in the corporation in trust, and the whole legislation of the state shows that whenever a street or highway was intended to be given up to, or allowed to be used for any analogous purpose quasi public in its character, compensation must be made, or the consent of the owner of the soil first obtained. ( Webster\u2019s ed. of Laws, vol. 3, pp. 70, 67, 317, 390. Laws of 1819, p. 151; 1820, p. 114; 1825, pp. 86, 89 ; 1835, p. 275; 1848, p. 51, \u00a7 18. Turnpike Act of 1807, 1 R. L. 231. Plank Road Act, 1 R. S. 4th ed. 1095.) The streets appropriated by the grant have been opened, graded and rendered available for the reception of rails, at the expense of the corporation representing the citizens and tax payers, who should be compensated, through the corporation as their trustees, upon the taking of the road-bed- by the grantees. To give it to them without compensation is a flagrant injustice, and a palpable violation of the constitution. (4.) The legislature, by express provision in the city charter, have provided for the lease and sale at public auction, to the highest bidder, of certain franchises similar in description to that sought to be conferred on the defendants. (See Laws of 1853, p. 411, \u00a7 7; City Charter of 1857, Laws of 1857, p. 874.) And by the act of April 14, 1854, relating to the construction of rail roads in cities, repealed in 1860, to make room for the grants now in question, this identical franchise was directed to' be sold by the common council, upon public notice inviting proposals, &c. (See Laivs of 1854, p. 323, \u00a7 2.) (5.). Abundant evidence of the actual value of the franchise is before the court. It can be made a source of revenue to the city, either by sale or lease. (6.) The cases relied upon by the defendants in support of the exercise of the right of eminent domain, in authorizing rail roads in streets, do not apply, inasmuch as all these were either cases in which the right was questioned by private 'owners who failed to show any title to the streets; or cases in which a valid assent had been given by the corporation; or cases which have been overruled by subsequent decisions. (Lexington and Ohio Rail Road v. Applegate, 8 Dana, 289. Hamilton v. N. Y. and Harlem R. R. Co., 9 Paige, 171. Drake v. Hudson River R. R. Co., 7 Barb. 524: Plant v. Long Island R. R. Co., 10 id. 26. Adams v. The Saratoga &c. R. R. Co., 11 id. 414. Milhau v. Sharp, 15 id. 193; S. C. 17 id. 435. Chapman v. Alb. and Sch\u2019y R. R. Co., 10 id. 360. Williams v. N. Y. Central R. R. Co., 16 N. Y. Rep. 97.) 5. The act is invalid, inasmuch as it makes no provision for compensation to the private plaintiffs, and other owners of the soil of the streets through which the proposed rail road is to pass. (Canst, art. 1, \u00a7\u00a7 6, 7.) (1.) The fee of the land in the streets is in the owners of the real property on each side ad medium filum vice, subject only to the easement or right of way in the public as it now exists. (3 Kent\u2019s Com. 433. Lade v. Shepherd, 2 Strange, 1004. Chester v. Alker, 1 Burr. 133, 145. Cortelyou v. Van Brundt, 2 John. 357. Jackson v. Hathaway, 15 id. 447. Whitbeck v. Cook, Id. 483. Livingston v. The Mayor, 8 Wend. 85,107. Wyman v. The Mayor, 11 id. 487, 502. Gidney v. Earl, 12 id. 98. Hooker v. Utica &c. Turnp. Co., Id. 371, 373. John and Cherry streets, 19 id. 659, 675. Willoughby v. Jenks, 20 id. 96. Trustees Presb. Ch. v. Auburn and Roch. R. R. Co., 3 Hill, 567. Mohawk Bridge Co. v. Utica and Schen. R. R. Co., 6 Paige, 562. Adams v. Sar. and Wash. R. R. Co., 11 Barb. 414. Perley v. Chandler, 6 Mass. R. 453. Williams v. N. Y. Central R. R. Co., 16 N. Y. Rep. 97.) The law presumes the fee to be in the owners of the adjoining lands, and the burden is on the defendants of showing that it is not in them. (2.) The statutes authorizing the opening of streets do not confer any absolute title upon the corporation, except in trust, so long as the streets are kept open. Upon the closing of any street named in the complaint, the land would revert to the original owner. (Albany street, 11 Wend. 159. Cherry street, 19 id. 659. Heyward v. The Mayor, 3 Seld. 317. Embury v. Conner, 3 Comst. 511.) The i original taking of the land for a public street was compulsory, and by operation of the statute which vested in the corporation only a trust estate'for a particular use, and was silent as to the residue. By implication of law the residue resulted in favor of the original owner, and as to this residue the corporation hold the land in trust for the original owners, they not having parted with the title. (1 Fonb. Eq. 439. 2 id. 132. 1 Lomax\u2019s Dig. 200. 4 Kent\u2019s Com. 306. 1 Cruise\u2019s Dig. 399, tit. 11, ch. 4, \u00a7\u00a7 20, 32, 34. 2 Sanders\u2019 Uses, 79. 1 id. 97, 133, 140.) The legislature had no power to direct the taking for streets of more land than was required for the public use. (Matter of Albany street, 11 Wend. 159. John and Cherry streets, 19 id. 667.) They had the power to determine, in respect to the land thus required, what estate or quantity of interest should be taken, whether an estate absolute in fee, or a qualified estate. (Heyward v. The Mayor, 3 Seld. 314, 325.) And in the exercise of this power they have carefully abstained from giving an absolute fee. The corporation take only an estate in trust, and the estate of the original owners is not divested. The legal fee is in the corporation, but the legislature have qualified the estate by express terms, as it was in their power to do. 6. Even if the fee of the soil is not in the plaintiffs, they have a special property in the streets upon which their real estate is situated, in their easement or right of way therein, which, cannot be interfered with without compensation. 7. If no provision is made by the act, for compensation to the corporation as trustees, or to the private owners, the plaintiffs are entitled to the injunction sought against the defendants The Mayor, Aldermen and Commonalty, as well as against the grantees in the act. As to the grantees, see cases supra, under second point. As to the corporation: (1.) The consent of the corporation, as to the legal owners of the fee in trust, to the taking of the-streets without compensation, would be a breach of trust, and would work irreparable injury, which can only be prevented by injunction. The plaintiffs, as cestuis que ' trust, have a right to this relief. (Lawrence v. The Mayor, 2 Barb. 577. Bailey v. The Mayor &c., 3 Hill, 531.) (2.) As the rail road sought to be restrained being unauthorized, will be a nuisance, the attorney general, as representing the people, may obtain an injunction to prevent its being made. (Davis v The Mayor &c., 4 Kern. 526.) (3.) The act requiring such consent to be given, it is to be presumed that it will be given, unless restrained by injunction; and the corporation are expressly prohibited from refusing it and from taking any adverse action. (4.) The history of municipal action, with reference to grants of this description, during the past eight years,, and in reference to all grants of franchises, shows the necessity of judicial interposition. (5.) The act being invalid for the reasons above stated, the court should restrain action under it, even though not immediately threatened, in order that public and private rights of such great value may not be imperiled. (6.) Ho injury or injustice will be done by restraining action under an invalid law. (7.) Ho interference with the legislative powers of the common council is sought; as the giving of the required consent is not necessarily a legislative act. (The People v. Sturtevant, 5 Seld. 263, per Johnson, J.) 8. The act is invalid inasmuch as it was not passed by the vote required for bills appropriating public property to public purposes. (Const. art. 1, \u00a7 9.) The act, though in one sense appropriating private property to a public use, is yet, in respect to the private franchises sought to be conferred on the grantees by the surrender to them of a portion of the public easement of the entire people, in the streets, an appropriation of public property for a private purpose.\nIV. The grant attempted to be made by the act derives no support from any considerations of public advantage. It can be sustained only on the theory of absolute legislative authority. The propriety and necessity of increased rail road accommodations, under proper restrictions, may be conceded. But this supposed demand is not so urgent as to justify the invasion of private rights, and the sacrifice of public interests threatened by the defendants under color of this grant.\nSecond. As to the appeal from the order allowing the demurrer to the complaint.\nI. It is a general rule that all persons having an interest in the subject matter of the litigation, or in any way affected by it, must be made parties\u2014even though no relief can be had against them. (Code, \u00a7 118. 1 Dan. Ch. Pr. by Perkins, 240.)\nII. So, all must be made parties who are interested in the fund or property in litigation, and especially those who hold the legal title to it; and this rule requires the trustees of the fund or property to be made parties, in all cases, without exception, although they are nominal trustees only. (1 Dan. Ch. Pr. 241, 242, 293, 294, 295.)\nIII. Here the city is owner of a qualified fee in the property in litigation, holding that fee in trust y and as such it is a necessary party to the suit, as owner, as well as trustee ; and because the judgment must determine the extent and character of its interest in the streets, the nature of its ownership, and its rights and duties as trustee; and whether it can lawfully permit the railway to be laid in the streets, and be operated in perpetuity. For \u201c although the trustees may have no active duty to discharge, in the management of the trust estate, and although the question at issue in the cause is to be fought principally by the cestuis que trust, the trustees must, notwithstanding, be brought before the court as co-defendants, in respect of the legal estate vested in them, and a suit against the cestuis que trust only, will be defective.\u201d (Hill on Trustees, marg. paging 545 ; Id. Whart. ed. 797)\nIV. The plaintiffs claim to be cestuis que trust of the city, under the trust, as well as owner of the ultimate fee in the land in front of their lots forming the bed of the streets, as set forth in the complaint, so far as their lands, or the lands of those under whom they claim, were conveyed to or taken by the city for streets, when the user for the purposes of streets shall cease; and as such, claim a right to prevent their appropriation of the streets by the city, or by the legislature, without compensation, to a new use. In order to the proper determination of this question, the city, as trustee, is a necessary party; not only as holding the legal estate, but as trustee, charged with the duty of seeing that the streets are not appropriated to such new use; and in order also that the judgment may be binding upon it, when made. That it is a new use has been decided by the court of appeals. (Davis v. The Mayor &c., 4 Kern. 514. Williams v. N. Y. Central R. R. Co., 16 N. Y. Rep. 97.)\nV. So the defendants claim the right to appropriate the streets to the use of the railway, under the act of the legislature, and by force of the act, to compel the city to assent to such use, and to hold the streets as trustees for such use, in addition to the use already imposed upon them; and in order to a proper and final determination of the question whether such a right is conferred by the act, the trustees, as holders of the fee, and of the trust, are also necessary parties.\nVI. The last two points do not depend at all upon the questions, first, whether the city is willing or can be compelled to consent to such use; or, secondly, whether it could be restrained from giving such consent; or, thirdly, whether it would be entitled to compensation for giving it. For none of these questions can be litigated without its presence as a party, and as all the other parties claim, in effect, to be cestuis que trust, and the dispute is as to the character and extent of the trust, as trustee it is a necessary party to the suit.\nVII. But the people of the state as a party, bringing the suit with the private plaintiffs, as they may do, seek, with them, to restrain the creation of a nuisance in a public highway ; and as this highway is held by the city in trust, the right to establish or maintain a nuisance in it can only be finally determined by having such trustee a party to the suit. 1. The attorney general, as representing the people, may always sue to restrain such a nuisance. 2. So may the private plaintiffs, though they have no interest in the street as owners, but simply because the lots front on1 the highway. (Doolittle v. Supervisors of Broome County, 18 N. Y. Rep. 163, per Denio, J.) 3. The party holding the legal title, and the trust which the nuisance will necessarily affect, must be a party. (Cases under 3d point, supra.)\nVIII. This court, at special term, having decided that the action could be maintained, chiefly on the ground that the act of the legislature was unconstitutional, as it did not provide for compensation to the city as trustees, and that the railway would be a nuisance, as it was unauthorized; and that the plaintiffs private owners of the lands abutting on the streets to be occupied by the proposed rail road, may complain of the construction thereof, because it will be especially injurious to them, the city was a necessary party; for unless the party to whom the compensation was payable was before the court, no final or binding judgment could be given. The order allowing the demurrer should therefore be reversed.\nHenry H. Anderson, for the mayor &c. of the city of Hew York.\nI. If any one has a right to authorize a rail road in the streets of the city, it is the corporation, and not the state. The right to run a city rail road is a franchise, and the right to dispose thereof is vested in the corporation, by its charters. (Montgomerie charter and preamble ; Davies\u2019 Laws, pp. 163, 164; \u00a7 16, p. 177; \u00a7 40, pp. 196, 197; Act of 1732; Davies\u2019 Laws, p. 198 ; Const. of 1777, \u00a7 36.) 1. All the \u201c estate, right, title, interest, claim and demand, whatsoever, which the people of the state ever had, of, in and to, all lands, at any time left for streets or highways in the city of Hew York, is vested in the mayor, aldermen and commonalty.\u201d (Dongan charter, \u00a7\u00a7 2, 39; Davies\u2019 Laws, pp. 149, 195; Act of 1691, 1 Smith & Liv. p. 12; Act of April 16, 1787, 1 Greenl 444; Act of March 17, 1793, 3 id. 52 ;. Act of 1813, Davies\u2019 Laws, 544, \u00a7 192.) 2. The state has no direct interest in, nor control over, the streets of the city; nor has the state any right to interfere with the franchises of the corporation, nor to attempt to override the action of the - common council in respect thereof, while such action does not transgress the provisions of the charters of the corporation. 3. The mayor, aldermen and commonalty are seised in fee of all lands taken by proceedings in the supreme court, under the act of 1813. (Act of 1813, \u00a7 178, Davies\u2019 Laws, p. 17.) .\nII. Ho cause for an injunction, nor cause of action, against the corporation, has been shown. 1. It does not appear that the corporation is either \u201c doing or about to do,\u201d or procuring or suffering any act to be done, in violation of the plaintiffs\u2019 rights, respecting the subject of the action. {Code, \u00a7 219.) 2. The cause for an injunction against the corporation, alleged in the complaint, is, that the plaintiffs are apprehensive that the corporation may possibly, at some time, do something. There is not even an averment that the corporation has any intention to act adversely to the rights claimed by the plaintiffs. But such averment, though much stronger than the one made, would not show a cause of action. (Van Ness v. Hamilton, 19 John. 372. People v. Manhattan Co., 9 Wend. 351.)\nIII. The court has no power to restrain legislative action, by injunction. 1. The adoption of a resolution by the common council is a legislative act, by a legislative body. (Charter of 1857, \u00a7 2. Laws of 1857, p. 874.) 2. If a resolution is adopted which is invalid, action under it may be restrained. Until the adoption of the resolution, a suit to restrain is premature. The passage of a resolution works no injury, and a resolution may never be passed. (Suffern v. The Mayor &c. of N. Y. Aug. 1, 1860. People ex rel. Lynch v. The Aldermen, 11 Abb. 289.)\nIY. The trust in the corporation, in respect to the use of streets, is a public and not a private trust. That class of plaintiffs who are private individuals cannot, therefore, maintain an action against the corporation, in respect to the use of the streets. (Doolittle v. Supervisors of Broome, 18 N. Y., Rep. 157. Roosevelt v. Draper, 7 Abb. 108. Warwick v. The Mayor &c. of N. Y., 28 Barb. 210. Hale v. Cushman, 6 Met. 425.) The relief sought must be such that it could be granted to all the plaintiffs, or there is a defect of parties. (Brownson v. Gifford, 8 How. Pr. 389. Leavitt v. Fisher, 4 Duer, 22, 33. People v. The Mayor &c. of N. Y. 28 Barb. 240.)\n0. 0\u2019Conor, for the defendants Kerr and others.\nFirst. General propositions.\n1. Beads, in other civilized nations than England, were generally formed by public authority, and belonged to the state. (Argt. in Ninth Av. R. R. case, 43. Hoff. Tr. App. note, p. 47.) 2. In England roads were generally formed by individuals over their own lands, the use being dedicated to the public, and the fee remaining in the adjacent proprietor. (Argt. p. 46.) This system of mere dedication has been extensively practiced in this country. Whether the fee remained in the original dedicator or passed to the jmrchaser of lots from him, has been in each case a question of fact on the construction of the deeds. (Hammond v. McLachlan, 1 Sand. S. C. Rep. 337. Livingston v. The Mayor &c., 8 Wend. 85;) 3. Country roads, in this state, and in most if not all the states, are laid out under highway acts, as they are -called, which condemn to public use nothing but the use. They leave the fee in the owner, and in every such case the public has only an easement. The compensation allowed to the owners is a tax on the town in which the road lies. (Argt. pp. 40, 46. 2 R. S. p. 399, \u00a7\u00a7 93, 94, 5th ed. Bradford\u2019s Laws, p. 48, [1690.] Valentine\u2019s Manual, 1860, p. 568.) 4. City roads or streets in New York and other cities are formed in the same way, except that the practice is to take the fee absolutely. (Argt. 40.) 5. The levying of these assessments for compensation on the vicinage, whether on a town, or in the country, or on a specially selected district created for this express purpose, as in the cities, is a valid and constitutional exercise of the taxing power. (People v. Mayor of Brooklyn, 4 Comst. 425, 430.) 6. Although the constitution impliedly forbids the taking of private property except for public use, even on full compensation, yet this principle does not require the government, when taking land for a present purpose which must absorb the whole present use, to leave in the citizen from whom the land is taken the possibility of reverter. This is the precise point which was made and passed upon in Heyward v. The Mayor &c. of N. Y. (3 Seld. 318, 325.) 7. The English common law, which is the original well-spring of our jurisprudence, never regarded as property any interest, even though technically vested, subsequent in point of enjoyment to a prior estate capable of lasting forever. Such an interest was not protected by the unwritten constitution of England, and is not protected by our written constitution. (1 R. L. of 1813, p. 52, \u00a7 1.) A mere possibility of reverter, after an estate in fee on condition subsequent, is not property. (2 Kern. 133, 138.) 8. The right of using a highway is common to all the inhabitants of the state.. This applies to all highways, whether in towns or cities, whether called streets or roads. 9. A government of these highways and of their use must repose somewhere. It is a part of what is commonly called the police power, and is vested in the state. The former controversies in the courts of this district, which terminated adversely to the grantees of rail roads, all turned upon the want of power in the city corporation to change or modify the existing highway law of the state. (Argt. p. 109.) The second, third, sixth and eighth avenue rail roads had their origin in corporation grants, and were under prosecution when the confirmatory act of 1854 was passed. From that instant they remained undisturbed. (Laws of 1854, p. 323, \u00a7 3. Stuyvesant v. Pearsall, 15 Barb. 244.) The Ninth Avenue rail road alone was further pursued; and its failure was owing to the opinion of the general term that it did not come within the legislative permission. ( Wetmore v. Story, 22 Barb. 489, 495.) The legislature allowed the Harlem Rail Road Company to lay its rails and run its cars on the streets of the city, and the learned Ch. Walworth held the grants to he valid. (9 Paige, 171. See Ninth Av. Argt.p. 75.) So the legislature allowed the like privilege to the Hudson River rail road, and the general term in this district held the grant to he valid. (7 Barb. 524.) The general rail road act allows rail roads throughout the state . to be laid over the streets of cities, with consent of the city authorities. (Laws of 1858, p. 211, \u00a7 28, sub. 5.) It may be considered as established that a rail road is a special use, not embraced within the notion of a highway, (16 N. Y. Rep. 97;) that when not authorized by law, such use of a highway is a public nuisance, (4 Kern. 506;) that when,/or want of legal authority, it is thus a public nuisance, the adjacent proprietor may be specially incommoded, by reason of his proximity, and may, consequently, maintain an action. (22 Barb. 490.) But it is an indispensable element that the act be a public nuisance. The basis of his action is that he sustains a special and peculiar inconvenience, not common to all the inhabitants of the state, resulting from the public indictable wrong, i. e. the obstruction of a highway. (22 Barb. 489.) If this be a correct synopsis of the adjudications, nothing is before the court except the question whether tins act is forbidden by the constitution. (Art 1, \u00a7 9.) We also submit, irrespective of all other considerations, that the resolution in 18 Wend. 77, is conclusive that the \u201c use \u201d or \u201cpurpose\u201d to which any subject is applied when taken for a rail road, is \u201cpublic,\u201d within the meaning of that word in the constitution, though taken by \u201ca corporation or a joint stock company\u201d merely for the accommodation of its own passengers paying to it fare for their transportation.\nSecond. Particular points applicable to this case.\nI. The state is not vested with the fee of any street now in question. 1. The assertion of such fee, in the complaint, is put in issue by the answer, and the evidence before the court shows that the fee is in the corporation of New York. (1.) As to old streets, (say part of Broadway,) the fee simple is in the corporation, by the Montgomerie charter. (See Ninth Av. Argt. p. 47.) (2.) As to new streets, the fee is vested in the corporation by the street acts, or private cession, or by the operation of both these sources of title. (3.) But as to the old streets and the new, it will be contended that the title in the corporation is charged with a trust \u201c that the same he appropriated and kept open for a street forever, as public streets in said city are and of right ought to be.\u201d For the purposes of this motion it is unnecessary to dispute this position, or any consequence that can be legitimately deduced from it.\nII. The fee thus vested in the city corporation is not a fee conditional; there is no possibility of reverter. No title or estate whatever remains in any private person. The whole fee is divested from the former proprietor, by the street law. This proposition does not deny the validity of the alleged trust.\nIII. The trust thus vested in the corporation is a public and not a private trust. The cestui que trust is the people. This trust interest is not property, in any legal sense of that term; it is neither public nor private property. The use of the street is a common privilege of all citizens and members of the state ; it is called the jus publicum. And, in every conceivable respect, it is a precise parallel to the right of passage over streams, the beds of which belong to private persons. The only concern which the state has in the jus publicum is that same concern which the state has in all common privileges of the whole people. It is the organized representative of the people, and has the supervision and regulation of these common privileges. (Gould v. Hudson River R. R. Co., 2 Seld. 547.\nIV. Neither this duty to supervise and regulate the common privileges of the people, nor the poioer of government over them, is part of the \u201cpublic moneys or property\u201d of the state. Consequently, \u00a7 9 of art. 1 of the constitution has no application to this case. 1. Independently of these larger considerations which conclusively repel the far-fetched pretense that that section has any bearing on this controversy, its very words forbid such a conclusion. \u201cLocal\u201d is used in opposition to \u201c public.\u201d It does not forbid the application of local propeity, i. e. the property of a county, a town or city to local purposes, or even to private \\ urposes. 2. These \u2022who would by judicial fiat annul an act of the legislature, or suspend its execution on the ground of its repugnancy to the constitution, must show a clear case of conflict. 3. The use or purpose is public, not private. (Bloodgood v. Mohawk and Hudson River R. R. Co., 18 Wend. 77.)\nV. As regulator of the public use of the streets in question, representing the whole interest in such use, the legislature had full power to permit the use of parts of it, in the manner prescribed by the act in question.\nVI. If it could be pretended that there was any private right\u2014as a possibility of reverter\u2014in any of the individual plaintiffs, it is not a vested right; it is not susceptible of any present enjoyment; it is a remote possibility of benefit hereafter to accrue, which needs no such protection as an injunction against obstructing the highway. (Jerome v. Ross. 7 John. Ch. 315.)\nVII. It is not shown, or fairly to be apprehended, that the defendants will take any property or invade any private right\u2014if any exists\u2014without making just compensation, first ascertained and duly made according to law.\nVIII. The defendants show, for their warrant, an act of the legislature. If the court should restrain on the ground that there is some private right in some of the individual plaintiffs, which cannot be interfered with, except upon compensation first made, such right must be stated in the injunction order, and the injunction must be, that the grantees abstain from using the street until they procure to be ascertained and tendered a just compensation. The plaintiffs' counsel cannot, themselves, define, in intelligible language, the pretended private right.\nW. M. Evarts, for the defendants Kerr and otherg.\nI. The whole success of the parties adverse to the construction of rail roads in the streets of the city of Hew York, in the litigations prosecuted to prevent, by injunction or otherwise, the laying or running of such rail roads, is limited to these propositions. 1. That a rail road in public streets is such an interruption' of the common right of way as makes its structure a nuisance, in the absence of its authorization by legislative act. 2. That the rights and powers and duties of the corporation of the city of New York, in and over the streets of the city, do not include or protect a grant to individuals (or a private corporation) of the right or franchise of building and working a rail road in the streets of the city, but that legislative authority is essential to support such a grant. 3. That the abutting proprietor suffers such a special injury from the nuisance created by the rail road, from its interruption of the common right of way, as will give him a standing in court for an appropriate private remedy of prevention'or redress. 4. That the Attorney General is the necessary party in court for the prosecution of the action which rests upon the nuisance created by the rail road as an interruption of the common and public right of way.\nAll that part of the controversy in the previous city rail road litigations, which turned upon the profligacy or corruption of the city government, or any of its departments, in the actual or proposed grants of the right or franchise involved in those litigations, of course has no application to the general-subject.\nII. If the act of the legislature from which the defendants, named as grantees therein, derive their right or franchise be valid, its authority disposes of all the points judicially determined adversely to the construction and working of rail roads in the streets of the city. 1. Authorized by the legislature, the quality of nuisance is no longer predicable of the structure and working so authorized. 2. The public inconvenience, for whic\u00c9 the Attorney General could maintain an \u25a0 action, and the special private injury, for which the abutting proprietor could maintain an action, have both fallen into the predicament of damnum absque injuria, and no action remains to either. 3. The action of the city government in permission or in furtherance of the structure or working of the rail road, is no longer open to question as beyond its corporate powers or illegal.\nIII. The principal and preliminary question, therefore, is upon the validity of the law itself. It is of no service for the plaintiffs, whether \u201c The People\u201d &c. or the private plaintiffs, to show how good a case they would have against some imaginary parties in a hypothetical case, if there were no such law. It is unprofitable to the defendants to defend rights independent of this law, for they, the defendants, find their whole right in the law. 1. The law is valid, unless its repugnancy to the constitution be shown, or its lack of authenticity from its not having been passed according to the constitutional requirements in respect of enactment, be shown. 2. The objection to the authority of the act, in that it failed to receive the assent of two-thirds of the senators elected, depends for its force wholly upon the question whether the act \u201c appropriates public moneys or property for local or private purposes.\u201d (Const. art. 1, \u00a7 9.) It seems impossible to say that the \u201cPeople of the state of New York\u201d have an estate in the land in the streets of the city of New York, or that, if they have, this act appropriates such estate to either a private or local purpose. 3. The only allegation of invalidity of this act, from repugnancy to the constitution, is that it authorizes .the taking \u201c of private property for public use, without compensation.\u201d (Canst, art. 1, \u00a7 6.) The inhibition of the constitution covers only the subject of property capable of being taken, and capable of ascertainment in value as compensation. It does not touch the case of those \u201c who, although their property is not taken, suffer indirect or consequential damages.\u201d (Radcliff\u2019s Ex\u2019rs v. Mayor of Brooklyn, 4 Comst. 195.) 4. Neither the plaintiffs \u201c The People\u201d &c., nor the private plaintiffs, have the least estate or property in the land of the streets, which is supposed to be \u201c taken\u201d for the purposes intended by the act. 5. Neither the plaintiffs \u201c The People\u201d &c., nor the private plaintiffs, have the just right to represent the estate or property of the corporation of the city in the streets, to prevent the taking of its property against its consent, or without compensation, or otherwise, upon any of the allegations of this complaint to invoke the aid of the court in protection of the corporate property of the city for any threatened mischief. 6. No basis is shown, in the complaint, for any intervention of a preventive remedy to arrest a profligate or wasteful or corrupt appropriation of the city\u2019s property, by the corporate authorities, or any of them. If any such basis were shown, it is now the settled law that a citizen, tax payer or corporator, has no standing in court to prevent such breach of public trust. (Doolittle v. Supervisors of Broome County, 18 N. Y. Rep. 157. Roosevelt v. Draper, 7 Abb. 108. Davis v. The Mayor &c., 4 Kern. 506.) Reduce the parties plaintiff to \u201c The People\u201d &c. by the Attorney General, and strike out from the complaint all except what touches the action of the corporate authorities, and the cause of action dwindles into mere frivolity. 7. As respects the right of action, to some extent supported in the city rail road cases, heretofore, to wit, that of \u201c The People\u201d &c. by the Attorney General to arrest municipal executive appropriations of public property to uses beyond their corporate powers, the existence of the act of the legislature displaces such right of action. It is absurd for \u201c The People\u201d &c., by the Attorney General, to claim that the appropriation by the corporate authorities is illegal, when the people, by their legislature, have authorized and directed the appropriation to be made.\nIV. What limit is there to the power of the legislature to determine the restrictions, conditions and terms by and under which a public highway may be used P None can be assigned. (Commonwealth v. Temple, 8 Am. Law Register, 678.) The whole fee having been taken from the original private proprietors, (so that they have no beneficial or legal interest left in them,) and having been vested in the public municipal corporation, (but so that no beneficial interest is in it, and its title is wholly in trust \u201cthat the same be appropriated and kept open for a street forever, as public streets in said city are and of right ought to be,\u201d) it is obvious that the whole beneficial and enjoyable interest in the land included in the streets is as and for a highway. To whom does this benefit and enjoyment of the highway belong, except to the general public or the people ? Who guards this interest and enjoyment against encroachment and interruption, by the prosecution of proper judicial remedies, except the people, by the attorney general ? Who determines what enlargement, reduction, facilities, restrictions, modes and forms shall from time to time constitute the uses to which streets \u201care and of right ought to be appropriated and kept open,\u201d except the people, by their legislature ? When this general enjoyment of the highway is reduced or modified by the legislature, and the public\u2014the people\u2014suffer an encroachment, who is to be compensated for it, and how ? Manifestly only the public, and only by the advantages, real and supposed, which induced the legislative action. So much for detriment or deprivation, and who suffers it.\nV. How as to the benefit conferred by the franchise, the grant of which has encroached upon the former use of the highway. Who owned the franchise, before it was granted ? It first gains existence when it is separated from the general sovereignty by the grant to a private person. Has it ever been granted to the corporation of Hew York? Certainly not, in terms; certainly the general right to take tolls, or make profit, from the use of the highway, has never been claimed or exercised by the city. All the cases hold that the city has no such particular franchise to itself, or which it can grant to others, as the building and running of a rail road. When, then, the people are moved to grant this franchise, are they not masters of the terms, the price, and the considerations, on which\" they will make the grant ? The whole gravamen of the public complaint or dissatisfaction is, that the grants are not wisely or honestly made, or with due adjustment of the public benefits gained to the private advantoges conferred. When the city attempted these grants, the courts could restrain them as ultra vires, or in breach of the municipal trusts. How, the state attempts them, the whole regulation of highways being in the state, and the creation and granting of franchises being in the state. How can the courts interfere? The questions of exercise of power, and of public benefit, are no longer of judicial consideration. An appropriation of private property to public use, without compensation, which infringes upon the constitution, and invalidates a statute, implies, 1st. A private owner; 2d. A taking from him; 3d. Property taken, having.the legal qualities of property, and the owner\u2019s interest in which is capable of legal estimate; 4th. The consequential injuries to property not taken are outside of the constitutional provision. Ho one of these traits belongs to the rights conferred by the statute in question, on these grantees."
+  },
+  "file_name": "0357-01",
+  "first_page_order": 359,
+  "last_page_order": 432
+}

@@ -1,0 +1,97 @@
+{
+  "id": 2187584,
+  "name": "Cornell vs. Moulton",
+  "name_abbreviation": "Cornell v. Moulton",
+  "decision_date": "1846-05",
+  "docket_number": "",
+  "first_page": "12",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Denio 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Wend. 346",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011186
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/9/0346-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 193",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wend. 267",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015736
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0267-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 441,
+    "char_count": 10034,
+    "ocr_confidence": 0.646,
+    "pagerank": {
+      "raw": 1.9862377334101195e-06,
+      "percentile": 0.9949240283892999
+    },
+    "sha256": "9688a099e685f43a4b7708d0919c386e6e08164993b5979102cc63590ddcea13",
+    "simhash": "1:1eb7ccb3ba16ad69",
+    "word_count": 1822
+  },
+  "last_updated": "2024-02-27T21:08:00.605432+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cornell vs. Moulton."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Bronson, Ch. J.\nAs no time of payment is mentioned in the note, it was payable immediately. (See Wenman v. Mohawk Ins. Co. 13 Wend. 267.) The remaining questions are, 1. When was the suit commenced? and 2. When did the six years expire?\nTwo questions are made on the commencement of the suit. Upon process by summons, the suit is considered as commenced, so as to save the statute, when the process is delivered to the constable. (2 R. S. 227, \u00a7 12.) But it is said, that there was no legal evidence before the justice that the first summons was delivered to the constable before the 15th of February; the day on which the service by copy was made. It is undoubtedly true, as a general rule, that the justice can only act upon evidence which is laid before him by the parties, or upon their admissions in open court. But he may, I think, take judicial notice, and act upon facts within his own knowledge touching the proceedings in the particular case where the question is made. If, for example, an adjournment is asked, the justice may take notice that the same party has already had one adjournment; or if a question is made about the pleadings, the parties need not call a witness to prove what, was done and said at the joining of the issue. The justice may act upon his own knowledge of those matters. The time when the first process was issued, as well as the particular kind of process, are among .the things which the justice is required to enter in his docket. (2 R. S. 268, \u00a7 243.) He states in this case that the first process was a summons; and that it was issued and delivered, by himself, to the constable on the 14th day of February. As to the date, the summons would speak for itself; and I think the justice might well act upon the fact within his own knowledge, that the summons was delivered to the officer on the day of its date. If it had been delivered to the party or some third person, it would have been necessary to call a witness to show that it reached the officer on the 14th of February. But not so here.\nFacts of which the justice may take judicial notice for the purpose of deciding the cause, he may return in answer to a certiorari. Otherwise a judgment might be reversed, although it was rendered upon sufficient grounds;\nIt is further urged that the suit commenced by the first summons was discontinued, because the plaintiff did not take a warrant, instead of a second summons. (2 R. S. 228, \u00a7 18.) But the issuing of a warrant was forbidden by the non-imprisonment act. (Stat. 1831, p. 403, \u00a7 30, 31.) The suit commenced by the first summons was well continued by the second summons, which was issued on the day of the return of the first.\nThe case then comes to this: the note is dated February 14, 1839, and was payable immediately; and the suit was commenced February 14, 1845. The question is, whether the statute had run ? The defendant insists that the plaintiff was a day too late. The statute is, that the action \u201c shall be commenced within six years next after the cause of such action accrued.\u201d (2 R. S. 295, \u00a7 18.) If there should be an exact computation of the time, the six years would not end either with the 13th or the 14th of February, 1845; but would terminate on the 14th, at the same hour of the day that the contract was made. But this minuteness of inquiry would usually be attended with great difficulty, without conducting to a very satisfactory result. It has therefore been generally agreed, that in the computation of time for doing an act, the fractions of a day shall not be regarded, except in cases of necessity. When the act is to be performed within a certain period from or after a particular event, the time is reckoned by entire days; and the only difficulty is, in determining whether the day on which the particular event occurred shall be included or excluded from the computation. For example; if a party may appeal within ten days after judgment, and the judgment is rendered on the first day of the month, then, if the first day be included, the right of appeal will terminate with the tenth day of the month; but if the first day is excluded, the party will have the whole of the eleventh day of the month to bring the appeal. Where the question has arisen under the rules of practice, it has been generally agreed that the first day should be excluded. But in the construction of statutes, the decisions have not been uniform, either in England or in this country. Sometimes the first day has been included, and at other times it has been excluded. The case of Presbrey v. Williams, (15 Mass. 193,) is precisely in point for the defendant. The action was on a promissory note which the defendant had admitted to be due and unpaid on the first day of November, 1811. The action was commenced on the first day of November, 1817; and the court held that the statute of limitations had run, and the plaintiff was a day too late. But that case is not in accordance with the decisions in this state. Our cases all go to establish one uniform rule, whether the question arises upon the practice of the court, or the construction of a statute; and the rule is, to exclude the first day from the computation. The question has not before arisen upon the statute of limitations; but it has been fully settled in the decisions upon other statutes involving the same principle. (Snyder v. Warren, 2 Cowen, 518; Ex parte Dean, id. 605; Homan v. Liswell, 6 id. 659; Wilcox v. Wood, 9 Wend. 346.) When the period allowed for doing an act is to be reckoned from the making of a contract, or the happening of any other event, the day on which the event happened may be regarded as an entirety, or a point of time; and so be excluded from the computation.\nThe justice was right in holding that the statute had not run at the time the suit was commenced.\nSuch are my views of the case. But my brethren are of opinion that the delivery of the process to the constable was no part of the official duty of the justice, and consequently that there was no legal evidence before him that the suit was commenced on the 14th of February. Of course the return of the justice to the certiorari can prove, nothing concerning matters which were not properly before him. In this view of the case, the suit was commenced a day too late.\nJudgments reversed.",
+        "type": "majority",
+        "author": "By the Court, Bronson, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "Tucker & James, for plaintiff in error.",
+      "S. E. Church, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Cornell vs. Moulton.\nThe delivery of process to the constable is no part of the official duty of a justice of the peace. Per Cur. Bronson, C. J. dissenting.\nAccordingly, where the statute of limitations was pleaded in a justice\u2019s court and it was necessary for the plaintiff in order to avoid the statute to shew that the suit was commenced on the fourteenth day of the month, the constable\u2019s return shewing that the summons was served on -the fifteenth; held, that the justice could not act upon his own knowledge, that the summons was delivered to the constable on the fourteenth, but the plaintiff should have called a witness to prove that fact. Per Cur. Bronson, C. J. dissenting.\nAnd though the summons was dated on the fourteenth, and the justice in his return to the certiorari stated that he delivered it on the same day to a constable to be served, such statement cannot be regarded by the common pleas or this court in reviewing the judgment of the justice. Per Cur. Bronson, C. J. dissenting.\nWhere no time of payment is mentioned in a note, it is payable immediately. Per Bronson, C. J.\nWhere a summons in a justice\u2019s court is returned as having been served by copy, and the justice issues another summons, the suit is legally continued, and, in respect to the defence of the statute of limitations is deemed to have been commenced when the first summons was delivered to the constable to be served. Per Bronson, C. J. In computing the time within which an act is required to be done, it is reckoned by entire days, rejecting fractions of a day, except in cases of necessity. Per Bronson, C. J.\nAnd where an act is to be done within a limited period, the first day is generally excluded. Per Bronson, C. J.\nAccordingly, in determining whether the statute of limitations has run against a demand, the day on which the action accrued is to be excluded from the computation. Per Bronson, C. J.\nTherefore where a note payable on demand was made on the fourteenth day of February, 1839, a suit commenced on the fourteenth day of February, 1845, is in time Per Bronson, C. J.\nError to Orleans C. P. Moulton sued Cornell before a justice of the peace by summons issued on the 14th of February, 1845, returnable on the 21st day of that month, and which the justice, as he stated in his return to the certiorari, delivered on th\u00e9 day it was issued to a constable to be served. The summons was duly returned as having been served by copy on the 15th of the month. The plaintiff appeared on the return day but the defendant did not appear. The plaintiff thereupon ap* plied for a second summons, which was on that day issued and delivered to a constable to be served, returnable on the 28th of February. This was personally served. On the return day the parties appeared, and the plaintiff declared in assumpsit. The defendant pleaded, 1, the general issue ; and 2, the statute of limitations ; on which the plaintiff took issue. On the trial the plaintiff gave in evidence a promissory note made by the defendant, of which the following is a copy:\n\u201c $18,31. For value received I promise to pay Caleb Crouch or bearer eighteen dollars thirty-one cents. Cohocton, Feb. 14, 1839. Stephen Cornell.\u201d\nThe plaintiff rested; and the defendant moved for a nonsuit, on the ground that the statute of limitations had ran before the suit was commenced. He insisted that the first summons could not be regarded as the commencement of the suit; but if it could, the statute had run when that summons issued. The justice overruled the motion, and gave judgment for the plaintiff; which was affirmed by the common pleas. The defendant brings error.\nTucker & James, for plaintiff in error.\nS. E. Church, for defendant in error."
+  },
+  "file_name": "0012-01",
+  "first_page_order": 12,
+  "last_page_order": 16
+}

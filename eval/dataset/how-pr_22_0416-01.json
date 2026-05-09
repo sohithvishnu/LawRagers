@@ -1,0 +1,153 @@
+{
+  "id": 2213697,
+  "name": "Ja's Van Valen agt. John D. Schemerhorn and three others",
+  "name_abbreviation": "Van Valen v. Schemerhorn",
+  "decision_date": "1862-01",
+  "docket_number": "",
+  "first_page": "416",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 How. Pr. 416"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "20 Barb., 332",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4969862
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/20/0332-01"
+      ]
+    },
+    {
+      "cite": "12 John., 536",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139283
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/12/0536-01"
+      ]
+    },
+    {
+      "cite": "12 John., 418",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139176,
+        2139277
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/12/0418-02",
+        "/johns/12/0418-01"
+      ]
+    },
+    {
+      "cite": "23 Wend., 43",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025485
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/23/0041-01"
+      ]
+    },
+    {
+      "cite": "2 Wend., 308",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3516342
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/2/0308-01"
+      ]
+    },
+    {
+      "cite": "6 Barb., 98",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4873615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/6/0098-01"
+      ]
+    },
+    {
+      "cite": "1 Denio, 323",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484031
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0323-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 411,
+    "char_count": 8355,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 3.202195616948923e-07,
+      "percentile": 0.8659473969331802
+    },
+    "sha256": "eaef50ea6f954a8654fe6cfea83822064fe78dcf10a37689684d2f7f333cd7b9",
+    "simhash": "1:2f6a6471ee5826cd",
+    "word_count": 1520
+  },
+  "last_updated": "2024-02-27T16:49:26.561620+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ja\u2019s Van Valen agt. John D. Schemerhorn and three others."
+    ],
+    "opinions": [
+      {
+        "text": "By the court, Balcom, P. J.\nThe non-suit in this case was erroneously granted, unless the fact that the plaintiff having the deed of the lot in question to Daniel Schemerhorn recorded in the county clerk\u2019s office, estops him from showing it was never delivered. This is so; for the case does not show that Schemerhorn ever went into possession of the lot, or that Boyce paid anything for it or was a purchaser in good faith, or that he ever took possession of the lot or store on it, except by letting the defendants have it as tenants before the action was commenced. In Elsey agt. Metcalf, (1 Denio, 323,) it was held that the sending of a deed by the grantor to a stranger, or the deposit of it in a public office, is not a delivery to the grantee, unless it is so sent or deposited for his use. All that the court decided in Rathbun agt. Rathbun, (6 Barb., 98,) was that the delivery of a deed to the county clerk, for record, and for the use of the grantee, is a perfect delivery by the grantor ; and upon an acceptance of such deed by the grantee, it takes effect from the time of such delivery. In the case at bar the evidence shows, or at least tends to show, that the deed from the plaintiff to Daniel Schemerhorn, of the lot in question, was not left with the county clerk for the use of the grantee, or recorded for his use. One of the notes at the head of the case of Jackson agt. Perkins, (2 Wend., 308,) is, that any person affected by a deed may at any time question its validity, and show that it was not duly executed or delivered, although it hath been proved in the usual form by a subscribing witness, and recorded. Further : that proof of the due execution of a deed, and of its having been recorded, is, perhaps, prima facie evidence of its delivery; but a grantee is not concluded by such proof, and is a competent witness to prove that the deed never was delivered to him. In Gilbert agt. The North Am. Fire Ins. Co., (23 Wend., 43,) the court held, that the fact that a deed is recorded, is only prima facie evidence of a delivery, and consequently may be rebutted. In Jackson agt. Phipps, (12 John., 418,) \u201cA., residing in this state, agreed with B., in Massachusetts, to give him a deed of his farm as a security for a debt, and A., on his return home in 1808, executed and acknowledged a deed to B., and left it in the clerk\u2019s office on the same day to be recorded; neither the grantee, nor any person in his behalf, being present to receive the deed; and the grantee died in 1809, and in 1810, A. sent the deed to the son and heir of the grantee ; and it was held that there was no delivery of the deed. I need not cite more authorities to show that the plaintiff was not estopped from proving that his deed to Daniel Schemerhorn had not been delivered, although he had caused it to be recorded in the office of the county clerk.\nThe defendants\u2019 counsel has cited authorities to show that a deed may be delivered by words, or acts without words, and that the delivery may be either to the grantee or to a third person, without any special authority, for the use of the grantee. (See Verplank agt. Sterry, 12 John., 536.) And the law undoubtedly is, that the fact that a deed was delivered may be established by circumstantial evidence. But the difficulty the defendants have to encounter in this case arises from the fact that there was direct evidence that the deed of the lot in question was never delivered, and was not left with the county clerk for the use of the grantee, or recorded for his use. Hence the judge could not properly hold that the deed was delivered, or non-suit the plaintiff.\nThe defendants\u2019 evidence was not such as to estop the plaintiff from claiming the deed to Schemerhorn was never delivered, according to the decisions cited by defendants\u2019 counsel in 1st John. Ch. R., 344 ; id., 240; 6 id., 166. (See remarks of Judge Denio in Bush agt. Lathrop, 22 N. Y. R,. 549 and 550.)\nIf the foregoing views are correct, the evidence offered to be given by the plaintiff as a witness in his own behalf, should have been received. (See 14 N. Y. R., 567; 20 Barb., 332.)\nFor the foregoing reasons, I am of the opinion the plaintiff\u2019s motion for a new trial should be granted, costs to abide the event of the action.\nParker, J., concurred. Campbell, J., dissented.",
+        "type": "majority",
+        "author": "By the court, Balcom, P. J."
+      }
+    ],
+    "attorneys": [
+      "George B. Jones, for plaintiff.",
+      "Duell & Foster, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "SUPREME COURT.\nJa\u2019s Van Valen agt. John D. Schemerhorn and three others.\nA grantor is not estopped from, proving that his deed to the grantee had not been delivered, although he (the grantor) had caused it to be recorded in the office of the county clerk. And the grantor is a competent witness in his own behalf to prove such fact.\nThat is, the recording of a deed in the county clerk\u2019s office is only prima facie evidence of a delivery, and may be rebutted.\nBroome General Term, January, 1862.\nPresent, Balcom, Campbell and Parker, Justices.\nThis action was brought to recover the possession of a lot of land situated in Cortlandville, on which there was a store. The plaintiff had title in fee to the lot on the 28th day of February, 1848, and on that day he executed and acknowledged a warranty deed of the same to Daniel Schemerhorn, which deed purported to convey the lot in fee, for the consideration of $3,200. The plaintiff took the deed to the Cortland county clerk\u2019s office, and there had it recorded on the 29 th day of February aforesaid, and after-wards took it from the clerk\u2019s office and kept it. Daniel Schemerhorn was not present when the deed was executed or taken to the clerk\u2019s office; and he never had it in his possession, and he had no knowledge that he was to have such a deed or that one was executed to him, until after it was recorded. And it did not appear that the plaintiff or Daniel Schemerhorn ever had any conversation respecting said deed, or the giving of one.\nThe case states that the defendants read in evidence a warranty deed of the lot, executed by Daniel Schemerhorn and wife to John Boyce, bearing date the 18th day of March, 1852, which was recorded in the Cortland county clerk\u2019s office the same day it was dated. But the case does not show what consideration was stated in that deed, or whether any was ever paid therefor.\nIt was admitted by the parties that the defendants were in possession of the lot as tenants of John Boyce, and that Daniel Schemerhorn died the 24th day of September, 1854.\nThe plaintiff was sworn as a witness in his own behalf. His counsel asked him this question : \u201c In putting the deed on record, did you intend .to deliver it to Schemerhorn, or that it should operate as a delivery ?\u201d Which question was objected to by defendants on the ground that it was not competent for a party to give his intent as to delivery\u2014and the objection was sustained, and the plaintiff\u2019s counsel excepted.\nThe plaintiff, on being cross-examined, testified that he failed in business in December, 1841, for some $20,000; that Daniel Schemerhorn was one of his indorsers for $12,000 or $13,000 ; that he made an assignment to secure his indoi\u2019sers; that the object he had in executing and recording the deed to Schemerhorn was to give him further security, in case it became necessary, and in case there was not sufficient property that he had before assigned; that he did it so he could deliver the deed if it became necessary ; that his object was to pay his debts if there was not enough of the other property.\nThe plaintiff\u2019s counsel then offered to show by him, on his re-direct examination, that at the time he had the deed to Daniel Schemerhorn recorded, he believed that the property assigned to secure his indorsers Was sufficient to pay his indebtedness to them, and that his object in having the deed recorded was not to make a present delivery of it to Schemerhorn, but with a view to a delivery at some future day, in case it should become necessary; which offer was, objected to by the defendant\u2019s counsel, and the objection was sustained ; and the plaintiff\u2019s counsel excepted.\nThe action was tried at the Cortland circuit in June, 1861.\nAfter the foregoing facts were shown, the judge non-suited the plaintiff on the ground that he had failed to. establish a cause of action; to which decision the plaintiff\u2019s counsel excepted. Judgment was suspended, and the plaintiff moved for a new trial upon his exceptions.\nGeorge B. Jones, for plaintiff.\nDuell & Foster, for defendants."
+  },
+  "file_name": "0416-01",
+  "first_page_order": 420,
+  "last_page_order": 424
+}

@@ -1,0 +1,969 @@
+{
+  "id": 15595,
+  "name": "Thomas Darlington v. The Mayor, &c., of the Ctty of New York",
+  "name_abbreviation": "Darlington v. Mayor",
+  "decision_date": "1865-01",
+  "docket_number": "",
+  "first_page": "164",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 N.Y. 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "25 Wend., 181",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Penn. St., 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        410246
+      ],
+      "pin_cites": [
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/16/0256-01"
+      ]
+    },
+    {
+      "cite": "7 Cow., 349",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034959
+      ],
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0348-01"
+      ]
+    },
+    {
+      "cite": "5 Paige Ch., 137",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2052516
+      ],
+      "pin_cites": [
+        {
+          "page": "160"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/5/0137-01"
+      ]
+    },
+    {
+      "cite": "26 N. Y., 467",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2033098
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/26/0459-01"
+      ]
+    },
+    {
+      "cite": "7 Johns., 477",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369188
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0477-01"
+      ]
+    },
+    {
+      "cite": "9 Johns., 507",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0507-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y., 445",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497761
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0445-01"
+      ]
+    },
+    {
+      "cite": "21 Wend., 536",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Denio, 461",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Wend., 285",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020957
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0162-01"
+      ]
+    },
+    {
+      "cite": "37 Barb. S. C., 357",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5091969
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/37/0357-01"
+      ]
+    },
+    {
+      "cite": "26 How. Pr., 124",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2218868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/26/0124-01"
+      ]
+    },
+    {
+      "cite": "3 Johns., 114",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Conn., 254",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Abb. Pr., 503",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4575526
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/5/0503-01"
+      ]
+    },
+    {
+      "cite": "4 Hill, 140",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Abb. Pr., 821",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Barb. S. C., 529",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4931920
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/15/0529-01"
+      ]
+    },
+    {
+      "cite": "21 How. Pr., 251",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2211978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/21/0251-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 531",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 N. Y., 532",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2018085
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/15/0532-01"
+      ]
+    },
+    {
+      "cite": "37 Barb. S. C., 391",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio, 128",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0128-01"
+      ]
+    },
+    {
+      "cite": "1 Paige Ch., 117",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 N. Y., 143",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        494232
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/13/0143-01"
+      ]
+    },
+    {
+      "cite": "5 Mass., 514",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0397-01"
+      ]
+    },
+    {
+      "cite": "26 Wend., 66",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2028369
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/26/0066-01"
+      ]
+    },
+    {
+      "cite": "7 Hill, 575",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johns., 175",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131487
+      ],
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/5/0175-01"
+      ]
+    },
+    {
+      "cite": "13 Barb. S. C., 209",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778390
+      ],
+      "pin_cites": [
+        {
+          "page": "216"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/13/0209-01"
+      ]
+    },
+    {
+      "cite": "3 Wend., 495",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Pick., 542",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2047999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/38/0542-01"
+      ]
+    },
+    {
+      "cite": "5 Cow., 538",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032803
+      ],
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0538-01"
+      ]
+    },
+    {
+      "cite": "13 Penn., 193",
+      "category": "reporters:state",
+      "reporter": "Penn.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Conn., 288",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Penn. St., 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        951132
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/2/0230-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y., 161",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y., 158",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297839
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0150-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 612",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wend., 539",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Dal., 133",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Hill, 384",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 N. Y., 317",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2010522
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/8/0317-01"
+      ]
+    },
+    {
+      "cite": "11 Abb. Pr., 271",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Barb., 559",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4921981
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/14/0559-01"
+      ]
+    },
+    {
+      "cite": "12 Barb., 615",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Sandf., 10",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1353564
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/7/0010-01"
+      ]
+    },
+    {
+      "cite": "14 Mass., 340",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2072858
+      ],
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/14/0292-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y., 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Cow., 550",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156704
+      ],
+      "pin_cites": [
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0550-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat., 518",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4697
+      ],
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/17/0518-01"
+      ]
+    },
+    {
+      "cite": "3 Serg. & Rawle, 178",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Cranch, 87",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        530387
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/10/0087-01"
+      ]
+    },
+    {
+      "cite": "21 Penn., 164",
+      "category": "reporters:state",
+      "reporter": "Penn.,",
+      "pin_cites": [
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 N. Y., 318",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wheat., 629",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. Y., 116",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497716
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0116-01"
+      ]
+    },
+    {
+      "cite": "24 Barb., 232",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4993382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/24/0232-01"
+      ]
+    },
+    {
+      "cite": "5 Abb., 503",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 Barb., 440",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5088612
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/37/0440-01"
+      ]
+    },
+    {
+      "cite": "12 N. Y., 202",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2016205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/12/0202-01"
+      ]
+    },
+    {
+      "cite": "4 Hill, 145",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 N. Y., 374",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2013385
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/10/0374-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch, 135",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Hill, 144",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wend., 152",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Barb., 484",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 Penn., 340",
+      "category": "reporters:state",
+      "reporter": "Penn.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Mass., 83",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "216"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Abb., 505",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Vt., 226",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        4440279
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/31/0226-01"
+      ]
+    },
+    {
+      "cite": "10 Barb., 223",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2413425
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/10/0223-01"
+      ]
+    },
+    {
+      "cite": "21 How., 251",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        683873
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/62/0251-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 331",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        2510708
+      ],
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/21/0331-01"
+      ]
+    },
+    {
+      "cite": "13 B. Mon., 569",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Sandf., 27",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Abb., 270",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Denio, 433",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186099
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/2/0433-01"
+      ]
+    },
+    {
+      "cite": "13 Wend., 325",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015655
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0325-01"
+      ]
+    },
+    {
+      "cite": "21 How. Pr., 251",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2211978
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/21/0251-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 531",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wheat., 518",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4697
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/17/0518-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y., 318",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 N. Y., 116",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497716
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/19/0116-01"
+      ]
+    },
+    {
+      "cite": "5 Abb., 503",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Barb., 440",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5088612
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/37/0440-01"
+      ]
+    },
+    {
+      "cite": "10 Barb., 223",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2413425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/10/0223-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2618,
+    "char_count": 98008,
+    "ocr_confidence": 0.479,
+    "pagerank": {
+      "raw": 2.623844013726206e-06,
+      "percentile": 0.9967998134254159
+    },
+    "sha256": "bd7acfd8b01b832e35dca9eb538c1b77b1d53f63e462ba49fda0a674cc18772c",
+    "simhash": "1:1a2fc70765eee9e3",
+    "word_count": 16943
+  },
+  "last_updated": "2024-02-27T21:30:53.797125+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Darlington v. The Mayor, &c., of the Ctty of New York."
+    ],
+    "opinions": [
+      {
+        "text": "Denio, Ch. J.\nI am of opinion that the act of the legislature under consideration did not require the presence of three-fifths of the members elected to each house in order to become a law. The constitutional provision on which reliance is placed is in these words: \u201c On the final passage in either house of the legislature of every act which imposes, continues or revives a tax, or creates a debt or charge, or makes, continues or revives an appropriation of public or trust money or property, or releases, discharges or commutes any claim or demand of the State, the question shall be taken by ayes and noes, which shall be duly entered on the journals, and three-fifths of all the members elected to either house shall, in all such cases, be necessary to constitute a quorum therein.\u201d (Const., art. 7, \u00a7 14.) The article of which the section is a part relates to the State finances, and, taken together, it constitutes the financial system of the State, so far as concerns constitutional restraints. The affairs of cities and counties, so far as they are regulated by the Constitution, are treated of in other provisions. (See The People v. The Supervisors of Chenango, 4 Seld., 317.) This act of 1855 does not impose a tax of any kind either State or municipal. Its provisions may, and no doubt will lead to the necessity of local taxation; and the same thing may be said of every act of legislation under which an expenditure for general or local purposes may in any contingency be required. If a local tax in a city or village is within the scope of the section, it will be sufficient to have the requisite quorum present when the law shall come to be voted. The act does not create a debt or claim. If no person should suffer damage by a riot or mob, no money would be required, and no debt or charge would ever be created; and until such an event shall occur, no debt oi claim will be called into existence. The legal principle, which imputes the act of an authorized agent to his principal, does not apply to the rioters contemplated by the statute, whose wrongful act might lead to the incurring of a debt. They would not be in any sense the agents of the legislature. The Constitution relates to legislative acts, which of themselves, or by their immediate and necessary consequence, create a debt or claim. Nor is the act an appropriation bill in the sense of this provision. No public or trust moneys were disposed of or set apart for the purpose of being emended; it could not be known when, if ever, any payment of money would be required to be made, or in what county or city it would be required; and none of the public moneys of the State were to be expended in consequence of any of the provisions of .the act. The other purposes included in the section, are still more remote from, and indeed have no relation to any provision of the act in question. Some of these positions were adjudged in the case referred to, and the others seem to be sufficiently plain.\nThe other objection is that by force of the act, if it shall be executed, what is termed. the private property of the city may be taken for a public use without due process of law, and without a provision for compensation. It cannot be doubted but that the general purposes of the law are within the scope of legislative authority. The legislature have' plenary power in respect to all subjects of civil government, which they are not prohibited from exercising ' by the Constitution of the United States, or by some provision or \u2022' arrangement of the Constitution of this State. This act proposes to subject the people of the several local divisions of the State, consisting of counties and cities, to the payment of any damages to property in consequence of any riot or mob within the county or city. The policy on which the act is framed, may be supposed to be, to make good, at the public expense, the losses of those who may be so unfortunate, as without their own fault to be injured in their property by acts of lawless violence of a particular kind which it is the general duty of the government to prevent; and farther, and principally we may suppose, to make it the interest of every person liable to contribute to the public expenses to discourage lawlessness and violence, and maintain the empire of the laws established to preserve public quiet and social order. These ends are plainly within the purposes of civil government, and, indeed, it is to attain them that governments are instituted; and the means provided by this act seem to be reasonably adapted to the purposes in view. If this were less obvious, the practice of the country from which we derive so many of our legal institutions would leave no doubt on the subject. Laws of this general character have existed in England from the earliest period. It was one of the institutions of Canute the Dane, which was recognized by the Saxon laws, that when any person was killed, and the slayer had escaped, the ville should pay forty marks for his death; and if it could not be raised in the ville, then the hundred should pay it. \u201cThis irregular provision,\u201d says an able author, \u201cit was thought would engage every one in the prevention and prosecution of such secret offenses.\u201d (1 Reeve\u2019s History of Eng. Law, 17.) Coming down to the reign of the Borman kings, we find in the statute of Winchester (13th ed., I, ch. 1, p. 1) a provision touching the crimes of robbery, murder and arson \u2014 that if the country, i. e., the jury, would not answer for the bodies of the offenders, the people dwelling in the county were to be answerable for the robberies, and the damages sustained, so that the whole hundred where the robbery was committed, with the franchises thereof, should be answerable. It \u25a0 is upon this statute that the action against the hundred, for robberies committed therein, of which so many notices are met with in the old books, is grounded. (Reeve, vol. I. p. 213; Second Ins., ch. 17, p. 569.)\nPassing by the statutes of subsequent reigns, and particularly several in that of Elizabeth, in which this remedy has been somewhat modified while its principle is steadily adhered to, we come to the 7th and 8th Geo. IV, ch. 31, which was an act for consolidating and amending the laws of England, relative to remedies against the hundred. It repeals several prior acts providing remedies against the hundred for the damages occasioned by persons violently and tumultuously assembled, and enacts a series of provisions very similar in effect with, and in some respects more extensive in their scope than those of the statute under consideration. As the hundreds were not corporations, the action was to be brought against the high constable; and on judgment being rendered, the sheriff was to draw his warrant on the county treasurer for the amount of the recovery. Hltimately, the money was to be collected by local taxation in the hundred made liable. These provisions have no direct bearing upon the present case, but are referred to to show that the action in question is based upon a policy which is coeval with the laws of England, and one which has been constantly acted on in that country, and hence that it very clearly falls within the general powers of the legislature.\nAs, however, the objection of the defendants arises out of a constitutional restraint, substantially identical with one of the provisions of Magna Charta (ch. 29), it is at least a curious coincidence, that the policy of compelling a local community to answer with their property for acts of violence committed by others, has been considered by the English parliament as a supplement to, rather than a violation of, the Great Charter.\nIn the statute called Ar\u00fcouli swper cartam, Anno 28 Edward I, which confirmed the Great Charter and the Charter of the Forest, and directed that the same should be firmly observed \u201c in every part and article,\u201d it was directed in terms that the statute of Winchester, which gave a remedy against the hundred, for robberies committed in it, \u2022should be sent again into every county to be read and published four times a year, and kept in \u201cevery point as strictly as the two Great Charters, upon the pains therein limited.\u201d (Reeve, vol. II, p. 340; Coke, 2 Inst., ch. 17, p. 369.)\nAssuming it to be sufficiently apparent that the statute in question falls within the general scope of legislative authority, the particular inquiry is, whether it violates the constitutional provisions relied on by the defendant. It is plain enough that the suits which it authorizes, will, if successful, result in requiring contributions from the taxpayers of the local communities, to make good the losses of persons who have suffered from the acts of rioters. In that way, it may be said that their property may be taken. In one sense it may be conceded that it is taken for a public use; for when the State undertakes to indemnify the sufferers from riots, the executing of that duty is a public concern, and the expenditure is on public account. It is a public use in the same sense as the expenditure of money for the erection of court houses and jails, the construction of roads and bridges, and the support of the poor. It is taken for an object which the legislature has determined to be of public importance, and for the interest of the State. Private property thus taken is not seized by the execution of the right of eminent domain.\nIf it were so considered, all contributions exacted from citizens for defraying the expenses of the government and of local administration, would, in order to be legal, require the return of a. precise equivalent to the tax payers as a compensation, which would be absurd. Every one will at once see that this cannot be so, and that if it were, government could not be carried on at all. But no general reasoning is necessary, for the subject has been elaborately considered and determined in this court.\nIn the case of The People v. The Mayor, &c., of Brooklyn (4 Comst., 419), a local assessment, made pursuant to an act of the legislature, for defraying the expenses of improving a street, was challenged on the same ground as the present act. The money of individuals having property in a certain locality was required to be taken and appropriated for the public purpose indicated; and it was argued that it was a taking of private property otherwise than by due process of law, and without any provision for compensation. The opinion of Judge Buggles, which was concurred in by all the judges, discriminates with great clearness between the seizure of property under the power inherent in the government to levy taxes for public purposes, and the taking of specific real or personal estate, either unlawfully or for a public object, without rendering a specific equivalent. In the former case, the contributors to the public burthens receive such compensation as the Constitution or the laws contemplated they should have, in the benefits of good government and in the advantage which the legislature have judged that they would receive from the particular expenditure in question. It is only nec\u00e9ssary to add to this branch of the case, that the legislature is the conclusive and final judge as to what the public interest and general good require to be done, and of the expenditure which may be needed for any particular purpose. The principle, which of itself is sufficiently obvious, has, moreover, been repeatedly affirmed in this court. (The Town of Guilford v. The Board of Supervisors of Chenango Country, 3 Kern., 143; Brewster v. The City of Syracuse, 19 N. Y., 116.) There can be no objection to imposing the burthens which shall arise in the execution of the act, upon the local division where the riots take place, and the losses were occasioned. This is the case with all public exactions, which from their nature are local in their objects, and which generally arrange themselves under the head of town, city or county charges. If we look at the statute we are examining, as resulting ultimately in occasioning taxation, for the means of raising the money which will be required to carry out its purposes, the foregoing observations will be all which it seems to me necessary for the determination of this appeal; and I am of opinion that it should be considered in that light.\nBut it is contended that the application of the case to the city of Hew York, raises a further and different question. The fact that it is governed by a corporation, under a charter conferring certain municipal rights, does not, of course, raise any distinction. The authority of the legislature prevails within the limits of chartered cities and villages, and the public laws have the same force there as in the other parts of the State. That position does not admit of an argument. (The People v. Morris, 13 Wend., 325.)\nThe particular point appears to be that the form of the remedy for faising the money required to pay individual losses, provided by the act, leads to consequences which would violate the constitutional provision. The party who has sustained damages by a riot, may prosecute the city corporation ; and the act provides that if he obtain judgment, the city treasurer is to pay the amount and charge it to the city. It is argued that it may happen that there will be no moneys in the treasury, or the treasurer may be unable or unwilling to make the payment; but the plaintiff, having a judgment against the corporation, may cause an execution to be levied upon its property. The property of the city, it is further argued, is private property, which the corporation holds by the same title as an individual or a private corporation, and that it is equally under the protection of the Constitution. The effect of the act, as it is urged, therefore, is the same as though the property of one designated private citizen should be directed to be seized and appropriated to pay a local public charge. This, it is plain, could not be justified under the taxing power or any other head of legislative authority. The answer made to this argument, in the printed opinion of the Superior Court, is, that the method of collecting the judgment by application to the treasurer, is exclusive, and that property cannot be taken on execution upon such judgments. This answer is not entirely satisfactory to my mind. By permitting the party who had sustained damages to recover judgment in the ordinary course of justice, without any provision qualifying the effect of such judgment, it cannot, I think, have been intended to withhold from him any of the legal rights of a judgment creditor. The most universal of these rights is that of levying the amount of the judgment against the property of the debtor, by the usual process of execution. If it were intended to exclude that remedy, it is difficult to see why a judgment should be permitted to be recovered at all. Without that effect the judgment would be illusory in many cases, for it would rarely, if ever, happen that there would be funds in the treasury adequate and applicable to the payment of such damages where they should be for a considerable amount. My opinion is, that the judgment is'of the same force and efficacy as any other judgment which may be rendered against the city, subject, perhaps, to the duty of first presenting it to the treasurer.\nIt is plain enough that it would not be a judicious administration of the affairs of a city to permit its property to be subjected to a forced sale on execution; and hence it has become a usual practice to add to the sums included in the annual tax levy any amount for which judgments have been recovered against the corporation, and to authorize the borrowing of money, if necessary, in order to pay such judgments. Instances of such legislation occur in many of the recent statutes. (Laws of 1863, p. 411, \u00a7 6; id., 1864, p. 938, \u00a7 1, p. 946, \u00a7 5.) A municipal corporation, equally with a private corporation, may have its property taken in execution, if [payment of a judgment is not otherwise made. I am far from supposing^However, that such estate, real or personal, as may by law, or by authorized acts of the city government, be devoted to public use, such as the public edifices, or their furniture or ornaments, or the public parks or grounds, or such as may be legally pledged for the payment of its debt, can be seized to satisfy a judgment. Such, clearly, cannot be the case, for these structures are public property, devoted to specific public uses, in the same sense as-similar subjects in the use of the State government. The argument that I am| examining supposes that the city may possess other property, held for purposes of income or for sale, and unconnected with any use for the purposes of the municipal government. Such property, the defendants\u2019 counsel insists, and for the purpose of the argument I concede, is subject to be levied on and sold to satisfy a judgment rendered against the- city corporation. The true answer to the position that such seizure would be a , violation of the constitutional protection of private property! is, that it is not private within the sense of that provision. Oity corporations are emanations of the supreme law making power of the State, and they are established for the more convenient government of the people within their limits. In this respect, corporations chartered by the er\u00f3wn of England, arid confirmed at the revolution, stand on the same footing with similar corporations created by the legislature. Their boards of aldermen and councilmen and other officers are as truly public officers as the boards of supervisors, or the sheriffs and clerks of counties; and the property intrusted to their care and management is as essentially public property as that confided to the administration of similar official agencies in counties and towns. In cities, for reasons partly technical, and in part founded upon motives of convenience, the title is vested in the corporate body. It is not thereby shielded from , the control of the legislature, as the supreme law making power of the State. Let us suppose the city to be the owner of a parcel of land not adapted to any municipal use, but valuable only for sale to private persons for building purposes,, or the .like. ISTo one, I think, can doubt but what it would be competent for the legislature to direct it to be sold, and | the proceeds to he devoted to some municipal or other public ! purpose, within the city, as a court house, a hospital, or the ' like; and yet, if the argument on behalf of the defendants is sound, it would be the taking of private property for public use without compensation, and the act would be void.\nWhat-has been actually done respecting such city property, in the present case, if a judgment for riot damages has the effect which the argument supposes, and which I attribute to it, is to render it liable to sale on execution, to satisfy a liability of the city arising under the riot act; and this has been done under the express authority of the legislature. The vice of the argument of the defendant is, that it assimilates the condition of the city, in respect to the property to which it has title, to that of an individual or a private corporation, and denies to the legislature any power over it which it would not possess over the fortunes of a private citizen. I have stated my views in opposition to this theory in rather a dogmatic manner; but' it has not been done without an examination of the eases which we have been referred to, and such others as have been within my reach, and as much reflection as I could bestow on the subject. I will state, in a very brief manner, the effect of these authorities. In the case of Woodward v. Dartmouth College (4 Wheat., 518), the particular question was, whether the legislature of the State of Hew Hampshire was warranted in passing certain statutes, altering, in many important particulars, the charter of the corporation of Dartmouth College, and assuming to regulate the execution of its corporate franchises according to its views of public expediency. . It was claimed by the college that this legislation was prohibited by the provision of the Constitution of the United States declaring the inviolability of contracts; and the answer to that claim was, that the college was a public institution of the State of Hew Hampshire, and- hence subject to the control of the law making power of that State. The main question, therefore, was, whether it was a private or public corporation. The judgment was, that, although it was, in a limited sense, public, as an artificial being existing by virtue of the laws, and in this respect partook of the public character which belongs to all corporations; yet, when looking to the power of the State, it was to be regarded as a private corporation, such as a bank or manufacturing company. It is not important to point out the manner in which this conclusion was reached, as the case is here referred to only with a view to the distinction between the two classes of corporations and the authority of the legislature over them respectively. On behalf of the State of \u00a1New Hampshire, it was argued that the prohibitory provision, of the Constitution should not be understood to comprehend the political relations between the government and its citizens ; or offices held within the State for State purposes; or those laws concerning civil institutions which was said might change with circumstances, and be modified by act of the legislature. Chief Justice Marshall said, that the general correctness of these positions could not be doubted; and he added, \u201c that if the act of incorporation be a grant of political power; if it create a civil institution to be employed in the administration of the government; or if the funds of the college be public property; or if the State of \u00a1New Hampshire, as a government, be alone interested in its transactions, the subject is one in which the legislature of the State may act according to its own judgment, unrestrained by any limitation of its powers imposed by the Constitution of the United States.\u201d But he held that, so far from this, the college was a private eleemosynary institution, the body corporate possessing the whole legal and equitable interest, and possessing civil rights which were protected by the Constitution. Mr. Justice Washington said, \u201c that there were two kinds of corporations aggregate, viz., such as were for public government, and others of a private character.\u201d \u201c The first,\u201d he said, \u201c are those for the government of towns, cities, or the like, and, being for public advantage, are to be governed according to the 'laws of the land.\u201d These, he said, were mere creatures of public institution, created exclusively for public advantage. It would seem reasonable, he proceeds to say, that such a corporation may be controlled, and its constitution altered and amended by the government, in such manner as the public interest may require. Such legislative interference cannot be said to impair the contract by which the corporation was formed, because there is in reality but one party to it; the trustees or governors of the corporation being merely the trustees for the public, the oestmi que trust of the corporation. (Story\u2019s Com. on the Const., \u00a7 1, p. 387; 2 Kent Com., p. 275.) The expression of Chancellor Kent, in the Commentaries, that where a municipal corporation is empowered to have and hold private property, such property is invested with the security of other private rights, is understood to mean only that it possesses such rights against wrongdoers, and not that it is exempted from legislative control. These trustees or governors have no rights, interests, privileges or immunities which are violated by such interference. Justice Story, at the place cited, expressed himself to a similar effect,'and mentioned towns, cities and counties, as instances of public corporations which were subject to legislative control. Similar citations from adjudged cases and systematic works might be added, but it is presumed that the principle will not be questioned. The statutes of this State furnish instances, too numerous for citation, of \u2018the interference of the legislature with the corporate government of the city of Kew York. If the charter, like that of Dartmouth College, was private and independent of legislative interposition, these acts would be void upon the principle of the judgment of the case cited, and the regulation of the city government would be confined to the brief prescriptions contained in the charter of the colonial governors.\nBut it is not fair to impute to the defendants\u2019 counsel a position so extravagant. They rely upon a supposed distinction between the rights and powers of the corporation in the execution of what is conceded to be its political and municipal acts, and its title to, and its rights and powers over the property within its control. . In respect to its powers, the corporate body is understood to be the trustees of the people represented by the supreme legislative power of the State, but in regard to its property it is argued that there are no beneficiaries. The property, it is insisted, is private, and , hence the legislature has no legitimate control over it. If this is a sound position, the judgments which are every day rendered against the city for neglect of its corporate duties in respect to the streets and public places, and for the nonperformance of its contracts, and for other causes of action, not only cannot be satisfied out of the property of the city, but an act of the legislature which should require its sale and application to the payment of such judgments, would be the taking of private property for public use without any provision for compensation, and would be illegal and void. The sinking fund, which has been created by legislative authority, and which embraces the saleable lands owned by the city, to protect the public debt of the city, would be an unconstitutional and a void creation. But in what sense can this city property be said to be private ? It certainly does not belong to the mayor or any or all of the members of the common council, nor to the common people as individual property, (Roosevelt v. Draper, 23 N. Y., 318.) If one of these functionaries should appropriate it or its avails to his own use, it would be the crime of embezzlement, and if one of the people not clothed with official station should do the like, it would be the offense of larceny. Should it be said that like all corporate property, it belongs to the ideal being, the corporation, and that its title is beneficial and not fiduciary, that answer would not avoid the difficulty. Indeed it would not be sound. A corporation, as such, has no human wants to be supplied. It cannot eat or drink, or wear clothing, or live in ' houses. It is the representative or trustee of somebody, or of some aggregation of persons. We cannot conceive the idea of an aggregate corporation which does not hold its : property and franchise for some use, public or private. The corporation of Dartmouth College was held to be the trustee of the donors, or of the youth needing education and moral and intellectual training. The corporation of New York, in my opinion, is the trustee of the inhabitants of that city. The property, in a general and substantial, although not a technical sense, is held in, trust for them. They are the people of this State\u2014inhabiting that particular subdivision of its territory \u2014 a fluctuating class constantly passing out of the scope of the trust by removal and death, and as constantly renewed by fresh accretions of population. It was granted for their use and is held for their benefit. The powers of local government committed to the corporation are precisely of the same character. They were granted and have been confirmed and regulated for the good government of the same public, to preserve order and obedience to law, and to ameliorate and improve their condition and subserve their convenience as a community.\nThere are a few cases which countenance, to a certain extent, the views of the defendants\u2019 counsel, which will be briefly noticed. In Bailey v. The Mayor, &c., of the City of New York (3 Hill, 531), an action was brought to recover damages against the city for an injury to the plaintiff\u2019s land in Westchester county, occasioned by the breaking away of a dam across the Croton river, which had been erected by certain officers called the. water commissioners, under whose directions the great work of introducing pure and wholesome water into the city had been conducted. The allegation was, that the dam had been unskillfully built. The legal question was, whether the city was so connected with the work as to be liable for the wrong. The commissioners were appointed by an act of the legislature to report a plan of the work. This was to be submitted to the common council and to be subjected to the vote of the electors of the city for their approval or rejection. It was approved, and the enterprise, which included the building of this dam, was then carried on by the legislative commissioners, pursuant to the acts, under the direction of the common council. At the Circuit, the judge held that the action could not be sustained against the city, and nonsuited the plaintiff. The Supreme Court set aside the nonsuit; and the opinion of the court, prepared by Chief Justice Nelson, contains the doctrine on which the defendants rely. The learned chief justice stated the question to be, in effect, whether the powers brought into exercise in constructing the work were conferred for public purposes exclusively, in which case he said they would belong to the corporate body in its public, political or municipal character, or whether, on the other hand, those powers were conferred for purposes of private advantage or emolument. If the former were the true theory, he considered that the defendants were not responsible, but that in the latter case they would be; and he held that the defendants were to be regarded, in respect to this work, as a private company, like a bank or railroad corporation, and consequently that the corporation was liable for the interference of the water commissioners. He conceded that there was in the enterprise a blending of public and private objects, which created some difficulty in the mind; but said that upon the whole the distinction was quite clear and well defined, and the power of separation practicable. He referred to. a number of cases, commencing with Dartmouth College v. Wooodward, and including Moodamay v. The East India Company (1 Brown Ch., 469), which last case is stated very much at large as clearly defining the distinction and being quite decisive upon the question. It was an action upon a lease which the defendants had given to the plaintiff, permitting him to supply the inhabitants of Madras with tobacco for ten years, which it was alleged the defendants had illegally revoked, and had granted the privilege to another. The bill was for a discovery, but the general question was, whether an action would lie against the company for such a cause, the defendants contending that the acts complained of were done in the exercise of their functions as a sovereign power. The master of the rolls admitted that a suit could,not be sustained in that court against a sovereign power, but held that the principle did not apply to the case. He said that as a private company the defendants had entered into a private contract, on which they must be liable. If the chief justice had adverted to the well known character of the East India Company, he would have seen that the case was quite inapplicable. It is a stock corporation, created for the purpose of trading with the native inhabitants of India, making regular dividends on the stock, and managing its pecuniary affairs through a board of directors sitting in London. In process of time, and probably at the period of this decision, it had acquired, or been permitted to exercise, vast powers of government, which powers have since been transferred to a board of control appointed by the crown. As a trading company it was and is a private corporation, conducted for the purpose of individual emolument, and is, no doubt, liable on its contracts with individuals, in the same manner as natural persons or private corporations. The lease was a contract for trading with the natives, which the company had violated, and subjected itself to damages as a private company. The other cases referred to in the opinion of the Supreme Court, have not any direct bearing upon the question under consideration. If this case of Bailey v. The Mayor had rested where it was left by the Supreme,. Court, though I should be obliged to acknowledge my inability to appreciate the distinction suggested between the public and private functions of the city government, the judgment would have been entitled to a certain weight as authority. But a new trial took place, pursuant to the judgment of the Supreme Court, when the plaintiff recovered a very large verdict, and the case was presented to the Court for the Correction of Errors, whose judgment of affirmance is reported in 2 Denio, 433. The chancellor and three senators delivered written opinions in favor of affirmance, and the president of the senate an opinion fot reversal. Hone of the opinions even alluded to the ground, taken in the opinion of the Supreme Court. It was considered by all the members who delivered opinions for affirmance, that public corporations were responsible on account of their legal personality and their capacity for suing and being sued, for the negligent acts of their agents and servants in the execution of their duties; and the main question, which was much discussed, was, whether the relation of principal and agent existed between the corporation and engineers and others who constructed the dam, seeing that the water commissioners were appointed by the legislature. The chancellor was unable to make out that relation, and placed his opinion for affirmance on the ground that every owner of land, who allowed others to erect nuisances thereon, or suffered his premises to be in such a situation as to produce injury to others, is answerable for such injury: and as the city corpoerected, he held they were liable upon that principle. Senator through the corporation, and said that a sovereign power, though it cannot be sued, yet if it'become a member of a corporation, lays aside its sovereignty as to that transaction constituted the water commissioners their agents bj The liability of the defendants being established by the court of ultimate review, on an entirely different theory from that which affirmed the enterprise of conveying water into the city to be a private work, as distinguished from an act of municipal government, the doctrine of the opinion of the Supreme Court was substantially repudiated, and cannot, therefore, be considered as a precedent. It is but the opinion of the eminent chief justice and learned associates, and does not, like a final adjudication upon the cause of action, settle any principle of law. ration were the owners of the land, on which the dam was Hatto considered the State as conducting the enterprise or character. Senators Boxee and Bablow considered that the corporation, by their acceptance of the act of\nThe case of Britton v. The Mayor, &c. (21 How. Pr., 251), was decided in the former Supreme Court, in 1843, while the late Nicholas Hill was the reporter; but it was pot published in his reports. After being often referred to in manuscript, to prove the private character of the property held by the corporation, it was finally printed in Howard\u2019s Practice Eeports, fifteen years afterwards. It was an action brought on a contract between the plaintiff and common council, by which the former was to clean the streets in the city for a consideration agreed on. It was decided against the plaintiff on a demurrer to the complaint, on the ground that by the legal arrangement of the duties of the several branches of the city government, the work in question could not be made the subject of a contract, as such a method of proceeding would control or embarrass what is styled the legislative power of the common council. '\nThe soundness of that decision is not now in questiop; but in arriving at the determination, the chief justice took occasion to assert, that many of the powers and privileges vested in the corporation were, held by it as a private corporation, and that it held a mass of private rights and interests in property, real and personal, in the same way that similar property was held by private persons; and the case of Bailey v. The Mayor, &c., was referred to as authority, that case not being then passed upon by the Court of Errors. So far as it was intended to assert that the management of, and bargaining respecting specific property owned by a municipal corporation was substantially of the same character as that used by private persons and corporations, in their transactions concerning similar property, the remarks were eminently just, and the assertion of that position was all which was essential to the argument of the opinion. That argument was, that the duty to provide for cleaning the streets was legislative in its character, and not properly the subject of contract stipulations, like arrangements which are made in the management of specific property owned by the city. There was nothing in this case which called for a determination as to the character of the ownership of such property, in respect, to the distinction of public or private on the power of the legislature respecting it. If any of the expressions of the chief justice can have the construction that such property owned by a municipal corporation is held, in all respects and. in every aspect in which it may .be viewed, or in regard to the legislative authority over it, precisely like that held by private corporations or individuals, the language is unguarded and cannot be sustained.\n.The case of Benson v. The Mayor, &c. (10 Barb., 223), is a Special Term decision of the late Judge Basculo, denying the plaintiff\u2019s application for an injunction restraining the corporation of Hew York from granting certain ferry franchises between the city and Long Island. The plaintiff claimed to have grants from certain commissioners, appointed under an act of the legislature, passed in 1845, and who were thereby authorized to grant ferry licenses between the city and Long Island; but they were not to grant a license for any ferry or ferries which should interfere with the rights, franchises or privileges of the mayor, aldermen and commonalty of the city of Yew York, in and to any ferries alre.ady established, &c. The injunction was denied on the ground that the grant which the commissioners had made to the plaintiff did interfere with the ferries already established by the corporation, and which were regarded as in excess of the powers of the commissioners, and in violation of the statute. This decision, of course, does not touch any question before us; but the learned judge prepared a long and able argument to show that the corporation held rights in the subject of ferries which the legislature could not control. It is not worth while to examine at length the positions of an opinion wholly aside from the point decided. Many of the positions are incontrovertible: such as the rights of grantees of the corpor&tion in existing ferries, upon the footing of a contract protected by constitutional provisions. \u2022 So far as the opinion argues that the legislature cannot interfere with th\u00e9 power conferred by the charter on the corporation, in regard to ungranted ferries, I should not be able to concur in all that' is said. Indeed, the judge refrains from pronouncing definitely upon that branch of the subject.\nIn the case of The People v. Hawes (37 Barb., 440), a motion was made in the Supreme Court for a mandamus against the comptroller of the city; to compel him to pay the relator a large sum of money which had been awarded by arbitrators, appointed pursuant to an act,, of the legislature, to determine what, if anything, they were entitled to receive from the city, for the breach of an alleged contract for the. building of certain gate houses in the new reservoir of the Croton water works. The corporation had denied the legal existence of the contract, and refused to consummate it or to allow the relators to do the work, and the legislature thereupon passed the act in question, providing for an arbitration. The mayor joined in appointing arbitrators, but counsel for the city did not appear at the trial; upon which, the award was made against the city upon an ex pa/rte hearing. The Special Term denied the motion for a mandamus, on the single ground that it did not appear that the comptroller had any money of the city in his hands, applicable to that object, out of which the award could be paid. On appeal to the General Term, the order was affirmed. One ground of the affirmance, according to the opinion, was that if the relators had a demand against the city, there was a remedy by action; and that where such a remedy exists, a mandamus will not lie. ' But the court, moreover, denied the power of the legislature to pass a law obliging the city to submit to an arbitration in such a case. That position was based upon the constitutional provision protecting private property, relied on by the defendant in the present case. If the transaction were between private persons, I doubt not but that this provision and the one preserving the right of trial by jury, would have been fatal to the case. So, if the corporation of the city had been a private corporation\". But being public, and its. charter and corporate franchises being subject to legislative control, I am of opinion that the legislature had a right, of its oavu authority, to create a board for the adjustment of the claim, without the consent of the city. It may be that they could not compel private parties, interested, to submit to such a tribunal, for they had a legal right to prosecute the city in a regular action; but the legislature had full control over the city.\nThe subjects of the several actions, in the cases I have been examining, were as clearly matters of municipal government, as any which could be presented. Nothing could, in the \" nature of things, partake less of a private character than the supplying of water to, and the cleaning of the streets of a town containing nearly a million of inhabitants. If these were not public subjects and under the control of the legislature, the city is not subordinate to the supreme legislative power on any conceivable subject. It is an imperwm in imperio.\nAnother case decided in a sister State, containing doctrines hostile to the views I have stated, may be mentioned (Atkins v.The Town of Randolph, 31 Vern., 226). The legislature of Vermont, in a section of an act to suppress intemperance, had enacted that a' county commissioner should be elected, who might appoint an agent for each town, to purchase liquors on its account, to be kept by the agent for sale for medicinal purposes; and all other selling of liquors were prohibited. One Mann was appointed the agent for the town of Randolph, and, in'that character, purchased liquors of the plaintiff on the credit of the town, but had betray\u00e9d his trust, in not paying over the proceeds of the sales made by him. The action was brought to recover against the town the price of the liquors so purchased. The court held the law unconstitutional, as a violation of the provision protecting private property, contained in the bill of rights, which was a part of the Constitution, and was in similar terms with the provision of the Constitution of this State so often mentioned. \u2022 The opinion, of course, denies the right of the State legislature to make public regulations binding on the town-without the consent of the inhabitants, which involve an obligation to pay money. It is opposed to the right, invariably conceded here to make such regulations, and stands upon no principle. Its fallacy was exposed in an able dissenting opinion of one of the judges, which states the law upon the subject as I have endeavored to explain it. (See The People v. Morris, 13 Wend., 325.) \u2019\nThe foregoing are the principal cases bearing, with any degree of directness, upon the point whether specific property held by municipal corporations is subject to the law making power vested in the legislature, or whether it is protected against legislative action by the constitutional provision referred to.\nThey have not, in any respect, shaken the opinion which I have above expressed. It is unnecessary to say whether the legislative jurisdiction would extend to diverting the city - property to other public use than such as concerns the city, or its inhabitants; for this act, if the effect suggested is attrib-1 uted to the judgment for riot damages, devotes the property I which may be seized on execution to legitimate city purposes, namely, to reimbursing those who have suffered damages on account of the inefficiency of the city authorities to protect \u2018 1 private property from the aggressions of a mob. I am of , opinion that the order appealed from should be affirmed, on the ground that the means provided by the statute to raise money to pay for the damages in question were not hostile to any provision of the Constitution. \u2022\nAll the judges concurred, except Davies, J., who, though for affirmance, dissented from some of the views of the chief judge, in respect to the corporate property, and Ingraham, J., who delivered an opinion for reversal.\nIngraham, J.\nThe question involved in this case is, whether an act of the legislature making the city or county in which property shall be destroyed or injured in consequence of any moh or riot, liable to an action by the party injured for his damages\u00bb^\u00bf -\nThat such a law, applicable to counties, may be passed, and' that the law may authorize supervisors to raise the necessary sums to make such payments, I have no doubt. It -is not, then, taking private property without compensation, hut the mere power of the legislature, which has been repeatedly sanctioned, to compel the payment by taxation of moneys, which in their judgment are properly chargeable on the inhabitants so taxed. (Wolfe v. The Supervisors of Richmond County, 11 Abb., 270.) But a very different question arises as to a municipal corporation. They are not only the holders of powers and franchises, bestowed upon them by the-legislature, but they hold property derived from other sources than the legislature, and which they hold by the same right and title, and subject only to the same liability as private individuals. Such property cannot he taken jfcom them, for private use, by any law; nor can it be taken for public use, without compensation. Large .amounts of property are\" held by the corporation of the city of Hew York, by such a title, and the income of such property, by this act, is made liable to the payment of these claims. Various laws have been passed by the legislature prohibiting the corporation from using the moneys, raised by taxation, from being used for any other\" purpose than specially designated by the act authorizing the levying the tax. And yet, this law makes it the duty of the treasurer of the city to pay the amount of any judgment recovered against the city, and to charge the amount paid to the city. Clearly, the treasurer would not be bound to pay if he had no funds in his possession belonging to the city. It is equally clear that he could not take moneys, raised by law for other purposes, and apply them to this payment.. Take, for instance, the moneys raised by tax for lamps, or the support of the poor, or paving of the streets, or any other specific purpose. The laws give the treasurer no power over the funds of the city, except to pay on the draft of the comptroller and other officers. Suppose he should, in compliance with this law, pay the amounts of losses sustained by the riot, which are said to exceed one million of dollars, how is the business of the city to' be carried on ? Ample provision had been made by law for these purposes, and yet, if this law is to be sustained, those moneys must be applied to the payment of the riot claims, and the city left without means for the ordinary wants of the city, and with strict legal provisions against incurring any new indebtedness, unless authorized by the legislature. Under such provisions nothing, would remain but the application of the private property of the corporation to the payment of these claims. Holding these views, I have heretofore held that the legislature could not impose on the corporation the obligation to pay moneys without providing means, either by taxation or by a release of the moneys raised by taxation from the special purposes to which they were applied; and, that when the question arose as to.their liability to pay money accruing from their private property, they were entitled to the same rights as individuals, and were not bound to hold such property subject to the will of the legislature. (Green v. The Mayor, 5 Abb., 503; People v. Haws, 37 Barb., 440.) The case of Bailey v. The Mayor, &c., of New York (3 Hill, 531), was decided upon this theory. Felsoh, Oh. J., says, \u201c If the grant was for purposes of private advantage and emolument, though the public may derive a common benefit from it, the corporation quoad hoc, is to be regarded as a private company.\u201d And again, \u201c It is upon the like distinction that municipal corporations, in their private character, as owners and occupiers of lands and houses, are regarded in the same light as individual owners and occupiers, and dealt with accordingly. .\nHor do I think the provision of this statute, which says, \u201c Whenever any final judgment shall be recovered against any such city or county in any such action, the treasurer of said city or county shall, upon the production and filing in his office a certified copy of the judgment roll, pay the amount of such judgment to the party _ or parties entitled thereto, and charge the amount thus paid to said city or county,\u201d relieves the objection before stated.\nI consider this provision not as a limitation, but as an addition to the means which the plaintiff would otherwise possess of collecting his judgment. As to a county it would probably be the only mode of collecting the judgment, viz., to make it a lien entitled to payment out of the moneys in the hands of the treasurer. It would be no answer to an application for a mandamus to direct the treasurer to pay the judgment, for him to reply that the money in his hands was wanted for other purposes for which it had been raised by tax. The direction is positive for him to pay, and no'provision is made for raising the means. But whether it would or not be conclusive, if not paid it is still a judgment with all its incidents. There is no limitation in the statute as to the mode of its collections. By the statute the city is made liable to an action for the damages sustained, and such actions are to be conducted in the same manner as other actions. I see no reason why executions may not be issued in like manner, and be levied upon the property of the corporation when a judgment is recovered against them.\nI do not, however, propose to discuss these questions at length, as I understand the views heretofore expressed by this court, on the liability of the corporation of Hew York in regard to its property, as adverse to the views I entertain. I desire thus briefly to express my open opinion as to the power of the legislature to interfere with the private property of th^ corporation of the city of New York, or to impose upon it obligations to pay money without giving it corresponding powers to raise the same by taxation, or to borrow it by a loan. I do not wish to be understood as expressing any opinion adverse to the\" validity of this statute, so far as it applies to the county or the power of the legislature to make the amount recovered a county charge, to be raised by taxation or loan, but \"simply as to the right of the'legislature to impose such liabilities upon the corporation of the city of New York so as to bind their property for the payment of the recovery.\nMy conclusion is, that the judgment of the General Term should be reversed, and that of the Special Term affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Denio, Ch. J. Ingraham, J."
+      }
+    ],
+    "attorneys": [
+      "John K. Hackett and Wm. Fullerton, for the appellants.",
+      "Thomas Darlington, respondent, in person.",
+      "Cephas Brainerd and James S. Stearns, of counsel for nine hundred and fifty plaintiffs in like cases."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Darlington v. The Mayor, &c., of the Ctty of New York.\nThe act of the legislature entitled, \u201cAn act for compensating parties whose property may be destroyed in consequence of mobs or riots,\u201d passed April 13, 1855, is constitutional.\nJudgments rendered pursuant to the provisions of that act, for riot damages, have the same force against the property of the city as judgments recovered for any other cause of action.\nThe property owned by the city corporation is held by it as a public corporation, and is subject to the law making power of the State vested in the legislature.\nIt seems, that property held by the corporation for public use, etc., is not subject to levy and sale on execution, etc. But property not held in trust for such use, may be thus subject.\nAppeal by the defendants from an order reversing a judgment of nonsuit and directing a new trial, the defendants, with their notice of appeal, stipulating the judgment absolute in case the judgment of this court should be against them.\nThe action was brought in the Superior Court of Hew York, under an act entitled \u201can act for compensating parties whose property may be destroyed in consequence of mobs and riots.\u201d (Laws 1855, ch. 428.)\nThe complaint set forth the loss of personal property of the plaintiff, to a small amount, by the setting fire to the building on which it was kept, by a riotous assemblage of persons, on the 13th July, 1863.\nOn the trial, before the Hon. James Monorier and a jury, the defendants admitted the facts stated in the complaint, except the value of the property, which was proved by the plaintiff.\nThe defendants moved for a nonsuit, on the ground that it did not appear, by the printed volume of the Session Laws, that the act was passed when three-fourths of the members elected to each branch of the legislature were present; and on the ground that its effect was to deprive the defendants of their property without due process of law. The judge nonsuited the plaintiff, and the General Term, on appeal, made the order from which the present appeal is taken.\nJohn K. Hackett and Wm. Fullerton, for the appellants.\nI. It is clear, both upon principle and authority, that at common law, the defendants would not be liable in this action. (Boyland v. Mayor, 1 Sandf., 27; Levy v. Mayor, id., 467; Griffin v. Mayor, 5 Seld., 456; Howe v. City of New Orleans, 12 La. An., 481; Prather v. City of Lexington, 13 B. Mon., 569; Opinions of Council to Corporation, 1849 to 1860, p. 23.) ,\nII. The act of 1855, upon which the plaintiff relies to support his action, does not appear to have been passed when three-fifths of the members elected to each house were present. (Laws, 1855, p. 800.)\n1. The Constitution provides that upon the final passage of any bill which creates a debt or charge, three-fifths of all the members elected to either house shall be necessary to constitute a quorum. (Const., art. 7, \u00a7 14.)\nThere can be no doubt but that the act in question is within this provision of the Constitution. It was therefore incumbent upon the plaintiff to show, affirmatively, that the act was passed in accordance with this constitutional provision. How, by the act of 1847 (Laws 1847, ch. 253, \u00a7 182, p. 276), it is provided as follows:\n\u201cHo bill shall be deemed to have been passed when three-fifths of all the members elected to each house were present on the final passage thereof, unless so certified by the presiding officer of each house; and in the publication of every law in all cases where a bill is certified by the presiding officer as having been passed in the presence of three-fifths of all the members elected to each house, the secretary of State, after stating when the bill became a law, shall add the words, \u2018three-fifths being present.\u2019\n\u201cThe addition of the words \u2018three-fifths being present,\u2019 .shall be presumptive evidence that the bill was certified by the presiding officer as having been passed in the presence of three-fifths of all the members elected to each house, and the absence of such words shall be presumptive evidence that the bill was not so certified by the presiding officer J\nIH. The act of 1855, so far as it attempts to create any liability against the defendants, is unconstitutional.\n1. The defendants are possessed of private property, which they hold and enjoy upon the same tenure upon which it would be held and enjoyed in case it had been conferred 'on any private individual. (Dongan Charter, \u00a7\u00a7 6, 12; Davies\u2019 Laws, 151, 157; Montgomerie Charter, \u00a7 1; Davies\u2019 Laws, 165, 169; Bailey v. Mayor, 3 Hill, 331, 539; Britton v. Mayor, 21 How., 251; Benson v. Mayor, 10 Barb., 223.)\nAs respects their private property, and its disposition, the defendants are as free from legislative interference and control ' as is any private individual in the possession and enjoyment of his property.. (Hoffman\u2019s Treatise, 44, 73; Atkins v. Randolph, 31 Vt., 226; Green v. Mayor, 5 Abb., 505; Valentine\u2019s Laws, 1199.)\n2. All the rights, property, interests and franchises conferred upon the defendants by the Dongan and Montgomerie charters, were confirmed and ratified by an act of the colonial assembly in 1732.\nThe same regard for chartered rights evinced by the act of 1732, was manifested by the framers of the several Constitutions of the State, in each of which it is provided that nothing therein contained shall annul any charters to bodies politic or corporate, made prior to the 14th of October, 1755. (Hoffman\u2019s Treatise on the Estate and Bights of the Corporation of New York, 2d ed., 27-32.)\nThe grants of real estate, as made in the charters, are in fee, and the grants of franchises are in perpetuity. The charters also empower the corporation to \u201cgive, grant, demise, assign and sell, or otherwise dispose of, all or any of the messuages, houses, buildings, lands, tenements, rents, possessions, and other hereditaments, and real estate, and all their goods and chattels and other things aforesaid, as to them shall seem meet, at {heir own will and pleasure.\u201d\nHo citizen of the State has greater capacity to acquire property, larger freedom in its possession, management and disposition, or superior facilities for its defense and protection, than is \u2022conferred upon the defendants by their charters, both as respects the property therein granted, and that which they might subsequently acquire. It is difficult, therefore, to perceive any foundation for the argument and claim that the property and franchises conferred upon the defendants by their charters, is public property, which the legislature is at liberty to dispose of and appropriate at its pleasure. Surely it cannot be found in the fact that the conveyance to the defendants is in fee, the highest estate known to the law, or that the grant of franchises is in perpetuity; or in the permission to the defendants to dispose of them property as to them shall seem meet of their own will and pleasure; or in the charter provision that the defendants shall hold, use and enjoy forever the right, franchises and properties granted, without hindrance, impediment or disturbance from the granting power; or in the constitutional provision, that nothing therein contained shall annul any charters to bodies politic or corporate, made prior to the 14th of October, 1775 ; or is it found in the universal and uniform practice of the legislature, in requiring compensation to be made to the defendants in every instance in which their corporate property has been taken for a public purpose, or even for a local improvement. These are so many and so weighty reasons why the argument and claim are unsound, and why the power of disposing of the corporate property of the defendants is not vested in, and cannot be exercised by, the legislature.\nThe principle once established that the defendants possess no private property, private in the sense that it cannot be disposed of or appropriated by the legislature without their assent, except upon compensation made, the defendants would at once be deprived of the tenure by which, under the Constitution and the decisions of the court, they have ever been regarded as holding their property, and would be rendered powerless to protect themselves, and the courts equally powerless to afford them protection. As in matters of taxation, the legislature is the sole judge of the necessity which requires, and the public purpose which demands, the exercise of that power, so the legislature would be equally unrestrained in the disposition of the property granted to the defendants by their charters, if it is public property, for in that case none of the constitutional limitations and restrictions upon legislative power, when dealing with private property, would apply. It must be conceded that a direct act of legislation annulling the charters of the defendants, would be void within the spirit and meaning of the constitutional provision, that nothing therein contained should annul charters to bodies politic and corporate, granted prior to the 14-th of October, 1775. How, then, can it be claimed that the legislature, being powerless to annul or repeal the grant itself, can divest the defendants of the properties and franchises granted, and thereby as effectually annul and destroy the grant as could possibly be done by direct legislation. The correct and just construction of this constitutional provision is, that it was intended to secure to all grantees', under charters named, the rights, property and franchises vested in them at the time the Oonstitution was adopted. One of the rights possessed hy the defendants under their charter at that time, was the right to hold, enjoy and dispose of the property and franchises granted \u201c as to them should seem meet, at their own will and pleasure,\u201d a right manifestly inconsistent with the power claimed to be possessed and attempted to be exercised by the legislature in the passage of the act of 1855.\n3. Having thus determined the nature and character of the defendants\u2019 property and tenure upon which it is held, it now becomes material to inquire in what particular and to what extent the act in question invades or violates the rights of the defendants.\n1st. It creates a debt against them without their assent, and charges their private property with its payment.\n2d. In its practical effect it transfers the private funds of the defendants, without their consent, to the individual sufferers from the riots.\nIn each of these particulars the act is unconstitutional. (Hampshire v. Franklin, 16 Mass., 83; Inhabitants of Medford v. Learned, 16 id., 216; Atkins v. Randolph, 31 Vt., 226; Pittsburgh and Steubenville R. R. Co. v. Gazzam, 32 Penn., 340; White v. White, 5 Barb., 484; Matter of Albany street, 11 Wend., 152; John and Cherry streets, 19 id., 659, 675; Bloodgood v. H. R. R. Co., 18 id., 59; Wilkerson v. Leland, 2 Peters, 657; Taylor v. Porter, 4 Hill, 144; Powers v. Bergen, 2 Seld., 366; Calder and wife v. Bull, 3 Dallas, 386; Fletcher v. Peck, 6 Cranch, 135; Wynehamer v. People, 3 Kern., 341; Burch v. Newbury, 10 N. Y., 374.)\nTest the act by the constitutional restrictions and limitations upon legislative power, and there can be no doubt of its invalidity. (Const., art. 1, \u00a7 6; Taylor v. Porter, 4 Hill, 145; Powers v. Bergen, 2 Seld., 358; Wynehamer v. People, 3 Kern., 342; Westervelt v. Gregg, 12 N. Y., 202; People v. Haws, 37 Barb., 440.)\n4. The judiciary has repeatedly protected the defendants from the unjust, oppressive and unconstitutional acts of the legislature. (Green v. Mayor, 5 Abb., 503; Van Valkenburgh v. Mayor, Opinion, Clerke, J.; People v. Haws, 37 Barb., 440.)\nThere is no difference or distinction between, these cases and the one now under consideration, except that under the act in question the interference with the private property of the defendants is more direct and the liability imp\u00f3sed is more unjust and oppressive.\nIY. The act of April 13, 1855, being in contravention of the Constitution, gives no right of action to the plaintiff.\n1. It permits a judgment to be recovered against the defendants for damages for an act not them own, and over which they had no control.\n2. Execution may follow such judgment, and the private property of the defendants sold to satisfy it.\n3. Even though it should be held that execution cannot follow the judgment, and the plaintiff is confined strictly to the remedy provided by the act, y'et the private funds of the defendants may be taken in satisfaction of the judgment. In either case the act is obnoxious to the constitutional objection.\nThe act provides that the city shall be liable to an action by and on behalf of the party whose property is destroyed, for the damages sustained.\nIt also provides that such action may be brought and conducted in the same manner as other actions, and the judgment appealed from in the manner provided for appeals in civil actions. It further provides that whenever final judgment shall he recovered, the treasurer of said city or county shall pay the amount of said judgment, and charge the same to said city or county.\nThe judgment provided for here is an ordinary one, recovered by a prevailing party in a court of justice, after the usual proceedings.\nThe only thing peculiar about it is, that provision is made for the payment of the judgment by the treasurer of the city or county. This, it is submitted, is a cumulative remedy, and still leaves the party to the ordinary remedy by execution, if he chooses to resort to it.\nSee Judge Monell\u2019s opinion, as follows: \u201c If, therefore, an execution could be issued upon a judgment recovered under the riot act, and levied upon any of the property \u2019 of the corporation, which it has obtained under its charters, or by subsequent purchase, and he sold in satisfaction of the judgment ; or, if the city is compelled to pay its money to discharge these claims, then I am of opinion that the act would be exposed to the constitutional objection.\u201d\nWhen the legislature conferred on the plaintiff the light to his cause of action, and to recover a judgment thereon, the right to execution thereon follows ex vi termmi, as a matter of course, and the right to execution may he regarded as part of the statutory remedy.\nA judgment, by the Code, is the final determination of the. rights of the parties in the action. (\u00a7 245.) A writ of execution for the enforcement of judgments may be issued at any time within five years after the recovery of the judgment. (\u00a7 283.) If it be against the property of the judgment debtor, it shall require the officer to satisfy the judgment out of his personal or real property. (\u00a7 289.)\nWhenever, therefore, a party obtains a judgment, unless positively restrained by law, he is at liberty to enforce it in the ordinary way. But even if the mode of payment provided by the act is not cumulative, and the plaintiff can only collect it in the manner prescribed, still the law is unconstitutional. Justice Moxell, in delivering the opinion of the court in Davidson v. The Mayor, concedes this. (See opinion. See also what Justice Barbour says in his opinion, in the same case, as to the fund out of which a judgment may be paid.)\nThe act does not limit the treasurer, who is required to pay the judgment, to any particular fund, neither does it require that the moneys out of which it is to be paid shall be raised by the exercise of the taxing power. The treasurer is required to pay the judgment out of any moneys in the treasury, whether the proceeds of taxation or the corporate property of the city.\nThe treasurer, however, has no power to make payments of any moneys in his possession which have been realized from taxation for purposes other than those designated in the acts under whose authority the moneys were levied. The only funds in the treasurer\u2019s hands, which are not the proceeds of taxation, are those derived from the private property of the defendants.\nIn the year 1863, the year of the riot, there was realized from this last mentioned source, more than one million three hundred thousand dollars. The payment directed by the act would, of necessity, have to be made from the funds in the custody of the treasurer, which were derived from the private property of the defendants.\nIt is apparent, therefore, that whether the payment of the judgment is enforced by execution, or is procured by the voluntary act of the treasurer, in compliance with the statutory direction, it is the private property of the defendants which bears the burden and satisfies the judgment.\nThomas Darlington, respondent, in person.\nI. The objection that the act of the legislature, passed April 13, 1855, entitled, \u201c An act to provide for compensating parties whose property may be destroyed in consequence of mobs or riots,\u201d does not appear to have been passed when a constitutional quorum of three-fifths of the members elected to each house were present, does not properly arise in this case.\n1. The allegation that three-fifths were not present, should have been averred in the answer. (The People v. Supervisors of Chenango, 4 Seld., 824.)\n2. The legal presumption is, that a law published under the authority of the government was correctly passed, so far at least as refers to matters of form. (Id.)\n3. The law did not require for its passage the presence of three-fifths to form a quorum. (Id., 326.)\nII. Section 6 of article 1 of the Constitution of 1846 has no application or reference to the exercise by the State of its power of taxation. The act in question proposes merely to exercise this power, and not the right of eminent domain. (The People v. Mayor of Brooklyn, 4 Comst., 419; Grant v. Courter, 24 Barb., 232; The People v. Lawrence, 36 id., 177; Town of Guilford v. Cornell, 18 id., 615; S. C., on appeal, 3 Kern., 143; Brewster v. City of Syracuse, 19 N. Y., 116.)\nIII. The constitutional prohibition referred to has no application to the act under consideration, inasmuch as the latter deprives no person of any property, in any sense, but simply renders the property of the citizen liable for its share of a public burden, imposed in the wisdom of the legislature for a public good.\n1. The \u201c riot act \u201d gives a remedy which did not before exist, and prescribes the mode of enforcing it, namely, by an action to be prosecuted to final judgment, according to the usual mode of prosecuting suits. It then provides only one way of obtaining the payment on that judgment.\nThe plaintiff is required to file with the treasurer of the city or county his judgment roll, and upon that the fiscal officer is required to satisfy the demand. There is no other mode for obtaining payment. (Dudley v. Mayhew, 3 Comst., 15.)\n2. But it is respectfully submitted that the money in the hands of the treasurer, no matter whether from rents or taxes, is public money, placed in his hands for public purposes; purposes defined, and to be defined, by the legislature of the State, or by subordinate quasi legislative bodies, acting under a power delegated by the State. (Dartmouth College Case, 4 Wheat., 629.)\nThe taxpayers of a county, the citizens of a city, have no legal or equitable interest in these funds.\nThey have no standing in courts to prevent what any one of them may deem a misapplication of any of them. (Draper v. Roosevelt, 23 N. Y., 318; Doolittle v. Supervisors of Broome Co., 18 id., 155.)\nIY. That, independently of the foregoing considerations, the act in question provides for due process of law within the meaning of the Constitution.\nIt provides for a recovery by the established modes of proceeding in ah actions, giving ample safeguards against inequitable or illegal verdicts, and rests upon principles just and salutary.\nY. The judgment of the court below should be affirmed, and judgment absolute should be rendered against the appellants.\nCephas Brainerd and James S. Stearns, of counsel for nine hundred and fifty plaintiffs in like cases.\nStatutes similar to that under consideration (Sess. Laws 1855, 800) are a familiar feature in the parliamentary history of Great Britain, as a part of the police system of the kingdom. (2 Inst., 569.)\nThe British parliament, by the statute of Winton or Winchester (1 Stat., 13 ed., p. 2, ch. 3), about the year 1285, recognizing the principle of the common law, that communities were bound to afford sufficient protection to the property within their limits, and the duty of them peace officer, to suppress riots and prevent robberies (1 Hawk. P. C., eh. 68, \u00a7 11), provided a remedy against the hundred, county, &e., in which a robbery should take place, for the damages caused thereby, to be recovered by the party robbed, in an action against any one or more of the inhabitants.\nThis statute was reenacted 28th Ed. III, ch. 2.\nSubsequently, the statute of 27th Eliz., ch. 13, \u00a7 2, was passed, providing for the assessment of such damages on all the inhabitants after a recovery against one or more.\nThe next law of this character was the famous \u201c Biot Act \u201d of 1 Geo. I, eh. 5, \u00a7 1, passed by parliament in consequence of the tumults attendant upon the accession of that king to the throne, which gave a right of action against any two inhabitants of a hundred, city or town, for damages done by any \u2022persons, so riotously assembled, to any church, chapel, dwelling house, barn, stable, &c., to be recovered in any court at Westminster, and to be levied on the inhabitants, pursuant to the 27th Eliz. (supra).\nThen followed the statute of 8 Geo. II, ch. 16, \u00a7 1, under which execution was not to be levied on any particular inhabitant.\nBy the statute 7 and 8 Geo. IY, ch. 31 (21st June, 1827), these laws were consolidated and rendered more efficient by further amendments.\nWe have been thus particular in referring to these long tried English statutes, that it may be seen at a glance how this subject has been viewed by parliament; that, after a course of five hundred years and upwards, the original statute not only remains unimpaired and untouched, but has been extended to other cases within the general principles upon which it rests, and its remedies enlarged and rendered more effective; and that it may also be seen upon what principles and precedents the law, now under discussion, was framed and enacted.\nBefore entering upon a discussion of the specific objections to the constitutionality of this law, let us for a moment inquire in what spirit the highest courts approached the consideration of this class of questions.\nIn Sharpless v. The Mayor, &c. (21 Penn., 164, 147), Black, Ch. J., giving the opinion of the court, .says: \u201c There is another rule which must govern us in cases like this, namely, that we can declare an act of assembly void only when it violates the Constitution clearly, palpably, plaJmly, and in such manner as to leave no doubt or hesitation in our\nminds. This principle is asserted by judges of every grade, both in the Federal and State courts, and by some of them it is expressed with much solemnity of language.\u201d (6 Cranch, 87; 4 Dallas, 14; 3 Serg. & Rawle, 178; 12 id., 339; 4 Binney, 123.) To the same effect, Marshall, Ch. J, in Dartmouth College v. Woodward (4 Wheat., 518, 715); Savage, Ch. J., in Ex parte McCollum, (1 Cow., 550, 564); Harris, J., in The People v. Supervisors of Orange (17 N. Y., 241); Parker, Ch. J., in Adams v. How (14 Mass., 340, 395); Oakley, Ch. J., in Sun Mut. Ins. Co. v. City of N. Y. (5 Sandf., 10).\nIt is objected to this law :\nFirst. That it violates sec. 9 of art. I of the Constitution of this State, which requires the assent of two-thirds of the members elected to each branch of the legislature, to \u201c every bill appropriating the public moneys or property for local or private purposes.\u201d\nSecond. That it violates sec. 14 of art. VII of said Constitution, which requires the presence of three-fifths of the members of each house on the final passage of bills which create debts or charges, or make, continue or revive any appropriation of public or trust money or property.\nThird. That it violates sec. 6 of art. I of said Constitution, which declares \u201cthat no person shall be deprived of life, liberty or property, without due process of law.\u201d\nFourth. That it violates sec. 10 of art. I of the Constitution of the United States, which prohibits the passage of any law by a State, \u201c impairing the obligation of contracts.\u201d\nI. As to the first objection: The act of 1855 cannot be considered, in any sense, a bill appropriating public money or property for local or private or any purposes. (Town of Guilford v. Cornell, 12 Barb., 615, Opin., 620; S. C., 3 Kern., 143; White v. Syracuse and Utica R. R. Co., 14 Barb., 559, Opin., 563.)\nII. As to the second objection:\n1. The statute under consideration does not purport to effect any of the purposes specified in the section of the Constitution referred to.\n2. But it is quite immaterial whether it does not fall within the enumeration of that section or not, for the requirements of the section were complied with in all respects. (See Assembly Journal, April 6, 1855, 1054; Senate Journal, April 13, 1855, 779.) The presumption in all cases is that a law is properly passed.. (Wolf v. Supervisors of Richmond, 11 Abb. Pr., 271; People v. Supervisors of Chenango, 8 N. Y., 317, 324; Purdy v. The People, 4 Hill, 384.)\nIII. The third and fourth objections are essentially one in, all their general elements. The argument in favor of the law can therefore be presented in two distinct branches, viz. : 1. An examination of the power of the legislature to enact a law of this character; and, 2. An answer to the objections to this particular enactment.\nFirst. The power and duty of the legislature to enact this statute is easily and clearly shown.\n1. This law is a recognition of the obligation of the State to protect its members in the possession and enjoyment of their property, and was passed in fulfillment thereof. The State, and its subordinate civil divisions, such as. cities, counties and villages, result from the demand on the part of the individuals composing the community, for protection in the enjoyment of life, liberty and property. The obligation to secure this protection to each individual, lies at the foundation of the social compact. This obligation is just as sacred in respect of the rights of property as of liberty or life. In this all writers on government concur; all concede the obligation. (Locke on Civil Government, ch. 9, \u00a7 131; ch. 7, \u00a7 87, et seg. ch. 9, \u00a7 123, et seq., especially \u00a7 125; Sidney on Government, ch. 1, \u00a7 10; ch. 2, \u00a7 1, especially page 111, Edinburgh ed.; Frederick the Great's Ex. du Prince, Machiavellis Works, vol. 2, p. 188; Works of Sir William Temple, vol. 2, p. 38; Lieber on Civil Liberty, 83-85; 1 Black. Com., 48; Brougham Polit. Phil., vol. 1, p. 39; Bowyer on Univ. Pub. Law, 89; Mackintosh Misc. Works, Longman\u2019s ed., 598 ; Calhoun on Gov't, Works, vol. 1, p. 52; 2 Kent's Com., 319, et seq.; Talbot v. Jasen, 13 Dal., 133, per Iredell, J.) From this obligation proceeds the corresponding obligation to remunerate the sufferer for the damages he suffers from a failure to furnish an adequate protection. And no one can dispute the constitutional right of the legislature to make appropriations from the public treasury to compensate for such damages. But in respect to matters of police, the suppression of mobs or riots, the power of the State, i. e., society, is delegated to the counties and cities existing within its limits, subject to the modification and control of the superior power. Then, with what entire justice does the State, while granting this privilege, also impose upon subordinate society the burden of compensating for the damages resulting from a failure to furnish the protection.\nThe liability of these subordinate societies to respond in damages for injuries inflicted upon individuals by a neglect of such 'public duties, has been repeatedly declared by the courts, in a variety of cases. (Henly v. The Mayor, &c., 5 Bing., 91; 3 Barn. & Adol., 77; 1 Bing., N. C., 222; The Mayor, &c., v. Turner, Cowper, 86; The People v. The Corporation of Albany, 11 Wend., 539; The Mayor v. Fruze, 3 Hill, 612; The Rochester White Lead Co. v. The City of Rochester, 3 Comst., 463; Lloyd v. The Mayor, 1 Seld., 369; Huston v. The Mayor, 5 Seld., 163; Conrad v. The Trustees of the Village of Ithaca, 16 N. Y., 158; Weet v. The Village of Brockport, 16 N. Y., 161.)\nThe principle of these cases is distinctly applied to the Riot Act, by Mr. Justice Ingraham, in Wolfe v. The Supervisors of Richmond Co. (11 Abbott\u2019s Pr., 270), and by Lott, J., in the case of Thompson against the same, defendants, arising out of the same riots (Quarantine), at the Kings county Special Term (not reported); and by Rodgers, J., in St. Michael's Church v. County (Brightly\u2019s R., 125), upon a similar statute of Pennsylvania.\nThese observations are further confirmed by the elaborate essay, prepared by Sir William Jones, upon the mode of suppressing riots and preserving the public peace. (Jones\u2019 Works, vol. 8, 457.)\nIt has been suggested that by this line of argument it is shown to be equally obligatory upon the State to compensate sufferers by theft and robbery. This suggestion is without foundation, for the argument, as now presented, only extends to losses occasioned by a body of men acting together and committing a breach of the public peace. (See Criminal Code, 174.)\n2. This statute is a just and wise exercise of the police powers conferred upon the legislature by the Constitution, and always reposed in, and reserved to the sovereign power by the fundamental law.\nThe statute of Winchester was a police regulation. (2 Inst., 569.) So these acts have ever been viewed in Great Britain, and the remedy given by our statute has there been uniformly accompanied by penal provisions, directed against the breakers of the peace. Crabb speaks of the statute of Winchester as a reenactment of the \u201c old Saxon' law of police.\u201d (Hist, of Eng. Law, 189; see also Life of Romilly, vol. 1, 285.)\nJudge Ingraham adopts the same view in the case of Wolfe v. The Supervisors of Richmond (supra); also Judge Lott, in Thompsons Case (supra).\nAnd the same view was adopted by the courts of the State of Pennsylvania, in passing upon a law of a like character. (Donohue v. The County, 2 Penn. St., 230; Lavery v. The Same, id., 231; St. Michael's Church v. The Same, and note, Bright., 145; 1 Harris, 76; The County v. Leidy, 10 Barr., 45.) And the ground for sustaining this law here, as a police regulation, is ample. It directly affects public opinion, which Calhoun terms a \u201cpolitical power.\u201d It immediately touches all parties in the community where the \u201c injury or destruction \u201d occurs, by compelling both the rioters, and those whose duty it is to aid in suppressing the riot, to pay the loss. It convinces every citizen that he has a decided interest in the maintenance of good order. See also The State v. Brennan's Liquors (27 Conn., 288), Waite, Ch. J., giving the opinion of the court; In re Northern Liberty Hose Co. (13 Penn., 193, opinion of the court, per Burnside, J.)\nThe same principle is recognized and adopted in Wyne hamer v. The People (3 Kernan, 378). See also The Corporation of the Brick Church, &c., v. Mayor (5 Cow., 538, 542); Rosevelt v. Draper (23 N. Y., 318, 325); Commonwealth v. Farmers', &c., Bank (21 Pick., 542-552). Laws similar to our own now exist upon the statute books of the States of Maryland and Pennsylvania. (Pub. Laws of Md., vol. 1, 586; Laws of 1836, chs. 137, 184; Purdon\u2019s Brightley\u2019s Dig. Laws of Penn., 746.)\nSecond. We now pass to a consideration of the objections to this particular statute. That mainly relied upon seems to be, that by proceedings under this law, the city of New York is deprived of its property without its consent, and thus its charter, which is claimed to be a contract within the meaning of the Constitution of the United States, is violated. This objection is untenable.\n1. \u201c The principle that when a statute confers a right, and prescribes adequate means for protecting it, the proprietor (i. &., claimant) is confined to the statutory remedy, is conformable to the manifest intention of the legislature in such case, and has, therefore, been properly settled in the courts of England and in this country.\u201d (Strong, J., giving the opinion of the court, Dudley v. Mahew, 3 Comst., 15.) Savage, Ch. J., in McKeon v. Caherly (3 Wend., 495), says, giving the opinion of the court, \u201c The statute remedy must be pursued in form as well as substance.\u201d (See also Smith v. Lockwood, 13 Barb. S. C., 209, 216; Almy v. Harris, 5 Johns., 175, 176; Renwick v. Morris, 7 Hill, 575; Durant v. Supervisors of Albany, 26 Wend., 66; Smith v. Drew, 5 Mass., 514; Gedney v. Inhabitants of Tewksbury, 3 id., 307; Smith\u2019s Com., 596; Dwarris on Stat., 662 (6 Law Lib., 23); Bacon\u2019s Abridg., Tit. Stat., B.) The \u201cBiot Act\u201d gives a remedy which did not before exist, and prescribes the mode of enforcing it, namely, by an action to be prosecuted to final judgment, according to the usual mode of prosecuting suits. It then provides only one way of obtaining the payment on that judgment; the plaintiff is required to file with the treasurer of the city or county a certified copy of his judgment roll, and upon that the fiscal officer is required to satisfy the demand.\nIf payment is refused, resort must then be had to a mandamus, and any legal reason for non-payment could be urged on that application; if that failed, the legislature would then provide, by authorized taxation, for the payment of the claim. This would be within the principle decided in The Town of Guilford v. The Supervisors of Chenango County (13 N. Y., 143), and The People v. The Mapor (4 id., 419).\nIf this construction will relieve the statute from the objection now urged, the court is bound to adopt it. (French v. Kirkland, 1 Paige Ch., 117; Quackenbush v. Danks, 1 Denio, 128.)\n\u2022 2. But assuming that the treasurer were to pay these claims on presentation, would that expose this statute to the objection that it deprives persons of property without due process of law ? Clearly it would not. The money in the hands of the treasurer, no matter whether from rents or taxes, either of a city or a county, is public money placed in his hands for public purposes\u2014purposes defined and to bq defined by the legislature of the State, or by subordinate quasi legislative bodies, acting under a power delegated by the State. The tax payers of a county, the citizens of a city, have no- legal or equitable interest in these funds. (Draper v. Roosevelt, 23 N. Y., 318; Doolittle v. The Supervisors of Broome Co., 18 id., 155; People v. Kerr, 37 Barb. S. C., 391, per Welles, J.; People v. Draper, 15 N. Y., 532, 556, per Shankland, J.)\n3. The main argument against this statute rests upon the proposition that the rights, franchises and property vested in the corporation of the city of Hew York, are held by the same tenure as the property vested in individuals and private corporations. We contend that the legal being, known as \u201c The Mayor, Aldermen and Commonalty of the city of Hew York,\u201d is, in all its elements, rights and properties, a public, municipal corporation; that it has no existence whatever in any other capacity, and that every dollar of its property is public property. We do not contend that the legislature would have the right to appropriate that property for public purposes in the city of Buffalo, for instance, but that it has the right to do precisely that in the city of New York, if it seems to be wise.\nThe authorities relied upon by the defendants do not sustain the claim. No such point was presented for consideration in Bailey v. The Mayor (3 Hill, 531); nor does any case cited in the opinion of the court, sanction the notion now urged. Of the remaining authorities, Britton v. The Mayor (21 How. Pr., 251), People v. Edmonds (15 Barb. S. C., 529), Baker v. The Mayor (9 Abb. Pr., 821), Halstead v. The Mayor (3 Comst., 430), Taylor v. Porter (4 Hill, 140), do not, in any aspect in which they can be considered, apply to this case; and Benson v. The Mayor (10 Barb. S. C. 223), and Green v. The Mayor (5 Abb. Pr., 503), are not authorities in this court. The case of Atkyns v. Randolph (31 Vt., 226), clearly, is not law, and is demonstrated to be erroneous in the dissenting opinion in that case.\nIn the Dartmouth College Case (Farrar\u2019s Report), the main question discussed was, whether Dartmouth College was a public or private corporation (pp. 41,181). And the opinion of the Supreme Court of New Hampshire (pp. 212-215) proceeds distinctly upon the ground that the college was a public corporation, and the legislation of the State was upheld solely upon that ground. In the national tribunal it was conceded by the counsel for the college that if the institution was a public corporation, the legislation was valid; and the main argument, as in the court below, was upon that point (Argument of Hr. Webster, 247; Hr. Wirt, 280; Hr. Hopkinson, 295-298, especially 297); and the decision of the State court was overruled expressly upon the ground that Dartmouth College was a private corporation. (Harshall, Oh. J., giving the opinion of the court, 319; Washington, J., 335, 336; Story, J., 352.) The distinction between the two classes of corporations is clearly defined and acknowledged by the Supreme Court. Harshall, Ch. J., says (id., 310): \u201cIf the act of incorporation be a grant of political power, if it create a civil institution, to be employed in the administration of the government, or if the funds of the college be yublic property, or if the State of Hew Hampshire, as a government, be alone interested in its transactions, the subject is one on which the legislature of the State may act according to its own judgment, unrestrained by any limitation of its power imposed by the Constitution of the United States.\u201d Washington, J. (p. 335): \u201c It would seem reasonable that such a corporation (i. e., public), the mere creature of public institution, created exclusively for public advantage, without other endowments than such as the king or government may bestow upon it, may be controlled, and its constitution altered or amended by the government in such a manner as the public interest may require. Such legislative interferences cannot be said to impair the contract by which the corporation was formed, because there is, in reality, but one party to it.\u201d (See also Territ v. Taylor, 3 Conn., 254 (9 Cranch), opinion of the Court by Story, J., 262; 1 Swift\u2019s Dig., 228; Jackson v. Nestles, 3 Johns., 114, argument of Mr. Emmet, 128.)\nIf, then, the Dartmouth College Case is law, there can be no doubt as to the right of the legislature to appoint the public uses to which the property of this public corporation shall be applied. Certainly this court is not, while recognizing its authority, disposed to apply that decision to any charters which it does not, taken strictly, cover. That is clearly shown in the case of The Chenango Bridge Co. v. The Binghamton Bridge Co. (26 How. Pr., 124-297, per Denio, Ch. J., 310; E. Darwin Smith, 126; Wright, J., rendering the opinion of the court, 138.)\n\u201c Corporate bodies,\u201d says Mackintosh (Works, page 564, note), \u201care instruments fabricated by the legislator for a specific purpose, which ought to be preserved while they are beneficial, amended when they are impaired, and rejected when they become useless or injurious.\u201d There are two distinct classes of lay corporations, public and private; and their powers, duties and rights, rest upon distinct foundations ; each is created for a distinct purpose. The difference between them \u2014 the specific ^purpose in the institution of each, is clearly pointed out in the early case of Phillips v. Bury (7 T. R., 346, by Holt, Ch. J., 352; see, also, Stephens\u2019 Com., vol. 3, p. 188, where the distinction between the two is plainly marked, and the purposes for which this class of corporations are created, clearly specified. See, also, Angell & Ames on Corporations, \u00a7 14; King v. Passmore (3 T. R., 119, per Ashurst, J., 242, Buller, J., 246, Grose, J., 248).\nWhat, then, is the corporation of the city of New York? Nothing but a trustee, created for a specific and defined purpose, with no powers and no rights but in the execution of its trusts. It was created for public purposes only, and in the execution, by the sovereign power, of the great trusts of government. To it a part of those trusts is delegated, and for its use of those delegated powers and privileges, of whatever nature and character, it is accountable to the sovereign. All the corporation can claim, as against the State, is, that the property, of which it is but a trustee, shall be appropriated for the purposes of good government\u2014those purposes for which it was originally vested in the corporation. Are those purposes to be judged of and determined by the corporation alone, the creature, or are they to be defined and specified by the supreme power? Clearly by the latter, whenever, in legislative wisdom, it is deemed fit to exercise the right. The mode in which it shall perform its functions, the burdens it shall bear, and the duties it shall perform, are matters entirely within the acknowledged scone of legislative action. Is it to be laid down as law, that the supreme power of the State, having created a municipal corporation, for a particular and well known public purpose, and bestowed upon it a portion of its own property, to be used and employed in the execution of that purpose, the corporation thereupon becomes the absolute owner of that property? Quite the contrary. This corporation is no more the absolute owner of this property than is any other servant of the State. They are invested with the control and use of it for specific purposes, and for none other; and so with all municipal corporations; the main indicia of absolute ownership are wanting. These municipal corporations are endowed, for the benefit of the State, with a portion of the public property, by the State itself; true, immediately for the benefit of the people dwelling within the corporation limits; but mediately, and no less truly, for the benefit of all the people of the State. It cannot, therefore, be disputed that the corporation of the city of Hew York holds its rights and franchises as a trustee for the people of the whole State, and so our courts have held in several instances. In regard to the streets of the city, The People v. Kerr (37 Barb. S. C., 357, per Welles, J., 391); Milhau v. Sharp (in the Court of Appeals, opinion by Selden, J., Daily Tribune, 21st March, 1864, in the matter of police powers); The People v. Draper (15 N. Y., 532); also, opinion of Shankland, J., 556; in regard to fires, Valentine\u2019s Laws, 450; Laws of 1806, ch. 126; 17 Wend., 285; 20 id., 129; 25 id., 126; 21 Denio, 461; and generally, to the same effect, Grant on Corporations, 136/ 137; 64 Law Lib., H. S., 146, and notes. The whole reasoning upon this point is succinctly presented by Angel\u00ed & Ames, in their treatise on Corporations, now the recognized authority on that subject, at section 31. See also, Washington, J., in Dartmouth College Case (supra); McKim v. O'Dorn (3 Bland Md. Ch., 417).\nWhat is the argument by which the claim we are now combating is sought to be supported? This, and nothing but this: that the sovereign creates a public corporation, with power to execute none but public governmental purposes; and to secure the complete fulfillment of those purposes, endows it with public property, the property of the sovereign, and yet, by these very acts, creates a private corporation of private property, and utterly beyond the control of the sovereign.\nWe, therefore, claim that the statute does not impair the obligation of any contract, for there is no contract within the meaning of the Constitution; that it does not take private property, for there is no private property vested in the city of Hew York; that, conceding all the appellants claim, in respect to the manner of obtaining a payment of these judgments recovered under it, the legislature has' only designated the specific public purpose in New York, to which certain public property situated therein should be applied, and that this has been done in fulfillment of the trusts reposed alike in it and in the corporation.\n4. We think it has been clearly shown that the legislature has enacted this law in the plain exercise of the duties of the State government.. We now go one step further, and say that there is no specific provision of the Oonstitution forbidding the passage of an act like this, imposing an additional burden and charge upon the municipal corporations and counties of the State, and without such provision their power is unlimited. (People v. Merrell, 21 Wend., 536; Legget v. Hunter, 19 N. Y., 445-463; Livingston v. Van Ingen, 9 Johns., 507-575; Dash v. Van Kleeck, 7 Johns., 477-492; Bank of Chenango v. Brown, 26 N. Y., 467.) The collateral effects of the law do not render it invalid. (Wright, J., in Legal Tender Case, p. 87 of Opinions; Wynehamer v. People, 3 Kern., 378, 400, per Comstock, J.; Varick v. Smith, 5 Paige Ch., 137, 160; Vanderbilt v. Adams, 7 Cow., 349, 350; Charles River Bridge Co. v. Warren, 11 Peters, 592; The Chenango Bridge Co. v. The Binghamton Bridge Co. (supra); Ervin's Appeal, 16 Penn. St., 256, 268; Stone v. The Mayor, 25 Wend., 181.)"
+  },
+  "file_name": "0164-01",
+  "first_page_order": 164,
+  "last_page_order": 209
+}

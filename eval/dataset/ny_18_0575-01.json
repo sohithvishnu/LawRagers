@@ -1,0 +1,215 @@
+{
+  "id": 2021229,
+  "name": "Mickles v. Townsend et al.",
+  "name_abbreviation": "Mickles v. Townsend",
+  "decision_date": "1859-03",
+  "docket_number": "",
+  "first_page": "575",
+  "last_page": "585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 N.Y. 575"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Sandf, 325",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1360210
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/4/0325-01"
+      ]
+    },
+    {
+      "cite": "14 Wend., 233",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017122
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/14/0233-01"
+      ]
+    },
+    {
+      "cite": "2 Denio, 9",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186109
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/2/0009-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. Ch. Rep., 528",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1997934
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb-ch/3/0528-01"
+      ]
+    },
+    {
+      "cite": "9 Wend., 209",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011097,
+        2011173
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/9/0209-01",
+        "/wend/9/0209-02"
+      ]
+    },
+    {
+      "cite": "2 Cow., 246",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2161466
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/2/0246-01"
+      ]
+    },
+    {
+      "cite": "4 Wend., 360",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005511
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0360-01"
+      ]
+    },
+    {
+      "cite": "16 Mass., 24",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035187
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/16/0020-01"
+      ]
+    },
+    {
+      "cite": "3 Cow., 151",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2157941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/3/0151-01"
+      ]
+    },
+    {
+      "cite": "2 John., 186",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6772462
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/2/0185-02"
+      ]
+    },
+    {
+      "cite": "22 Verm., 262",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        735615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/22/0262-01"
+      ]
+    },
+    {
+      "cite": "2 Cow., 195",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2161443
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/2/0195-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 877,
+    "char_count": 20694,
+    "ocr_confidence": 0.579,
+    "pagerank": {
+      "raw": 8.552705594101781e-07,
+      "percentile": 0.9766685239178037
+    },
+    "sha256": "172328f39d877e957e550c7ac5fab804426bd0dede8be8a4ee096989fae859eb",
+    "simhash": "1:fdb3766cf149f8df",
+    "word_count": 3654
+  },
+  "last_updated": "2024-02-27T22:36:09.220622+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mickles v. Townsend et al."
+    ],
+    "opinions": [
+      {
+        "text": "S. B. Strong, J.\nThe principle is well established, that where one grants land to another, with the covenants contained in the deed from Philo D. Mickles to the plaintiff, he is bound to make the title perfect, so far as it may be in his power to do so. If, therefore, the vendor subsequently acquires any interest in the land, such acquisition enures to the benefit of the grantee, not simply by way of estoppel against the grantor or his privies, but, if necessary, as a positive confirmation of his title. The vendor is presumed to have made his subsequent purchase for the purpose of dischaiging a duty which he owes to the vendee, to perfect his title; and the law applies it accordingly. The presumption cannot be controverted. It was contended by the counsel for the defendants, however, that the rule was inapplicable to the assignment of a mortgage to a vendor with warranty, inasmuch as that instrument does not convey a title to real estate, but is simply a security for the payment of a debt, or the discharge of some personal obligation. But it is, nevertheless, a lien upon the land, and the vendor is as much bound to relieve it from an incumbrance as from any positive defect in the title. The same principle would, therefore, by its own efficacy, transfer the mortgage to the vendee, or operate as an extinguishment of the lien, so far as it might be for his benefit, but no further. The mortgage debt, of course, would not pass; but the debt and the security are not absolutely inseparable. If the debt is paid, the mortgage is gone ; but the security may be released, and the debt remain. If the mortgagor retains the equity of redemption, then it would be necessary that the assignor should retain his interest in the mortgage in order to foreclose it and thus obtain the title of the mortgagor; and that the vendee of the real estate from the assignor could not do, because the law would not transfer the debt to him with the virtual transfer of the mortgage. Then the right to the mortgage would not pass, nor would that instrument be extinguished, because in neither case would the title be fortified.- But it is otherwise when, as in this case, the equity of redemption has passed from the mortgagor to the vendee. Then) if the mortgage should be foreclosed, or retained as an incumbrance, it would prejudice the guaranteed title. The assignee would unquestionably be precluded from doing either. But it is said that the assignee might foreclose and purchase the mortgaged premises, and then his acquired title would enure to the benefit of his vendee. The law does not require such circuity, but prefers a direct result, where that can be obtained. The decision of the points necessarily involved in the case of Wilson v. Troup (2 Cow., 195), is not at variance with these principles. 'There the mortgagee gave deeds, with warranty, of a portion of the mortgaged lands, the equity of redemption in the whole being still in the mortgagor. It was decided by the \u00a1Court for the Correction of Errors, that the power of sale was a unit, and could not be divided; that it was necessary that the mortgage should remain the property of the mortgagee, in order that he might foreclose it upon the portions of the premises which he had not attempted to convey, for his own benefit, and upon the residue, and purchase that to relieve it from the equity of redemption for the benefit of Iris vendees, as the title which he would thus acquire would protect their estate. In that case, the mortgagor was the owner of the land, and could be divested(of his title only by a foreclosure. In this case, as the vendor was the actual owner when he conveyed the land to the- plaintiff, a foreclosure was unnecessary, and would, indeed, have operated to the injury of the vendee. Mr. Van Bur\u00e9n, in his argument m favor of the retention of the right to the mortgage, notwithstanding the grant of a portion of the mortgaged premises, puts it on the ground that a foreclosure would protect the grantees, and avoid any objection from all quarters. He admits the rule to be, that \u201cwhenever a subsequent exercise of a power by the donee will defeat his previous grant, then it shall be holden inoperative, or to have been taken away by the first act.\u201d \u201cThus,\u201d he says, further, \u201c the construction of these powers depends upon the object to be promoted. The principle is the safety of the grantee'' These admissions, by one so eminent in the legal profession, being, as they were, against the claims of his clients in that case, are very high authority. Judge Sutherland, in giving his opinion in that case, said: \u201c I have already shown that the purchase by Col. Troup (the mortgagee, who had made the conveyances with warranty, and had subsequently foreclosed the mortgage and become the purchaser) enured to the benefit of the grantees of the mortgagee, so far as it was hostile to those grants. So far as they had any interest in the mortgaged premises, they may be considered as assignees of the mortgagee, and the purchase by him was for their benefit and account.\u201d As they were interested in a part only of the mortgaged premises, they could only have been deemed assignees pro tanto, whereas, if they had purchased the whole, they would, from a parity of reason, have been assignees of the entire security. That would be a case where it would be necessary to retain the mortgage separate from the title to the land, in order to foreclose the equity of redemption. Where, however, that was unnecessary, the lien might well be considered as merged in the higher title, and thereby in effect extinguished. If it was .extinguished, it could never be revived in favor of a subsequent assignee or purchaser.\nIf, however, there was in this case only an estoppel, the subsequent assignee took it, subject to all the existing equi* ties between his immediate assignor and the owner of the equity of redemption. It matters not whether such owner was the mortgagor or one who had succeeded to his rights, by one or through several conveyances. In the case of Davies v. Austen (1 Ves., Jr., 247), Lord Chancellor Thurlow said, that \u201c a purchaser of a chose in action must always abide by the case of the person from whom he buys; that I talce to he awiiversal rule.\u201d So in Coles v. Jones (2 Ver., 692), Lord IIarcourt said, that although the assignee comes in upon a full and valuable consideration, yet he must take the land, subject to the same equity, as it was in the obligee\u2019s hands. It is very clear, that where a mortgage is assigned without the privity of the mortgagor, the assignee takes it, subject to the equities between the mortgagor and mortgagee. It was so decided by Lord Loughborough, in Matthews v. Wallwyn (4 Ves., Jr., 118). An exception has been made, in some modern cases\u201d, of what is denominated a latent equity. It is not clearly defined what a latent equity may be, and until it shall be, what constitutes an exception to a general and well established rule, should be admitted with great caution. In the case of an assignment of a mortgage, the assignee always takes it subject to the equities between the mortgagor and the assignor. That is considered as a patent equity, because the assignor can always satisfy himself by inquiry of the mortgagor. But it may be otherwise as to the equity between the assignor and some third person; that is, if S'jch equity is unknown to the assignee, and there is not enough to put a man of ordinary prudence on inquiry. But it seems to me that the owner, under a title immediately or mediately from the mortgagor, is to a great extent substituted for him, and succeeds to his rights. The mortgage is a lien upon his property, and he i$ interested, and often the .person the most interested, as to the extent of the incumbrance. He is the -person of whom inquiry should be made; and if an intended assignee omits to make inquiry of him, it is no reason why he should suffer. He is generally known ; but how is he to ascertain that an assignment is proposed, or to whom ? and how can he give notice to an unknown person of the existence or extent of his equities ? In the case of a secret owner, who should be out of possession, it might be different. But there are few such now, as deeds are generally promptly recorded. They were so in this case; and, what is still more important, the assignee knew that the plaintiff was the owner of the land, or had been so recently as to call for inquiry when the assignment was executed, as he then held a mortgage from the plaintiff on the same premises. If he had made any inquiry of the plaintiff, or examined the record as to his title, he would have ascertained the true state of the affair, and could have acted accordingly. Surely the plaintiff ought not to be held responsible for the omission. If he had known of the intended purchase, and remained silent as to his rights, that might have presented another question.\nTh'ere can be no doubt but that the defendants Wheaton Robinson and Dillaye, made their purchases, and the Bank took its mortgage, in good faith; but that cannot help them if the mortgage, under which they claim title or lien, was inoperative in the hands of the defendant Townsend. Surely it cannot be necessary that one, in order to avail himself of an equitable estoppel to sustain his title to his property, should give notice of it to the whole world, in order to prevent some stranger from depriving him of it by becoming an innocent purchaser.\nThe judgment must be affirmed.\nDenio, J.\nI do not perceive that the cases which have been referred to upon the effect of covenants not to sue have any direct bearing upon the present case. The plaintiff was under no personal liability to pay the monejr secured by the mortgage upon the premises purchased by him. Fitch was the only person bound to pay that money, and nothing which has been done by the several parties deriving titles under him has at all affected his liability. If the lieu against the lot has been extinguished so that it cannot now be enforced against the plaintiff's interest, it is on account of the dealings of the parties with the land, and not with the personal contract. The case in the Vermont Reports, which has been urged upon us as a controlling authority, appears to me to have been decided upon other grounds altogether. (Proctor v. Thrall, 22 Verm., 262.) For the cases upon covenants not to sue, see Cuyler v. Cuyler (2 John., 186); Phelps v. Johnson (8 id., 54); Clark v. Bush (3 Cow., 151); Sewall v. Sparrow (16 Mass., 24); Brown v. Williams (4 Wend., 360).\nThe doctrine of merger is equally inapplicable. Merger, in its relation to real estate, occurs where the legal and equitable estates are united. In such cases the equitable estate is merged in the legal title and is extinguished at law, and generally in equity also, by the unity of seisin. But in this case there was no union -of the equity of redemption and of the estate mortgaged, in Philo D. Mickles. He had parted with the equity of redemption long before he purchased the mortgage. He had also, before that time, assigned the mortgage of the equity of redemption, which he took back when he conveyed to the plaintiff. So there was nothing upon which to predicate the idea of merger. But if this were otherwise, and if P. D. Mickles had retained the equity of redemption until he had purchased the mortgage, it would, in the view of a court of equity, depend upon his intention, when he did the latter act, whether the mortgage should be considered extinguished. By taking an assignment from Hall, instead of a satisfaction, and especially by selling and assigning the mortgage to Townsend for a valuable consideration as an existing security, he sufficiently manifested an intention not to extinguish it, according to the case of James v. Morey (2 Cow., 246).\nBut there is another principle which is, I think, fatal to the validity of the mortgage. It is the doctrine of estoppel by deed. It is a rule of the common law, that if a grantor without title convey lands with warranty, and afterwards acquire title, it immediately vests in the grantee by estoppel In section 446 of Littleton's Tenures, the writer, in speaking of the effect of a release, says: \u201c If there be father and son, and the father be disseised, and the son (living the father) releaseth by his deed to the disseisor all the right which he hath or may have in the same tenements, without clause o\u00ed warranty, &e., and after the father dieth, &c., the son may lawfully enter upon the possession of the disseisor, for that he had no right in the land in his father\u2019s life, but the right descended to him, after release made, by the death of his father, &c.\u201d Coke, in commenting upon this, taking the words \" without clause of warranty\" as his text, remarks: \u201cFor if there be a warranty annexed to the release the son shall be barred. For, albeit the release cannot bar the right for the cause aforesaid, yet the warranty may rebut and bar him and his heirs of the future right which was vested in him at that time; and the reason (which is in all cases to be sought out) wherefore a warranty, being a covenant real, should bar a future right, is for avoiding circuity of action (which is not favored in law); as he that made the warranty should recover the land against the terre-tenant, and he, by force of the warranty to have as much in value against the same person.\u201d (Co. Litt., 265, a.) And in another place, speaking of the parties who may avail themselves of an estoppel, he says: \u201c Privies in blood, as the heir; privies in estate, as the feoffee, lessee, &c.; privies in law, comprehending those who come in by act of law or in the post, shall be bound by and take advantage of an estoppel.\u201d (Id., 352, a.) The courts of this State have constantly affirmed this principle and have applied it in a great variety of cases. (Van Horne v. Crain, 1 Paige, 455; Kellogg v. Wood, 4 id., 578; Jackson v. Parkhurst, 9 Wend., 209; The Bank of Utica v. Mersereau, 3 Barb. Ch. Rep., 528, 567 ; Jackson v. Bull, 1 John. Ca., 81; Jackson v. Murray, 12 John. R., 201; Jackson v. Stevens, 13 id., 316; Vanderheyden v. Crandall, 2 Denio, 9, and cases referred to by Beardsley, J., at p. 25.) An estoppel created by a warranty runs with the land and binds the privies, both of the grantor and the grantee. It operates upon the title so as actually to alter the interest in it. (Bank of Utica v. Mersereau, supra.) Therefore, Townsend, who derived his title from P. D. Mickles, was as much bound by the warranty as Mickles was. If the plaintiff had conveyed, his grantee would have been entitled to the benefit of the estoppel.\nThe answer given by the defendants\u2019 counsel to this view of the case was, that the mortgage was not a title to the land, but a mere chattel interest, and that the rule relied upon did not apply. For some, and indeed for most purposes, the mortgagor is considered seised, and the mortgagee has a mere lien. Still, as between mortgagor and mortgagee, the title is considered as passing by the mortgage for many purposes. Before the Revised Statutes, the mortgagee could maintain ejectment after forfeiture; and now, if he gets into possession he may defend himself upon the title conveyed by it. (Van Duyne v. Thayre, 14 Wend., 233; Phyfe v. Riley, 15 id., 248 ; Watson v. Spence, 20 id., 260 ; Fox v. Lipe, 24 id., 164; 2 Sandf, 325.) I am of opinion that, for the purpose of applying the doctrine of estoppel, the mortgagor is to be considered as having an equity of redemption only, the fee being in the mortgagee ; and that in this case the purchase by P. D. Mickles of the mortgage inured to the benefit of the plaintiff in the same manner that a release by the mortgagee would have done.\nIt is, therefore, unnecessary to inquire, whether Townsend, or any of the persons claiming under him, had notice of the conveyance to the plaintiff. It is not an equity residing in the plaintiff, which the defendants seek to avoid. If the assignment of the mortgage to P. D. Mickles operated in the way I have supposed, when he attempted to assign that mortgage to Townsend the plaintiff was seised of the whole legal and equitable title to the premises, subject only to the mortgage he had himself given, and which was already in the hands of Townsend.\nI am in favor of affirming the judgment of the Supreme Court.\nJohnson, Ch. J., Allen, Gray and Grover, Js., concurred ; Comstock, J. (who had been of counsel), and Sel den, J., took no part in the decision.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "S. B. Strong, J. Denio, J."
+      }
+    ],
+    "attorneys": [
+      "Le Roy Morgan, for the appellants.",
+      "B. D. Noxcn, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Mickles v. Townsend et al.\nThe grantor with warranty, of the equity of redemption in land mortgaged by a prior owner, becoming the assignee of the mortgage, takes it for the benefit of his grantee, and the lien is discharged and extinguished.\nUpon a subsequent assignment of the mortgage by the grantor to a purchaser, the latter takes it subject to all equities between his assignor and the grantee deriving title under the mortgagor, and acquires no lien upon the land.\nThe purchaser of a mortgage is bound to ascertain the equities of the grantee, mediate or immediate, of the mortgagor, as against the mortgagee or his assigns, if such grantee be in possession or his deed is recorded.\nAppeal from the Supreme Court. The action was brought to procure a judgment declaring a certain mortgage, which would otherwise be a lien upon the plaintiff\u2019s premises, extinguished; or, in case it should be held to be on foot, that the plaintiff should be allowed to redeem. The mortgage was executed by George S. Fitch to David Hall on the 4th day of February, 1836, upon a lot at Syracuse, to secure $4,000, purchase money of the premises, and was recorded the next day. Hall assigned the mortgage to Philo D. Mickles, who in the meantime had bought and sold the mortgaged premises, on the 23d September, 1843. On the sixth day of November, in the same year, P. D. Mickles assigned the same to John Townsend, and covenanted that there was due thereon $1,374.47. Townsend foreclosed the mortgage by advertisement, and the premises were sold pursuant thereto on the 23d September, 1856, to Charles A. Wheaton, for $1,750. The plaintiff, who was then the owner of the equity of redemption, if the mortgage remained in force, was not served with notice. Wheaton, assuming and believing himself to be the owner of the lot under his purchase, went into possession, and he conveyed it to Robinson, with a covenant of warranty, on the 19th day of December, 1846, and Robinson conveyed it, with warranty, to Dillaye in November, 1852, and the latter afterwards mortgaged it to the Syracuse City Bank. These parties were all defendants in the action. Shortly before the commencement of this suit Dillaye and the other parties interested with him again advertised the premises for sale under the mortgage, and caused notice to be served upon the plaintiff pursuant to the statute, which proceedings were arrested by the prosecution of this action. The plaintiff claimed that the mortgage became extinguished by the aforesaid assignment thereof to P. D. Mickles, under the circumstances hereafter mentioned. Before such assignment, Fitch, the mortgagor, together with his wife, conveyed the premises, by warranty deed, dated March 28th, 1840, to P. D. Mickles, and the latter, by a like deed, dated September 23d, 1840, conveyed them to the plaintiff. The last-mentioned deed was expressed to be in consideration of $4,000. And on the day on which it was delivered, which was the eighth day of March, 1841, the plaintiff gave back a mortgage to P. D. Mickles, conditioned for the payment of $2,000, in four annual installments. The two last-mentioned deeds and the last-mentioned mortgage were recorded. P. D. Mickles, on the 1st day of April, 1841, assigned the plaintiff\u2019s mortgage to Townsend, and he subsequently assigned the same to Charles A. Wheaton.\nThe case was tried before Philo Gridley as a referee. He found the foregoing facts, and decided that the first-men tioned mortgage was extinguished by the assignment thereof to P. D. Mickles, for the reason that he had before that time conveyed the mortgaged premises, with warranty, to the plaintiff. Judgment was rendered accordingly. It declared the mortgage, and the several titles assumed to have been acquired under it, null and void; directed such of the defendants as might be in possession to deliver that possession to the plaintiff, and that their tenants should' attorn to him. No costs were awarded to either party against the other. The judgment was affirmed at general term in the fifth district, and the defendants appealed to this court.\nLe Roy Morgan, for the appellants.\nB. D. Noxcn, for the respondent."
+  },
+  "file_name": "0575-01",
+  "first_page_order": 579,
+  "last_page_order": 589
+}

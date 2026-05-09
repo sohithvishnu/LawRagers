@@ -1,0 +1,332 @@
+{
+  "id": 503126,
+  "name": "Adeline C. Lee, Appellant, v. The Village of Sandy Hill, Respondent",
+  "name_abbreviation": "Lee v. Village of Sandy Hill",
+  "decision_date": "1869-06-12",
+  "docket_number": "",
+  "first_page": "442",
+  "last_page": "456",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "40 N.Y. 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "24 N. Y., 196",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029517
+      ],
+      "pin_cites": [
+        {
+          "page": "213, 214"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0196-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y., 161",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Barb., 27",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937844
+      ],
+      "pin_cites": [
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0027-01"
+      ]
+    },
+    {
+      "cite": "19 Pick., 511",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2037735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/36/0511-01"
+      ]
+    },
+    {
+      "cite": "21 How., 210",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Duer, 406",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1326252
+      ],
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/10/0406-01"
+      ]
+    },
+    {
+      "cite": "5 Barb., 79",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778495
+      ],
+      "pin_cites": [
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/5/0079-01"
+      ]
+    },
+    {
+      "cite": "22 Conn., 530",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        438334
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/22/0530-01"
+      ]
+    },
+    {
+      "cite": "5 Ind., 250",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1448405
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/5/0250-01"
+      ]
+    },
+    {
+      "cite": "12 Barb., 196",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937881
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0196-01"
+      ]
+    },
+    {
+      "cite": "38 Barb., 124",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5098282
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/38/0124-01"
+      ]
+    },
+    {
+      "cite": "4 Gray, 464",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Serg. & R, 94",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8877685
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/9/0094-01"
+      ]
+    },
+    {
+      "cite": "7 Cow., 484",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0483-01"
+      ]
+    },
+    {
+      "cite": "3 Barb., 42",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8592148
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0042-01"
+      ]
+    },
+    {
+      "cite": "18 Wend., 9",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2022082
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/18/0009-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 170",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hill, 629",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        11255711
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/20/0629-01"
+      ]
+    },
+    {
+      "cite": "15 N. Y., 512",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2018082
+      ],
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/15/0512-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y., 343",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Denio, 433",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186099
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/2/0433-01"
+      ]
+    },
+    {
+      "cite": "13 W. R., 518",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1265,
+    "char_count": 32445,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 1.7231643533006425e-06,
+      "percentile": 0.993527421868997
+    },
+    "sha256": "fea226c681556b94c641f029365330789b6a6c2a37294e5a08fdf893cecae953",
+    "simhash": "1:b426d965a82dae9b",
+    "word_count": 5888
+  },
+  "last_updated": "2024-02-27T21:21:09.663695+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adeline C. Lee, Appellant, v. The Village of Sandy Hill, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Mason, J.\nThe doctrine is too well settled in this court to admit of discussion, that municipal corporations, like the defendant, are liable in trespass for the illegal acts of its officers. (Conrad v. The Trustees of the Village of Ithaca, 16 N. Y. R., 162; Howell and others v. The City of Buffalo, 15 N. Y. R., 512; Hickox v. The Trustees of the Village of Plattsburgh, 16 N. Y. R., 161, note; Weet v. The Trustees of the Village of Brockport, 16 N. Y. R., 161; Stores v. The City of Utica, 17 N. Y. R., 104.) The rule is laid down in Angel and Ames, generally, that as natural persons are liable for the wrongful acts and neglects of their servants and agents done in the course and within the scope of their employment, so are corporations upon the same grounds, in the same manner, and to the same extent. (Page 302, \u00a7 10, 3d ed.) It is not very important in this case to determine whether the trustees in this case acted as mere agents of this corporation, or whether their acts are to be regarded as the acts of the corporation, performed by the principal managing officers of the corporation'; for in either view of the case, the defendants are liable for their acts in causing the fence in question to be torn down and removed. We will consider the case, in the first place, upon the supposition that in regard to the duties devolved upon the trustees as to the highway or streets \"within the coiporation, they act as the mere agents of the corporation; and it cannot be denied upon the decisions in this court, that to this extent it is settled that they do act for the corporation, and that the corporation is liable for their acts to the extent of the rule governing principal and general agent.\nThe principal is liable in a civil suit, to third persons, for the frauds, deceits, concealments, misrepresentations, torts, negligences and other malfeasances and misfeasances of his agent in the course of his employment, although the principal did not authorize, justify, or participate in, or indeed know of such misconduct, or even if he forbade the acts, or disapproved of them. (Story on Agency, \u00a7 452, p. 563.)\nThis rule of liability is not based upon any presumed authority in the agent to do the acts, but upon the ground of public policy, and that it is more reasonable, where one of two innocent j>ersons must suffer from the wrongful act of a third person, that the principal, who has placed the agent in the position of trust and confidence should suffer, than a stranger. (Hern v. Nichols, 1 Salk. R., 289.) I examined This question of the extent of the liability of the principal for the wrongs of the agent, at the last term, in the case of Davis and others v. Bemis (in MS.), and which opinion was apjoroved by the court. All that is necessary to render the principal liable for the malfeasance or torts of the agent is that the tort must be committed in the course of the agency (Story on Agency, \u00a7 456); not that the agency authorized it. or, as it is expressed by Paley, that the employment afforded the means of committing the injury. (Dunlop and Paley, on Agency, 306.) The rule as to the liability of corporations, for the acts of their agents, is stated by Ohief Justice Shaw, in the case of Thayer v. The City of Boston (19 Pick R., 516); as follows: It must appear that they were ' expressly authorized to do the acts, by the city government, or that they were done Iona fide, in pursuance of a general authority to act for the city on the subject to which they relate, &c. This is the precise language in which the rule is laid down in Angel and Ames on Corp., p. 304, \u00a7 10, 3d ed., where the ease of Thayer v. City of Boston, is referred to and approved. This is certainly laying down the rule much narrower than it is held in most of the cases in the books, as between principal and agent generally where the principal has been held liable for the intentional wrongs of the agent, committed in the course of his employment. I do not mean to assert the rule as against municipal corporations broader than it is laid down by Ohief Justice Shaw, in the case referred to, as that will clearly embrace this case. Applying the rule as stated, that it must appear that the act was done by the agents of the corporation, tona fide, in pursuance of a general authority in relation to the subject of it, and I do not see why the defendants are not to be held for the acts of these trustees in this case. By section 2, of the defendants\u2019 charter, it is provided that corporations may exercise such powers as are or shall be conferred by law or by this act, &c.\nThe second section of the charter declares that the officers of the corporation shall be five trustees. The eighth section provides that the trustees of the said village shall be commissioners of highways of the said village, and shall have the same powers, and be subject to the same duties over the roads, streets and alleys of said village, as commissioners of highways in towns. (Laws of 1856, chapter 48); and by chapter 120, of the Laws of 1860, the trustees are authorized to lay out or alter any street or highway through, or upon any garden, or land, or yard, or other lands in said village\nThe undisputed evidence in this case shows beyond cavil, that these trustees, in ordering the removal of this fence, were acting in pursuance of their authority in regard to the streets of the village, and there is no evidence to show that they did not act in good faith; while, on the contrary, it is fairly to be inferred from the evidence that they did so act. Cherry street, the street in question, was only two rods wide, and it seems that the subject of having it a three rod street was brought before the trustees on the petition of B. C. Carey, and a request to have the street widened to three rods; and on the Ith of July, 1862, the trustees passed and recorded a resolution that Cherry street be widened in accordance with the petition of B. 0. Carey and others, and that said street, when widened, be three rods' wide, &c. Ho further action seems to have been taken under this resolution; but on the 6tli Hovember, 1862, the trustees proceeded to make and file an order, as they were authorized under the statute to do, ascertaining, and describing, and entering of record this said street, and in this order they described it as a three rod street. In this they probably committed an error, for although the street was originally dedicated or intended to be dedicated three rods wide, and was actually opened and used to that extent, yet as there was no sufficient acceptance by the corporation or the trustees, the judge, at Special Term, concludes, and rightly, I think, that there was no such dedication before the fence was moved out as that the corporation can hold the street, to the width of three rods. The trustees undoubtedly supposed they could hold it, and were acting colore officii and in good faith, I have do doubt, in giving the order to the overseers to open the street by removing back the fence, so that the street would be three rods wide. It was their duty thus to open the street if their former acts were valid, and it follows upon well settled principles of law that they were acting within the scope of their public duties as trustees, and that the corporation are liable, assuming them to be mere agents of the corporation.\nThe decisions of both the Special and General Term appear to have proceeded upon the rule of law which cannot be applied to the case, that as the act was unlawful and the trustees cannot be justified in the law, that therefore the defendant as principal, is not liable. This, as we have seen, is not the rule of law applicable to such a case as the present. Ho one will pretend that the principal is liable for the willful trespasses of his agent, committed without color of right, or semblance of authority. This case is not of that character, and upon no construction of the evidence, can it be regarded as such. It was the duty of these trustees, if they were right in their conclusion that there had been a dedication of this street to three rods in width, to cause it to be described, entered of record and opened. The most that can be claimed, is that they, while acting within the general scope of their duties, have committed a mistake and done an illegal act. In such a case, the corporation is liable. There is another view which may be taken of this case, and which is not without authority to support it, which renders the defendants\u2019 liability equally clear. The only officers who can act for, and who represent this corporation as we have seen, are these trustees. It was said by Judge Selden, in delivering the opinion of this court, in the case of Perkins v. N. Y. Central R. R. Co. (24 N. Y. R., 213), that a. distinction is no doubt to be made .between the directors or managing officers of a corporation and its subordinate agents. As the former exercise all the powers of the corporation and are its only direct medium of communication with outside parties, they must, in respect to all external relations, be considered as identical with the corporation itself.\nHe says, in considering this very question, in the case of West v. The Trustees of the Village of Brockport (16 N. Y. R. R., 170), and which was adopted as the opinion of the court, in the case o\u00a3 Hickox v. The Trustees of the Village of Plattsburgh (16 N. Y. R., 161), that there can be no doubt that the powers conferred upon the trustees devolve upon the corporation. That on all charters, creating corporations, powers conferred upon those who stand in the place of, and represent the corporative body, are deemed to be conferred upon, the corporation itself. And that the defendants are to be treated as invested in their corporate capacity, with all the powers of commissioners of highways, over the roads and streets of then.\u2019 village. These views, if sound, and it seems, to me they are, leave no doubt as to the defendants\u2019 liability. It has been held in several cases in this court, that these duties in regard to the streets, which are nominally upon the trustees, rest upon the corporation, and that the corporation is liable for any misfeasances of the trustees in regard thereto. The trustees are the managing officers of the corporation, and they alone can exercise the powers of the corporation. They represent and speak, and act for it, and their acts in the case under consideration must be regarded as the act of the corporation. Herein lies the error in the opinion of the court below. It is, if I properly appreciate the argument, that this is not to be regarded as the act of the corporation because it Avas an unauthorized actan act which the corporation had no right to do, and that it shall not be deemed the act of the corporation, although done by the managers, \u2019 who are the proper representatives of the corporation. This will hardly do, as it would, carried to its legitimate result, always excuse . the corporation. The act, if an authorized one, woffid certainly not render them liable, and if an unauthorized one, then it is to be the act of trustees, and not the corporation.\nIt certainly would be difficult to charge a corporation, for a misfeasance under such a rule, as the corporation can only act through some representative, and if it is not liable for the Avrongful acts of its principal rejnesentatives or managers, much less would it be for any act of its subordinate agents.\nThe verdict, in this case should not have been interfered with, and the judgment of the General and Special Terms must be reversed and a new trial granted or judgment rendered for the plaintiff on the verdict. The verdict was not set aside as against evidence, but upon legal grounds solely, and the decision of the General Term is properly reviewable in this court.\nHunt, Oh. J., Woodruff, Grover and Daniels, JJ., concurred.\nLott, J., thought there was a mistrial, and that the court had no power to order a verdict for one party, and, on reserving the case for farther consideration, direct judgment for the other. It could only set aside the verdict and order a new trial, if satisfied, on further consideration, the action could not be maintained.\nJames, J., was for affirmance.\nJudgment reversed, and judgment ordered for the plaintiff upon the verdict.\n\"Note.\u2014The following is that portion, of the opinion of Mason, J., in Davis v. Semis, to which he refers above. The case was decided March 19th, 1869:\nMason, J. The statute declares that every person who shall sign or deliver to any collector a false bill of lading shall pay, on all property omitted in such false bill, treble the tolls usually charged on such property to any collector who shall be satisfied of the omission, for the whole distance such property is conveyed on a canal. (1 Statutes at Large, 241, \u00a7 134.)\nThe judge has found in this case that the plaintiffs did sign and deliver to a collector of canal tolls false bills of lading, and that they were, consequently, liable to pay the treble tolls which were exacted of them by the defendant. This finding must be construed by the light of the evidence in the ease. If it is claimed that the plaintiffs themselves signed such false bills of lading and delivered them to a collector, then the finding is not only without evidence to sustain it, but is, in fact, against all the evidence in the case. The bills of lading themselves show that they were signed by their agents, Oalson and Hawks, and the whole evidence shows that they were presented by these agents themselves to the collector. A finding which is wholly without evidence is subject to review here and will be corrected by this court. This finding should be construed, however, that they signed and delivered these bills of lading by their agents, upon the maxim \u201c \u00a1uifacitper alium facitper se.\u201d It therefore becomes necessary to inquire whether these plaintiffs are responsible for the frauds of these agents in executing these bills of lading and presenting them to the collector and procuring the clearance of the vessel upon them. The judge must certainly have held they were, or he could not have given the judgment he did. There certainly can be no implied authority given them to make out false bihs.\nEvery authority given to an agent to transact business for his principal win, in the absence of any counter proof, be construed to transact the business according to law; for the law will never presume that the parties intended to violate its precepts. (Owing v. Hall, 9 Peters, U. S. R, 607.) The question, however, does not depend so much upon the authority conferred; for it is a general principle of law that the principal is held liable to the public, or third persons in a civil action for the frauds, deceits, concealments, misrepresentations, torts, negligence and other malfeasances in the course of his employment, although the principal did not authorize or justify or participate in it or indeed know of such conduct. (Story on Agency, \u00a7 452, pp. 562-3; Parsons\u2019 Mer. Law, 152.)\nThe rule is based upon the established principle that when one of two innocent persons must suffer by the fraud of a third, he shall bear the loss who enabled the third person to do the injury by giving him credit, and holding him out to the world as his agent. (Dunlop\u2019s Paley on Agency, 303; Hern v. Nichols, 1 Salk. R., 289; Lobdell v. Baker, 1 Metcalf R., 203; Bank of United States v. Bavis, 2 Hill R., 465; North River Bank v. Aymar, 3 Hill R., 268.) . Story says that in every such case the principal holds out his agent as competent and fit to be trusted, and thereby warrants his fidelity and good conduct in all matters within the scope of his agency. (Story on Agency, p. 563, \u00a7 452.) I will only refer to a few of the many adjudged cases in illustration of the rule. The rule has been applied to fraud committed by agents in the sale of negotiable paper. (1 Metcalf R., 193; 2 Hill R., 452; 3 Hill R., 263.) The rule was applied to the sale of a flock of sheep in Jeffrey v. Bigelow (13 W. R., 518), where the only evidence of fraud was mppressio veri in regard to the disease of the sheep. It was applied to false representations made by an agent in the sale of land in the case of Bennett v. Judson (21 N. Y. R, 238). The leading case of Hern v. Nichols (1 Salk. R, 289), is a very strong case in illustration of the rule. That was an action on the case for a deceit in selling silk to the plaintiff as silk of a particular description, and it appeared there was no actual deceit in the defendant, but the deceit was committed by his factor abroad, and the merchant was held liable for the deceit of his foreign agent. The rule was applied to the fraud of an' agent of the corporation in negotiating a lease of a slip, in the case of Sharp v. The Mayor of New York (40 Barb. R, 257), and the corporation was held liable for the fraud of the agent. The case of the Attorney-General v. Sidden (1 Cromp. and Jer. R, 219), is quite in point, and holds the master liable for the fraudulent acts of his servant committed against the revenue laws, and that an information for penalties under the revenue laws was well brought against the master for the frauds of the servant. The following facts appeared in that case: An excise officer, upon making his survey, discovered upon the premises of the defendant a quantity of tobacco, for which he requested to see the permit The servant of the defendant, who managed his business, said that he had a permit and should be able to find it if it were not in the desk, which was locked up.\nIn fact there was no permit for this tobacco, but the servant sent a boy and obtained a permit for the removal of tobacco from the stock of L. & Co. to the stock of the defendant, which he produced to the excise officer as the permit for the removal of the tobacco discovered. The permit was for the removal of a different description of tobacco, and was granted, as appeared by the date, after the discovery was made by the excise officer.\nAt the time of this discovery, the defendant was away from home, and had been absent for some time previous.\nThe charge in the declaration was that the defendant had used and employed a certain permit for another purpose than to accompany the goods for which it had been obtained and granted. For this penalties were claimed. Upon these facts it was contended, that this being in the nature of a criminal proceeding the defendant was not liable for the act of his servant, unless the act was done with his knowledge, and privity of which there was no evidence; but the lord chief baron told the jury that the defendant was liable for the act of his agent in the conduct of his business, and the jury, under direction, found a verdict for the crown; and upon a full and very elaborate argument and consideration, a rule for a new trial was discharged. The court held that the prosecution was a civil suit for the purpose of recovering that which is a debt of the crown, the penalties given by the act. The lord chief baron, in his opinion, after considering the law of the case, said: I think that the doctrine of responsibility applies to this case, and that the demand of the crown would in very few instances be effectuated, if it were understood that the master was not liable for the conduct of his servant. Then a man of straw would be put up, and the real person who was to derive the benefit, and who alone would be effectually subjected to the demand on the part of the crown, would escape. This case is approved by the Supreme Court of Massachusetts in the case, The Commonwealth v. Nichols (10 Metcalf R, 259, 261). This rule of liability is stated by Chief Justice Shaw in Lock v. Stearns (1 Metcalf R, 563), as follows : \u201c That though a principal in general is not liable criminally for the acts of his agent, yet he is criminally liable for the neglect, fraud, deceit, or other wrongful act of his agent in the course of his employment, though in fact the principal did not authorize the practice of such acts, but that the wrongful or unlawful acts must be committed in the course of the agent\u2019s employment. The principal is in some cases liable criminally for the acts of his agent, although done without his knowledge or consent.\nThe book-seller or publisher is held liable to an indictment for a libel when his servant publishes the libel in the course of his employment, though it was done without the knowledge of the principal. (Almons\u2019 case, 5 Burr, R, 26, 89 ; Roscoe\u2019s Cr. Ev., 603), where the cases under this head are referred to and considered. Lord Kenyon ruled that the proprietor of a newspaper was answerable, criminally, as well as civilly, for the acts of his servants, or agents, in his conducting the paper, adding, that this was not his opinion only, but that of Lord Hale, Justice Powell, and Justice Foster ; and that it was the old and received law for about a century, and was not to be broken in upon by any new doctrine upon libel. (Walter\u2019s case, 3 Esp. R., 21; Roscoe\u2019s Cr. Ev., 604; Gutch\u2019s case. Moody and M., 433; 22 Eng. Com. Law, 352.)\nIt is held in the Case of The Commonwealth, v. Nichols (10 Metcalf R., 259), that a shopkeeper was prima facie liable, criminally, for an unlawful sale of spirituous liquor in his shop, made by an agent or servant usually employed in conducting his business.\nThe same is held for the unlawful selling of spirituous liquor by an agent in the case of The United States v. Voss (1 Cranch, C. C. R., 101); and also the case of United States v. Connor (1 Cranch, C. C. R., 102). These principles control the case at bar. These two agents were employed by the plaintiffs in the very extensive business in which the plaintiffs were engaged with their sixty-eight canal boats, in transporting all kinds of goods and merchandise upon the canals, in making the bills of lading in the city of New York, and presenting the same to the collector of tolls, and getting the clearances for the vessels, and were engaged in the regular Course of their business when they made out the false bills of lading, and presented them to the collector and obtained the clearance of the vessel thereon; and there can be no doubt but the plaintiffs are liable for the fraud which their agents committed Upon the revenue laws of the State in these transactions.",
+        "type": "majority",
+        "author": "Mason, J."
+      }
+    ],
+    "attorneys": [
+      "Hughes da Northrup, for the appellant,",
+      "TJ. G. Paris for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Adeline C. Lee, Appellant, v. The Village of Sandy Hill, Respondent.\nTo render a municipal corporation liable for the tortious acts of their servants and officers, it is enough that it should appear, either that they were expressly authorized by such corporation, or that they were done bona fide, in pursuance of a general authority to act for the corporation on the subject, in relation to which they were performed. Mason, J.\nThe charter of an incorporated village provided that its officers should be five trustees, and that such trustees should be commissioners of highways of the village, and have the same powers, and be subject to the same duties as to the roads, streets and alleys of the village, as commissioners of highways in towns, and might lay out or alter any street or highway through, or upon any garden, orchard, yard, or other lands in the village. Under a written resolution and order of such trustees, the overseer of highways wrongfully entered upon the land of the plaintiff and moved! back a fence erected by him in front of his lot, the trustees in making the order, acting in good faith, erroneously supposing tbs plaintiff\u2019s fence i was an encroachment upon the street, and that they were proceeding in pursuance of the authority conferred upon them by the charter.\u2014Held (James, J., dissenting), that the plaintiff could maintain trespass against the village for such removal, whether the trustees were to be l\u00e9garded as mere agents of the corporation, or it was deemed the act of the corpo ration itself.\nWhere the owner of land in a village causes a street to be laid out over it, and dedicated to the public use, and the same has been used by the public as a highway for not more than five years, in the absence ,of any act of the village authorities in opening or working the said street, or accepting such dedication, it may be revoked by the owner, and the land does not become a public highway.\n(Submitted April 2d, 1859,\nand decided June 12th, 1869.)\nAppeal from the judgment of the General Term in the fourth district, affirming a judgment at the Special Term, for the defendant, on a verdict reserved for consideration by 'the judge who presided at the Circuit.\nThe action was for trespass to land. The complaint stated the incorporation of the defendant, the plaintiff\u2019s ownership of the locus in quo, and averred that the defendant unlawfully, wrongfully and forcibly entered upon the premises owned by the plaintiff, took forcible possession thereof, removed the fences, dug up the soil, and threatened to make a highway, The answer contained a general denial, and also alleged that the land entered upon was a public highway, and dedicated by the owner.\nIt appeared upon the trial, that in 1855, the then owner of the premises caused to be surveyed and laid out through his lands, a street fifty-five feet wide, of which the locus in quo formed a part, sixteen and one-half feet wide; that before opening the street, the owner sold one lot, covenanting to open such a street; that the tract of land through which the street was laid out, has since passed through several mesne conveyances, into the hands of the plaintiff.\nThe street opened by the plaintiff\u2019s grantor, fifty-five feet wide, was used of that width until 1860, when the plaintiff fenced in on the west side, a strip a rod wide. This was the fence removed,. and the strip so fenced in, the premises trespassed upon.\nJuly 6th, 1862, the trustees of the defendant passed the following resolution:\nOn motion,\nResolmed, That Cherry street he widened in accordance with the petition of E. C. Cary and others, and that said street, when widened, he three rods wide, measuring from the east side of the fence on said street, as it now stands.\nSubsequently, in 1862, the trustees of the defendant caused it to be surveyed and recorded. November 6th, of that year the trustees made the following order:\nWhereas, A road used as a highway, in the village of Sandy Hill, town of Kingsbury, Washington county, leading from Canal street to Mechanic street, past the residence of Eobert Cary, was laid out and dedicated by Stephen B. Lee, in the year 1859, and accepted and used by the public, and named and called Cherry street, but has never been sufficiently and properly described and recorded as a public road; now therefore we, the trustees of the village of Sandy Hill, in the town of Kingsbury, aforesaid, and commissioners of Highways for the said village, at a regular meeting of the said board of trustees (all of said trustees except Jeremiah Finch being present), held on the 6th day of November, 1862, at said village, for the purpose of causing said road to be ascertained, described and entered of record in the .town clerk\u2019s office, and having caused a survey of the said road to be made and ascertained, do order that the said road be, and the same is hereby ascertained and described as follows: Commencing at a post in the southwest corner of the dooryard fence in front of the house of Eobert Cary, and running thence northwardly along the fence on the west side of the lands of said Cary, the lands of Orson K. Mason and John Moon, to Canal street; thence westwardly along Canal street three rods; thence southwardly on a line parallel with the said first mentioned line to Mechanic street.\nDAEIUS MATHEWSON,\nG. W. OLABK,\nH. CHUBOH,\nCHAS. STONE, Jb.,\nTrustees.\nNovember 11th, 1862, they made the following order:\nTo John H. Nobthup, Esq., Overseer of Highways, in and\nfor the village of Scmdy Hill:\nYon are hereby required and directed to remove the obstructions from Cherry street, in said village, to wit: The fence placed in and along the westerly side of said street, so as to leave it free and clear of obstructions, to the width originally laid out, and as the same has been ascertained and recorded.\nDated Hovember 11th, 1862.\nDARIUS MATHEWS ON,\nG-. W. CLARK,\nH. CHURCH,\nCHAS. STONE, Jb.,\nTrustees.\nAnd on the 18th of November, they made the following order and direction:\nWoveniber 18 th, 1862.\nTo John H. Nobthup, Overseer of Higlvwa/ys, in a/nd for the village of Scmdy Hill:\nYou are hereby ordered to remove the fence and other obstructions now in or being put up on the south part of Cherry street, in the village of Sandy Hill, so as to make a three-rod street, the west line to a straight line.\nD. MATHEWSON,\nH. CHURCH,\nCHAS. STONE, Jb., Trustees.\nUnder these orders the overseer proceeded and committed the trespasses complained of, and upon this evidence the court ordered a verdict for the amount of damage proved in favor of the plaintiff, and reserved for further consideration, the question whether the corporation was liable, and subsequently ordered judgment for the defendant on the ground-that it was not liable for these acts of the trustees, although wrongful; which judgment was affirmed by the' General Term. The charter of the defendant, so far as its provisions have any bearing on the case, will be found in chapter 48, of the laws of 1856, and chapter 130, of the laws of 1860.\nHughes da Northrup, for the appellant,\nto show that trespass would lie against a corporation, cited, Eastern Counties Railway Co. v. Broom (2 Eng. Law and Eq., 406, 409); Sharrod v. London and N. W. R. Co. (4 Eng. Law and Eq., 404); The Mayor, &c., v. Bailey (2 Denio, 433, 439); Sanford v. Eighth Av. R. R. Co. (23 N. Y., 343); Mott v. Mayor, &c. (2 Hilton, 358, 364); Lockwood v. Mayor, &c. (2 Hilton, 66); Howell v. City of Buffalo (15 N. Y., 512, 519); Dater v. Troy Turnpike and R. R. Co. (2 Hill, 629); Seneca Road Co. v. A. and R. R. R. Co. (5 Hill, 170); Bloodgood v. M. and H. R. R. Co. (18 Wend., 9); Hay v. Cohoes Co. (3 Barb., 42); Hay v. Cohoes Co. (2 Coms., 159); Beach v. Fulton Bank (7 Cow., 484); 9 Serg. & R, 94; 4 Mann & G., 452; Tremain v. Cohoes Co. (2 Coms., 163); Moore v. Fitchburg R. R. Co. (4 Gray, 464); Howe v. Buffalo and Erie R. R. Co. (38 Barb., 124); Watson v. Bennett (12 Barb., 196); Roe v. B. L. and C. J. R. Co. (7 Eng. Law and Eq., 546); Crawfordville R. R. Co. v. Wright (5 Ind., 250); State v. Morris and Essex R. R. Co. (3 Zabriskie, 360); Goodspeed v. East Haddam Bank (22 Conn., 530); Allen v. City of Decatur (23 Ill. R., 332); City of Pekin v. Newell (26 Ill. R., 320); Freeland v. City of Muscatine (9 Iowa R., 461); Regina v. Great North of Eng. Railway (58 E. C. L. R., 315); S. C. 9 Q. B., 315; 9 A. & Ellis, N. S., 312.\nHpon the question of tho liability of a corporation for the acts of its agent, they cited, First Baptist Church of Schenectady v. The Schenectady and Troy R. R. Co. (5 Barb., 79, 90); Conrad v. Village of Ithaca, supra; Perkins v. New York C. R. R. Co., supra; Sharrod v. The London and M. W. Railway Co., supra; P. W. and B. R. R. Co. v. Quigley (21 Howard\u2019s U. S. R., 202, 210); Howell v. City of Buffalo, supra; Ang. & Ames on Corp., 250, 330; 2 Kent Com., 284; Lacour v. The Mayor, &c. (3 Duer, 406, 414); Mayor, &c., v. Bailey (2 Denio, 433); The Rochester White Lead Co. v. The City of Rochester (3 Coms., 463); Hay v. Cohoes Co., supra; Tremain v. Cohoes Co., supra; Lockwood v. The Mayor, &c. (2 Hilt., 66); Mott v. The Mayor, &c. (2 Hilton, 364); P. W. and B. R. R. Co. v. Quigley (21 How., 210); Clark v. The Corporation of Washington (12 Wheaton, 40); same case, (6 Peter\u2019s Con. R., 425); Moore v. Fitchburg R. R. Co., supra; Thayer v. City of Boston (19 Pick., 511); Howe v. Buffalo N. Y. and Erie R. R. Co., supra; Austin v. N. Y. and Erie R. R. Co. (1 Dutcher R. (N. J.), 381); State v. Morris and Essex R. R. Co., supra; Watson v. Bennett (12 Barb., 196); Roe v. The B. L. and C. J. R. R. Co., supra; Conro v. Port Henry Iron Co. (12 Barb., 27, 53); A. & Ames on Corp., \u00a7 388.\nHpon the point that the acts were committed by the defendant, and that the trustees were the corporation, they cited sections 1, 2 and 8, of chap., 48, of the Laws of 1856; chap. 120 of the Laws of 1860 ; Selden, J., in Weet v. The Trustees of the Village of Brockport (16 N. Y., 161, 170); Conrad v. The Trustees of Ithaca, supra; Perkins v. N. T. C. R. R. Co. (24 N. Y., 196, 213, 214).\nTJ. G. Paris for respondent."
+  },
+  "file_name": "0442-01",
+  "first_page_order": 466,
+  "last_page_order": 480
+}

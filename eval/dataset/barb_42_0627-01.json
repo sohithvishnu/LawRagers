@@ -1,0 +1,103 @@
+{
+  "id": 5114618,
+  "name": "King and Ross vs. The City of Brooklyn",
+  "name_abbreviation": "King v. City of Brooklyn",
+  "decision_date": "1864-12-12",
+  "docket_number": "",
+  "first_page": "627",
+  "last_page": "635",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "42 Barb. 627"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Gen. Term",
+    "id": 9194,
+    "name": "New York Supreme Court, General Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "19 N. Y. Rep. 326",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/19/0326-01"
+      ]
+    },
+    {
+      "cite": "2 Denio, 433",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186099
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/2/0433-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 531",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Hill, 432",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 631,
+    "char_count": 17050,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 2.5295506970929376e-07,
+      "percentile": 0.812342727317307
+    },
+    "sha256": "5dee31edbf2512506071ad2eb2b180c692dfb76ecb9a1dc5d4206f3a7aa41cee",
+    "simhash": "1:8f7b46ea95d50374",
+    "word_count": 3007
+  },
+  "last_updated": "2024-02-27T17:31:52.324881+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "King and Ross vs. The City of Brooklyn."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nJ. F. Barnard, J.\nIs the city of Brooklyn liable on the contract under which this judgment was obtained ? The contract was not made by the municipal authorities. It was not made by any person appointed by the city, or at their request, or with their assent.\nThe legislature, by law, widened the Fourth avenue in the city of Brooklyn, and appointed a board of commissioners, with power to open and work the same, and until the same was completed all power over the avenue was taken from the common council and given to the commissioners. They may expend $300,000, and no more, which is to be realized from the sale of bonds of the city payable $10,000 in each successive year; this fund to be kept separate, and applied to no other purpose. The legislative act did not provide that the corporation of Brooklyn should accept or assent to it. These commissioners, under this act, have contracted with the plaintiff in their own names, and not in behalf of the city. By the act of the legislature the city could not pay for the work except \u201cupon the order of said board of commissioners.\u201d (Sess. Laxos 1861, p. 684.) In 1862, (Sess. Laxos 1862, p. 182, eh. 63,) the legislature enacted a new charter for the city of Brooklyn, wherein there was created a board of contracts, which only could bind the city by contract, except in a few specified exceptions which do not reach this contract.\nThese facts present three questions.\n. 1st. Are these Fourth avenue commissioners by operation of law agents of the city ?\n2d. Does the new charter supersede the commissioners\u2019 power to contract ? and\n3d. Does an action lie against the city until the commissioners shall have given their orders on the city treasurer, and that after the bonds shall have been sold and the proceeds paid to such treasurer ?\nThe cases relied on to establish affirmatively the first proposed question arise under the act to provide water for the city of New York. Before considering the cases it will be proper to examine the difference between that law and the law appointing these commissioners.\nThe New York law, after providing for estimates under it for projiosed objects to be secured by it, required the submission of them to the corporate authorities of New York, and they could accept or reject. If they authorized the commissioners to go on, they xoere to authorize them, to draxo on the city treasux'y for the money required. The objects of the Croton aqueduct law were partly for the private benefit of New York, and the lands to he taken reached far beyond the city limits. The first case cited, (Appleton v. Water Commissioners, 2 Hill, 432,) arose on demurrer. The defendants were sued as a corporation, and the defendants demurred, and had judgment because they were not a corporation. The case of Bailey v. The Mayor &c., (3 Hill, 531,) was an action for negligence. The point being taken that the water commissioners, not being appointed by the city but by the governor and senate, and the negligence charged being the negligence of the employees of the commissioners, the city was not liable. It was decided that the city was liable. The reasons for the liability are thus stated by Judg'e Nelson: \u201cBy accepting the charter the defendants thereby adopted the commissioners as their own agents to carry on the work. The acceptance was entirely voluntary; for the state, could not enforce the grant upon the defendants, against their will. This would be so on general principles, (Angell & Ames on Corp. 46, and cases there cited;) but here the charter itself left it optional with the common council to accept or not.\u201d This case was affirmed in the court of errors, (2 Denio, 433,) Senator Barlow, only, taking the broad ground that the commissioners were, by operation of law, the agents of the defendant.\nIt is assumed that the water commissioners were the 1 defendants' agents, upon the authority of Bailey v. The Mayor &c., in the case of Clark v. The Mayor &c. (3 Barb. S. C. R. 288,) and that \u201cit was [the contract] subsequently recognized and adopted by the defendant.\u201d\nI think these cases fall short of establishing the agency of the Fourth avenue commissioners for the defendant in this case. The defendant has ratified nothing\u2014has assented to nothing. If the city of Brooklyn is liable, it is liable to pay as directed by the legislative act, from the fund, and in the precise manner, therein prescribed, and solely by force of the legislative power of taxation.\nDoes the act of 1862 repeal the act appointing the Fourth avenue commissioners ? General legislation does not apply to specific acts. This act in relation to the Fourth avenue is complete in itself. There is established by it a dominion over a certain portion of the city of Brooklyn, and the commissioners are substituted in the place of the defendant, with certain powers. The necessary funds are provided for, and it could not have been intended, by a general amendment to the charter, to affect this independent jurisdiction.\n[Kings General Term,\nDecember 12, 1864.\nDoes an action lie against the city for work done under a contract with the commissioners ? I think not. The city is commanded to issue bonds to a certain amount, and pay the money to the city\u2019treasurer, which is to be paid out under the order of the commissioners only, and to be used for no other purpose; and for the payment of the bonds, a certain portion of the city, only, is taxed by the act.\nIf the city of Brooklyn does what the act imposes upon it surely it is all that is to be required of it. Payment from this fund can be made but in one way, and that way has not been followed. There has been no order. This particular fund is the only fund with reference to which the plaintiff contracted with the commissioners, and he can be paid in no other way than under and by the act under which he contracted. (Baker v. The City of Utica, 19 N. Y. Rep. 326.) The plaintiff must first produce the orders, and if an order is unjustly refused there is a perfect remedy by mandamus. The commissioners must make return of the facts upon which they refuse to grant certificates, and issue can be taken upon such return; and judgment would pass against them if the plaintiff succeeded upon the issue that a certificate or order be delivered to the plaintiff for such sum as should be found his right, upon the trial.\nThat is the only course, to protect the defendant. I think the judgment should be reversed, and a new trial granted; costs to abide the event.\nBrown, Lott, Scrugham and J. B. Barnard, Justices.]",
+        "type": "majority",
+        "author": "J. F. Barnard, J."
+      }
+    ],
+    "attorneys": [
+      "J. W. Gilbert, for the appellant.",
+      "Jas. L. Campbell, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "King and Ross vs. The City of Brooklyn.\nThe legislature, by an act passed April 17, 1861, provided for the widening of Fourth avenue, in the city of Brooklyn, and appointed a board of commissioners with power to .open and work the same; and until the work was completed, all power over the avenue was taken from the common council, and given to the commissioners. The city was directed to issue its bonds to a certain amount, and pay the money realized therefrom to the city treasurer, and the same was to be kept separate and paid out upon the order of the commissioners, only, and to be used for no other purpose. The act did not provide that the corporation of Brooklyn should accept of, or assent to, it. The commissioners named in the act contracted, in their own names, with K. and B. for-certain work to be done upon the\navenue, by K. anfl B. at stipulated prices, which work was performed, by the latter. In 1862, the legislature enacted a new charter for the city of Brooklyn, by which there was created a board of contracts, which board, only, could bind the city by contract, except in certain specified cases.\nS'eld, 1. That the avenue commissioners were not, by operation of law; the agents of the city.\n2. That if the city was liable to K. and B. upon the contract, it was liable to pay as directed by the statute, from the fund, and in the precise manner, therein prescribed, and solely by force of the legislative power of taxation.\n3. That the fund raised under the act of 1861, was the only fund with reference to which K. and B. contracted with the commissioners; and that they could be paid in no other way tlym under and by virtue of the act.\n4. That the new charter of Brooklyn did not repeal the act of 1861, appointing the Fourth avenue commissioners.\n6. That an action would not lie against the city, by K. and B. upon the con-, tract, until the fund should have been raised by the sale of the city bonds, and the proceeds paid to the city treasurer, and the avenue commissioners had given their orders on the treasurer, in favor of K. and B.\n6. That K. and B. must first produce the orders, from the commissioners ; and if an order was unjustly refused, the remedy was by mandamus.\nPPEAL from a judgment of the city court of Brooklyn, entered upon the report of & referee. The plaintiffs alleged, in their complaint, that in and by an act of the legislature of this state, passed April 17, 1861, entitled \u201cAn act to amend an act entitled an act to provide for the widening of Fourth avenue in the city of Brooklyn, and to establish a public drive and promenade on said avenue, passed April 12, 1860,\u201d Henry A. Kent and four other persons were appointed commissioners to lay out and regulate saiti Fourth avenue as a drive and public promenade, and invested as a board of commissioners, with all necessary powers for the performance of the duties thereby imposed on them, and for the making and carrying out of such improvement upon a plan to be adopted by them. That the payment of the expenses to be incurred by the said commissioners was by such act provided to be paid out of the treasury of the city of Brooklyn, upon the order of the said commissioners, from time to time. That on the 31st day of July, 1862, the said commissioners, on the one part, and the plaintiff George E. King, together with one Hamilton B. Bradshaw, of the other part, entered into an agreement whereby it was provided that said King and Bradshaw should do certain work, or so much thereof as said board might direct, towards regulating and grading the said avenue, in a certain manner, under the direction, control and supervision of the said board and their engineer; that such work, or any part thereof, should be prosecuted, carried on, or suspended as said commissioners or their engineer should, from time to time direct; and that the same should be completed within six months from its date. The price to be paid for the several kinds of work was specified in the contract, and in the complaint. That it was further provided that the contractors should be, monthly, upon the certificate of said board of the work done by them, to be made by the engineer of the said board, entitled to receive seventy per cent of the price of the work done by them, to be paid in cash by the drafts of said board upon the comptroller of the city of Brooklyn. That said Bradshaw assigned and released all his interest in said contract to the plaintiff King, and had no interest therein, or in the moneys due thereunder. That on the 3d day of February, 1863, the plaintiff George E. King, and said Bradshaw, for the purpose of securing the payment of the sum of $3000, with interest from the 3d day of February, 1863, executed and delivered to the plaintiff Reuben Ross, jr. a certain instrument in writing, whereby it was provided that the said Ross shotild receive from the commissioners payment of such sum, with such interest, out of the moneys to be received under such contract on account of any work to. be performed thereunder. That the plaintiff King, and said Bradshaw, had done and performed a large amount of work provided to be done under said contract, to the value as provided thereby of $60,000, but had only received, in all, the sum of $22,300 therefor. That King had demanded, on behalf of the plaintiffs, according to said contract, from said commissioners, sundry sums of money, payable from them according to said contract, and according to the certificate of the engineer of the said hoard, showing the work so done; and that particularly, on the 1st day of October, instant, he so demanded from said commissioners a sum of about $3537.19, then and there payable to him, under said contract, as stipulated by said contact, upon the certificate of the then said engineer. Yet the said commissioners refused to pay the sums so demanded, and each and every of them, and have not paid the same or any part thereof. The plaintiffs alleged that King, on their behalf, had since demanded the said sum of $3537.19 from the comptroller of the city of Brooklyn, who also refused to pay the same, or any part thereof. And that he had since further so demanded from said board of commissioners, and also from said city, full payment for the work done under said contract, and that payment thereof had been refused by them and each of them. The plaintiffs claimed that there was due and payable therefor the sum of $37,000, by reason of the matters aforesaid. And they asked judgment for that sum with interest, and costs.\nThe defendant by its answer admitted that, by virtue of the act in the complaint mentioned, the commissioners therein named were appointed, and that a contact to furnish work and materials was made between said commissioners, of the one part, and Hamilton B. Bradshaw and the plaintiff King, of the other part, a copy of which was annexed. The defendant denied each and every other allegation in the complaint. And for a further and separate defense the defendant averred that prior to the alleged breach by the defendant of the said contract, the said Bradshaw and King had violated the same in that they had not completed the work, in accordance with said contract, within six months from the date thereof; and also in that the said Bradshaw and King did not give their personal attention constantly to the prosecution of said work, nor keep the same under their own control;. and also in that large portions of said work were not done conformably to the terms of said contract. And for a further and' separate defense the defendant averred that the said contractors abandoned the contract; and that in pursuance of said contract the said commissioners employed another person to complete the work described therein; and that the additional expense of completing the work, over and above what the contractors would have been entitled to if they had completed the same, would exceed the amount alleged to be due to the plaintiffs.\nThe principal questions on the trial before the referee were raised by a motion for a nonsuit, on the grounds: 1st. That the action would not be against the city. 2d. That the contract had not been broken by the commissioners, because, (1,) the contract did not bind the city to pay seventy per cent of the estimates monthly, as demanded by the contractors ; (2,) the contractors did not comply with the'conditions precedent to obtaining the advance. 3d. That the contractors had broken the contract; (1,) by one contractor assigning or relinquishing the contract to the other; (2,) by not performing in time; (3,) by abandoning the work; (4,) by not using fascines in an embankment. The referee overruled the motion for a nonsuit. He afterwards reported in favor of .the plaintiffs, finding the facts specially, and among others that the contractors had performed the contract except as to time, and in that respect they were prevented by the delay of one Holahan, who had a separate contract with the city of Brooklyn to grade a portion of the avenue. And he found as conclusion of law, that the Fourth avenue commissioners were the duly constituted agents of the defendant, and in that capacity entered into the contract, and that by the terms of the contract the defendant was bound to advance monthly upon the certificate of the engineer seventy per cent of the amount of work done ; that the said commissioners were not authorized to retain any sum by reason of the non-perform-once of the contract within the specified time, because. Holahan\u2019s work was not completed so that King and Bradshaw could complete' their contract within the time fixed, and because the acts of the commissioners operated as an extension of the time. Also, that the refusal of the commissioners to pay to the plaintiffs, on the 1st of October, 1863, an amount certified by the engineer as due to them, was such a breach of the contract as entitled them to terminate the contract on their part, and to recover the value of all work done and materials furnished thereunder up to said 1st day of October, 1863. And he further found as a conclusion of law, that the plaintiff King was entitled to judgment in his favor, against the defendants, for the sum of $22,296.94, with interest, amounting in the aggregate to $23,445.80; and that the plaintiff Ross was entitled, out of said last named amount, to be preferred to the extent of $3000, .and interest. Judgment was entered accordingly.\nJ. W. Gilbert, for the appellant.\nJas. L. Campbell, for the respondent."
+  },
+  "file_name": "0627-01",
+  "first_page_order": 629,
+  "last_page_order": 637
+}

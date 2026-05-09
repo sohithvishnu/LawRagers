@@ -1,0 +1,462 @@
+{
+  "id": 8713145,
+  "name": "Hazelton vs. Putnam and another",
+  "name_abbreviation": "Hazelton v. Putnam",
+  "decision_date": "1850-12",
+  "docket_number": "",
+  "first_page": "107",
+  "last_page": "121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Pin. 107"
+    },
+    {
+      "type": "parallel",
+      "cite": "3 Chand. 117"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis.",
+    "id": 9671,
+    "name": "Wisconsin Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Serg. & R., 888",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Pick., 186",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2038850
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/37/0186-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 817",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Serg. & R, 267",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8878406
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/14/0267-01"
+      ]
+    },
+    {
+      "cite": "16 Mass., 443",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035298
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/16/0366-01"
+      ]
+    },
+    {
+      "cite": "6 R, 241",
+      "category": "reporters:state_regional",
+      "reporter": "R,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Johns., 306",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6065046
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0243-01"
+      ]
+    },
+    {
+      "cite": "17 Mass., 297",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rawle, 27",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819358
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0027-01"
+      ]
+    },
+    {
+      "cite": "5 Wend., 639",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Ch., 131",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975581
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/1/0131-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Johns., 298",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372295
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0298-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch., 144",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Mass., 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/11/0478-01"
+      ]
+    },
+    {
+      "cite": "6 Yt., 387",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Serg. & R., 383",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1818230
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/17/0383-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & R., 241",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/4/0241-01"
+      ]
+    },
+    {
+      "cite": "2 Wis., 250",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8712569
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/2/0250-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch., 149",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Johns. Ch., 181",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Hill, 64",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Conn., 525",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753299
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/11/0525-01"
+      ]
+    },
+    {
+      "cite": "2 Denio, 625",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186097
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/2/0625-01"
+      ]
+    },
+    {
+      "cite": "8 Met., 34",
+      "category": "reporters:state",
+      "reporter": "Met.,",
+      "case_ids": [
+        1964680
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/49/0034-01"
+      ]
+    },
+    {
+      "cite": "15 Wend., 880",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Met., 331",
+      "category": "reporters:state",
+      "reporter": "Met.,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Mass., 523",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Conn., 375",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753310
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/10/0375-01"
+      ]
+    },
+    {
+      "cite": "2 Met., 420",
+      "category": "reporters:state",
+      "reporter": "Met.,",
+      "case_ids": [
+        2041049
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/43/0420-01"
+      ]
+    },
+    {
+      "cite": "11 Mass., 535",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Ohio, 247",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 N. H., 102",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6754410
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/11/0102-01"
+      ]
+    },
+    {
+      "cite": "14 Serg. & R., 272",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Met., 462",
+      "category": "reporters:state",
+      "reporter": "Met.,",
+      "case_ids": [
+        1966122
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/50/0462-01"
+      ]
+    },
+    {
+      "cite": "15 Wend., 380",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018779
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0380-01"
+      ]
+    },
+    {
+      "cite": "4 Johns., 81",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001822
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/4/0081-01"
+      ]
+    },
+    {
+      "cite": "15 Wend., 392",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Mass., 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053400
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0478-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & R., 241",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801955
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/4/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1206,
+    "char_count": 29710,
+    "ocr_confidence": 0.498,
+    "pagerank": {
+      "raw": 6.343942812837885e-07,
+      "percentile": 0.9587499116743872
+    },
+    "sha256": "36b98646a085727a0e13a59d0589ccec0dca535542eb4130dab143b413ef6c48",
+    "simhash": "1:2d36eb350c899502",
+    "word_count": 5240
+  },
+  "last_updated": "2024-02-27T17:51:43.759589+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hazelton vs. Putnam and another."
+    ],
+    "opinions": [
+      {
+        "text": "JACKSON, J.\nThis is an appeal from the Milwaukee county circuit court. The complainants below, and the appellees in this court, Amos Putnam and Aaron Putnam, allege that in the month of April, 1840, the appellant, Orrin Hazelton, by parol, consented and permitted complainants, Putnams, to build a saw mill and erect a dam upon their land, in'such a manner as to flow water upon the land of appellant; and did also, by parol, consent, and permit and agree, that complainants should cut a race across the lands of the appellant for the purpose, and in such a manner as to divert the waters of \u201c Stickney run\u201d from its usual channel, and flow the same into the dam or pond of said complainants for the use of said mill, and also promised tQ' confirm this privilege or grant, by deed; that upon and'-'after the giving of such consent, and the making of such promise* and on the faith thereof, complainants proceeded to make improvements and build their saw mill, and prior-to the-thirds day of August, 1840, expended several hundred dollars upon said works; that after that time, the appellant Hazelton, repenting of his license and promise, attempted to revoke, and refused to confirm the same by deed; and subsequently interrupted the complainants in the enjoyment of said privileges, and prevented them from availing themselves of the benefit of the waters of Stickney\u2019s brook, by erecting a mill, and diverting them thereto, to the exclusion of complainants.\nThe respondent Hazelton, in his answer to complainants\u2019 bill, denies having given the license and permission in the manner and to the extent alleged; and insists that any permission or license that may have been given was revoked before the complainants had expended or invested one dollar in building their mill, or constructing either of their races.\nTo sustain the allegations in the complainants\u2019 bill on the one hand, and to support the answer of the respondent on the other, a large number of witnesses were sworn and examined, whose testimony was read upon the hearing of the cause below, and is now upon appeal presented to the consideration of this court.\nParol licenses, especially in cases at law, have been most fruitful sources of litigation, and have given rise to decisions so contradictory, both in the English and American courts, as to render somewhat applicable the remark made by Lord Abinger in Rodwell v. Phillips, 9 M. & W., 505, in relation to decisions upon a kindred branch of the law, that \u201cno general rule is laid down in any of them that is not contradicted by some others.\u201d\nIt is quite probable that much of this discrepancy may have arisen from the different ideas attached to the word license (Mumford v. Whitney, 15 Wend., 392); for, as was said by Baron AldersoN, in his elaborate opinion in Wood v. Leadbitter, 13 M. & W., 837, \u201cthat which is called a license is often something more than a license; it often comprises, or is connected \u00a1with a grant, and then the party who has given it cannot in general revoke it so as to defeat his grant to which it was incident.\u201d\nAt the present day, the distinction between an easement and a license is well settled and fully recognized, although it becomes difficult, says Chancellor Kent, \u201c in some of the cases, to discover a substantial difference between them.\u201d An easement, says Mr. ANGELL, in his able treatise on Watercourses, 316, it has appeared, is a liberty, privilege or advantage in laud, without profit, and existing distinct from the ownership of the soil; and it has appeared also, that a claim for an easement must be founded upon a deed or writing, or upon prescription, which supposes one. It is a permanent interest in another\u2019s land, with a right to enjoy it fully and without obstruction. A license, on the other hand, is a bare authority to do a certain act or series of acts upon another\u2019s land, without possessing any estate therein ; and it being founded in personal confidence, it is not assignable, and it is gone if the owner of the land who gives the license transfers his title to another, or if either party die.\nThis definition of a license, as well as of an easement, is adopted by Chancellor Kent (3 Com., 452), and is expressly recognized by the most approved English and American authorities. Thompson v. Gregory, 4 Johns., 81; Mumford v. Whitney, 15 Wend., 380; Coock v. Stearns, 11 Mass., 533; Miller v. Auburn & Syracuse R. R. Co., 6 Hill, 61; Fitch v. Seymour, 9 Met., 462; Hays v. Richardson, 1 Gill & J., 366; Fentiman v. Smith, 4 East, 109; Hewlins v. Shippam, 5 B. & Cress., 221; Thomas v. Sorrell, Vaugban, 351; Wood v. Leadbitter, 13 M. & W., 843.\nWhilst it has been uniformly held that a parol license, while it remains executory, may be revoked at pleasure (Cook v. Stearns, 11 Mass., 533; Mumford v. Whitney, 15 Wend., 380; Fentiman v. Smith, 4 East, 109; Angell on Watercourses, 319, 324); yet, when executed, whether it is revocable, and if so, how far and to what extent, has been a question fraught with much difficulty, and respecting which different courts of th$ highest respectability have held very differently.\nThe principal English cases that have been relied upon in support of the doctrine that there are some par\u00f3l licenses which are irrevocable, are those of Webb v. Paternoster, Palmer, 71; Wood v. Lake, 1 Sayer, 3; Taylor v. Waters, 1 Taunt., 374; and Winter v. Brockwell, 8 East, 308.\nThe cases of Wood v. Lake and Taylor v. Waters appear to have been decided on the ground of the decision in Webb v. Paternoster. The case of Winter v. Brockwell is distinguishable in its main feature from the three other cases. The declaration in that case stated that the plaintiff \u201c was entitled to an easement' of a passage for light and air to his dwelling house, through an ancient window, over an open space of land of the defendant, and that, by means of such open space, noisome smells from the defendant\u2019s house evaporated without occasioning any nuisance to the occupier of the plaintiff\u2019s house, and that the defendant wrongfully erected a skylight above the plaintiff\u2019s ancient window, and covering the open space above mentioned, by means of which the light and air were prevented entering the plaintiff\u2019s window and into the house, and noisome smells arising from the adjoining house were prevented from evaporating and entered the plaintiff\u2019s dwelling house.\" The defendant pleaded the general issue. It appeared in evidence that \u201c the open space which belonged to the defendant\u2019s house had been inclosed and covered by a skylight in the manner stated, with the express consent and approbation of the plaintiff, obtained before the inclosure was made, who also gave leave to have part of the framework nailed against the wall. Sometime after it was finished, the plaintiff objected to it, and gave notice to have it removed; but Lord ElleNBOR-OUGH was of opinion that the license, given by the plaintiff to erect the skylight, having been acted upon by the defendant and the expense incurred, could not be recalled and the defendant made a wrongdoer; at least, not without putting him in the same situation as before, by offering to pay all the expenses which had been incurred in consequence of it. And under this direction the defendant obtained a verdict.\u201d\nMr. ANG-ell (Angell on Watercourses, 854) draws a very clear and obvious distinction between the case of Winter v. Brockwell, and some of the other cases referred to; and says: \u201cin the case of a prescriptive right to light, as in the case of Winter v. Brockwell, it is not in collision with well established authority, but, on the other hand, in accordance with it, that a parol license to do any act on the land of the licensee by the licenser, inconsistent with and in derogation of said right, is irrevocable, because the title to this right of the licenser becomes thus extinguished. An easement is not created, but an existing one voluntarily abandoned and surrendered.\u201d But how can this doctrine of extinguishment be applied to a natural watercourse ? It is important to notice the broad distinction there is, in the eye of the law, between the right to light, and the right to the water of a natural watercourse. The owner and occupier of a house has prima facie no right to light which enters his windows sideways; it must be by grant, or by prescription, which supposes one. Both he and the adjoining land owner only own the light upwards. There was therefore no interest in land conveyed in Winter v. Brockwell, and the licenser\u2019s interest in his land remained as complete as it was originally, and the license was only something collateral to the land. In respect to a natural watercourse, it is directly otherwise ; and the right which a riparian,proprietor upon it has, as to the use of the water, is by force of the maxim above mentioned, a part of the freehold; and to deprive him of it by a diversion would be a deprivation of what is inseparably connected with, and inherent in, the land, of what in fact is parcel of the inheritance, and which passes with it. Hence it is,\u201d he further remarks, \u201c we find Lord ElleNBORough ruling, in 1807, the license in. Winter v. Brockwell, to be irrevocable, when, in 1808, in Fertiman v. Smith, he held that the title to haye the water flowing in the tunnel over the defendant\u2019s land, could not pass without deed. The leading cases in the United States, which favor the doctrine in Wood v. Lake, are 14 Serg. & R., 272 ; 1 Greenleaf, 107; 5 id., 9-18; 11 N. H., 102; and 15 Ohio, 247.\nIt is to be remarked, however, that some of these cases were decided in states where there are no courts of chancery, and where the common law courts administer the principles of equity through the medium of legal forms. In Clement v. Dergin, the broad ground was taken, that wherever the acts done on the faith of a license have resulted in the creation of an interest, of whatever description, for the protection of which the continued existence of the license is necessary, the law will not permit it to be defeated by the party from whom it originally proceeded.\nThe courts of New Hampshire and of Ohio appear to have doubted this doctrine in its fullest extent. 11 N. H., 102; 15 Ohio, 247. But this is much further than the courts of this country have generally gone. 11 Mass., 535; 2 Met., 420; 15 Wend., 380; 6 Hill, 61.\nMost of the American courts have been satisfied' with determining that \u201c a party who has induced the incorporation of the property of another with his own, through the means of a promise not to interfere with its use or enjoyment by the latter, shall not be allowed to commit the fraud of appropriating it to his own purposes, although he may withdraw the right to use it in the manner originally contemplated, and compel the other party to resort for redress to an action.\u201d 2 Am. Lead. Cases, 526, and notes; Prince v. Case, 10 Conn., 375; Cook v. Stearns, 11 Mass., 523. The courts of New York and Massachusetts are directly.opposed to the doctrine that parol licenses are revocable. Cook v. Stearns, 11 Mass. 533; 1 Met., 331; 9 id., 395; 15 Wend., 380; 6 Hill, 61.\nIt has been sometimes held that a license coupled with an interest is irrevocable; but this doctrine, although unquestionably correct, in a qualified sense, can only be considered according to the better authorities, as applicable to the temporary occupation of land, and confers no right nor interest in the land. 15 Wend., 880; 10 Conn., 375; Angell on Watercourses, 319; 11 Adolph. & Ellis, 34.\nIn illustration of this doctrine, C. J. Savage says in Mumford v. Whitney: \u201cA agrees with B that B may hunt or fish on his, A\u2019s land ; A thereby gives B a license for that purpose. This gives B no interest in the land; he cannot authorize any other person to go upon the land; it is a personal privilege granted to B alone. If, after A has given his consent, and before B has entered upon his land, A changes his mind, he has a right to do so and forbid B from entering upon his land for the specific purpose. The license is thus far executory and may be revoked at pleasure; if B afterwards enters, he is a trespasser; if, however, B enters before any revocation of license, the license is then executed, and it is not competent for A to revoke it and make B a trespasser.\u201d\nA similar illustration of a license coupled with an interest, is furnished by the case of Wood v. Manley 11 Adolph. & Ellis, 84, in which goods which were upon the plaintiff\u2019s land were sold to the defendant; and that by the conditions of the sale, to which the plaintiff was a party, the buyer was to be allowed to enter and take the goods.\n\u201c It was held that after the sale, the plaintiff could not countermand the license; and the defendant having entered to take and the plaintiff having brought trespass, and the defendant having pleaded leave and license, and a peaceable entry to take, to which the plaintiff replied de injuria, it was held that the defendant was entitled to the verdict, though it appeared that the plaintiff had, between the sale and the entry, locked the gates and forbidden the defendant to enter; and the defendant had broken down the gates and entered to take the goods.\u201d The plaintiff, as was said by Williams, J., having assented to the terms \u00f3f the contract, put himself into a situation from which he could not withdraw.\nThe effect of such a license is in general merely to excuse and justify all acts done under and by virtue of it, while it continues unrevoked, which would otherwise be tortious. Angell on Watercourses, 139; 2 Am. Lead. Cases, 515; 8 Met., 34; 2 Denio, 625; 11 Conn., 525; 6 Hill, 64; 13 M. & W.\nThe cases of Webb v. Paternoster, of Wood v. Lalce and Taylor v. Waters, whose soundness had been repeatedly questioned in the English courts before the case of Wood v. Leadbitter, were, in that case, finally and conclusively overruled. 13 M. & W., 836. Whatever may have been some of the earlier decisions, therefore, there can be no question that at this day the weight of authority in the English common law courts is decidedly against the position, that any indefeasible power or authority to exercise a continuing privilege on the land of another person can be given by a mere parol license, even when carried into execution and upheld by .acts done in pais in accordance with its terms. Note to 2 Am. Lead. Cases, 522; Fentiman v. Smith, 4 East, 107; 4 M. & G., 562; Hewlins v. Shipman, 5 Barn. & C., 221; Wood v. Leadbitter, 3 M. & W., 838.\nIn cases, however, where money has been expended, or improvements made and buildings erected on the faith of a parol ' license which has been thus executed, courts of equity have generally interposed, at all events, so far as to restrain the licensee- from appropriating to his own use and benefit, the labor expended and improvements made on the faith of such license, without placing the licensee in the same situation in which he stood before he entered upon its execution. 2 Story\u2019s Eq., 70, 75; Angell on Watercourses, 359.\nWe do not deem it material to determine whether the case at bar is to be regarded in the light of an agreement for an easement, or a parol license executed. An agreement for an easement is in equity taken out of the statute of frauds by a part performance, upon the same principle that a parol license executed is taken out of the statute. Angell, 859; 4 Serg. & R., 241; 2 Eq. Cases, Ab., 525; Welman v. White, 2 Caine\u2019s Cases, 87; Phillips v. Thompson, 1 Johns. Ch., 181; 2 Story Eq., 75.\nThe ground upon which the court interposes in such cases is \u201c not simply that there is proof of the existence of \u00e1 parol agreement, but that there is fraud in resisting the completion of an agreement partly performed.\u201d Phillips v. Thompson, 1 Johns. Ch., 149.\nBut it is a well established rule that equity will not enforce the specific performance of a parol agreement in a doubtful case; and where a party sets up part performance to take a parol agreement out of the statute of frauds, it is necessary, in the language of Mr. Justice Story, that \u201c the contract should be established by competent proofs, to be clear, definite and unequivocal in all its terms.\u201d Phillip v. Thompson, 1 Johns. Ch., 149; 14 Vesey, 386.\nIn applying this salutary and now well recognized principle of equity jurisprudence to the case before us, we are of opinion that the evidence is too conflicting and inconclusive, and the agreement too indefinite and uncertain to justify this court in granting to the complainants the relief prayed for in their bill. The decree of the circuit court must therefore be reversed without costs.\nDecree reversed accordingly.",
+        "type": "majority",
+        "author": "JACKSON, J."
+      }
+    ],
+    "attorneys": [
+      "Smith & Palmer, for appellant:",
+      "J. M Arnold, for appellees :"
+    ],
+    "corrections": "",
+    "head_matter": "Hazelton vs. Putnam and another.\n1. Easement. \u2014 An easement is a liberty privilege or advantage in lands, without profit, and existing distinct from the ownership of the soil, and must he founded on a deed or writing or upon prescription. It is a permanent interest in another\u2019s land, with a right to enjoy such interest fully and without obstruction.\n2. License. \u2014 A license is a hare authority to do a certain act or series of acts upon another\u2019s land without possessing any estate therein, is not assignable, and is defeated if the owner of the land who gives it transfers his title to another, or if either party dies.\n3. Same. \u2014 While a license remains unexecuted it is revocable, but after it has been executed it cannot be so far revoked by the party who gave it as to make the party to whom it was given, and who has acted under it, a wrongdoer. Its effect is to justify all acts done under it while it continues unrevoked which would otherwise be tor-tious.\n4. Pabod License \u2014 Intebest in Lands. \u2014 An absolute, continuing and irrevocable power or authority to exercise a continuing privilege on the land of another cannot be created or upheld by a mere parol license, though acts in pais have been done in accordance with its terms. French v. Owen, 2 Wis., 250; Olute v. Oarr, 20 id., 531.\n5. Same \u2014 Equity. \u2014 Where money has been expended or improvements made and buildings erected on the faith of a parol license, which has been to that extent executed, courts of equity have generally interposed so far as to restrain the licensee from appropriating to his own use and benefit the labor expended and improvements made on the faith of such license, without first placing the licensee in the same situation in which he stood before he entered upon its execution.\n6. Same \u2014 Agreement.\u2014An agreement for an easement is taken out of \u2022 the statute of frauds by part performance, and so is a parol license by being executed, but a court of equity will not grant relief in such cases unless the contract and grounds therefor are established clearly, definitely and in an unequivocal manner. And in this case relief is denied because the evidence is too conflicting and inconclusive, and the alleged parol agreement too indefinite and uncertain.\n(3 Chand., 117.)\nAPPEAL from the Circuit Court for Milwaukee County.\nThe complainants, Aaron and Amos Putnam, filed their bill against the defendant, Hazelton, alleging that they owned a certain mill and water power used in running it, on certain premises therein described, and that they had expended $2,500 in building said mill and improving said privilege, the full and \u25a0undisturbed enjoyment of which they had had from 1841 to 1844; that the water which propelled said mill was conducted in two races which joined before entering the flume, one of which extended about two hundred and eighty rods to a small pond made by damming the waters of Stickney brook, and by the other of which the water was brought from a pond which collected the waters of a brook and several springs, and another pond which collected the waters of another stream which naturally discharged itself into Fox river through the lands of Aaron Putnam, about half a mile below the mill; that they had procured certain water rights of adjacent land owners, fully set out in the bill, among which the privilege of setting back the water on the lands of Hazelton by means of a dam, so as to raise a pond and head of water to convey the water through one of said races to said mill; that Hazelton, on application therefor, gave them a parol license and privilege to so flow his lands, requiring no other condition or consideration than the building o\u00ed said mill, although they proposed to give him a reasonable sum therefor; that he promised to give a deed of such privilege, which was of great importance to them in connection with said mill and water power, and without which the mill could not be operated to advantage; that relying on Hazelton's license and promise they began their mill and prosecuted the work of building it without interruption, and completed said mill and perfected said water power, flowing a portion of the defendant\u2019s lands, upon which they raised the water to a height of thirty inches, thereby flowing about sixteen acres thereof; that on being applied to to execute a deed of such privilege the defendant, Hazelton, tendered a deed conveying the privilege of flowing said land until he should want it, and refused to give any other conveyance or assurance. At this time complainants had expended $700 in and about their said mill and water power, and they proceeded, notwithstanding such action of the defendant, to complete their mill and water power by the sufferance of the defendant, who after-terwards gave them permission to dig a ditch on his premises to aid in conveying the waters thus raised on his land to said mill; that they continued to enjoy all these privileges until March, 1844, when a dispute arose in respect to the rights of the respective parties, and Hazelton forbid the flowage of his lands, and he soon after began and built a mill at said pond and set it so low as to divert the waters by that means, and the means of sundry ditches to his mill and from complainant\u2019s mill; that by means of the premises he has diverted the waters raised upon and about his land from the mill of the complainants to their great damage, etc., and they prayed for an injunction against such alleged wrongful acts, and that Hazelton be compelled to convey the said privilege of flowing his land as he had verbally promised to do in 1840.\nThe answer denied the more material allegations of the bill, and the cause was heard upon the proofs, and the circuit court decreed that the defendant convey to the complainant thepriv-ileges claimed, and that be be enjoined from interfering with or obstructing tbe same, and that the defendant pay the costs. The testimony was somewhat voluminous, and as it was regarded by this court too conflicting and inconclusive, and the agreement relied on too indefinite to justify the granting of any relief, it is not thought important to make any further statement in regard to it. The case shows that the circuit court decreed for the complainants upon the ground \u201c that the weight of evidence seemed to show that in the month of April, 1840, the defendant by parol gave license to the complainants to flow the land of the defendant at the place mentioned in the bill and answer, and that the complainants, in good faith, and re. lying on such, license, expended money and labor in tbe erection of a sawmill and other works necessary to the successful operation of such mill, to which the use of the land and waters at such place were also necessary and essential.\u201d\nSmith & Palmer, for appellant:\n1. The right to flow the land of another is an easement, and being a permanent interest in land, must be founded upon a deed or writing, or upon prescription ; that a license is a pei\u2019-mission to do an act or series of acts upon the land of another without acquiring any estate therein; founded in personal confidence, not assignable, and may exist by parol. The distinction between an easement and a license is illustrated in Webb v. Paternoster, Palm., 71; Le Fever v. LeFever, 4 Serg. & R., 241; Bridges v. Blanchard, 3 Nev. & M., 691; Hepburn v. McDoioell, 17 Serg. & R., 383; Liggins v. Inge, 7 Bing., 682 ; Barnes v. Barnes, 6 Yt., 387 ; 4 Kent, 452 ; Taylor v. Walters, 7 Taunt., 383 ; GooJc v. Stearns, 11 Mass., 533; 1 Johns. Ch., 144 ; Ricker v. Kelley, 1 Green!, 117 ; 1 Gill & I., 382; Hewlins v. Shippan, 5 Barn. & 0., 221, 329, 233.\n2. The right claimed by the complainants is that of a permanent interest in the land which could not pass by parol (9 Johns., 298 ; '4 id., 81; 6 Hill, 61); to take the case out of the statute of frauds on the ground of part performance of an agreement to convey, such agreement must be particularly and specifically proved. If the contract be doubtful or sustained by conflicting evidence, as in this case, it will not be regarded. Rawton v. Raioton, 1 Hen. & Munf., 91; 1 Johns. Ch., 131-146 ; Given v. Gadder, 2 Desau., 171; 8 Greenlf., 320: 3 Paige, 478; 5 Wend., 639.\n3. The parol license was revocable, 2 Hild. Abr., 116; Fen-timan v. Smith, 4 East, 107; 1 Coxe, 460; 1 Rawle, 27 ; 17 Mass., 297 ; 17 Johns., 306.\nJ. M Arnold, for appellees :\n1. The grant of the license to flow the lands of appellant was not within the statute of frauds and was valid, or if within the statute and in the nature of an agreement for an easement, was taken out by part performance. In Taylor v. Waters, 7 Taunt., 384, Gibbs, O. J., says: \u201cAlicense to enjoy a beneficial privilege on land does not create an interest in land and is good without writing.\u201d \u201c In Wood v. Lake, Say R, 3, there was a parol agreement that A. should have liberty to stack coals on the land of B. for seven years, and have the sole use of this part of B.\u2019s close. This was held to create neither an estate nor an interest in or out of land.\u201d In Pennsylvania a parol license to use a watercourse for a mill has been held valid in more than one case. In Le Fever v. Le Fever, 4 Serg. 6 R, 241, and in Gheever v. Pearson, 16 Mass., 443, a parol license was adjudged valid and irrevocable after being executed. And in Rerich v. Kerns, 14 Serg. & R, 267, it was held by Gibson, C. J., not only that damages might be recovered at law for the injury to such license by a deprivation thereof or obstruction of its enjoyment, but that equity would protect it by injunction, specific performance, or otherwise. That case was not more unconscionable on the part of the defendant than the present. Upon the faith of the promise of Hazelton the complainants have expended large sums of money in a mill which will be rendered valueless if the appellant is to be allowed to avoid his solemn promise and license. Such a construction of the statute would promote fraud and not prevent it. The case is analogous to that of part performance by the vendee of lands, where the taking possession and making lasting and valuable improvements is always now held to take the case out of the statute. Gibson, C. J., says, in the case of Le Fever v. Le Fever, above referred to, \u201cit may be safely affirmed, that expending money or labor in consequence of a license to divert a watercourse or use a water power in a particular way, has the effect of turning the license into an agreement that will he executed in equity.\" Mr. Angel\u00ed (on Watercourses, p. 93) says that \u201c the court in the above case are well sustained by authority as well as reasonIn Mb-Kellip v. Mclllienney, 4 Watts, 817, a parol license was given m evidence to justify the flowage of land by the erection of a dam below. In Crosby v. Wadsworth, 6 East, 602, a deed had been executed conveying a right of watercourse, but parol evidence was admitted to prove a verbal agreement altering the route of the watercourse from that provided in the deed. In Eq. Ca. Abr., 523, A. diverted a watercourse which B. had at great expense erected. B. looked on and connived at the diversion, and afterwards brought his action for nuisance. Upon a bill brought by A., the action was enjoined. In Gay v. Bartlett, 20 Pick., 186, it was held that a license once executed is not revocable. True: were it otherwise, one would be encouraged to take advantage of his own wrong. This the law abhors.\nIt will avail appellant nothing that he revoked the license. It was too late. Already, in pursuance of the license and agreement, complainants had expended large sums and made lasting improvements \u2014 in the words of the authorities the license was executed; it was no longer revocable. Considered in the light of an agreement for an easement, the contract made in the month of April, 1840, though by parol, and even without any money consideration, must now stand. It is now well settled, so much so that it is deemed unnecessary to quote authorities thereto, that the taking possession of and making lasting and valuable improvements upon land by tbe vendee under a parol contract for the sale thereof, takes tbe case out of the statute of frauds, and such contracts will be enforced in equity. The same may be said with regard to a gift. Doubtless a gift unexecuted is void. But if a donee be put in possession and make improvements upon the land, a conveyance will be decreed. Why ? Because the parties cannot be placed in statu quo. Damages may not compensate, and equity will not put a construction upon a remedial, beneficial statute to work inequity, and encourage fraud and injustice. Yet this was not without consideration. There was the want of milling facilities in that neighborhood, and the respondent could not but be benefited by the erection of a mill immediately adjoining his farm. He himself confesses this as the inducement, and in every view of the case it would be an act of the grossest injustice and wrong to permit him to back out of the contract. See also 17 Serg. & R., 888; 4 East, 107; Angel\u00ed on Watercourses, 58 ; 3 Kent Com., 452."
+  },
+  "file_name": "0107-01",
+  "first_page_order": 105,
+  "last_page_order": 119
+}

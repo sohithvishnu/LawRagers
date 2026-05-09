@@ -1,0 +1,229 @@
+{
+  "id": 6753310,
+  "name": "Prince against Case",
+  "name_abbreviation": "Prince v. Case",
+  "decision_date": "1835-06",
+  "docket_number": "",
+  "first_page": "375",
+  "last_page": "383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Conn. 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Day 467",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "pin_cites": [
+        {
+          "page": "8, 9"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Mass. Rep. 286",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pick. 43",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070920
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0045-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 637",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0558-01"
+      ]
+    },
+    {
+      "cite": "6 Mass. Rep. 487",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000749
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0400-01"
+      ]
+    },
+    {
+      "cite": "8 Pick. 402",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Pick. 283",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013145
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/25/0290-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 514",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2004013
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0449-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Rep. 418",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Mass. Rep. 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053400
+      ],
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0478-01"
+      ]
+    },
+    {
+      "cite": "5 Day 469",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Day, 464",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "case_ids": [
+        6753666
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/day/5/0464-01"
+      ]
+    },
+    {
+      "cite": "10 Pick. 540",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Pick. 402",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Pick. 283",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013145
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/25/0290-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 514",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2004013
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/4/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 884,
+    "char_count": 21456,
+    "ocr_confidence": 0.627,
+    "pagerank": {
+      "raw": 1.5513337681136288e-06,
+      "percentile": 0.9922391228214463
+    },
+    "sha256": "9072f70586c9cbb5a6fa0a13b4cd15d1de9bc04a9438bc26814ebf0a13a682b3",
+    "simhash": "1:b3f3b02512c3e87d",
+    "word_count": 3931
+  },
+  "last_updated": "2024-02-27T17:31:41.230617+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "The other Judges were of the same opinion."
+    ],
+    "parties": [
+      "Prince against Case."
+    ],
+    "opinions": [
+      {
+        "text": "Willi ams, Ch. J.\nThe questions reserved are, whether the plaintiff could recover any thing; and if so, whether damages should be assessed upon the principle that he had a right to have the house remain on the land, or only had a right to remove it.\nThe plaintiff claims, that by putting the house upon the land of Case, by his consent, Prince remained the owner of it, with a right to have it remain there. It has been decided in Massachusetts and Maine, that the house^pp^Dther building remains the property of him who placed it there, and is personal property in him. Wells v. Bannister, 4 Mass. Rep. 514. Marcey v. Darling, 8 Pick. 283. Ashmun v. Wil liams, 8 Pick. 402. 404. Curry v. Com. Ins. Co., 10 Pick. 540. Ricker v. Kelly, 1 Greenl. 117. In these states, it will be remembered, that they have no court of chancery with ordinary chancery powers. This court, however, in Benedict v. Benedict, 5 Day, 464. 467. seem to have adopted the ancient common law doctrine, that a fixed and permanent building erected upon another\u2019s land, even by his license, became his property; but if, in its nature and structure, it was capable of being removed, and a removal was contemplated by the parties, it was personal estate in the builder; and where the license was improperly revoked, resort must be had to a court of chancery. As the defendant in this case has not claimed the property in the building to be his, but has taken it down, and left the materials for the owner, it does not seem to be necessary for us to inquire whether the doctrine held in Massachusetts, or that adopted by a majority of this court in the case above cited, is correct. We need only inquire whether if the plaintiff had a right to this building, the defendant was justifiable, under the circumstances of the case, in taking it down ; in Other words, whether the license to build, by Dudley Case, gave a right to Prince and his heirs and assigns, to keep this house in that place. Was it an interest assignable, transmissible to heirs, and liable to be sequestered for his debts ?\nThe plaintiff takes the affirmative of this proposition. He says, it is a license executed, and therefore irrevocable. As a general rule, that proposition is correct. But it cannot be true, when some other principle of law is to be violated, by such a construction. Thus, if a man authorize another to take away a certain dam, by which his land is flooded, and it is done, no attempt to revoke or alter its effect can be available. But it does not follow from this, that if a license was given to erect the dam on the land of another, and continue it there forever, the license to continue it would be irrevocable. If it did, it would be in the face of the statute which requires all conveyances of an interest in lands to be in writing. For a license, by which this. dam could be continued in this place forever, would be as effectual in that case as a deed for the same purpose ; and no case has been cited that goes this length. In Web v. Paternoster, Palm. 71. where license was given to put a stack of hay upon land, it was held, that it could not be countermanded, until after a reasonable time had elapsed. This was, however, before the statute of frauds. In Winter v. Brockwell, 8 East, 308. where Lord Ellenborough recognized this principle, the plaintiff permitted the defendant to create a sky-light over his own premises, through which the plaintiff claimed a right to air and light; and Lord Ellen-borough held, that it was not countermandable, at least without placing the party in the situation in which he was before. In Tayler v. Waters, 7 Taun. 374. it was held, that a ticket to the defendant and his assigns, for twenty-one years, to visit the theatre, was not an interest in lands within the statute; and a case is there cited, ( Wood v. Lake, Sayer 3. S. C. Burrough\u2019s MSS. p. 36.) that a license to stack coals on land for seven years, cannot be revoked in three years. The case of Liggins v. Inge, 7 Bingh. 682. (20 Serg. & Lowb. 287.) was also cited. The parties were both mill-owners on the same stream. The defendant cut down a bank on his own land and erected a weir, by consent of the plaintiff\u2019s father, by which the water was diverted from the plaintiff\u2019s mill. Finding an injury to result, notice was given to the defendant to raise the bankas before, and a suit was brought. The court held, that as the plaintiff\u2019s father had in effect consented to this diversion of the water, he must be considered as having abandoned his right to have the water flow in that course, and could not complain. In these cases, it was held, that no interest was conveyed in the land ; and in the last case, the court intimate a very decided opinion, that if that was attempted, the conveyance would be void. In one case, it is said, that Lord Mansfield ruled, that if a man stood by, and saw another build on his land, he could not sustain an action of ejectment. 5 Term Rep. 556. This, however, has been sanctioned, it is believed, by no other judge. In Matts v. Hawkins, 5 Taun. 23. Gibbs, J. doubted it; and it was holden, by the court of King's Bench, that where a license was granted to erect a cottage, on land of the lord, and it was actually erected, this was not a license, but a grant which might be recalled immediately, a mere permission to occupy. The King v. Horndonon-the-hill, 4 Mau. & Selw. 562. And we know it is every day\u2019s practice, in such cases, to resort to a court of equity for redress, which -would be entirely unnecessary, if Lord Mansfield\u2019s opinion was considered as law. And in the case of Benedict v. Benedict, 5 Day 469. Judge Swift says, in such case the only remedy of the purchaser is in equity.\nThis subject is treated by Parker, Ch. J., in the case of Cook v. Stearns, 11 Mass. Rep. 533, 538. in a most satisfactory manner. \u201c Licenses to do a particular act,\u201d says he, \u201c do not, in any degree, trench upon the policy of the law, which requires that bargains respecting the title or interest in real estate shall be by deed or in writing. They amount to nothing more than an excuse for the act, which would otherwise be a trespass. But a permanent right to hold another\u2019s land, for a particular purpose, and to enter upon it, at all times, without his consent, is an important interest, which ought not to pass without writing, and is the very object provided for by the statute.\u201d\nBut whatever might have been the effect of this between the parties, here third persons are interested. The defendant has purchased this estate, without any notice of the plaintiff\u2019s claim. Had the plaintiff taken a deed from Dudley Case, and not recorded it, he could not have claimed against this defendant; and can he be in a better situation by a parol license than he would have been by a deed ? The policy of our law is, that titles to real estate shall appear upon record, so that all may in this way be informed where the legal estate is< But were this new mode of conveyance to prevail, incumbran-ces might frequently be found to exist, against which no vigilance could guard, no diligence protect. Our records would be fallacious guides ; and when we had gained all the information they could give, we should remain in doubt as to the title. It is much better to leave those who had ventured to rely upon the word or honour of another, to resort to that word or honour for their redress, J than to suffer a person who had resorted to the official register, to be defeated, by secret claims of this kind. The law cannot prefer the claims of those who take no care of themselves to those who have faithfully used all legal diligence. If a loss is to be sustained, it is more reasonable that he who has neglected the means the law put into his power should suffer, rather than he who has used those means.\nIt is said, however, that notice is to be implied, because Prince's possession was notorious. But of what was this notice ? That he was in possession ; and of nothing more. It did not prove, that he claimed title, or that he was other thgn the tenant of the owner of the farm. The purchaser, finding the possession of the farm generally in the representatives of Dudley Case, and that the same was sold under an order of probate as the property of Case, was not bound to presume, that a corner of the lot occupied by Prince was claimed by him as his property. If he examined the records, they showed, that the whole farm had been conveyed since such occupation by Case as his own. And such an occupation is surely very slight evidence of title.\nThe actual notorious possession of real estate, by a bonajide purchaser, may, with other circumstances, be evidence against a purchaser or creditor, that he had notice of the conveyance when he purchased, and so that his purchase was a fraud upon such possessor. But here no other fact exists tending to shew any fraud upon him. Upon this simple fact no such inference can be drawn.\nPerhaps, however, it is not necessary to consider even these questions, because the license given in this case is not of the character claimed. It was a mere personal privilege, given to Prince, the elder, and never extended to his heirs or assigns. Now, if Case had put this into a deed, and granted him a license to erect a house there, for his use, surely the most that could be claimed would be an estate there for his life. It would not be assignable or transmissible to heirs. When then this license is given by parol, it imports just what men unskilled would think it imported. A good understanding existing between these two men, and the owner of the land, being willing to have the other for a neighbour, instead of giving him a deed of land, which would authorize him to introduce any one he might choose, says, \u201c you may build a place for you to live in.\u201d It is a personal privilege; and without saying whether it is countermandable at the will of the owner or not, we have no hesitation in saying, that it expires when he who is the object of it dies. The rule is, that \u201c a license doth not extend but to him to whom it is given, and cannot be granted over.\u201d The King v. Newton, Bridg. 115. Howes v. Ball, 7 Barn. & Cres. 481. (14 Serg. & Lowb. 90.)\nIn the case of Jackson d. Hull v. Babcock, 4 Johns. Rep. 418. where one Goodrich gave a license in writing to one Hitchcock to build a house about the pool at New-Lebanon, and occupy it during his necessity or pleasure, and Hitchcock built a small house, and occupied it seventeen years, and then sold it to one Cragie, the court held, that Hitchcock had only a personal license or privilege to inhabit, and had no title to the premises; and that his sale to Cragie put an end to this privilege.\nHere, Prince, the father, not only sold to the plaintiff, but both he and Dudley Case are dead; and unless this is an interest assignable or transmissible to heirs, it is extinguished.\nIf the right was then extinguished, perhaps no notice to remove the building was necessary. JBut if it was, the ejectment which has been brought, the recovery under it, and the possession taken, are sufficient notice that the defendant intended to resume his rights. More than a year after possession was taken under the ejectment had elapsed, and the plaintiff did not remove the building. This surely was a reasonable time ; and the defendant had as good a right to take away the building from his premises as in the case of Web v. Paternoster, before cited, he had a right to turn his cattle into a field where he had allowed the plaintiff to stack his hay, and a reasonable time had elapsed for him to take it away. Palm. 71.\nThe remaining question is, has he done this in a reasonable and proper manner ? The house might have been worth more to the plaintiff, had it been removed without taking it to pieces; but the plaintiff had provided no place for it; and surely the defendant was not bound to provide one, nor could he be bound to incur that expense.\nIt is not shewn, that the defendant has been guilty of any wanton destruction of the property, or any unnecessary injury in taking it down. If not, and he had a right to remove it, it is not easy to see upon what principle he can be liable for any damages. Had he interfered with an attempt of the plaintiff to remove the building, a different question would have arisen. But as the plaintiff neglected, for so long a period, to make this attempt, the defendant was justifiable in removing it himself.\nThe superior court are therefore advised to enter up judgment for the defendant.\nThe other Judges were of the same opinion.\nJudgment for defendant.",
+        "type": "majority",
+        "author": "Willi ams, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "Hungerford, for the plaintiff,",
+      "W. W. Ellsworth, for the defendant,"
+    ],
+    "corrections": "",
+    "head_matter": "Prince against Case.\nA license given, by the owner of land, to another, to erect a house on such land for his use, operates only as an excuse for the act, and passes no interest iipthe land.\nAt any rate, the title of a purchaser of the land from the owner, without no. tice of jny claim arising from such license and the consequent erection of the house, is not qualified or affected thereby.\nSuch license is also a personal privilege merely, not extending to the heirs or assigns of the persons to whom it is given ; and whether it be counter-mandable or not, during the life of such person, it expires at his death.\nThe occupation of the house by him who erected it, implies no claim of title in him, and conveys no notice of such claim to a purchaser.\nWhether any notice to remove the building, after the expiration of the license, by the death of the original parties, be necessary or not, a subsequent recovery in an action of ejectment, by the grantee of the owner of the land, with possession taken aud held for more than a year, is sufficient notice of his intention to resume his rights.\nTherefore, where A, the owner in fee of a tract of land, in 1817, gave B liberty to erect a dwelling-house for his use on such land ; B erected it accordingly, and lived therein until 1828, when he died ; before his death, he executed a deed of such house to C, his son; A had previously conveyed the land to D, by deeds containing no notice or exception of such license ; in 1829, D brought ejectment for the land and house against the person then in possession, recovered judgment, and in July, 1831, by virtue of an execution, was put in possession, and so continued until the fall of 1832, when he took down the house, thereby destroying it as such, but did not take away the materials ; in an action of trespass brought by C against D, it was held, that the defendant was not liable.\nThis was an action of trespass; tried at Hartford, September term, 1834, before Williams, J.\nIn the spring of the year, 1817, and before, Dudley Case was the owner in fee of a farm of land in Canton, on a comer of which he then gave to one Prince, the father of the plaintiff, liberty to erect a _small dwelling-house for his use, and to dig a cellar for it. He accordingly, at his own expense, dug such cellar and put up a building on the land; in which he lived until 1828, when he died. Before his death, he gave to the defendant a deed of the house, with its appurtenances, bearing date the 13th of December, 1826, which was recorded the same day. In the fall of 1832, the defendant took down the building, and thereby destroyed it as such, but did not take away the materials.\nHartford,\nJune, 1835.\nOn the 6th of October, 1821, Dudley Case, by deed of that date, duly executed, mortgaged all his farm, including the land on which the house in question stood, to Noadiah Wood-ruff, to secure the repayment of a sum of money due him. In 1824, Dudley Case died ; and in the settlement of his estate, by order of the court of probate, all his remaining interest in the farm was sold and conveyed to Erastus Case, by deed bearing date the 8th of October, 1824. On the 4th of November, 1832, Woodruff released all his interest to Erastus Case. On the 2nd of September, 1825, Erastus Case conveyed, by deed of warranty, one moiety of the premises, and on the 4th of November, 1828, by a like deed, the other moiety, to the defendant. All the above-mentioned deeds were recorded immediately after they were executed ; and in none of them was there any notice or exception of said license to i'rince. On the 9th of March, 1829, the defendant brought his action of ejectment to recover the seisin and possession of the land occupied by said building, with the building itself, against Tabitha Prince, the only occupant of the premises at the time, recovered judgment and obtained execution, by virtue of which the sheriff, on the 1st of July, 1831, turned her out of possession, and put the defendant in ; and the defendant continued in possession until the time of the wrong complained of.\nThese facts being agreed to, the jury found, that if the plaintiff had a right to have the house remain on the land, he was entitled to recover of the defendant 120 dollars damages ; and if he had not such right, but it was to be removed off the premises, 50 dollars.\nThe case was reserved for the advice of this Court upon the questions of law arising thereon.\nHungerford, for the plaintiff,\ncontended, 1. That the house being built with the consent of Dudley Case, upon his land, by Prince, the plaintiff\u2019s father, and of materials belonging to him, it continued his property, until the conveyance to his son. Wells &. al. v. Banister & al. 4 Mass. Rep. 514. Marcey v. Darling, 8 Pick. 283. Ashmun v. Williams & al. 8 Pick. 402. Ricker v. Kelley, 1 Greenl. 117. 1 Sw. Dig. 261. Osgood v. Howard,, 6 Greenl. 452. Even if the house had been tortiously placed upon the land o\u00ed Dudley Case, the property wonld still be in the father of the plaintiff. Welch v. Nash, 8 East 394. Dyson & al. v. Collic/c, 5 Barn. & Aid. 600. (7 Serg. & Lowb. 203.)\n2. That by the conveyance from Prince, the elder, to the plaintiff, the latter acquired title to the house and all the interest his father had.\n3. That by virtue of the license to the elder Prince, and of his acting under it, he acquired a right to have the house remain upon the land. Winter v. Brockwell, 8 East 308. Dyson v. Collide, 5 Barn. & Aid. 600. Web v. Paternoster, Palm. 71. Liggins v. Inge, 7 Bingh. 676. (20 Serg. & Lowb. 287.) Taylor v. Waters, 7 Taun. 374.\n4. That whether Dudley Case, or his representative, conveyed the land with, or without, notice of Prince\u2019s interest, is immaterial. He could not thereby affect Prince\u2019s rights : because, first, Prince, at all times until the sale by him, owned the house, and did not take it by purchase : Of course, no deed or record was necessary. Secondly, as soon as it was conveyed to the plaintiff, which was by deed, he procured his deed to be recorded, complying strictly with the requisites of the statute.\n5. That allowing that notice to purchasers was necessary, the notorious possession of Prince, the elder, was sufficient. Davis v. Blunt, 6 Mass. Rep. 487. Farnsworth v. Childs, 4 Mass. Rep. 637. and many other cases.\nW. W. Ellsworth, for the defendant,\ncontended, l / That the plaintiff could not maintain trespass ; the defendant being in possession of both the land and the house, and the plaintiff not being in possession of either. The defendant, by the levy of his execution, on the 1st of July, 1831, was put in possession of every part of the land and of the house ; and this possession was existing when the house was taken down.\n2. That if the plaintiff had any right to the house as personal property, it could only be to remove it after notice, or after the writ of ejectment was brought, or at most after the execution was levied ; which events were three years before the house was taken down. In all cases where a building on another\u2019s land has been held to be personal property, it has been also held, that the owner had only a reasonable time to remove it. A tenancy at will, or a license at will, is determined, by any act of the owner of the land evincing his desire to determine such an interest. Much more, then, will an action of ejectment and the levy of an execution have this effect. Express notice is not necessary to put an end to an estate at will. 1 Pick. 43. 47. 17 Mass. Rep. 286. 2 Bla. Com. 149. 153. The death of Dudley Case, the lessor, and of Prince, the lessee, was of itself sufficient to determine the estate. 2 Bla. Com. 153.\n3. That Prince had no title to the house. The defendant is the owner of the soil; and every thing permanently attached to it belonged to him. By the ancient common law, there being no agreement to the contrary, a building erected as this was, became a part of the freehold. The materials lost their character as personal property, when they were affixed to the soil, as much as the seeds put into the ground. To this ancient rule there has been an exception in favour of erections by tenants for life, for years or at will; they removing such erections in a reasonable time. All erections not under a special agreement or for trade, by a tenant, belong to the freehold ; and the party injured must seek redress in some other way than as legal proprietor. Eltoes v. May;, 3 East 52. Benedict v. Benedict, 5 Day 467, 8, 9. 1 Sw. Dig. 261. This house was not erected with a view to its being removed. It was, then, a part of the soil.\n4. That the possession of the house by Prince, was not notice of his claim. May not a man buy a house with a tenant in it? And what more is shewn here? The possession of the tenant is perfectly consistent with the record. In the case of personal property, even a record is not notice."
+  },
+  "file_name": "0375-01",
+  "first_page_order": 381,
+  "last_page_order": 389
+}

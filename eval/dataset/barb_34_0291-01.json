@@ -1,0 +1,115 @@
+{
+  "id": 5070765,
+  "name": "Platt vs. Munroe",
+  "name_abbreviation": "Platt v. Munroe",
+  "decision_date": "1861-01-01",
+  "docket_number": "",
+  "first_page": "291",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 Barb. 291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "11 C. B. 1035",
+      "category": "reporters:specialty",
+      "reporter": "C.B.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Marsh. 265",
+      "category": "reporters:state",
+      "reporter": "Marsh.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wend. 579",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005485
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0579-01"
+      ]
+    },
+    {
+      "cite": "14 John. 186",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/14/0186-01"
+      ]
+    },
+    {
+      "cite": "18 Wend. 99",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Wend. 79",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 698,
+    "char_count": 15597,
+    "ocr_confidence": 0.501,
+    "pagerank": {
+      "raw": 1.395535880592218e-06,
+      "percentile": 0.9906357474895254
+    },
+    "sha256": "f9f1080493551765d3e64aa8e2df3c993fa86dbddc585039f9b39d44959731ee",
+    "simhash": "1:32c328ad583c0ef0",
+    "word_count": 2768
+  },
+  "last_updated": "2024-02-27T21:57:18.655202+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Platt vs. Munroe."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Allen, J.\nMotions for new trials are addressed to the discretion of the court, whether based upon the weight of evidence, surprise, or newly discovered evidence, or the fact that the party has been deprived of his evidence by accident or other like grounds. (Judges of the Oneida C. P. v. The People, 18 Wend. 79. People v. Judges of the Dutchess C. P., 20 id. 658.) In modem practice they are liberally granted, in furtherance of justice. The discretion spoken of is said to be a legal discretion, not arbitrary, and yet it is not governed by fixed rules, for then there were no discretion. If in all cases established rules, whether of practice or statutory, controlled the judgment and action of the court in granting or refusing new trials, a new trial would be a matter of right in cases within the rule, and not a favor or in the discretion of the .court. Courts could not then be governed by circumstances and \u201c act without other control than their own judgment.\u201d Lord Mansfield says that \u201c discretion, when applied to a court of justice, -means sound discretion guided by law. It must be governed by rule, not by humor; it must not be arbitrary, vague and fanciful, but legal and regular.\u201d (Rex v. Wilkes, 4 Burr. Rep. 2539.) A definition which leaves but little room for the exercise of judgment, except to apply established rules of law, which is the duty of the judge in every case. Tracy, senator, says: \u201c It (discretion) means, when applied to public functionaries, a power or right, conferred upon them by law, of acting officially in certain circumstances according to th'e dictates of their own judgment and conscience, uncontrolled by the judgment or conscience of others. But what is to be understood by a discretion that is governed by fixed legal principles is, I must be allowed to say, something that I have not found satisfactorily explained, and what it is not easy to comprehend.\u201d (18 Wend. 99.) Every fixed rule of law applicable to a case must be enforced at the demand of any suitor. Courts have not the right or legal power to refuse it. When it is said that something is left to the discretion of a judge, it signifies that he ought to decide according to the rules of equity and the nature of circumstances, and so as to advance the ends of justice. (Bouv. Law Dic. h. t.) Whenever a clear and well defined rule has been adopted not depending upon circumstances, the court has parted with its discretion as a rule of judgment. Discretion may be and is to a very great extent regulated by usage or by principles which courts have learned by experience will, when applied to the great majority of cases, best promote the ends of justice, but it is still left for the courts to determine whether a cqse is \u201c exactly like in every color, circumstance and feature\u201d to those upon which the usage o.r principle was founded, or in which it has been applied. The action of the courts, upon applications for new trials, consists in a proper exercise of discretion-\u2014not arbitrary but legal\u2014forming and moulding their decisions on each case according to some precedent, or upon its own particular circumstances, so as best to subserve the purposes of substantial justice. (1 Gra. & Wat. on New Trials, 7. Edmondson v. Marshall, 2 T. R. 4.) In practice, cases have arisen from time to time which have admitted the application of well defined principles, and which have furnished precedents for all cases reducible to that class, and to a very great extent courts have been able to classify motions for new trials, and establish appropriate hules for each class. But it has nevef been attempted, and is entirely impracticable with any just view of the object and purpose of this equitable branch of the jurisdiction, to prescribe general rules by which every case must be decided, however much it may differ in circumstances from every other. Hence we find that although courts adhere to the general principles which result from the succession of decisions in all cases alike in circumstances or principle, the books are full of exceptional cases, in which the development of truth and the promotion of substantial justice have been deemed sufficient reasons for granting new trials, although they were not within any former precedent, and consequently not within the operation of any principle or rule established for the guidance of courts in the exercise of their discretion.\nAs a general rule, new trials will not be granted to admit newly discovered evidence merely cumulative in its character to that which was given upon the trial, or tb impeach the character or credit of a witness. (3 Gra. & Wat. on New Trials, 1021.) But in actions of ejectment for military bounty lands, where the question was upon the identity of the soldier and patentee, both rules were disregarded owing to the obscurity, and the multifarious frauds, attendant upon those titles. The court was of the opinion that the peculiar circumstances of the cases took them out of the general rule, and that the ends of justice were to be best answered by granting new trials more liberally than was done in ordinary cases. (Jackson v. Kinney, 14 John. 186. Jackson v. Crosby, 12 id. 354. Jackson v. Hooker, 5 Cowen, 207.)\nIt is very evident that the plaintiff labored under a great disadvantage, if in truth the note is genuine, in not being able to produce it upon the trial. The principal witness had been and then stood indicted for its forgery, and the production of the note upon the trial of that indictment was necessary to a conviction, and its non-production upon the trial of this action, and its alleged loss, might well be used with great force in the impeachment of the witness as well as the note. It is equally clear that the highly respectable witnesses called to disprove the genuineness of the note, could not testify as satisfactorily to themselves, or to the court or jury, as they could have done with the note before them; and had the verdict been for the plaintiff, and the note subsequently brought to light, it would have been almost a matter of course to grant the defendant a new trial, with a view to the elucidation of the truth. In the cross-examination of their witnesses, the plaintiffs could not test the accuracy of their judgment by the note itself, and had not the means to convince them, by a deliberate examination of the signature, and questions properly put relating to the peculiarities of the handwriting, that it was genuine and not forged. The plaintiffs are without fault, and are guilty of no negligence in not producing the note at the trial, although not surprised, in the ordinary sense of that term. In practice, by surprise is understood that situation in which a party is placed without any default of Ms own wMch will be injurious to Ms interest. The courts always do every thing in their power to relieve a party from the effects of a surprise when he has been diligent in endeavoring to avoid it. (Bouv. Law Dic. h. t. 1 Clarke\u2019s R. 162. 3 Bouv. Inst. 512.) The plaintiffs were in a situation\" in which their interests were liable to suffer without their fault, and after having been diligent in their efforts to avoid it, and when they had no reason to suppose after the search already mack for the note that a further postponement of the trial would benefit them. The event shows that a postponement would have enabled them to produce the note, and for this reason, proceeding to trial under a mistake, they are entitled to relief. (3 Bouv. Inst, supra.) It is in a sense newly discovered evidence, and not of the same character as that given upon the trial. It is a higher grade. Had the plaintiffs been able to produce the note, they would not have been permitted to give secondary evidence of it. It would have been the highest and only competent evidence of its existence. Evidence is not strictly cumulative which is of a different Mnd and character from that adduced on the trial. In Guyot v. Butts, (4 Wend. 579,) the evidence on the trial was circumstantial and the evidence newly discovered was positive - and direct, and a new trial was granted. But the case cited is more important as illustrating the shades of difference which will be regarded as taking a case out of the general rules when a full and fair investigation of truth demand it. The circumstances in that case were that the demand was stale, and the defendants were executors, without the means of discovering and collecting facts which the immediate parties to the transaction had, and the last circumstance chiefly influenced the court in granting the new trial. And see per Woodworth, J., Porter v. Talcott, (1 Cowen, 381, 2,) as to what is and is not considered cumulative evidence when the ends of justice require a retrial of an issue of fact.\nOther cases may be cited, showing the liberality of courts in granting new trials when it is apparent that without the fault of the party asking it, or any neglect on his part, he has been deprived of some important evidence, either parol or documentary. In an action on a policy, where the defendant by the mistake of his witness failed in producing the necessary document from the admiralty for proving a breach of the convoy act, the court granted a new trial in order to let him into his defense after verdict found for the plaintiff on the merits. (D\u2019Aguilar v. Tobin, 2 Marsh. 265.) See also Richards v. Lewis, (11 C. B. 1035,) where a new trial was granted, although the party had not made inquiry of all the parties in whose possession the necessary document might be supposed to be, on the ground of surprise. The search was held clearly insufficient to authorize secondary evidence to be given, and yet relief was granted. And in Doe v. Erringion, (2 Har. & W. 448,) where a plaintiff had been non-suited on the ground of non-production of a bill of exchange, the court granted a new trial upon an affidavit that the bill had been sent out of the jurisdiction of the court; had been sent for in due time, but not received until too late for the trial; and that it was then in' the plaintiff\u2019s possession. (Atkins v. Owen, 4 Nev. & M. 123.)\nThe case before us is peculiar in all its circumstances upon which the application is founded. It is not within any of the precedents cited, and is so peculiar that it can scarcely be expected to serve as a precedent for the future. The jury have not had the best means of arriving at the truth, the plaintiffs have been deprived without their fault of a very important piece of evidence differing in character from that which they gave upon the trial, and are now able by this newly discovered evidence to remove a very just ground of suspicion that rested upon their case. The case is important in amount, and in its result involves the character of the principal witness. The granting of a new trial does not reflect upon the merits of the defense, as it does not touch the merits of the action; and if the signature of the defendant has been forged, the production of the note will enable him to prove it, .most clearly, while to refuse the new trial would be to exclude the very best evidence of which the case is susceptible and which could .have been produced on the trial.\n[Onondaga General Term,\nJanuary 1, 1861.\nI am of the opinion that the proper development of the truth and the advancement of justice required a new trial to be granted, and that the order should be affirmed.\nBacon, Allen, Mullin and Morgan, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Allen, J."
+      }
+    ],
+    "attorneys": [
+      "Mr. Cox, for the appellant.",
+      "F. Fernan, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Platt vs. Munroe.\nMotions for new trials are addressed to the discretion of the court, whether based upon the weight of evidence, surprise, or newly discovered evidence, or the fact that the party has been deprived of his evidence by accident, or other like grounds.\nIn modern practice they are liberally granted, in furtherance of justice.\nIn an action against one as joint maker of a promissory note, the defendant set up the defense that the signature of his name was a forgery. The note, shortly before the circuit, was put into the hands of H., a counsellor of the court, to enable him to prepare for the trial, and the cause being put over, the note remained in the hands of K, who died before the next circuit, and the note could not be found, so as to be produced on the trial. The trial was put over by the plaintiff, one circuit, for that cause. The plaintiff being still unable to find the note, the action was finally tried as upon a lost note. The plaintiff called the other maker of the note, as a witness, who testified to the signing of the note by the defendant, but the plaintiff was unable, by reason of the supposed loss of the note, to call witnesses to the handwriting. The defendant proved, by witnesses who had seen the note, that the signature was not his. The jury found a verdict for the defendant. After the trial, the note was found in the possession of one to whom H. had handed it for safe keeping. Upon a case, containing the evidence, and an affidavit stating that he could now prove the signature of the defendant to the note, the plaintiff moved for a new trial. Held that under the peculiar circumstances of the case the proper development of the truth, and the advancement of justice, required that a new trial should be granted.\nACTION against the defendant as joint maker of a note with one Anderson, tried before Mull\u00eds, J. at the Oneida circuit, in dune, 1859, and a verdict rendered for the defendant. The defense was that the signature of the defendant\u2019s name was a forgery. The note, shortly before the J une circuit in 1858, was put in the hands of Mr. Hillis, a counsellor of the court, with a view to a preparation for a trial at that circuit. The cause was put over that circuit upon the application of the defendant, and the note remained with Mr. Hillis, who died in February, 1859. After his death the note could not be found, and the trial of the cause was put over one circuit by the plaintiff for that cause, and after exhausting every effort to find the note, the action was tried at the time mentioned, as upon a lost note. The plaintiff called the other maker of the note,'who testified to the signing of the note by the defendant, but the plaintiff was unable, by reason of the supposed loss of the note, to call witnesses to the handwriting. The defendant called several witnesses to whom the note had been shown by him or his agents, who testified more or less confidently that the handwriting was not in their opinion that of the defendant. Anderson was examined at length in relation to his dealings with the defendant and the circumstances under which the note was made and the transactions connected with it, and evidence was given tending, as it was claimed, to contradict him in those matters.\nAfter the trial of the cause the note was found in the possession of one to whom Mr. Hillis had handed it with other papers for safe keeping, temporarily, as he was leaving home upon a certain occasion, and the note is now in the possession of the plaintiffs. Upon a case made containing the evidence in the action, and upon an affidavit stating the circumstances connected with the loss and s\u00fabsequen\u00ed finding of the note, in detail, and \u201c that the plaintiff can now produce witnesses who knew the defendant Munroe and his handwriting, have seen him write, and will testify that the signature to the note in suit is in his handwriting,\u201d a motion was made before Bacon, J., in November, 1859, for a new trial, and the same was granted, with costs to abide the event; from which order the defendant appealed.\nMr. Cox, for the appellant.\nF. Fernan, for the respondent."
+  },
+  "file_name": "0291-01",
+  "first_page_order": 291,
+  "last_page_order": 298
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2135931,
+  "name": "Irwin against Knox",
+  "name_abbreviation": "Irwin v. Knox",
+  "decision_date": "1813-08",
+  "docket_number": "",
+  "first_page": "369",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "10 Johns. 365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Johns. Rep. 210",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 176,
+    "char_count": 2273,
+    "ocr_confidence": 0.572,
+    "sha256": "ee9753eb1e9405b2e5c5525486554f5d10ad7c550fc4f2f002fe373995657ea6",
+    "simhash": "1:e6a413297a38dce8",
+    "word_count": 402
+  },
+  "last_updated": "2024-02-27T21:37:11.421168+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Irwin against Knox."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe former judgment, as far as it respected the demand for the steer, was a bal*, to the present suit for the same cause. It appears that the plaintiff had exhibited that demand to a jury in a former suit, and that jury took it into consideration, but gave no damages on account of that demand, for want of sufficient proof, '\nAs the demand was not abandoned by the plaintiff before or at the trial, but submitted to the jury, the former verdict is a bar. (Brockway v. Kinney, 2 Johns. Rep. 210.) As, then, improper cvidence was given to the jury in this suit, and as we cannot say bow much of the verdict embraced the demand for the steers, tjie judgment, in this view, must be considered erroneous.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Irwin against Knox.\nALBANY,\nAugust, 1813.\nin au actio;? tkc.ihe^jiaffi ^Ts%'orT'T' oas charges* proved That \u00bfhartes-S-t* hfut-dir- him in a formev Si\u2019nlntoroT\"that veno it, for want of sufficient proof. The jury in the second suit having given a verdict, for the whole of his demand, including this charge as well as others, the verdict, and judgment thereon* were held to be erroneous, the former trial and verdict being a bar to so nuseb. t)\u00a3 the pb.u^iiE'\u2019; demand.\nIN ERROR, on certiorari from a justice\u2019s court. Irwin sued Knox, before the justice, and demanded damages for the defendant\u2019s carelesly leaving salt in the public highway, by which his steer was killed; for breaking a plough; goods sold, &c.\nThe defendant pleaded that all the charges in the plaintiff\u2019s declaration, except the last, had been Submitted to a former jury, and demanded a nonsuit, which was refused by the justice.\nThe defendant asked for an adjournment of the trial, but offered no security. There was a trial by jury. The defendant set up the former trial in bar. The plaintiff offered to show that fee jury on the former frial did not take the charge of the toss of the steer into their consideration, for want cI proof, and which was proved by one of the former jury; but it appeared that the former jury, after retiring to consider of their verdict, talked some time about the steer. After proof of the other parts of the plaintiff\u2019s demand, the jury, in this case, found a verdict for the plaintiff) for 23 dollars, on which the justice gave judgment."
+  },
+  "file_name": "0369-02",
+  "first_page_order": 389,
+  "last_page_order": 390
+}

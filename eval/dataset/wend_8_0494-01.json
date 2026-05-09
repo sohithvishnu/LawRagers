@@ -1,0 +1,74 @@
+{
+  "id": 2147342,
+  "name": "H. C. Rossiter vs. W. S. Rossiter",
+  "name_abbreviation": "Rossiter v. Rossiter",
+  "decision_date": "1832-01",
+  "docket_number": "",
+  "first_page": "494",
+  "last_page": "499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Wend. 494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Mass, R. 70",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 576,
+    "char_count": 12230,
+    "ocr_confidence": 0.715,
+    "pagerank": {
+      "raw": 3.7383653582565447e-06,
+      "percentile": 0.998186766873281
+    },
+    "sha256": "fa547ac6d6c409d59c5005d25c7a85629dc958bdeff7b3835fbfe9de8032c211",
+    "simhash": "1:ecc6e4cd6ce9d9c6",
+    "word_count": 2165
+  },
+  "last_updated": "2024-02-27T20:23:45.286821+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "H. C. Rossiter vs. W. S. Rossiter."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court Savage, Ch. J.\n. The distinction between a general and special agent is well settled : the acts of the former bind the principal, whether in accordance to his instructions or not; those of the latter do not, unless strictly within his authority. In this case, the defendant was the special agent of Pynchon; his letter of attorney specifies what business he is to transact: 1. He was to collect all demands due Pynchon, and to discharge and compound the same; He had authority to dispose of the real estate of Pynchon; and 3. To accomplish at discretion a complete adjustment of all the concerns of Pynchon. Does this latter clause confer any authority not relating to the business previously mentioned ? The case of Hay v. Goldsmidt, cited by Lawrence, justice, in Hogg v. Smith, 1 Taunt. 356, was as follows : The plaintiff\u2019s testator had given a letter of attorney to J. & R. Duff to ask, demand and receive of the East India Company all money that might become due to him on any account whatsoever, and to transact allbusiness, and upon non-payment, to use all such lawful ways and means as he might do if personally present. Under this power the attornies received an India bill which they endorsed to the defendants, who discounted the bill; the defendants received the money on the bill, to recover which this action was brought. The court was of opinion that the power to transact all business did not authorize the attornies to endorse the bill; they said \"the most .large powers must be construed with reference to the subject maJ ter; the words all business must be confined to all busine^P necessary for the receipt of the money. In Fenn v. Harrison, 3 Taunt. 757, a special agent endorsed a bill contrary to .the instructions he had received from his principals, and the court held that they were not liable. In The East India Co. v. Hensley, 1 Esp. 111, the distinction was taken between a general and special agent; and where a broker was authorized to purchase the best Bengal raw salk, but purchased that which was not so, Lord Kenyon held the principal was not holden, because the contract was made without his authority*. In Batty v. Carswell, 2 Johns. R. 58, an attorney was authorized to sign a note for the defendant of $250, payable in six months, and he drew one payable in sixty days. Livingston, justice, says \u201c this was a special power and ought to have been strictly pursued;\u201d and the note was made without authority. In Nixon v. Hyserott, 5 Johns. R. 58, a power was given to execute, seal and deliver such conveyances and assurances as might be necessary, but no special authority was given to bind the principal by covenants ; the attorney executed a deed with the covenants of seisin, &c. and the court said a conveyance or assurance is good and perfect without warranty or personal covenants, but no authority was given to bind the principal by covenants. In Gibson v. Colt, 7 Johns. R. 390, the owners of a vessel authorized the master to sell a ship in the same manner as they themselves might and could make sale, &c. The master sold the vessel and represented that she was a registered vessel, whereas she had only a coasting licence. The court held the owners were not bound The master was a special agent, and if he exceeded Ms authority when he made the representation, his principals were not bound, and therefore the remedy was against the agent alone. The same doctrine will be found in White v. Skinner, 13 Johns. R. 307, and Munn v. Commission Co. 15 id. 44, and many other cases.\nIt was contended on the part of the defendant that Pynchon had recognized the acts of the defendant subsequently, and thereby his liability on the note was established, even if the authority by the letter of attorney were doubtful; but I apprehend the true question is, whether the defendant had at the time authority to sign the note, and thereby obligate Pynchon to its payment. The note when executed was either the note -of one or'the other ; if it was the note of Pynchon, then the defendant is not liable ; if it was not the note of Pynchon, it was the defendant\u2019s note. The cases cited shew that the authority of a special agent must be strictly pursued. The letter of attorney specifies two subjects upon which authority is given, and it is added, to accomplish a complete adjustment of all my concerns in said state. According to the case in Taunton, this only extends to the collection of money, and the disposition of the real estate. It seems to me it is going too far to say that the power given authorized the giving a note for $600, or any other sum. Making an adjustment of his concerns, if it relates to any subject not previously mentioned in the letter of attorney, is no authority for sigmng a note. If the judge erred in Ms charge, it was an error in favor of the defendant.\nNew trial denied.",
+        "type": "majority",
+        "author": "By the Court Savage, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "J. A. Spencer, for defendant.",
+      "W. W. Frothingham, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "H. C. Rossiter vs. W. S. Rossiter.\nALBANY,\nJan. 1832.\nA power of attorney to collect debts; to execute deeds of lands; to accomplish a complete adjustment of all concerns of the constituent in a particular place, and to do all other acts which the constituent could do in person, does not authorise the giving of a note by the attorney in the name of the principal.\nIt seems, that the larger powers conferred by the general words, must be construed with reference to the matters specially mentioned; and in this case it was held that authority to accomplish a complete adjustment, &c. did not authorise the giving of a note on the purchase of property.\nThe acts of a special agent do not bind the principal unless strictly within the authority conferred.\nWhere the drawer of a note affixes his signature as the agent of another, if in an action against him personally, he claims to have had authority to sign as he did, he is bound to shew such authority existing at the time of the making of the note, and is not permitted to shew a subsequent ratification by his principal.\nThis was an action of assumpsit, tried at the Monroe circuit, in September, 1830, before the Hon. Addison Gardiner, one of the circuit judges.\nIn the spring or summer of 1826, a mercantile firm transacting business at Watertown, in the county of Jefferson, under the name o\u00ed Fry & Murdock, failed, and assigned the property of the firm to Henry R. Pynchon, of New-Haven, in Connecticut, who stood bound as their endorser, in the sum of $15,-000. William S. Rossiter came to Watertown with a power of attorney from Pynchon, took charge of the property assigned, and was employed as the agent of Pynchon during the summer of 1826, in arranging and settling the concerns of the firm of Fry & Murdock, the latter of whom is the brother-in-law of Pynchon, having married his sister. Murdock was in possession o\u00ed household furniture worth $1000, which he had assigned to Henry C. Rossiter, the plaintiff in this cause, to secure the payment of $612,19, due to him. To release the furniture from such assignment,'1 William S. Rossiter, the agent of Pynchon, on the 28th of July, 1826, gave a note to Henry C. Rossiter, for the above sum of $612,19, payable in three years, with interest, and signed the same \u201c Henry R. Pynchon, by his attorney, W. S. Rossiter, and took an assignment of the furniture to Pynchon, and let the same to Murdock, who ever since has paid rent for the same to W. S. Rossiter, as the agent of Pynchon, which agency still continues. When the note became due, payment was demanded of Pynchon, who refused to pay the note, declaring that he was not liable for the payment thereof, and denied the authority of W. S. Rossiter to give the note as^ his agent. The defendant produced in evi\" dence a power of attorney from Pynchon to him, bearing dat\u00ae the 16th February, 1826, whereby Pynchon appointed him his attorney to secure, demand and sue for all sums of money then due, or thereafter to become due to Pynchon, in the state of New-York or in the British Provinces of North America, and to discharge and compound the same; to execute deeds of lands then or thereafter to be owned by Pynchon in the state of New-York, and to accomplish, at his discretion, a complete adjustment of all the concerns of Pynchon in the state of NewYorh, and to do any and every act in his name which he could do in person. The defendant then offered to prove that after the making of the note, Pynchon assented to the same. The plaintiff objected to this testimony, insisting that if the defendant had no authority, as the agent of Pynchon, to make the note at the time of the making thereof, the plaintiff had a right to hold the defendant personally for the payment thereof, and that the subsequent assent of Pynchon could not divest such right. The judge over-ruled the objection, deciding that evidence 0f Pynchon\u2019s assent, after the making of the note and previous to its falling due, was admissible. The defendant then Proved that during the summer of 1826, a constant correspondence was maintained between the defendant and Pynchon, and that Pynchon had expressed his unqualified approbation of the manner in which the defendant had transacted his business at Watertown. The defendant also attempted to prove an express approval by Pynchon as to the giving of the note in question, but succeeding only in shewing that' the giving of the note had been spoken of in the hearing of Pynchon, and that he did not intimate his disapprobation. The judge charged ^ the jury that the power of attorney did not confer authority upon the defendant to make the note as the agent of Pyn- ' chon, but instructed them that if they were satisfied that ; Pynchon had distinctly and unequivocally recognized the act j of the defendant in giving the note, either by his acts or declara- I tions, Pynchon was liable for the payment thereof, and they must find for the defendant. The jury found for the plaintiff, and the defendant now moved to set aside the verdict.\nJ. A. Spencer, for defendant.\nThe power of attorney authorized the giving of the note ; the authority it confers is very broad and general; it substituted the defendant in the place of Pynchon, and if the defendant did no more than Pynchon himself would have done had he been present, the acts of the attorney will be justified; what was done was advantageous to the principal and within the scope of the authority conferred. But if there be doubt whether the giving of the note was strictly within the power conferred, the subsequent ratification by the principal legalizes the act. Pynchon was informed of what had been done, and did not express his dissent; his siIence is tantamount to an express ratification. The judge, therefore, erred in instructing the jury that they must find for the plaintiff unless they were satisfied that Pynchon had distinctly and unequivocally recognized the act of the defendant; he should have told them that if Pynchon knew what his agent had done, and had not within a reasonable time thereafter, expressed his dissent, they might presume his assent. 12 Johns. R. 300. 15 id. 44. 3 Mass, R. 70. 7 id. 198- 2 Caines, 310. The defendant having proved enough to charge Pynchon as the maker of the note, was himself exonerated. 13 Johns. R. 307.\nW. W. Frothingham, for plaintiff.\nA power of attorney must be strictly construed. An attorney acting under a special authority has no powers but such as are granted\u2014none are to be implied. His authority must appear by his commission and not be derived from implication. 5 Johns. R. 58, 7 id. 393. 1 Esp. N. P. 112. 14 Common L. R. 42. The pwer given to accomplish a complete adjustment of all the ncerns of the principal, did not authorize the purchase of property and the giving of notes in the name of the principal. If the attorney had no right to give a note by the power specially conferred, the general terms used gave no such authority. 1 Taunton, 347. The note being made by the defendant as the agent of another, and having no authority to make it, a right of action accrued against him and a subsequent ratification by the principal could not deprive the plaintiff of his right to hold the defendant for the payment of the money. A subsequent ratification is sufficient to charge the principal, but not to deprive the plaintiff of his remedy against the agent."
+  },
+  "file_name": "0494-01",
+  "first_page_order": 494,
+  "last_page_order": 499
+}

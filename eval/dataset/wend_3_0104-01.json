@@ -1,0 +1,79 @@
+{
+  "id": 2144190,
+  "name": "Mooers vs. Wait and Griffin",
+  "name_abbreviation": "Mooers v. Wait",
+  "decision_date": "1829-08",
+  "docket_number": "",
+  "first_page": "104",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Wend. 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Mass. R. 341",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002154
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0264-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 541,
+    "char_count": 10276,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 1.1894358219386055e-06,
+      "percentile": 0.9874963752712996
+    },
+    "sha256": "9599d57a8cebfaa0924b036fe37959d7dc668e7bcef8cdefcdb06c755615bb6c",
+    "simhash": "1:61e04cb7224bb914",
+    "word_count": 1842
+  },
+  "last_updated": "2024-02-27T21:15:27.571810+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mooers vs. Wait and Griffin."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nSavage, Ch. J.\nIt has been decided by this court, in the case of Suffern v. Townsend, (9 Johns. R. 35,) that an agreement to sell land does not imply a licence to enter and cut trees; and also that a licence to enter, would not authorize the cutting timber; for that one licence does not imply the other. In that case, ther\u00e9 was a parol contract of sale and purchase, under which the defendant entered and cut timber ; but the contract was not consumated, and the plaintiff recovered in trespass for the timber cut while the defendant was in possession. The same point was again decided in Cooper v. Stower, (same vol. 331.) In that case there was a written contract, much like the contract in this case, except that there was no lease of the lot; but the defendants produced a contract, signed by Stower, by which he acknowledged he had received a contract and bond for the consideration money, which were to be execcted and returned to the plaintiff; and agreed that until the papers were executed, no timber should be cut on the lot; and it was shewn that they were executed and returned by the next mail. The defendants contended that a licence to enter was implied, The court considered the acceptance of the contract of Stower a licence to enter and occupy as tenants at will, but not to commit waste; and that cutting the timber beyond what was necessary for the use and improvement of the farm terminated the tenancy at will; and of course the defendants were trespassers. It was there considered that the withholding the deed was the plaintiff\u2019s security upon the land 5 but it would cease to be a security, if the defendants might lawfully strip the land of its timber, and render it of no value\nThe contract in this case goes farther, and gives the right of occupancy for a term of years, on performing certain conditions. It is undoubtedly true, that Frazer had a right to enter and enjoy the lot which he had contracted to purchase ; but, as was said in Cooper v. Stower, \u201c the contracts in the case must be construed reasonably and consistently with the rights of both partiesarid as cutting off the pine timber where the land was not suitable for cultivation, was not the proper and reasonable mode of enjoying the lot for agricultural purposes, Frazer had no right to cut the timber. The timber constituted the principal value of the land. The land thus valuable was the plaintiff\u2019s security for the purchase money; and the destruction of the timber was therefore totally unauthorized by the contract. Had it appeared that the lessee could not enjoy the lot to the best advantage for the purposes of cultivation and improvement as a farm without cutting the timber in question, a different case would have been presented; and I should think the rights of the parties would be very different: then the cutting, and perhaps the selling would have been justifiable. But when) trees, or any thing else attached to the freehold, are unlawfully detached therefrom, the property thus wrongfully sepa-1 rated from the freehold, becomes the personal property off ,the owner of the inheritance. \u201c Waste is a tort,\u201d says Lord Hardwicke, (3 Atk. 262,) \u201c and punishable as such; and - the party has also a remedy for the trees cut down, by an ac- \u2022 tion of trover.\u201d (2 Cruise, 268.) The case of Fanant v. Thompson, (5 Barn. & Ald. 826,) is full to the same point.; Certain machinery attached to a mill was leased for a number of years. The tenant, without permission of his landlord, seveied the machinery from the mill, and in that situation it was sold on an execution against the tenant. It was held that no title passed to the purchaser, and that trover lay for the machinery. The judges, in giving their opinions, compare the machinery, when attached to the freehold, to the case of trees standing which are parcel of the inheritance, to the use of which the tenant has a qualified right during his term, to wit, for shade and fruit. If, however, they are sep-, arated by his own wrongful act, or the act of God, the tenant has no right to the use during his term, but they become absolutely vested in the person who has the next estate of inheritance; they become his goods and chattels.\nThese cases abundantly shew what is constant to good sense and sound policy, as well as justice: that a tenant who commits waste by cutting timber, acquires no title to the timber which he thus unlawfully cuts, and of course can convey none; and further, that a bona fide purchaser from the tenant acquires no title, but is liable in trover to the true owner.\nThe facts of the case clearly shew that the timber was unnecessarily, and therefore unlawfully cut by Frazer. The logs in question were therefore the property of the plaintiff. The nonsuit must be set aside, and a new trial granted; costs to abide the event.",
+        "type": "majority",
+        "author": "Savage, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "W. Kent, for plaintiff,",
+      "8.'Stevens-, for defendants.'"
+    ],
+    "corrections": "",
+    "head_matter": "Mooers vs. Wait and Griffin.\nA person entering into the possession of wild, uncultidei-6 a ^contract of sale giving ^ntryiinioccu. pancy, and re-landlordt0 the land as securipayment of the consideration ^thoiding the riglf\u2019 to^nter and enjoy the ses.\nIf such person cuts timber for any purpose other than the cultivation, improvement and enjoyment of the land as a farm, the timber thus separated from the freehold, becomes the personal property of the owner of the inheritance, who may maintain an action of trover for it, against any one in possession though a bona fide purchaser under the occupant.\nThis was an action of trover, tried at the Clinton circuit in j anuarv, 1828, before the Hon. Reuben Hyde Walwoeth, r . . . then one o\u00ed the circuit judges.\nthe trial of the cause it appeared, that the plaintiff was the owner of a certain lot of land ; that on the 18th day of October, 1825, he entered into an agreement with John S. Frazer, whereby he demised to Frazer the west half of the l\u00b0t for the term of four years from the 15th day of June next, on condition, that Frazer should pay to the plaintiff at the rate of #3 per acre, for the land demised, by installments, viz. one fiftft thereof on the said 15th June, and the residue in four equal annual payments, with interest annually, and should Pa7 the taxes, &c. On performance of these conditions, the plaintiff bound himself to execute to Frazer a good sufficient deed of the premises. In the summer or fall of 1826, James F. Frazer bought of John S. Frazer a number of pine trees standing on the lot, paid for and cut them into saw logs, to the number of 800, and drew them to the bank of the river, where he sold them to Griffin, one of the defendants, who, by his agent Wait, the other defendant, marked the logs, floated them down the river and had them-sawed into boards and plank. The plaintiff demanded logs of the defendants, and brought this action to recover their value.\nAt the date of the agreement the whole of the premises described in it were wild and uncultivated; the timber cut was the principal part of the valuable pine timber on the land; it did not appear to have been cut with a view to cultivation ; the place where it was cut was not the best land for that purpose, and none of it has been put into a state of cultivation ; the value of the lot was greatly reduced by the cutting off of the pine timber. After the timber was cut and the logs taken by the defendants, the agreement between the plaintiff and John S. Frazer was surrendered up.\nThe presiding judge decided upon this state of facts, that, under the lease, the lessee had a right to enter and enjoy the premises ; that as the whole lot was covered with wood and timber, he could not enjoy it without cutting off some part of the trees and timber, and the plaintiff not having restricted him as to any particular kinds of trees he might cut, he had a right to cut such as he pleased and to sell them, subject to be restrained by a court of equity if he committed wanton injury to the property; that the principles applicable to waste, committed on leasehold property, by cutting timber, where a part of the land was cultivated, and could therefore be enjoyed without cutting timber on other parts of it, were not applicable to a case like this ; and that the plaintiff, therefore, was not entitled to recover. The plaintiff submitted to a nonsuit, with leave to apply to set the same aside.\nW. Kent, for plaintiff,\nnow moved to set aside the nonsuit. The agreement conferred \u00f1o other rights on Frazer than those of a tenant for years. Felling the timber for any other than agricultural purposes, was waste. Allowing that tim- '\u25a0 *3er m\u2018ght be cut, it could not be carried to such' an' extent as to. do' an irreparable injury to the inheritance. Whether the PSrty in this case had: abused the' rights which' the agreement gave' him, should have been submitted to the discretion of \u00e1 jury, under the charge of the court.' It is manifest, that by withholding the deed, the plaintiff looked to' the land as his security ; which would be no security if the.lessee might fen- \u00a1 der -itiuseless-and-of no value by- stripping it of its timber. (7 Johns. R. 227. 9 id. 35, 332.) It is waste' to cut wood for sale. -. (2, Haywood, 339.)' If the' seller had no title, the purchaser .is-liable. (5 Mass. R. 341. 5 Barn. and Ald. 826.) .\n8.'Stevens-, for defendants.'\n- Frazer was in possession un- \u2018 den an agreement 'to sell to-him, having a right' of immediate entry,'and without restraint:'as to the manner of using the property. Whilst-he performed his part of the contract; no action at law would lie' against him for cutting \u2022 timber; he could be restrained only by injunction from chancery; and if so, surely an action cannot be maintained against a bona fide purchaser of logs cut on the premises.\nSupposing Frazer a lessee for years, what was he to do with the land ? It was wild and uncultivated, and he could make no other use of it than what he did. If it be true, that the question might be submitted to a jury to determine whether or not waste had been committed by the tenant, the proposition admits that the defendants, as purchasers, cannot be liable; for if the tenant had a right to cut timber to any extent, the purchaser of such timber cannot in reason or justice be subjected to an action for an abuse of such right, for how could he know that there was such abuse. (16 Johns. R. 74.)"
+  },
+  "file_name": "0104-01",
+  "first_page_order": 100,
+  "last_page_order": 104
+}

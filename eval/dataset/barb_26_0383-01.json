@@ -1,0 +1,497 @@
+{
+  "id": 5007211,
+  "name": "Munro vs. Merchant",
+  "name_abbreviation": "Munro v. Merchant",
+  "decision_date": "1858-01-05",
+  "docket_number": "",
+  "first_page": "383",
+  "last_page": "408",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Barb. 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wend. 13",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3516290
+      ],
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/2/0013-01"
+      ]
+    },
+    {
+      "cite": "2 Denio, 61",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186167
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/2/0061-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 543",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005441
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0543-01"
+      ]
+    },
+    {
+      "cite": "1 Cai. 83",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "case_ids": [
+        793250
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cai/1/0122-01"
+      ]
+    },
+    {
+      "cite": "2 Wend. 12",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Duer, 35",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1326213
+      ],
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/10/0035-01"
+      ]
+    },
+    {
+      "cite": "16 Barb. 212",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4943642
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/16/0212-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 62",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009684
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/7/0062-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 248",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0248-01"
+      ]
+    },
+    {
+      "cite": "17 Barb. 100",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4952703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/17/0100-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 533",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 John. 480",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135999
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/10/0486-01"
+      ]
+    },
+    {
+      "cite": "2 Cow. 195",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2161443
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/2/0195-01"
+      ]
+    },
+    {
+      "cite": "19 John. 325",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380550
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/19/0325-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 60",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4875045
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/6/0060-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 377",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009594
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/7/0377-01"
+      ]
+    },
+    {
+      "cite": "8 Wend. 460",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147379
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/8/0460-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 597",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018778
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0597-01"
+      ]
+    },
+    {
+      "cite": "8 Wend. 441",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Barb. 254",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2413863
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/10/0254-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 316",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025482
+      ],
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/23/0315-01"
+      ]
+    },
+    {
+      "cite": "8 Barb. 255",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "pin_cites": [
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Wend. 511",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011135
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/9/0511-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 532",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145712
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/5/0532-01"
+      ]
+    },
+    {
+      "cite": "24 Wend. 587",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Hill, 67",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Denio, 79",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187465
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0079-01"
+      ]
+    },
+    {
+      "cite": "8 John. 520",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134232
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/8/0520-01"
+      ]
+    },
+    {
+      "cite": "2 Wend. 507",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3516623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/2/0507-01"
+      ]
+    },
+    {
+      "cite": "1 Wheat. 200",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Pet. 262",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Wheat. 689",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Hill, 79",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Denio, 553",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Wend, 277",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2153286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/22/0277-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. 102",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11268289
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/12/0102-01"
+      ]
+    },
+    {
+      "cite": "11 John. 224",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/11/0224-01"
+      ]
+    },
+    {
+      "cite": "3 Denio, 238",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187494
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0238-01"
+      ]
+    },
+    {
+      "cite": "1 Denio, 147",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1633,
+    "char_count": 56236,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 3.456761440676334e-07,
+      "percentile": 0.88046754849414
+    },
+    "sha256": "ea2f5ab31b6e2f6ce87c96972c30288252688631c03914ee86bff4f4af61d0c8",
+    "simhash": "1:dec6d470d238914d",
+    "word_count": 9840
+  },
+  "last_updated": "2024-02-27T21:23:52.839197+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Munro vs. Merchant."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, C. L. Allen, P. J.\nThe first, and perhaps the most important, question which arises in this case is, whether there was sufficient evidence of the appointment of the commissioners to make partition. The 7th section of the colonial act, passed 8th January, 1762, provides \u201c that any one or more of the proprietors of tracts or parcels of tracts still undivided, inclined to have partition thereof, may subscribe a writing, and publish the same in any two of the public newspapers of the colony twelve weeks successively, directed in general to all persons interested in such tract or parcel of land; specifying the bounds thereof and giving notice that three commissioners not interested in such tract or parcel, naming them and their places of abode, are appointed to make such partition, and that they will meet at a certain day and place to be also mentioned, and to be within 10 days after the said 12 weeks are expired, to proceed to the partition of the said lands, and requiring all persons interested therein to attend then and there for that purpose, either by themselves or their attorneys.\u201d The section further provides, that if no objection be offered to the commissioners, in writing, in the manner and at the time therein required, that the persons so named shall thenceforth be the commissioners for executing the powers given to such commissioners by the act. Subsequent sections regulate the manner in which the commissioners shall be qualified and discharge their duties, and section eleven enacts, that of all surveys and allotments made, two true field books and maps, specifying the bounds of every lot,, shall .be made, and the several lots laid down and numbered on the said map, and then signed by the commissioners and1 their surveyor. The section then proceeds to declare how and! in what manner the lots shall be balloted for. \u201c Of which balloting and all the proceedings in such partition the said commissioners shall make a full and fair entry and minute in a book; one copy whereof, certified under their hands, or the hands of the majority of them, and under the hand of the judge or counsellor present, shall be filed in the said secretary\u2019s office; and another certified in like manner, in the clerk\u2019s office of that county where the greatest part of the lands lay; which same boolcs, or an exemplification under the great seal of the colony, shall be good evidence of such partition, and which partition shall be as valid and effectual, in the law, to divide and separate the said lands, as if the same had been made between the patentees, on writs of partition, according to the course of the common law.\u201d\nIt was incumbent upon the plaintiff, under this act, to prove the regular appointment of the three commissioners, in pursuance of its provisions. The plaintiff introduced in evidence the original Kayaderosseras patent from Queen Anne to Bip Yan Dam, and 12 associates named therein, dated 2d of November, 1708; next the field book of the patent, and the field book of the partition and the original map of the patent. These books were taken from the Saratoga county clerk\u2019s office, and bore an indorsement as follows: \u201c Filed 4th day of March, 1771, in the clerk\u2019s office of the county of Albany.\u201d The proceedings of the commissioners of partition were read in evidence. These proceedings recited, among other things, that Christopher Yates and John Grlen, both of Schenectady, in the county of Albany, and Thomas Palmer, of the precinct of New Cornwall, in Orange county, were appointed commissioners, by virtue of the act of 8th of January, 1762, \u201cby a writing of the purport directed in and by the said act, and subscribed by William Smith, jr., Benjamin Kissam and Peter Bemsen, (styling themselves in the same, three of the proprietors of the said tract of land,) and which has been, according to the directions of the said act, published, &c.\u201d The proceedings subsequently also recited that the notice was directed to all persons interested in the lands mentioned in the patent, and what purported to be the substance of the notice, complying substantially with the requisitions of the act, and which was subscribed by the three persons claiming to be proprietors. The proceedings further contained the subsequent acts of the commissioners, all substantially in compliance with the act, and hy which it appeared that on the ballotings lot Ho. 2 was drawn to Eip Van Dam. This was all the evidence introduced or offered in proof of the appointment of the commissioners, and it is insisted on the part of the defendant that these recitals in the books of partition are not proof of their appointment..\nIt was not necessary that the appointment should have been hy a court, or other authority than the 7th section required. By that section such appointment was to he made hy one or more of the \u201c proprietors \u201d of tracts or parcels of the lands undivided, and who were inclined to have partition thereof) in writing, subscribed hy him or them, and published in the papers and in the manner required therein. This was requisite in order to confer any power upon them whatever. It was a jurisdictional fact, necessary to create and give them any legal existence or authority to make partition. A recital therefore of this vital jurisdictional fact, would not be any evidence of their appointment, unless it was expressly made so hy the act providing for it. Facts in a recital, so far as they are material to give jurisdiction, \u201c must he proved in the ordinary way, without such legislative provision, as the common law knows nothing of that mode of proof.\u201d In Bennett v. Burch, (1 Denio, 147,) it was held that an order of the superintendent of common schools reciting matter material to give him jurisdiction to make it, does not prove it. In Bouchaud v. Dias, (3 Denio, 238,) a release recited that the defendant presented his petition to the secretary to be released. The court said \u201crecitals do not prove jurisdictional facts, (citing Cowen & Hill\u2019s Notes to Phil. Ev. 1014 to 1016,) that if the rule were otherwise, inferior courts and magistrates might require jurisdiction by merely affirming the existence of the facts on which jurisdiction depends. An insolvent\u2019s discharge is evidence of facts contained in it, because the legislature has so provided in express terms. (11 John. 224. 12 Wend. 102.\u201d) In Jackson v. Shepard, (7 Cowen, 88,) it was held that recitals in a collector\u2019s deed of land sold for taxes, were insufficient to prove the power to sell. In Wood v. Chapin, (3 Kern. 509, 515,) the plaintiff claimed to have acquired title by means of a proceeding under the statute respecting non-resident debtors, and the regularity of the proceeding was questioned. The act (1 R. S. 41, \u00a7 6) declares that the appointment of trustees shall be conclusive evidence that the debtor therein named was a concealed, absconding, or non-resident debtor, and that the said appointment, and all the proceedings primary thereto, were regular. The court said it had been held that this language must be qualified by a condition that the case is one in which the officer had acquired jurisdiction; (see Van Alstyne v. Erwine, 1 Kern. 331;) that after jurisdiction was shown, the appointment of trustees was incontrovertible evidence that all the other proceedings were in accordance with the statute. In Hand v. Ballou, (2 Kern. 541,) the court held that a comptroEer\u2019s deed on a sale of land for taxes, was presumptive evidence that the proceedings required by law to authorize the sale and conveyance were had, because the Laws of 1850, (ch. 183,) made it such evidence. Before that it was regarded as insufficient.\nIn the present case, none but \u201cproprietors \u201d were authorized to make the appointment of commissioners, and that by the subscription of a particular notice in writing. The question naturally arises,, who were proprietors, within the meaning and intention of the act ? Was it some one or more of the original patentees ?* or did it authorize one or more grantees immediately, or more remotely, from them, or some of them, of their undivided shares, to appoint commissioners ? If the term is to be confined to the patentees, then clearly the commissioners in this case were entirely without jurisdiction, as no one of the persons named in the patent \u201c subscribed the notice in writing.\u201d But suppose the term might be extended to subsequent grantees; what evidence had the commissioners, or what proof is contained in their recitals, that the persons making the appointment were \u201cproprietors ?\u201d It may be asked, with much force, as it was upon the argument, who Were Wm. Smith, jun., Benjamin Kissam and Peter Eemsen ? The commissioners answer, in their proceedings, that they \u201cstyled \u201d themselves in their notice \u201cthree of the proprietors of the said tract of land \u201d But where is the evidence that they were such proprietors ? Whose rights had they acquired, and to what extent was their interest P The proceedings are wholly silent in answering, although the commissioners, when they came to ballot, drew ballots for the whole of the original patentees, without regard to assignees, as perhaps they were required to do, by the llth section, yet they make no allusion whatever to the three persons appointing them, or either one of them. It appears to me that there is a fatal defect in the proof of the appointment of the commissioners, and that the evidence failed to establish the partition through which the plaintiff claims to make title to the whole of the premises in question.\nIt was contended, on the argument, that the llth section of the act of 1762 made the proceedings, when entered in the books required, evidence of all the facts recited therein.' That section made \u201cthe balloting and all the proceedings\u201d in partition, good evidence of such partition. But ii did not make the recital of their appointment good evidence; that was a \u2022 matter left by the act to be otherwise proved, by those claiming title under their proceedings. Their recital, at most, was a mere affirmance of the existence of the facts on which their jurisdiction depended\u2014a mere simp\u00ede declaration of their own title. But it was scarcely that, as it did not show how or under what title the persons appointing them claimed to be proprietors. It was a mere naked assertion, which any other three individuals might have made, and equally have conferred jurisdiction upon the commissioners.\nIt was also said, on the argument, that the defendant claimed under the same title adversely to the plaintiff\u2019s claim. It is sufficient to remark, in answer to this position, that the plaintiff must recover Upon the strength of his own title, and that until he has established that title he cannot call upon his adVersary to defend. Besides, there is a difference between a valid title, under which a plaintiff entitles himself to recover, and a colorable title, under which a defendant enters, and upon which he grounds a defense of adverse possession under the statute.\nI think the plaintiff failed to prove the partition, and that therefore, as to the 12-13ths of the premises in question, he was not entitled to recover. This view renders it unnecessary to consider the remaining objections to the proof of the partition, and disposes of the greater part of the plaintiff's claim, so far as the present action is concerned. It is necessary, however, to proceed to an examination of the other questions arising, in order to ascertain whether the plaintiff is entitled or not, to recover possession of the one undivided thirteenth part of the premises in question.\nThe plaintiff claimed title under the will of Rip Van Dam, which devised his real estate to his executors, with power to sell and convey. The clause in the will conferring this power, authorized and required his executors, Isaac Van Dam, Robert Livingston and Thomas Moone, or the survivors or survivor of them, or the major part of them, to grant, bargain, sell and convey, all his real estate, with one or two exceptions, not affecting the present question. A single surviving executor, under this power, could sell and convey. And the plaintiff, in order to prove the death of Isaac Van Dam and Thomas Moone, two of the executors, introduced and read in evidence exemplified copies of their respective wills, one dated 10th Nov. 1749, and proved 7th May, 1750, and the other dated 1st August, 1756, and proved 16th September, 1756, and letters of administration granted to the respective executors. The counsel for the defendant objected to this evidence as insufficient to prove the death of the testator, but the court overruled the objection, and the defendant's counsel excepted.\nThose records were prima facie evidence of the deaths of the co-executors of Livingston, as the following authorities, I think, fully show. (1 Greenl. Ev. \u00a7 550, and cases cited in note. 2 id. \u00a7 339, 2d ed. Russell v. Schuyler, 22 Wend, 277. McNair v. Ragland, 1 Denio, 553.) The deed from Robert Livingston, jr. as surviving executor of Rip Van Dam, to Low, Walton and Van Dam, was therefore properly read in evidence.\nThe plaintiff then introduced and read in evidence, an exemplified copy of the record of a deed from Low, Walton and Van Dam, conveying the premises in question to Hugh Munro, dated 30th August, 1774, and the depositions of Hugh Munro and Grace Munro, showing that the grantee in the last deed was the father of the witness, Hugh Munro, and that he, the witness, was the sole surviving child and heir at law of his father, who' died intestate, in Canada, where the witness resided and still resides. That the plaintiff is the son of these witnesses, and was born about the year 1804 or 1805, near Ballston Spa, in this state. That the plaintiff\u2019s father, at the time of his birth, resided in Canada, where he now lives. That his mother went there to be confined, and remained there about a year after the birth of the plaintiff, and then returned with him to his father\u2019s residence in Canada, where, and in other places in Canada, he lived until about five years ago, when he went to Rochester in this state, where he now resides. The father and mother of the witness Hugh were both born in Scotland.\nThe plaintiff then proved the recovery of a judgment in favor of Peter Gansevoort against Hugh Munro, the witness, and an execution issued thereon. Also, the recovery of another judgment against the same Hugh Munro in favor of the plaintiff. And it was admitted by the defendant\u2019s counsel, that all the right and interest of the said Hugh Munro, in and to said lot Ho. 2, was sold on the 18th day of December, 1852, under the judgment and execution in favor of Gansevoort, and duly redeemed on the 9th day of March, 1854, by the plaintiff, under his judgment.\nThe defendant\u2019s counsel then objected that the title of the plaintiff was inoperative by reason of the alienage of the parties through whom he claims. It was conceded by the counsel for the plaintiff, on the argument, that the two Hugh Munros were both aliens. But it was insisted that the war did not affect the rights of property of the elder Munro, inasmuch as the change of the government did not, of itself, work a forfeiture of his previously vested right. (Orser v. Hoag, 3 Hill, 79.) That no forfeiture by government having been shown, his property, at his death, descended to his heirs capable of inheriting. That although, upon common law principles, the younger Munro being an alien, would not have succeeded to the lands of his father, upon the decease of the latter, yet that the 9th article of the treaty of 1794 interposes a bar to the operation of the common law rule. The 9th article is as follows ;\n\u201cIt is agreed that British subjects, who now hold lands in the territories of the United States, and American citizens, who now hold lands in the dominions of his majesty, shall continue to hold them according to the nature and tenor of their respective estates and titles therein, and may grant, sell or devise the same to whom they please, in like manner as if they were natives; and that neither they, nor their heirs or assigns, shall, so far as may respect the said lands, and the legal remedies incident thereto, be regarded as aliens.\"\nHugh Munro, the elder, died in 1802, having received a conveyance of the premises in August, 1774; consequently his title existed at the date of the treaty, and he being then alive, he and his heirs are entitled to be protected under that treaty, notwithstanding they had no possession under their title. Such have been the decisions both in the supreme court of the United States and in this state. (Hughes v. Edwards, 9 Wheat. 689. Shanks v. Dupret, 3 Pet. 262. 1 Wheat. 200. 4 id. 453. 7 id. 535. Orser v. Hoag, 3 Hill, 79. Duke of Cumberland v. Graves, 3 Seld. 305.) The defendant\u2019s counsel contends that the construction of the treaty of 1794 is not controlled by this latter case. It is true, that the questions there arose under the statute of 1798. That statute provided for conveyances thereafter to be made to an alien, and made it lawful for him to hold the same, to his heirs and assigns forever. The same objection was taken there as here. The court said the statute must be understood as bestowing upon the land the quality of being inheritable by aliens, until by inheritance or grant the title should come to a citizen; especially as the act provided that it should not he lawful for the heirs or assigns of any such alien to recover any rent or service whatsoever to be made of any such lands, &c. The words in the treaty are, \u201c that neither they, nor their heirs or assigns shall, so far as may respect the said lands, and the legal remedies incident thereto, he regarded as aliens.\u201d I think the case has a very strong bearing on the present, and confirms the decisions previously made.\nIt is further contended, on the part of the defendant, that the plaintiff himself is an alien. He was born in Ballston Spa, in this state, while his father was a resident of Canada, and returned to his father\u2019s domicil, with his mother, within a year after his birth. His mother was temporarily there\u2014\u25a0 without any actual change of residence, either on her part or that of his father. It is argued that, at common law, a natural born subject was one whose birth was within th,e allegiance of the king. (Bac. Ab. tit. Alien, A. Com. Dig. A. and B. 7 to 18. Bl. Com: 336, 74.) The cases of children of ambassadors, born abroad, and of children born on English seas were considered exceptions. Chancellor Kent, in his commentaries, defines a native born citizen to be \u2022 a person born within, and an alien one bom out of, the jurisdiction of the United States. (2 Kent\u2019s Com. 37\u201450.) In Lynch v. Clarke, (1 Sand. Ch. R. 583,) the question was precisely as here, whether a child born in the city of Hew York of alien parents, during their temporary sojourn there, was a native born citizen or an alien; and the conclusion was, that being horn within the dominion and allegiance of the United States, he was a native born citizen, whatever was the situation of the parents at the time of the hirth. That case, .if law, would seem to be decisive of the present question, But, admitting the plaintiff to be an alien, the cases already cited show that the terms \u201cheirs or assigns,\u201d in the 9th article of the treaty, is not to be confined to the immediate descendants, but is to be extended indefinitely till the title comes to a citizen.\nBut further, the plaintiff is an assignee of the first alien heir. His title accrued upon a redemption by him as judgment creditor of Hugh Munro, 2d. and by this redemption he acquired the rights of the judgment debtor directly. The title remained in the debtor, notwithstanding the sheriff's sale, until the expiration of the time for redemption, and till the execution of the sheriff\u2019s deed, which transferred the title of the debtor to the grantee. (Evertson v. Sawyer, 2 Wend. 507. Catlin v. Jackson, 8 John. 520. Rich v. Baker, 3 Denio, 79.) It may be added, on this point, that the plaintiff, even if not protected by the treaty of 1794, would be entitled to recover as a purchaser, and that his title would be good till office found. (The People v. Conklin, 2 Hill, 67. Fairfax\u2019s dev. v. Hunter\u2019s lessee, 7 Crunch, 649.)\nThe result of my conclusion therefore is, that the plaintiff is entitled to recover one undivided 13th part of the premises described in the complaint, unless defeated by the defense sought to be interposed.\nI. The defendant claims that he has established a perfect title by adverse possession. The deed from Gerard Walton, as attorney for Anthony Van Dam, to Peter Gansevoort, jr., was dated in June, 1797. The grantee entered into possession under that deed, at all events of a portion of the premises conveyed, shortly after the deed and the same year of its date. The tract conveyed and claimed by Gansevoort consisted of about 1500 acres. Whether the deed was sufficiently proven or not is unimportant for the purposes of this question. It was an entry under color of title. It was a written instrument, purporting to convey the title, and sufficient within the statute on which to found and construct an adverse possession. Neither is it important whether G. entered into possession in good faith believing he had a good title, or not. Since the decision of the court in the case of Humbert v. Trinity Church, (24 Wend. 587,) the former cases of Jackson v. Hill, (5 Wend. 532,) and Livingston v. Peru Iron Co., (9 Wend. 511,) which required that ingredient, have been overruled. The section of the statute defining the nature of the occupancy which must accompany the color of title is as follows : \u201c For the purpose of constituting an adverse possession, by any person claiming a title founded upon a written instrument or a judgment or decree, land shall be deemed to have been possessed and occupied in the following cases: 1. Where it has usually been cultivated or improved; 2. Where it has been protected by a substantial enclosure; 3. Where, although not enclosed, it has been used for the supply of fuel, or fencing timber for'the purposes of husbandry, or the ordinary use of the occupant; and 4. Where a known farm or a single lot has been partly improved, the portion of such farm or lot that may have been left not cleared, or not enclosed, according to the usual course and custom of the adjoining country, shall be deemed to have been occupied for the same length of time as the part improved or cultivated.\u201d (2 R. S. 222, \u00a710. Id. 4th ed. 495, \u00a7 83.)\nIt is not pretended that the evidence brings this case within either of the first two subdivisions of this section, but the defendants counsel insists that it falls within the 3d subdivision in two of its aspects; first, that the land has been used for the supply of fuel, and for the ordinary use of the occupants. The evidence, in brief, on this branch is that the tract was known as the Gansevoort farm as early as 1800. It embraced a large quantity of timber lands, and lumber was cut, indiscriminately, on all parts of it for years, down to 1820, when the lumbering business ceased. Up to this time about 300 acres of the tract had been cleared, more than half of which lay north of the premises .in question. From 1820 to 1846 about 100 acres more were cleared, and about one-third of the whole clearing was on lot No. 2, and the balance north of it. Peter Gansevooi't, jr. lived in Albany during all this time. In 1801, however, H. Gansevoort took charge of the premises as agentfor his father, andso continued till 1812, when he and his brother took a lease of the premises. Mo portion of the lot has been designated as a wood or fencing timber lot by the Gansevoorts, and no part except the cleared portions has been fenced. The Gansevoorts have paid the taxes on the whole tract, and two witnesses testified, in relation to two other adjacent tracts, that it Was not the custom to enclose timber lands by a fence. Firewood was cut by some of the tenants, and by H. Gansevoort to send to his mother, indiscriminately on the tract, but mostly from the part\" near the river, to which it could be easily transported and rafted. The question is has the land been Used, not for the stipply of fuel and fencing timber merely, but for the purposes of husbandry or the ordinary Use of the occupant. This was Undoubtedly tho intention of the legislature. The revisers reported the section originally as follows: \u201cWhere, although not enclosed it has been used for the supply of fuel or fencing timber, for the purposes of a farm of which it forms a part.\u201d If it had been adopted in this form, there Would have been but two cases, with the single limitation in both, of a Use for the purposes of a farm. The legislature, however, struck out the single and in-sorted the double limitation, as it appears in the subdivision enacted, In the case of The People v. Livingston, (8 Barb. 255, 63,) the court said that \u201c in a case where a constructive adverse possession may be shown, although it may appear that the defendant, or those under whom he claims, entered into the possession of a great lot containing a large number of acres, under claim of title founded upon a Written instrument, and that there has been a continued occupation and possession of parts of such tract, it being divided into lots, and the lot in suit riot having been usually cultivated or improved, or protected by a substantial enclosure, or used for the supply of fuel or fencing timber for the purposes of husbandry, or the ordinary use of the defendant, or those under whom he claims, or any of his tenants, not being a portion of a known farm or single lot, partly improved, that has been left not cleared, or not enclosed according to the usual course and custom of the adjoining country, the possession of some of the lots in the tract claimed' is not constructively to be deemed a possession of the lot or tract in suit.\u201d That case in many of its features resembles the present, and I think the decision there, is authority upon the question here. Have the premises in question been used for the supply of fencing or fuel timber, as defined in that case ? It appears to me that the only answer to this question is in the negative. There is no proof that any fuel or fencing timber was ever taken from them.\nAre they embraced within the limits of the fourth subdivision ? Did the whole 1500 acres constitute a known farm, or single lot, partly improved, the portion of which left not cleared or hot enclosed, being according to the usual course and custom of the adjoining country? The revisers, in their notes on this subdivision, remark, that \u201c instead of an arbitrary rule, which the cunning might evade, and to which false witnesses might adapt their testimony,\u201d it presents the principle which governs in commercial and various other cases, of appealing to the common usage or custom. (3 R. S. 700, 2d ed.) In Simpson v. Downing, (23 Wend. 316, 322,) the court say, \u201c that the ideal possession cannot be extended by a written instrument, beyond the size of the farm or lot partly occupied. The size must accord with the usage of the adjoining country. The usage or custom here spoken of is a particular one concerning the size of partly improved farms, and the quantity therein of lands not cleared or enclosed, not the custom proved as to two or three farms, of not inclosing timber lands. And see Lane v. Gould, (10 Barb. 254;) Jackson v. Oltz, (8 Wend. 441;) Sharp v. Brandow, (15 Wend. 597.) In the last case, Justice Nelson said, \u201cif a party claims more than he has under actual improvement, by constructive possession, under claim of paper title, his claim cannot extend beyond a single lot.\u201d Such a possession of part, claiming title to the whole, and with the usual acts of ownership over the unimproved part, as in the case of a farm occupied for agricultural purposes, is deemed sufficient; citing 1 Cowen, 276, 8 Wend. 460, 7 id. 62. In that case the entry was under color and claim of paper title to an undivided sixth part of the lot, yet the judge remarked, \u201c as the lot contained 1500 acres, it is clear it could not extend beyond the actual improvements.\u201d\nThe defendant introduced, and read in evidence, a certified copy of the registry of a mortgage from Hugh Munro to Jacob Walton, Isaac Low and Anthony Van Dam. Also, the original book of registry of mortgages of indentures, from 1772 to Dec. 11, 1782, from which it appeared that all the mortgages registered therein were registered in the same manner and form as the one in question. Also a book of registry of mortgages from the Saratoga county clerk\u2019s office, from the year 1791 to 1805, the mortgages in which were all registered in the same form. The question is, whether this was sufficient proof of the mortgage. The colonial acts referred to by the defendant\u2019s counsel, do not provide that the registry of mortgages merely, such as was proved here, shall be sufficient evidence of their execution. The act of 12th Dec. 1753, (3 R. S. App. 10,) provides for the registering of all mortgages, but does not declare that such registry shall be evidence, while the acts of 16th February, 1771, and 8th March, 1773, (3 R. S. App. 22, 23,) do declare that the records of deeds, &c. may be read in evidence. Public records and official registers are evidence only of such facts as are required to be recorded in them, or which occurred in presence of the recording officers. (1 Greenl. Ev. \u00a7 493. 10 Paige, 366. 7 Wend. 377. 4 Car. & Payne, 29. 3 Stark. 63. 19 Abr. 430.) The registry purports to be a mere abstract of the mortgage, but does not profess to be a copy of it. There is no evidence of its execution by the mortgagor, except the memorandum; or that it was ever proved or acknowledged. The act of 1753 can only be regarded then, as it has ever been, a mere statute of notice. (6 Barb. 60.) In Den v. Gustis, (7 Halst. 42,) a book of registry of mortgages, under an act of Hew Jersey, substantially like the colonial act of 1759, was offered as evidence of the mortgage, and the court rejected it, on the ground that there was no provision in it making the registry evidence; and the distinction was taken between that act and another of the same state, relative to deeds, similar to the colonial act of 1710, regulating the recording of deeds. (See Frear v. Eagle Fire Ins. Co. (Anth. N. P. 173.) This view disposes of the mortgage. But even if it were to be admitted as proven, it may well be doubted whether the defendant, or any one since the mortgagee, has been shown to have any interest in it. In Jackson v. Bunson, (19 John. 325,) the action was ejectment by mortgagor against the grantee of the mortgagee, and the court sustained the action, remarking that it had long been well settled that the mortgagee had a mere chattel interest, and the mortgagor was considered the proprietor of the freehold. This doctrine has been followed in several subsequent cases. (6 Cowen 147. 11 New Hamp. R. 274. Ellison v. Davis. Wilson v. Troup, 2 Cow. 195, 230.) Besides, is not the mortgage to be presumed satisfied, after such a lapse of time; the defendants showing no connection with it ? (Belmont v. O\u2019Brien, 2 Kern. 398.) If, however, the mortgage was considered as fully proved, and the defendant\u2019s possession under it, the question which next arises is, whether the mortgagee, having possession of the land after forfeiture, is entitled to retain his possession until his debt is paid. There are a number of cases which hold this doctrine. (10 John. 480. Jackson v. Bowen, 7 Cowen, 13. The Same v. Myers, 11 Wend. 533. Van Duyne v. Thayre, 14 id. 233. Waring v. Smyth, 2 Barb. Ch. R. 119, St. John v. Bumpstead, 17 Barb. 100. Phyfe v. Riley, 15 Wend. 248.) In the last case the court remark expressly that the revised statutes have not altered the law in this respect. Chancellor Walworth remarked, in Waring v. Smyth, that the only right the mortgagee has in the land since the revised statutes, is to take possession thereof, with the assent of the mortgagor, after the debt has become due and payable, and to retain such possession till the debt is paid. Here was a possession after the forfeiture of the mortgage, a sufficient length of time to bar an entry, and if the mortgage were fully proved, the possession would perhaps be presumed to have been under legal proceedings, or with the assent of the mortgagor. (Jackson v. Warford, 7 Wend. 62. Hoyt v. Carter, 16 Barb. 212, 230.)\nOn the point of adverse possession, I think there was no question of fact to be submitted to the jury. It has already been shown what\" constitutes a constructive adverse possession, where an entry is made upon a part of the land under color of title. \u2019In this case, whether the defendant had proved enough to constitute such adverse possession, was a question not for the jury. There was no dispute about the facts: they were all admitted; and the question therefore upon these facts was one of law, for the court to determine, whether such possession came within the statute or not. (Bowie v. Brahe, 3 Duer, 35, 44. Clapp v. Bromagham, 9 Cowen, 530.)\nAs to the other point taken by the defendant\u2019s counsel, that the case should have been submitted to the jury upon the presumption of a conveyance, I am of opinion that it is not well taken. The cases of Schauber v. Johnson, (2 Wend. 12,) and of Briggs v. Prosser, (14 id. 227,) do not support the position of the defendant\u2019s counsel. In the former case Chancellor Walworth remarked that there were two classes of presumptions. The first was that of equitable owners, and the other was \u201c in favor of a person who is in possession of property or in the enjoyment of some privilege or easement under claim of right, in which case, under certain circumstances, and after a great lapse of time, a conveyance of the land or grant of the privilege or easement will be presumed, on the principle of quieting possession.\u201d What are the \u201c certain circumstances\u201d to -which the learned jurist refers ? Clearly those which had been referred to and commented upon in previous cases relating to the doctrine. The larger part of these cases are those in which the party seeking the benefit of the presumption, was shown to be the owner of the land, but lacked some formal conveyance, such as in the latter case of Briggs v. Prosser, cited by the counsel, -where the party having been in possession under a contract, for a period of 25 years, a conveyance was presumed; and also cases of mortgagor and mortgagee, after payment of the mortgage debt; and where parties are the equitable owners and lack some formal ingredient of title.. Such\u00a3< circumstances,\u201d accompanied with possession, demand a presumption. (1 Cowen & Hill, 355-371. 8 East, 263. 1 Cai. 83. 7 T. R. 5. 7 Cowen, 431. 4 Wend. 543. 2 Denio, 61.)\n[Montgomery General Term,\nJanuary 5, 1858.\nPresumption of conveyance also arises where a party makes out a chain of title with the exception of one or more links, which he asks to supply by proof of some \u201c circumstances\u201d of knowledge, or admissions or acts of acquiescence on the part of his adversary, making it probable that his chain of title is perfect, although he is not able to supply every link. (3 John. Cas. 109. 7 Wend. 62. 2 Caines, 607. 5 Cowen, 130. 6 id\u2019. 706. 2 Wend. 13, 357. \u00a3\u00a3 Length of time,\u201d say the court in Goodtitle v. Dulce of Chandos, (2 P. Wms. 1065,) \u201c is nothing. The presumption must arise from some facts or circumstances arising within that time.\u201d\nApply the rules and limitations presented in the foregoing cases and many others which might be cited, and this case will be found entirely destitute of all the \u201c facts and circumstances\u201d required\u2014and will present no questions for the jury to pass upon. It is purely a question of constructive adverse possession founded upon an instrument in writing, and an actual possession of a small portion of the land conveyed.\nIt follows from these views that the plaintiff is entitled to recover one undivided thirteenth share of the premises in question; and for that I think judgment must be entered.\nOrdered accordingly.\nC. L. Allen, Podge and James, Justices.]",
+        "type": "majority",
+        "author": "By the Court, C. L. Allen, P. J."
+      }
+    ],
+    "attorneys": [
+      "Hunger & Pomeroy, for the plaintiff.",
+      "Beach & \u00a1Smith, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Munro vs. Merchant.\nA party claiming lands under a partition made in pursuance of the colonial act passed January 8,1762, must prove the regular appointment of the three commissioners specified therein.\nA recital, in a book containing a record of the proceedings of the commissioners in making partition, which states that 0. Y., J. G. and T. P. were appointed commissioners by virtue of the act of January 8, 1762, \u201c by a writing of the purport directed in and by the said act, and subscribed by W. S. jun., B. K. and P. R., styling themselves in the same three of the proprietors of the said tract of land, and which has been, according to the directions of the said act, published,\u201d &c. is not legal proof of the appointment of the commissioners.\nSuch a recital, were there no other objection to it, would be defective for not Showing that the persons making the appointment were in fact \u201c proprietors\u201d of the land to be partitioned, or that the commissioners had any evidence that they were such.\nThe appointment of the commissioners, in the manner specified in the 7th section of the act, is requisite in order to confer any power upon them, or give them any legal existence. Their appointment is therefore a vital jurisdictional fact, a recital of which by the persons appointed would not be evidence, unless it was expressly made so by the act providing for it.\nPacts in a recital, so far as they are material to give jurisdiction, must be proved, in the ordinary way. .\nThe 11th section of the act of January 8, 1762, which made \u201c the balloting and all the proceedings\u201d in partition, when entered in the books required, good evidence of the partition, did not make the recital of the appointment of the commissioners good evidence.\nWhere a testator gave to his three executors, or the survivors or survivor of them, power to sell and convey his real estate, and the plaintiff claimed under a conveyance of a portion of the land, purporting to he executed by one of the executors, as survivor of the others ; Held, that in order to prove the death of two of the executors, the plaintiff might read in evidence exemplified copies of their respective wills, and the letters of administration granted thereon, by the surrogate, as prima facie evidence of their deaths.\nWhere, at the date of the treaty of 1794, between the United States and Great Britain, M. a British subject, was the owner of land in this state, by virtue of a conveyance executed in 1774, and he died, an alien, in 1802 ; Held that M. being alive at the date of the treaty, he and his heirs were entitled to be protected, under the 9th article of such treaty, notwithstanding they had no possession under their title; and that the son of M., although also an alien, could take the lands by descent from his father.\n\u00c1 child bom in this state of alien parents, during its mother\u2019s. temporary sojourn here, is a native born citizen.\nThe term \u201c heirs or assigns,\u201d in the 9th article of the treaty of 1794, is not to be confined to the immediate descendants of the alien, but is to be extended indefinitely till the title comes to a citizen.\nIn 1797, P. G. jun. entered into possession of a tract of timbered land, consisting of about 1500 acres, claiming title under a deed of conveyance, and lumber was cut in all parts of it, indiscriminately, for years, down to the year 1820, during which time about 300 acres of the tract was. cleared. From 1820 to 1846 about 100 acres more were cleared. During all this time P. G. jun. resided in Albany. In 1801 his son H. G. took charge of the land as his agent, and so continued till 1812, when he and his brother took a lease of the premises. No portion of the lot had been designated as a wood or fencing timber lot, and no part, except the cleared portions, had been fenced. P. G. jun. and H. G. had paid the taxes on the whole tract. It was proved, in relation to two adjacent tracts, that it was not the custom to inclose timber lands by a fence. Fire wood was cut by H. G. to send to his mother; and by some of the tenants, on the tract, generally; but there was no proof that fuel or fencing timber had ever been taken from any particular portion. Held, in an action of ejectment for a portion of the tract, that the same bad not been used for the supply of fuel or fencing timber for the purposes of husbandry, or the ordinary use of the occupant, within the meaning of the statute relative to adverse possession. (2 R. S. 222, \u00a7 10, suhd. 3.)\nHeld also, that the case did not come within the 4th subdivision of the110th section of the same statute which provides that where a known farm or a single lot has been partly improved, the portion of such farm or lot that may have been left not cleared, or not inclosed, according to the usual course and custom of the adjoining country, shall be deemed' to have been occupied for the same length of time as the part improved or cultivated.\nA certified copy of the registry of a mortgage, which mortgage was registered in pursuance of the colonial act of December 12,1773, is not evidence of the execution of the mortgage by the mortgagor.\nA mortgagee being in possession of the mortgaged premises, after a forfeiture, is entitled to retain his possession, as against the mortgagor and those claiming under him, until his debt is paid.\nAnd where there is a possession after the forfeiture, a sufficient length of time to bar an entry, such possession, it seems, will be presumed to have been under legal proceedings, or with the assent of the mortgagor.\nWhere there is no dispute in regard to the facts, the question whether a constructive adverse possession has been shown, is one of law, for the court to determine, and not for the jury.\nThe doctrine of submitting a case to the jury upon the presumption of a conveyance, for the purpose of upholding the possession, after a great lapse of time, does not apply to a case where the question is purely one of constructive adverse possession, founded upon an instrument in writing and an actual possession of a small portion of the land conveyed.\nTHIS was an action of ejectment, brought to recover possession of about sixteen acres of land in lot number two of the 20th allotment of the Kayaderosseras patent, situate in the town of Northumberland in the county of Saratoga. The complaint was in the usual form, and the answer set up four defenses: 1. A general denial of the complaint. 2. Title in the defendant. 3. Adverse possession for more than 30 years. 4. Alienism of the plaintiff and his ancestors. The cause was tried at the Saratoga circuit, in May, 1856. The plaintiff claimed to deduce title from Eip Van Dam, one of the original thirteen patentees. The patent was granted in 1708. The patent and field book of the partition, and the original map, were produced and read in evidence. The plaintiff\u2019s counsel also introduced and read the following act of 1762, entitled \u201c An act for the more effectual collecting of his majesty\u2019s quitrents in the colony of New York, and for the partition of lands in order thereto,\u201d and also the act of 1768, continuing the foregoing act; also an exemplified copy of the will of Eip Van Dam, bearing date 16th June, 1746, by which Isaac Van Dam, Eobert Livingston and Thomas Moone were appointed his executors, with power to sell all his real estate, with one or two specific exceptions. The proceedings of the commissioners to make partition were also introduced and read in evidence, by which it appeared that lot No. 2 of the 20th allotment was drawn to Eip Van Dam. The counsel for the defendant objected to the evidence as to the partition, on the following grounds: 1. That there was no proper or sufficient evidence of the authority of the commissioners to make the partition. 2. That there was no evidence, by record of commission or otherwise, of the subscription of the writing or publication of the notice required by section two of the act of \u2022 1762. 3. That there was.no evidence that the record was executed by the commissioners, and the record furnished no evidence of partition among the owners. 4. That the evidence as to the partition was immaterial and incompetent. The counsel for the plaintiff objected\u20145. That the partition of the patent was made after the death of Eip Van Dam, and there was no evidence of notice of the partition, to his heirs or executors, and there was no evidence of assent by either. The objections were severally overruled, and the defendant\u2019s counsel excepted. The plaintiff further offered in evidence exemplified copies of the wills of Isaac Van Dam and Thomas Moone, and of the letters testamentary granted thereon, the former in the year 1750, and the latter in 1756. This evidence was offered to prove the death of the two testators, and was objected to as not sufficient proof of that fact, and as immaterial. The objections were overruled, and the defendant\u2019s counsel excepted. The plaintiff next introduced in evidence an exemplified copy of a deed from Eobert Livingston, jun., as surviving executor of Eip Van Dam, dated October 24, 1771, to Jacob Walton, Isaac Low and Anthony Van Dam,conveying to them all the interest of Eip Van Dam in the Kayaderosseras patent, and specifically lot Ho. 2 in the 22d allotment of said patent. The plaintiff also introduced in evidence an exemplified copy of a deed from Walton, Low and Van Dam to Hugh Monro, dated 30th August, 1844, conveying to him the greater part of lot Ho. 2, and including the premises in question. The depositions of Hugh Munro and Grace Munro, taken in Ganada, under a commission, were also read in evidence, by which it appeared that the father of the witness Hugh was also named Hugh Munro; that a year or two before the revolutionary war he resided upon lands in Saratoga county, near Fort Miller; that shortly before the commencement of hostilities, he went to Canada, leaving his wife and children in Saratoga county; that he never returned to the United States, but after living a few years in Montreal, he took up his residence in Edwardsburgh, Upper Canada, where he continued to live until his death, in 1802.- The depositions further showed that the wife of the elder Hugh Munro, shortly after her husband went to Canada, took the children to the city of Hew York, at which place she and all the children except the witness Hugh died before the close of the revolutionary war. That soon after the peace, the witness Hugh went to Canada and resided with his father till his death. That his father died without a will, leaving the witness Hugh his only child and heir at law. That the plaintiff was born near Ballston in Saratoga county; he remained there with his mother for nearly a year after his birth, and then was brought by his mother to his father\u2019s residence in Canada and lived there about twenty years. Afterwards he lived at Toronto and other places, till he finally went to Rochester to reside, about five years ago, where he still resides. His mother went to Ballston to be delivered of the plaintiff; his father living in Canada at the time. The plaintiff proved a judgment recovered by Peter G-ansevoort against Hugh Monro, (the witness,) and an execution under which the lot Ho, 2, including the premises in question, was sold; also a judgment in favor of the plaintiff by confession, against the said Hugh Monro, under which the premises were redeemed in March, 1854, and conveyed by the sheriff of Saratoga county to the plaintiff, by deed dated 20th March, 1854. The defendant admitted he was in possession of the premises in question at the time of the commencement of the action. The defendant\u2019s counsel moved for a nonsuit on the grounds 1. That there was no evidence of title in the plaintiff. 2. That the proof of partition was defective. 3. That the conveyance from Livingston to Walton and others was irregular and mvalid, for the reasons that there was no sufficient evidence of the death of his co-executors, and he had no power, solely, to transfer the title; and that Livingston never qualified as executor. 4. That there was no sufficient evidence of the identity of either of the Hugh Munros through whom the plaintiff claims. 5. That Hugh Monro the elder was an alien and incompetent to take, or transmit, the lands in question. 6. The same as to Hugh Munro the younger. 7. The same as to the plaintiff. The motion was denied, and the defendant\u2019s counsel excejoted.\nThe plaintiff then read in evidence, 1. An act of the legis- \u25a0 lature of Hew York, passed 22d October, 1779, declaring the attainder of Isaac Low in the year 1779, which was objected to by the plaintiff\u2019s counsel as irrelevant and immaterial. The objection was overruled and the plaintiff\u2019s counsel excepted. 2. A deed from Anthony Yan Dam by Gerard Walton, his attorney, to Peter Gansevoort, jun., dated 17th July, 1797, covering the lands in question, 3. An exemplified copy of the record of the will of Peter Gansevoort, jun., dated 22d September, 1807, and of the codicil thereto, dated 22d June, 1811, and both proved 1st June, 1814, by which the premises in question were devised to his wife Catharine Gansevoort.\n4. An exemplified copy of the will of Catharine Gansevoort, proved 27th April, 1831, by which she devised the said premises to her two executors, Peter Gansevoort and Herman Gansevoort, with power to sell and convey. 5. A deed from Herman and Peter Gansevoort, the said executors, to Eansom Sutfin and others, dated 2d Hovember, 1841, conveying the premises in question. 6. A deed from Eansom Sutfin and others to the defendants, dated Jauuary 29, 1848, conveying the north half of lot Ho. 14 on Stearns\u2019 map, and including the premises in suit. The counsel for the defendant then offered in evidence a certified copy of the registry of a mortgage from Hugh Munro to Jacob Walton, Isaac Low and Anthony Yan Dam, covering the premises in question. Also the original hook of registry of mortgages-, from the Albany county clerk\u2019s office, containing the registry of mortgages of indentures from 1771 to December 31, 1782, from which it appeared that all the mortgages registered therein were registered in the same manner and form as the one in question. The defendant\u2019s counsel also produced a book of registry of mortgages from the Saratoga county clerk\u2019s office, from the year 1791 to 1805, and the mortgages were all registered therein in the same form. The counsel for the plaintiff objected to the introduction of this evidence, as to the registry of the mortgage, as irrelevant and incompetent, and also on the further grounds, 1. That neither such registry, nor a certificate thereof, was made, nor was by any statute or rule or principle of law evidence, for the purpose of proving the original mortgage. 2. That neither the original registry, nor the certificate, were competent evidence of a custom or manner of doing business, or for any other purpose. 3. That no assignment of the mortgage debt was shown, to those under whom the defendant claims. 4. That there was no legal evidence of the due execution of the mortgage alluded to in the registry, either from the book itself, or the certificate. 5. That the mortgage being shown, even, and the assignment also, the possession of the assignee would constitute no defense to this action. These objections were overruled; and the registry and copy were read in evidence, and the plaintiff\u2019s counsel excepted.\nThe defendant then read in evidence the depositions of Herman Gransevoort and others, by which it appeared that Peter Gransevoort, jun. and his successors had occupied the tract of land described in the conveyance from Anthony Van Dam to Peter Gransevoort, jun., in connection with another tract of land, of about equal size, adjoining it on the north. The two tracts together constituted what is called the Gransevoort tract or farm, and contained about 1500 acres. At the date of the instrument, in 1797, there were a few buildings upon that part of the tract, north of lot Ho. 2. At this time the business of lumbering was carried on by tenants of Gransevoort indiscriminately. This business consisted of getting out timber, sawing it on the premises and in selling it, and also in rafting away cut timber. About this time the cleared land on the tract amounted to 200 acres, more than half of which lay north of lot No. 2. Between the date of this conveyance and 1812, the lumbering business somewhat increased, and about 100 acres more were cleared. From 1812 to 1820, the lumbering business was still more increased, and was very considerable. About 1820 the lumbering business ceased, and little had since been done by the Gansevoorts, except to sell off parcels of the land. The cleared portions were to a great extent not worked. Between 1820 and 1846, about 100 acres more were cleared, so that at the latter date there were about 400 acres of land cleared, on the tract, of which about one third was on lot No. 2, and the balance north of it. During all this time'Peter Gansevoort, jun. resided in Albany, having removed there in 1795 or 6. For a few of the first years after the date of the conveyance from Van Dam, tenants from year to year occupied and worked the premises. In 1801 Herman Gansevoort, a son of P. Gansevoort, jun. took charge of the premises, as agent for his father, and continued to act as such agent till 1812, when Herman and his brother took a lease of the place for twelve years. During this period no portion or lot of the tract had been designated or used as a wood, or fencing-timber lot, by the Gansevoorts, and no part except the cleared portions had been fenced. The lumbering had been general and indiscriminate, over tbe whole tract, wherever suitable timber could be most conveniently cut. The products of the cleared portion were always used on the premises, for the hands and teams, and were not sufficient for those purposes, so that every year hay and grain were bought for consumption on the place. During this time P. Gansevoort, jun. and those holding under bim paid the taxes on the land, Since the defendant came into possession of the premises, and within the last nine years, they had been cleared. A few years before that, they were enclosed.\nAt the close of the evidence, the defendant\u2019s counsel again moved for a nonsuit, upon the several grounds before specified, and also upon the following additional grounds; 1. That the defendant had established an adverse possession of the premises. 2. That the defendant was to be regarded as a mortgagee in possession, and that the present action could not, therefore, be sustained. The motion was denied, and the defendant\u2019s counsel excepted.\nThe counsel for the defendant then propos\u00e9d and requested to go to the jury, 1. On the question of adverse possession, and as to the nature and character of the defendant\u2019s possession; 2. Whether it was in accordance with the usual course and custom of the adjoining country; 3. Whether the portion left not cleared or not enclosed, was according to such course and custom; 4. Upon the presumption of all necessary conveyances, to uphold the possession of the defendant and his predecessors ; and 5. Upon the presumption that the title of the elder Munro had been extinguished, or reconveyed to the grantors of Peter Gansevoort, jun. or to subsequent owners or possessors of the premises. The court denied such proposal's and requests of the defendant\u2019s counsel, and the defendant excepted.\nThe jury, under the direction of the court, rendered a verdict in favor of the plaintiff, for that portion of the premises claimed in the complaint, lying on lot So. 2 of the 20th allotment of the Kayaderosseras patent; to which direction of the court the defendant\u2019s counsel excepted.\nThe court ordered the verdict to be taken subject to the opinion of the court at general term; the plaintiff then to move for judgment, and the defendant to have leave to move for a nonsuit.\nThe plaintiff now moved for judgment, and the defendant for nonsuit.\nHunger & Pomeroy, for the plaintiff.\nBeach & \u00a1Smith, for the defendant."
+  },
+  "file_name": "0383-01",
+  "first_page_order": 383,
+  "last_page_order": 408
+}

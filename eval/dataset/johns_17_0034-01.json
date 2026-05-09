@@ -1,0 +1,91 @@
+{
+  "id": 6064629,
+  "name": "Jackson, ex dem. Livingston and others, against Freer",
+  "name_abbreviation": "Jackson ex dem. Livingston v. Freer",
+  "decision_date": "1819-08",
+  "docket_number": "",
+  "first_page": "34",
+  "last_page": "36",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 Johns. 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Johns. Rep. 238",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Johns. Rep. 140",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Johns. Rep. 495",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Johns. Rep. 241",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 450,
+    "char_count": 8602,
+    "ocr_confidence": 0.469,
+    "pagerank": {
+      "raw": 5.985501093508041e-07,
+      "percentile": 0.9540316829282325
+    },
+    "sha256": "367be582dcb88e287d6cfd35a0dd9d4093bdf1cdcb5d081f9b75e5d361fbe858",
+    "simhash": "1:4c5500dadc26c7d1",
+    "word_count": 1509
+  },
+  "last_updated": "2024-02-27T17:05:57.461929+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "*Jackson, ex dem. Livingston and others, against Freer."
+    ],
+    "opinions": [
+      {
+        "text": "Spencer, Ch. J.,\ndelivered the opinion of the court. The plaintiff\u2019s counsel seem to suppose that the lessors of the plaintiff had a priority of title, and were, therefore, entitled, at all events, to have the complement of acres mentioned in the patent for lot No. 104. This is manifestly a mistake. The owners of the tract would have been tenants in common, but for the partition which took place between them. The patents were issued on the mutual agreement of those interested in the whole tract, to sever their common rights ; and thus the agreement was carried into complete effect. As between the tenants in common, it was -immaterial when the patents were dated, they became entitled to the lots in severalty, in virtue of their agreement, and it was perfected by issuing the letters patent.\n\u25a0The real question is, Which shall prevail, the actual location of the lots on the ground, by marking and numbering trees at the comers, and by marking the lines of the lots; or the courses and distances which the map represents the lots as entitled to?\nThe survey of the lots, and the actual location of them, was the joint act of all the parties interested, and must control. The map was intended to represent the relative! situations and localities of the lots, as regarded each other: the actual survey was the practical location; and although the patents do no. specially refer to the field book and the actual survey of the lots, they virtually referred to them, by referring to the map. It was composed from the survey, and the lots acquired their individuality from the survey also. Without, therefore, any express reference to the field book or survey, the reference to the map was a reference to its accompaniments, the field book and survey. In Jackson v. Ogden, (7 Johns. Rep. 241.) Chief Justice Kent, in delivering the opinion of the court upon a question involving one of the lots in this tract,\" said, \u201c that when the question was rendered ambiguous or uncertain, by the contradiction between the map and survey, a practical location and construction given by the parties, and acquiesced in ^through a series of transfers, and for a great number of years, until the lands had become cultivated and grown into value, cannot but operate with great, if not decisive, force.\"\u2019 Those observations apply, with peculiar weight, in the present case; for all the lots, with the exception of three, which have been quite recently entered upon, have been held and possessed ever since the settlement of the country, according to the original and actual survey of the lots.\nTo locate lot No. 104. according to the map, and rejecting all that has been done by the patentees themselves to give fixed and definite boundaries to the lots, would throw every lot in the whole tract into a state of confusion. We are bound, as well by a regard to the quiet of the country, as to the acts of the parties, to hold them concluded by their actual location of the lots, without being influenced by the consideration, that some lots fall short, and others exceed the number of acres mentioned in the patents. This was matter of accident, and the patentees took their chances for the lots on the ballot.\nWe have been referred to a decision of this court in May term, 1811, in the case of Jackson, ex dem. Kortright and others, v. Reid, conforming to the principles now adopted; and although that case is not reported, it undoubtedly was decided in consonance with this case,\nMotion for a new trial denied, with costs.\nSee Jackson, ex dem. Johnson and others, v. Talmadge, 4 Cowen, 160. Jackson, ex dem. Smith, v. Marsh, 6 Cowen, 281. Ex parte Jennings, ibid. 518. 636. 679.",
+        "type": "majority",
+        "author": "Spencer, Ch. J.,"
+      }
+    ],
+    "attorneys": [
+      "Sudara, for the plaintiff.",
+      "T. A. Emmet, contra."
+    ],
+    "corrections": "",
+    "head_matter": "*Jackson, ex dem. Livingston and others, against Freer.\nWhere a large tract of land was granted , by the commissioners of the land office, to h. and others, describing the tract by hs exterior lines alone; and directing the tract to be surveyed by the survey- or-general, and patents to be issued for the several lots, according to the return and map of such survey; and the patents described the lots,with a reference to the 7nap on file in the secretary's office, it was held, that the patents were to be understood as referring to the Jield book and actual survey, as well as to the map on file ; that the owners of the several Jots were, bound by their actual locations, according to the lines on the ground, without regard to the circumstances, that some of the lots would exceed, and some Sail short of the quantity of acres mentioned in the patents.\nTHIS was an action of ejectment, for land in Walton in Delaware county, and was tried at the Delaware circuit, before Mr. Justice Yates, on the 30th of June, 1818.\nThe lessors of the plaintiff deduced a regular title, by descent, from Peter Van Brugh Livingston, the patentee, to lot No. 104. in the tract of land granted to Peter Van Brugh Livingston, Lawrence Kortright, and others. The patent was dated the 14th of August, 1786, and passed the secretary\u2019s office the 22d of September, 1789, and was introduced at the trial, with an exemplification of the map made under the direction of the surveyor-general, and filed in the secretary\u2019s office, designating the several lots in the tract. From authenticated copies of the minutes of the commissioners of the land office, on the 8th of October, 1785, and the 6th of May, 1786, it appeared, that the commissioners granted the said tract of land, describing it by its exterior boundaries alone, to Peter Van Brugh Livingston, and others, and had directed the same to be surveyed by the surveyor-general, and patents to be issued for the several lots, according to the return, and map of such survey.\nThe plaintiff' proved, by S. Bartlett, a surveyor, that, in locating lot No. 104. according to the map filed in the secretary\u2019s office, and according to the courses and distances given in the patent, it would include about thirty-four acres of the premises in the possession of the defendant.\nThe defendant gave in evidence a patent to S. Wattles, for lot No. 90. in the above-mentioned tract, dated the 19th of August, 1789 ; and a deed for the same lot, from Wattles to him. dated the 1st of November, 1803. The defendant also produced copies of the field book of the original survey, duly authenticated.\nBartlett, the surveyor, who was called as a witness, testified, that he had surveyed lot No. 90., and stated the particulars of the survey; that the defendant possessed the lot according to the lines now on the ground; that the witness *had examined the old marked lines, and corners, as originally surveyed, and that the possession of the defendant corresponded with them, but that the old survey, and possession, did not correspond with the map on file in the secretary\u2019s office. That the witness resides on the tract, and is acquainted with it, and that about one half of the lots are settled and improved, and that, as far as he is acquainted with them, they are held according to the lines and boundaries made in the old survey, excepting three lots which have been settled within three years, according to a new survey made by direction of the proprietors of those lots.\nAnother witness stated, that lot No. 90. was improved more than 20 years ago, and that the defendant had been in possession about 14 years.\nBartlett, the surveyor, further testified, that, according to the survey on the ground, and the lots there marked out, some of them could not be located within the exterior boundaries of the tract; but some of the lots, and among them lot No. 104., would, in part, fall within Leake\u2019s patent, which is older than the one to Livingston. But on surveying the lots according to the maps filed in the secretary\u2019s office, and the patents issued in reference thereto, there was land enough to give each lot its full complement of acres ; and that lot No. 90., as now located and possessed, contained 277 acres. That he had surveyed the exterior boundaries of the said tract sufficiently to ascertain that there was width enough to give to'each lot its full complement. That he had found no stakes or stones at any of the corners of lot No. 90.\nThe jury, under the direction of the judge, found a verdict for the defendant.\nA motion was made to set aside the verdict, and for a new trial.\nSudara, for the plaintiff.\nHe cited Jackson, ex dem. Orossett, v. Hunter, (1 Johns. Rep. 495.)\nT. A. Emmet, contra.\nHe cited Jackson, ex dem. Good rich, v. Ogden, (4 Johns. Rep. 140. and S. C. 7 Johns. Rep. 238. and Jackson, ex dem. Kort right, v. Reid, relative *to the same land, decided in May term, 1811. (not reported.)"
+  },
+  "file_name": "0034-01",
+  "first_page_order": 34,
+  "last_page_order": 36
+}

@@ -1,0 +1,293 @@
+{
+  "id": 5040623,
+  "name": "Beard vs. The City of Brooklyn",
+  "name_abbreviation": "Beard v. City of Brooklyn",
+  "decision_date": "1859-02-13",
+  "docket_number": "",
+  "first_page": "142",
+  "last_page": "152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 Barb. 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Wend. 393",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012922
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0393-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 243",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 John. 484",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135965,
+        2135966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0490-01",
+        "/johns/10/0490-02"
+      ]
+    },
+    {
+      "cite": "4 Hill, 263",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wend. 53",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003301
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/1/0053-01"
+      ]
+    },
+    {
+      "cite": "6 John. 1",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132752
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0001-01"
+      ]
+    },
+    {
+      "cite": "15 N. Y. Rep. 512",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2018082
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/15/0512-01"
+      ]
+    },
+    {
+      "cite": "4 Hill, 630",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. Rep. 158",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297839
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0150-01"
+      ]
+    },
+    {
+      "cite": "8 Barb. 645",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936145
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/8/0645-01"
+      ]
+    },
+    {
+      "cite": "2 Denio, 433",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186099
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/2/0433-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 612",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wend. 539",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 N. Y. Rep. 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021221
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0442-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. 168",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hill, 545",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Barb. 398",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Denio, 520",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485362
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0520-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 458",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025552
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0458-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. Rep. 158",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297839
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0150-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 612",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Denio, 520",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485362
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/4/0520-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 458",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025552
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/23/0458-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 809,
+    "char_count": 19646,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 1.0668215992749981e-06,
+      "percentile": 0.9846909993594221
+    },
+    "sha256": "d0cf9bbcb0c4f33eb53e266969c4972220459ab83ce928222ef0013720b6ef51",
+    "simhash": "1:04f5c7fe86a9e0c7",
+    "word_count": 3410
+  },
+  "last_updated": "2024-02-27T19:59:40.580655+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beard vs. The City of Brooklyn."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Brown, J.\nOn the 14th of October, 1846, James Collins, the plaintiff\u2019s assignor, entered into a written contract with the defendant to grade, regulate and form an arch in Clinton avenue, from the Wallabout road to the bulkhead in the city of Brooklyn, in the manner prescribed in the contract. The contractor was to receive payment for the work as the mojiey should be collected, from time to time, on the assessment therefor. This contract was made under the act to incorporate the city of Brooklyn, passed April 8th, 1834, the 40th section of which gives the common council power to cause all streets to be graded, &c. The expense is to be charged upon the owners and occupants of the lands benefited thereby, and the assessments are to be paid into the treasury within thirty days, pursuant to section two of the act of the 28th-of March, 1836. If not paid within that time, a warrant shall be issued to the collector, to collect the same, in the like manner as warrants to the collectors of towns under the general law for the collection of taxes therein. This warrant is to be made returnable in 120 days. Upon the return of the warrant with the certificate upon oath of the non-payment of any assessment, the common council are to advertise and sell the lands charged with the payment thereof, for the lowest term of years at which any person will take the same and pay the assessment with the interest and the charges. The period of time required for the consummation of these proceedings is less than one year. It appeared from the proof taken before the referee, that the assessments for the expenses of the work were duly made and confirmed on the 15th May, 1848, and the warrant for the collection of the same was issued to the collector in July, 1848. The work was completed by the contractor, as appeared by the certificate of the city surveyor, March 19th, 1849. The original warrant has not been returned, and no measures were taken by the common council to enforce the collection of the assessments, except a resolution of the common council, passed March 13th, 1854, directing the collector of taxes and assessments to proceed forthwith to collect the sums due for the work, and that a warrant for the collection of the same issue to the proper officers. No warrant, however, was issued under the resolution. Such moneys as had been collected and paid into the treasury had been paid over to the contractor, which consisted mainly of the money collected from the government at Washington; but a very considerable sum still remained due and unpaid to the collector. These constituted the principal facts of the case, which is substantially an action on the case for negligence, tried before a referee, who made a report in favor of the plaintiff, upon which judgment was entered in the city court of Brooklyn, and from which the defendant has appealed.\nNo one will think, after the decisions of this court ih McCullough v. The Mayor &c. of the City of Brooklyn, (23 Wend. 458,) and Lake v. The Trustees of Williamsburgh, (4 Denio, 520,) that the defendants in this action are primarily liable for the payment of the money due to the plaintiff upon the contract. The common council is one of the contracting parties, but it does not covenant or agree to pay any money for the labor and services to be performed on the street. They are parties to the contract in execution of a statute, as the agents of the owners of the land benefited by the improvement, and not as strictly the agents and representatives of the city. The work is for the special benefit and improvement of such lands, and the expenses are a special charge thereon, and not upon the city at large, or its treasury. \u201c Ho legal duty rests upon the corporation,\u201d says the court in the last named case, \u201c beyond that of setting the machinery in motion and making a right application of the funds when received.\u201d There is also the further duty of keeping the machinery in motion until the improvement is completed, and the moneys realized to compensate those who may have been employed and expended their substance and labor for that end. \u201c If the common council,\u201d say the court, in McCullough v. The Mayor of Brooklyn, \u201c has neglected that duty, or has been wanting in diligence, an action on the case would perhaps lie in favor of any one who like the plaintiff would be entitled to the money when collected. But a mandamus would be the more appropriate remedy. Although, as a general rule, a mandamus will not lie when the party has another remedy, it is not universally true in relation to corporations and ministerial officers.\u201d The contract in the present case is studiously silent in regard to the duties and obligations of the common council. It does not even say that it will proceed with reasonable diligence to make and collect the assessments. It has duties and obligations, nevertheless, which are to be implied from the nature of the transaction and the objects to be accomplished by the statutes under which it acts. These objects are the opening and the improving of streets, within the city limits, upon just and equitable principles. These improvements involve large expenditures of moneys, and unless the law imposed duties upon the corporate authorities adequate to the due execution of the laws, and the collection of the necessary means, the improvements could not be made and the laws would fail to be executed. These acts for the opening and improvement of streets and avenues within the bounds of municipal corporations are acts of public concern. They promote the health, the comfort, the convenience and the necessary business of the inhabitants, and thus concern the public welfare. When the public interest calls for the execution of the powers conferred by these statutes, the corporation are not at liberty to withhold it. The exercise of the power becomes a duty which the corporation are bound to fulfill. (The Mayor of New York v. Furze, 3 Hill, 612.) In the case of West v. The Trustees of the Village of Brockport, decided by Judge Selden at the special term, and reported in a note in the 16th New York Reports, 161, and which received the sanction of the court of appeals, we have this exposition of the duties and obligations of individuals as well as corporations \u2022 \u201c That whenever an individual or a corporation, for a consideration received from the sovereign power, has become bound by covenant or agreement, express or implied, to do certain things, such individual or corporation is liable, in case of neglect to perform such covenant, not only to a public prosecution by indictment, but to a private action at the suit of any person injured by such neglect. In all such cases the contract made with the sovereign power is deemed to enure to the benefit of every individual interested in its performance The action was against the trustees, for the negligent and careless construction of a platform in a public street, by which the plaintiff was injured; the trustees having power given them by statute \u201c to open, improve, ornament, construct and repair streets; alleys and sidewalks The plaintiff was nonsuited at the trial, and the nonsuit was after-wards set aside upon the principle which I have extracted\" from the opinion. (See also Conrad v. Trustees of Ithaca, 16 N. Y. Rep. 158; Hunt v. The City of Utica, 18 id. 442.) The authority given to the corporation of the city of Brooklyn, by the statutes to which I have referred, is a most vital and valuable part of the sovereign power of the state, for it is, amongst other things, the right to take private property for public use under the law of eminent domain. The common council are therefore accountable for the manner of its exercise. It cannot institute proceedings to open and grade street's and avenues, and through mere negligence and inattention leave them imperfect and incomplete, to the detriment and injury of individuals. In making contract's with others, in execution of the powers bestowed Upon it, no liability will be created, so long as it acts within the scope df its authority, and with usual and reasonable diligence. But it cannot with impunity enter into contracts with individuals by which they ate induced to expend their labor and substance in works of public improvement, and then refuse or negligently omit to employ the means given it by law for their recompense and reimbursement. Collitts, the contractor, according to the certificate of the city surveyor, executed his part of the contract with reasonable fidelity and dispatch. Ho fault is imputed to him. It is not claimed or pretended that the lands benefited by the work are not of sufficient value, if sold, to pay the expenses incurred, for no effort or attempt has been made to bring them to a sale. The collector\u2019s warrant, with the return thereto under oath, has not even been filed in the proper office, so that a valid sale of the lands charged could have taken place. The contractor has no power over the collector to enforce the return of the warrant, nor has he any authority to iss\u00fce a new warrant. He cannot sell the lands himself, for the satisfaction of his Undisputed claim. In short'he is remediless, because the legislature has delegated the power necessary to collect the money to the common council, and to no one else. The negligent omission of the defendant is too manifest to admit of any doubt, and the authorities to which I have referred are decisive in favor of the plaintiff\u2019s right to recover.\nIn addition to the sum of money assessed to the general government, the street commissioner collected from it the sum of $2092 for interest. This sum was by a resolution of the common council paid to the contractor as interest upon his claim, in consideration of the delay in the payment. The counsel for the city now claim that the referee erred in not charging this sum as a payment upon the principal sum due the contractor for the work. In this view I do not concur. The common council have no interest in this affair, except to execute the laws.. As has been said before, it is the agent of the parties interested. It received the $2092 as interest, and very properly paid it over as such. What else could be conscientiously or legally done with it ?\n[Kings General Term,\nFebruary 13, 1859.\nThe judgment should he affirmed.\nLott, Emott and Brown, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Brown, J."
+      }
+    ],
+    "attorneys": [
+      "A. McCue, for the appellants.",
+      "D. P. Barnard, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Beard vs. The City of Brooklyn.\nThe authority given by its charter to the corporation of the city of Brooklyn, to open and grade streets and avenues, is a most vital and valuable part of the sovereign power of the state, and the common council is accountable for the manner of its exercise. .\nIt cannot institute proceedings to open and grade streets &c,, and through mere negligence and inattention leave them imperfect and incomplete, to the detriment and injury of individuals.\nIn making contracts with others, in execution of the powers bestowed upon-the corporation, no liability will be created, so long as the corporation acts within the scope of its authority, and with usual and reasonable diligence. But it cannot, with impunity, enter into contracts with individuals, by which they are induced to expend their labor and substance in works of public improvement, and then refuse, or negligently omit, to employ the means given it by law, for their recompense and reimbursement. \u25a0\nThus, if, after having entered into a contract with an individual for graduating, regulating and forming an arch in an avenue of the city, and the contract has been fully performed by the contractor, the common council neglects to lay, confirm and collect the assessment for the cost of the work, an action, substantially on the case for negligence, will lie against the corporation, in favor of the contractor.\nAPPEAL from a judgment of the city court of Brooklyn. The action was brought to recover a balance claimed to be due to the plaintiff, as assignee of James Collins, on a contract made by said Collins with the defendants, for graduating, regulating and forming an arch in Clinton avenue, from Wallabout road to the bulkhead. The complaint alleged that the defendants agreed to cause due diligence to be used in laying, confirming and collecting the assessment for the cost of the work, but that they failed to do soj whereby the said assessment has not yet been collected. The answer contained a general denial and alleged a payment in full. The action was referred to George G. Reynolds, Esq., as referee, who reported in favor of the plaintiff, on the ground that the defendants might, with due diligence, have collected the whole assessment on or before the 15th of May, 1849, and that they did not use due diligence in collecting the same. At the close of the plaintiff\u2019s testimony the defendants moved for a non-suit, upon these grounds:\n1. Because no contract had been shown binding upon the city.\n2. Because by the contract offered in evidence the defendants were not bound to use any diligence in collecting the qmounts.\n3. Because the proper remedy of the plaintiffs was by mandamus and not by action.\n4. Because the contractor agreed to receive payment as the assessment was. collected, and it was not shown that any assessments had been collected.\n. 5. Because the defendants were not liable for the failure of the proper officers to do their duty in the matter of collecting the assessment..\n6. Because the plaintiffs had failed to establish a cause of action against the,defendants.\n\u25a0\u00a1Motion was,\u00a1denied,by the referee,..and-the defendants excepted. .... .....\nA. McCue, for the appellants.\nI.. The referee erred in denying defendants' motion, l\u00edo contract was shown by which any general .liability, was incurred by .the- city of Brooklyn. The contract was never in fact .executed by the city, but only by the contractor; and the latter agreed to receive payment for his work as the money should be collected from time, to time on the assessment therefor. It was admitted by the plaintiff .that all the assessments received into the.city treasury had been paid to the contractor, or upon :his order, as received, and that the balance of the assessment had not been collected by the defendants. (Hunt v. City of Utica, 18 N. Y. R. 442.)\nII. The referee also erred, because by the-contract offered in evidence the defendants were not bound to use any diligence in collecting the assessment.\n\u25a0 III. The referee also erred, because the plaintiff, entirely failed to prove any negligence on the part of the defendants. The assessment was confirmed in May, 1848.- A warrant for the collection of the same was issued in July, 1848. The \"warrant has never been returned, and in March, 1854,, the common council directed the collector of taxes and assessments to proceed forthwith with the collection of the assessment. The defendants have therefore discharged all their duty in the premises, and \u201chave put the necessary machinery in motion.\u201d (McCullough v. Mayor of Brooklyn, 23 Wend. 458. Lake v. Trustees of Williamsburgh, 4 Denio, 520. Hunt v. City of Utica, 23 Barb. 398, reviewing the case of Cummings v. Mayor of Brooklyn, 11 Paige, 596.)\nIV. The referee also erred, because the negligence, if any, was not on the part of the defendants, but in their officers, intrusted by law with the performance of specific duties, and for whose malfeasance or nonfeasance the corporation, as such, is not responsible. (Martin v. City of Brooklyn, 1 Hill, 545. Approved of in 1 Kern. 392.)\nV. The referee also erred, because the plaintiff had failed to establish a cause of action against the defendants. The common council had no authority to direct the street commissioner to enter into any contract for an improvement, the cost of which was made by the charter the subject of a local assessment, which contract could, in any event, become a general charge against the property of the corporation. The charter prescribed the powers of the common council, beyond which it could not go; and if it did, the members thereof would act as individuals, and would be liable accordingly. (Cuyler v. Trustees of Rochester, 12 Wend. 168, affirmed in Mayor of Albany v. Cunliff, 2 Comst. 178. Hunt v. City of Utica, 18 N. Y. Rep. 442. Baker v. City of Utica, 19 id. 328, and cases cited under 3d point.)\nVI. For the reasons before stated, the findings of the referee, numbered respectively 1, 2, 4 and 5, relative to the making of the contract, the performance thereof by the plaintiff, and that the defendants might, with due diligence, have collected the assessment on or before the 15th of May, 1849, but that they had not used due diligence, were erroneous.\nVII. The finding of the referee, in respect to the interest upon the plaintiff's claim, was also erroneous. The payment of the sum of $2092, as interest, was made by the comptroller, without authority. Ho interest was due upon the contract. The contract price was to be paid, as collected from time to time, on the assessment. This excludes the idea of any interest. The defendants should be credited with this amount, and, this being done, the plaintiff will appear to have been overpaid.\nD. P. Barnard, for the respondent.\nI. The referee was fully justified in finding that with due diligence the assessment might have been collected in one year from the confirmation.\nII. The power to direct the grading of an avenue was a judicial power, for which the defendants are not responsible either for directing or omitting to direct the act to be done. But when they have exercised the power, and directed the contract to be made, they are in duty bound to take all necessary measures to have the assessment collected; and if they neglect to do so, they are liable to an action on the case. (McCullough v. Mayor &c. of Brooklyn, 23 Wend. 458, Brady v. The Same, 1 Barb. S. C. Rep. 584. Hunt v. City of Utica, 23 id. 390; S. C., 18 N. Y. Rep. 442.)\nIII. When a municipal corporation, for a consideration received from the sovereign power, has become bound by agreement, either expressed or implied, to do certain things, such corporation is liable, ip case of neglect to perform the agreement, not only to a public prosecution by indictment, but to a private action at the suit of every person injured by such neglect. (People v. Corp. of Albany, 11 Wend. 539. Western v. Mayor of Brooklyn, 23 id. 334. Mayor of New York v. Furze, 3 Hill, 612. The Same v. Bailey, 2 Denio, 433. Morey v. Town of Newfane, 8 Barb. 645. Hickok v. Trustees of Plattsburgh, 15 id. 427. Rochester White Lead Co. v. City of Rochester, 3 Comst. 463. Hutson v. Mayor &c. of New York, 5 Selden, 163. Griffin v. The Same, Id. 456, Conrad v. Trustees of Ithaca, 16 N. Y. Rep. 158. Adsit v. Brady, 4 Hill, 630.)\nIV. Corporations are liable for injuries to third persons resulting from the negligence of persons employed by officers of the corporation in the performance of their public duties. (Lloyd v. Mayor of New York, 1 Seld. 369. Howell v. City of Buffalo, 15 N. Y. Rep. 512.)\nY. Actions have been sustained to recover moneys payable by a local assessment. (Stafford v. Mayor &c. of Albany, 6 John. 1; 7 id. 541. Hawkins v. Trustees &c. of Rochester, 1 Wend. 53. Kelley v. Mayor &c. of Brooklyn, 4 Hill, 263. Brady v. The Same, 1 Barb. S. C. Rep. 584.)\nYI. This was not a proper case for a mandamus. The plaintiff has an adequate remedy by action. A mandamus would not compensate for damages sustained. (Shipley v. Mechanics\u2019 Bank, 10 John. 484. Boyce v. Russell, 2 Cowen, 444. Ex parte Fireman\u2019s Ins. Co. 6 Hill, 243. Ex parte Lynch, 2 id. 45. People v. Mayor &c. of N. Y., 10 Wend. 393. 25 id. 680, S. C. People v. Supervisors of Chenango, 1 Kern. 563.)"
+  },
+  "file_name": "0142-01",
+  "first_page_order": 142,
+  "last_page_order": 152
+}

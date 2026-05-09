@@ -1,0 +1,66 @@
+{
+  "id": 2009609,
+  "name": "Jackson, ex dem. Smith, vs. Long",
+  "name_abbreviation": "Jackson, ex rel. Smith, v. Long",
+  "decision_date": "1831-05",
+  "docket_number": "",
+  "first_page": "170",
+  "last_page": "172",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Wend. 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 284,
+    "char_count": 4862,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 1.0197288513464858e-07,
+      "percentile": 0.5449236615725472
+    },
+    "sha256": "67e7f16647182d6df1fc0d96f27114465d7be782bfb0404afcdb20df06f7cb33",
+    "simhash": "1:98876e523e12d642",
+    "word_count": 875
+  },
+  "last_updated": "2023-07-14T20:11:20.564467+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Smith, vs. Long."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nSutherland, J.\nThe evidence establishes a clear, distinct and uninterrupted adverse possession of the respective parts of the farm for more than 30 years. The farm was divided by the heirs of Bradt before the conveyance to the lessor, or those under whom he holds. Those conveyances, therefore, were not of an undivided portion of the farm, but of a divided half, according to the division fence. The evidence renders it extremely probable that it was intended when the partition was made by the heirs of Bradt, that the part of the farm now owned by the lessor should contain less land than the other: for it appears that all the buildings, garden and orchard were on that part, and if the division was designed to be equal in value, more land would naturally have been given to the other. However, no matter what\nwere the intention of the parties ; their rights are now settled ^y lapse of time.\nThe manner in which the parties have paid the landlord\u2019s rent, in no respect affects their rights in this case. The lease covers the whole farm ; both parts of it are liable to the landlord for the rent of each. The agreement that each should pay half of the rent, would afford no evidence that their possessions and rights, as between themselves, were not entirely distinct and settled. It might, or might not, in connexion with other circumstances, be evidence that the parties supposed that their farms contained an equal quantity of land; but their opinions or belief upon that subject cannot vary or affect their legal title to the land itself.\nNor can the survey of 1826, though made by the consent of the defendant, operate as a waiver of his legal rights, acquired by possession or otherwise. There was not even a parol agreement to abide by the result of the survey. If there had been, it would have been of no legal force, unless consummated by subsequent acts or deeds. 2 Caines\u2019 R. 198. 9 Johns. R. 61. 15 id. 503. 16 id. 302.\nThe defendant must have judgment.",
+        "type": "majority",
+        "author": "Sutherland, J."
+      }
+    ],
+    "attorneys": [
+      "J. V. N. Yates, for plaintiff",
+      "J. T. B. Van Vechten, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Smith, vs. Long.\n\"Where a faitii had been divided into two parts, and according t\u00f3 stibh divisi\u00f3nthe separate parts had been possessed as distinct farms for thirty years, and on survey it, was ascertained that the owner of one portion had in his possession about 22 acres more than the other, it was held, in an action of ejectment, brought to equalize the possessions, that the rights of the parties Were controlled by the original division and the possessions under it, notwithstanding the survey had been procured by the defendant, it not having been consummated by a conveyance or surrender, and notwithstanding the repeated , admissions of the defendant that the plaintiff was the owner of one half of the farm, and the fact that the parties had always each paid one half of the rent reserved in the original grant.\nThis was an \u00e1\u00f3tion of ejectment, tried at the Albany circuit, in August, 1828, before \u25a0 the Hon. William A. Hube, then one of the circuit judges.\nThe lessor of the .plaintiff and the defendant were in possession of different portions of a farm, which, in 1768, was granted by lease in fee, subject to rent, by Stephen Van Rensselaer to Adrian Bradt; each paid half of the rent,- and had done so \u25a0for 15 or 20 years. The defendant alleged that he paid rent for more land than he had in his possession, and insisted upon \u25a0 having a survey made. In 1826 a survey was made by a surveyor, jointly \u00e9mployed by the parties, when it was ascertained that the farm contained 259f- acres, of which the defendant had in his .possession 141 acres, and the lessor of the plaintiff\nan this suit only 118-f acres, upon which this suit was commenced to equalize the possessions of the parties. The plaintiff proved that more than 30 years before the trial one half of the farm was conveyed by the heirs of Bradt, the original lessee, to one Darling, from whom the lessor of the plaintiff derived his title; he also proved admissions made by the defendant at various times, that one half of the farm belonged to the lessor of the plaintiff, and gave evidence of the survey made in 1826, and of the circumstances leading to it. On the part of the defendant it was shewn that more than 30 years before the trial, a division of the farm into two parts was made by the heirs of Bradt, that a fence was erected on the division line, which had been maintained to the time of the trial, and that according to it the possessions had been held by the lessor of the plaintiff and the defendant, and those under whom they claimed. It also appeared that at the time of the original division, the house, garden and orchard then on the premises were on the part of the farm now in the possession of the lessor of the plaintiff. A verdict was taken for the plaintiff subject to the opinion of this court.\nJ. V. N. Yates, for plaintiff\nJ. T. B. Van Vechten, for defendant."
+  },
+  "file_name": "0170-01",
+  "first_page_order": 170,
+  "last_page_order": 172
+}

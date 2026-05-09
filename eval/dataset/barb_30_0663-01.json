@@ -1,0 +1,97 @@
+{
+  "id": 5027350,
+  "name": "Barnes vs. Allen",
+  "name_abbreviation": "Barnes v. Allen",
+  "decision_date": "1860-02-13",
+  "docket_number": "",
+  "first_page": "663",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Barb. 663"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Hill, 440",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 John. Rep. 196",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131467
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/5/0196-01"
+      ]
+    },
+    {
+      "cite": "4 Barb. 225",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777079
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/4/0225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 652,
+    "char_count": 16820,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 4.822769575910178e-07,
+      "percentile": 0.931853749002355
+    },
+    "sha256": "1b6fdf6ce229799f9790a2cc2d2ccb43c4c92f856c01e4237d248d80d678565d",
+    "simhash": "1:26dbaa3206933766",
+    "word_count": 2967
+  },
+  "last_updated": "2024-02-27T19:02:44.432128+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barnes vs. Allen."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Lott, P. J.\nThe evidence offered by the defendant, of a general report that the plaintiff ill treated his wife, was clearly inadmissible; and as the exception is not noticed in the points of his counsel on this appeal, we assume it to be abandoned. Mor are we able to discover any principle on which the mere statements of the plaintiff\u2019s wife that she was abused by him, without any proof of such abuse in fact, can be a justification for the defendant\u2019s advice to her to leave him, and for his agency in removing her from the house of her husband to that of her father. The husband is entitled to the assistance and society of his wife, and she is not justified in leaving him without cause shown.\nCharges or allegations merely that such cause exists are not sufficient; and if they will not justify her in violating her obligations, she cannot, by representing to others that cause exists, by which they encourage, advise and assist her in such violation, extend immunity to them for their acts. On the contrary, whenever a wife is unjustifiable in abandoning her husband, he who knowingly and intentionally assists her in thus violating her duty, is guilty of a wrong for which an action will lie. (Schuneman v. Palmer, 4 Barb. 225, &c.) There was no error therefore in the circuit judge, in instructing the jury that the defendant was bound to show that the plaintiff\u2019s wife was abused, to justify his interference in removing her, and that her statement that she was abused was not suffici\u00e9nt.\nMor is there any objection to the remark, \u201cthat what would excuse a man for harboring a wife, will not excuse an act of interference in the husband\u2019s affairs, either in advising her to leave her husband\u2019s premises or in carrying her away.\u201d In one case, the act is one of protection against an abuse and violation of marital rights; in the other, an aggression on those rights. It is therefore consistent with the principles of justice, that the law should excuse the former, while it demands a justification of the latter. This distinction was recognized in the case of Hutcheson v. Peck, (5 John. Rep. 196,) and must, in our opinion, be sustained. At all events, there is not enough disclosed in the case to warrant us in saying that the remark as made was not correct.\nAnother question remains to be noticed. It appears that the confessions of the defendant were given in evidence to show his agency in the transaction; and the judge, in speaking of those confessions, instructed the jury that they might believe a part and reject others of the allegations made by him; that they might believe the fact that he admitted, and disbelieve the reasons assigned for it. This rule appears to be fully sustained by Mr. Greenleaf in his valuable treatise on Evidence. He says: \u201c Although the whole of what is said at the same time and relating to the same subject must be given in evidence, yet it does not follow that all the parts of the statement are to be regarded as equally worthy of credit; but it is for the jury to consider, under all the circumstances, how much of the whole statement they deem worthy of belief, including as well the facts asserted by the party in his own favor as those making against him.\u201d And subsequently, in speaking of confessions by a prisoner, he further says: \u201c If, after the whole statement of the prisoner is given in evidence, the prosecutor can contradict any part of it, he is at liberty to do so, and then the whole testimony is left to the jury for their consideration, precisely as in other cases where one part of the evidence is contradictory to another. For it is not to be supposed that all the parts of the confessions are entitled to equal credit. The jury may believe that which charges the prisoner and reject that which is in his favor, if there are sufficient grounds for so doing. If what he said in his own favor is not contradicted by the eviden.ce offered by the prosecutor, nor improbable in itself, it will naturally be believed by the jury; but they are not bound to give weight to it on that account, but are at liberty to judge of it, like other evidence, by all the circumstances of the case.\u201d (1 Greenl. Ev. \u00a7\u00a7 201, 218, 3d ed.)\n[Kings General Term,\nFebruary 13, 1860.\nSeveral authorities are cited sustaining these doctrines. I will only refer to the case of Kelsey v. Bush & Viele, (2 Hill, 440,) where Judge Bronson, in discussing the effect of confessions, says: \u201c The court and jury are not always bound to give equal,weight and importance to every part of the admission. If that part of the confession which discharges the party is in itself highly improbable, or if there be evidence aliunde, although but slight, tending to discredit it, the jury may believe one part of the confession and reject the other.\u201d\nThe authorities cited by the defendant\u2019s counsel on this question, all of which are referred to by the learned judge in his opinion, were cases where there was nothing improbable or suspicious in that part of the confession which went to discharge the defendant; and all the other evidence in the case tended to confirm the truth, and do not conflict with the rule laid down by him, nor with that in the case at bar.\nThe evidence not only established the fact, that the plaintiff\u2019s wife left his house by the advice and agency of the defendant, but also tended to show that he, in such advice and agency, instead of being governed by the reasons assigned by him, was actuated by malice, and that his object was to be revenged for some previous act of the plaintiff. Upon such evidence, the jury were warranted in rejecting the excuse and explanations given by the defendant for his conduct; and the court decided correctly in denying the motion for a nonsuit, and properly instructed the jury, that if they rejected those explanations, and believed that he interfered purposely to remove the plaintiff\u2019s wife from her husband, the action would lie.\nOur conclusion upon the whole case is, that none of the defendant\u2019s exceptions are well taken. The judgment must therefore be affirmed, with costs.\nLott, Emott and Brown, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Lott, P. J."
+      }
+    ],
+    "attorneys": [
+      "J. Barnard, for the appellant.",
+      "C. Wheaton, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Barnes vs. Allen.\nIn an action for maliciously enticing and carrying away the plaintiff\u2019s wife from his house, evidence of a general report that the plaintiff ill treated his wife, is inadmissible by way of justification.\nNor will the mere statements of the plaintiff\u2019s wife, that she was abused by her husband, without any proof of such abuse, in fact, be a justification for the defendant\u2019s advice to her to leave her husband, and for his agency in removing her from her husband\u2019s house to that of her father.\nTo justify his interference in removing the wife from her husband\u2019s house, the defendant is bound to show that she was abused. Her statement that she was abused is not sufficient.\nWhenever a wife is not justifiable in abandoning her husband, he who knowingly and intentionally assists her in thus violating her duty, is guilty of a wrong, for which an action will lie.\nThat which will excuse a man for harboring the wife of another, will' not excuse an act of interference in the husband\u2019s affairs, either in advising her to leave her husband\u2019s premises, or in carrying-her away.\nWhere the confessions of the defendant are given in evidence, to show his agency in a particular transaction, it is proper to instruct the jury that they may believe a part and reject another part of the allegations made by the defendant; that they may believe the fact which he admitted, and disbelieve the reasons assigned for it.\nTHIS was an appeal, by the defendant, from a judgment entered at a special term, after a trial at the circuit. The action was brought to recover damages of the defendant for counseling and attempting to induce the plaintiff\u2019s wife to leave him; and for taking and carrying her away from the plaintiff\u2019s house,^ and breaking up his family. The defendantby his answer, denied the allegations of the complaint; and for a further defense, alleged.that immediately prior to the time the plaintiff\u2019s wife left his residence, the plaintiff was guilty of cruel and inhuman treatment of his said wife, and that it was not safe for her to live with him, and that the plaintiff\u2019s said wife left the plaintiff\u2019s residence on account of such ill treatment, as she lawfully might for the cause aforesaid, and at her request the defendant carried her to her father\u2019s residence. That such cruel and inhuman treatment of the plaintiff\u2019s wife by her husband had been continued from the marriage of the plaintiff and his wife to the time said wife so left the plaintiff\u2019s residence. That the plaintiff consented to, requested and directed his said wife to leave his residence, and go home to her father\u2019s, and not come back; and that she did so, and the defendant conveyed her, at her request, to her said father\u2019s. That it was generally reported and beliexed that the plaintiff ill treated, beat and abused his said wife, and that the plaintiff\u2019s mind was weak, and bis temper insane; that -it was unsafe and dangerous for the plaintiff\u2019s wife to live with him, and that in consequence thereof, when the plaintiff\u2019s wife applied to the defendant to convey her to her father\u2019s house, which she did, he (the defendant) consented so to convey her; the defendant being a near neighbor of the plaintiff.\nOn fire trial Charles Brown, a witness for the plaintiff, testified as follows : \u201c I live in Pleasant Valley, and know the parties; they live between 60 and 80 rods apart, with a creek between them. I had a conversation with the defendant in March, 1857; it was after the plaintiff\u2019s wife went away; it was the next day after; he said he had carried her away; I think the defendant said he had advised her to go away; I never heard the defendant say he was unfriendly to the plaintiff ; the defendant had got a warrant for the plaintiff. Allen said in the same conversation that he carried her away because Barnes abused her \u00a1 that Barnes\u2019 wife had told him (defendant) that her husband so abused her that she was afraid of her life, and she requested him. (defendant) to carry her to her father\u2019s, Jonathan Lockwood, which he did; the defendant said that he gave her the advice to go to her father\u2019s, because she said that she was afraid of her life at her husband\u2019s.\nSamuel Anthony, another witness, testified: \u201cI lived at Thomas Allen\u2019s at this time; I recollect the circumstance of the plaintiff\u2019s wife leaving; I was at that time working for the defendant, Allen; Allen came to me and told me to harness his horses; he told me to do it quick; I did so; he then told me to get into the wagon with him; I did so, and we drove to the plaintiff\u2019s; plaintiff was down in the lot; Allen didn\u2019t say any thing in passing; he (Allen) kept looking south towards where Barnes was at.work in the meadow; the horses walked up hill and trotted down; we stopped at the horse-block in front of plaintiff\u2019s house; plaintiff\u2019s wife and little boy came out of the house and got into the wagon; Allen told me to notice that he did not touch plaintiff\u2019s wife; Allen and Barnes were not very good friends; Allen said he wished he had better neighbors; when we stopped at plaintiff\u2019s house, his wife came immediately out, and getting into ' the wagon, they (the defendant, plaintiff\u2019s wife and little boy) started immediately ; the horses started on a trot; plaintiff\u2019s boy was five or six years old; he (Allen) said he would be even with him (Barnes;) defendant said he would like to sell plaintiff out; defendant, with plaintiff\u2019s wife, went over the hill; defendant\u2019s wagon could be seen for a little ways from where Barnes was; I could not see the way they took; it was after breakfast in the morning that this took place; they did not take the usual road to Pleasant Valley and Mr. Lockwood\u2019s; Barnes could only see them a little way on the road they took; he could see them from the lower road.\u201d\nBenjamin Howell testified: \u201c I know the parties to this action ; last summer I had a conversation with defendant, in which he told me that he had advised plaintiff\u2019s wife to leave him; he did not say whether plaintiff was present at that time or not; defendant said that Mr. Barnes and he were on bad terms, and had been before he took away his wife; defendant said plaintiff was a bad man ; defendant said he would hunt plaintiff as long as he lived; defendant said that by taking away plaintiff\u2019s wife he guessed he was even with him; defendant said that he and plaintiff had always been on bad terms, and that he would hunt him to his grave. Defendant did not say why he gave this advice ; this conversation was in Elias Doty\u2019s meadow; no one was present but us two; we were talking about this transaction; I don\u2019t remember who introduced it; I have not talked with plaintiff or defendant of it before nor since; defendant said plaintiff was a bad man, and it was dangerous for his wife to live with him; I never knew until within a few days ago that this suit was pending; I never told any one, before this examination, what I would swear to.\u201d Harris Marshall testified as follows: \u201c 1 know the parties to this action; I recollect of hearing defendant speak of going away with plaintiff\u2019s wife; it was within a week of that occurrence ; I didn\u2019t hear all that defendant said; I heard defendant say he carried her (plaintiff\u2019s wife) off; he said he had advised her to go; I asked defendant if plaintiff was present when he advised his wife to leave him ; he said he was not, and that he didn\u2019t know where he was; defendant and plaintiff were on bad terms.\u201d Question by defendant\u2019s counsel: \u201c Was it not generally reported that plaintiff ill treated his wife ?\u201d Objected to by plaintiff, and excluded by the court, to which decision defendant excepted. \u201cDefendant said that plaintiff\u2019s wife came to his (defendant\u2019s) house at night, and said that she was afraid to stay at plaintiff\u2019s house, and wanted to stay with him (defendant;) defendant said that he told her to go home and fasten her door, and if any thing happened in the night, to place a candle at a certain window; defendant said that he sat up all night, and watched that window; defendant said that plaintiff\u2019s wife told him that she was afraid to stay at plaintiff\u2019s house at night; defendant said plaintiff\u2019s wife claimed his protection.\u201d It was admitted that plaintiff was married. The testimony here closed, and the defendant moved for a nonsuit, upon the grounds that the facts proved made out no cause of action, and that there was no proof of malicious intent. The circuit judge overruled the motion; to which decision the defendant\u2019s counsel excepted. The circuit judge charged the jury, among other things, as follows: That what would excuse a man for harboring a wife will not excuse an act of interference in the husband\u2019s affairs, either in advising her to leave her husband\u2019s premises or in carrying her away. To which direction the defendant\u2019s counsel excepted. The justice further charged, that to sustain the first count of the complaint, the plaintiff must show that his wife left him in consequence of the defendant\u2019s advice or persuasion. That as to the second count, the fact of her going away in the defendant\u2019s wagon was proved. If she met him casually, he would have been justified by her complaints, if she made them, in taking her in his wagon and carrying her to her father. If he went there by appointment, to carry her away, then the removal must be justified by facts. (Excepted to by defendant.) That the plaintiff had given other evidence of the removal of his wife by defendant, to wit, confession of the defendant of the act, and of his reasons and motives. That so far as these confessions consisted of statements that the plaintiff\u2019s wife had told him (the defendant) that she was abused, that, if true, would not justify the defendant in interfering to remove her. He must show that she was abused, to justify such an interference. (Exception to this.) That if the defendant in these conversations stated that the plaintiff\u2019s wife was abused and ill treated, as a fact, and not merely that she complained to him, so far the jury had a right to consider the defendant\u2019s statements as material on this part of the case. But that they had a right to believe a part and reject others of those allegations thus made in these conversations by the defendant. (Exception to this.) That they might believe the fact that he admitted, and disbelieve the reason which he gave. (Exception to this.) That if they rejected all the defendant\u2019s explanations of his conduct, and believed that he interfered purposely to remove plaintiff\u2019s wife from her husband, the action was made out. (Exception.)\nThe jury found a verdict in favor of the plaintiff, for $800.\nJ. Barnard, for the appellant.\nC. Wheaton, for the respondent."
+  },
+  "file_name": "0663-01",
+  "first_page_order": 663,
+  "last_page_order": 670
+}

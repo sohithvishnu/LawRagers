@@ -1,0 +1,63 @@
+{
+  "id": 2001790,
+  "name": "Jackson, ex dem. Norton and Burt, against Willard",
+  "name_abbreviation": "Jackson ex dem. Norton v. Willard",
+  "decision_date": "1809-02",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Johns. 41"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 430,
+    "char_count": 7082,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 2.908770093254909e-06,
+      "percentile": 0.9972971397174121
+    },
+    "sha256": "471a63f98794d38a5e1ede1e3732f751302191156f83decc1474779e10cd9fff",
+    "simhash": "1:4983493f510c60e9",
+    "word_count": 1263
+  },
+  "last_updated": "2023-07-14T18:02:21.737570+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Norton and Burt, against Willard."
+    ],
+    "opinions": [
+      {
+        "text": "Kent, Ch. J.\ndelivered the opinion of the court. The validity of the defence, in this case, turns upon the proper solution of this question, viz. Whether the sheriff, on an execution, can sell lands mortgaged to the defendant in such execution, to secure the payment of a debt, if the sale be after the debt had become due, but before a foreclosure by the defendant, and while the mortgagor is suffered to retain possession.\nThis appears to be a new question, for we can find nothing like a decision of it in any of the books. Mortgages have been principally the subject of equity jurisdiction. They have been considered in those courts, in their true nature and genuine meaning; and the rules by which they are governed are settled upon clear and consistent principles. The case is far different in a court of law ; and we are constantly embarrassed between the force of technical formalities, and the real sense of the contract. The language, however, of the modern cases, is tending to the same conclusions which have been adopted in equity; and, whenever the nature of the case would possibly admit of it, the courts of law have inclined to look upon a mortgage, not as an estate in fee, but as a mere security for a debt. Lord Hardwicke said, in the case of Richards v. Sims, (Barnard. Chan. Rep. 90.) that the courts of law had then begun to consider mortgages in that light, and that a discharge of the debt, even by parol, was considered as a discharge of the mortgage; so that, in an ejectment upon the mortgage, evidence that the debt was satisfied would defeat the estate in the land, which shows, he says, \u201c that even the law considers the debt as the principal, and the land as an accident only.\u201d The real nature of a mortgage, in the equity sense of it, has been repeatedly recognised in the courts of law, since the time of Lord Hardwicke; and it has been said, and repeated, that it was an affront to common sense, to say that a mortgagor in possession was not the real owner; that the mortgagee, notwithstanding the form, has but a chattel, and the mortgage is only a security. (2 Burr. 969. Martin v. Mowlin. Doug. 630. The King v. St. Michaels. Doug. 455. Eaton v. Jacques. 1 H. Bl. 117. note. Chinney v. Blackburne. Doug, 114. Jackson v. Vernon, 1 East, 288. The King v. Inhab. of Edington.)\nViewing the subject in this light, as I think I am well authorised to do in this case, I must conclude, that the interest of the mortgagee was not the subject of a sale on execution. At the time of the sale, the mortgaged premises continued to be real estate, in the hands of the mortgagor, and liable to be sold on execution against him. (Stewart v. Waters, 1 Caines' Cases in Error, 47.) Until foreclosure, or at least until possession taken, the mortgage remains in the light of a chose in action. It is but an incident attached to the debt, and, in reason and propriety, it cannot, and ought not to be detached from its principal. The mortgage interest, as distinct from the debt, is not a fit subject of assignment. It has no determinate value. If it should be assigned, the assignee must hold the interest at the will and disposal of the creditor who holds the bond. Accessorium non ducit, sed sequitur principals. It is difficult to conceive what right can be sold which does not carry the debt with it. The controul over the mortgaged premises must essentially reside in him who holds the debt. It , , , , , . . . , . . would be absurd m principle, and oppressive m practice, for the debt and the mortgage to be separated, and placed in different and independent hands. There is no way to render a mortgage vendible, but by allowing the debt to go with it; and this would be repugnant to all rule, for it is well understood, that a chose in action is not the subject of sale on execution. When the mortgagee has taken possession of the land, the rents and profits may, perhaps, then become the subject of computation and sale. Until then, the attempt would be useless. Even in cases where a mortgagee makes a voluntary assignment of both debt and mortgage, Lord Loughborough (4 Vesey, 127.) held it to be very indifferent security, unless done with the privity of the mortgagor, because the assigiee would take subject to the account between the mortgagor and mortgagee. But to attempt to sell the mortgage alone, without the debt, and that too before foreclosure, or possession, appears to me, in every point of view, to be extremely unfit, and equally inadmissible, as it would be to sell the bond of the mortgagee.\nWe are, accordingly, of opinion, that the sale, in the present case, by the sheriff, and the purchase under it by the defendant, were null and void, and, consequently, that the plaintiff is entitled to recover; and that the evidence also of the sale under the power in the mortgage ought to have been received. The verdict ought, therefore, to be set aside, and a new trial awarded, with costs to abide the event of the suit.\nNew trial granted.",
+        "type": "majority",
+        "author": "Kent, Ch. J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Norton and Burt, against Willard.\nALBANY,\nFebruary, 1809.\nLands mortgaged cannot be sold on an execution against the mortgagee, before a foreclosure of the equity of redemption, though the debt he due, and the estate of the mortgagee lias become absolute at law.\nTHIS was an action of ejectment, for a house and lot, in the village of Cayuga.\nUpon the trial, the plaintiff gave in evidence a deed from Robert R. Parkman to Norton, one of the lessors, dated the 15th of November, 1805, a deed from Norton to John Moffat, dated 12th May, 1806, and a mortgage from Moffat to Norton, dated the same day, for securing the payment of 400 dollars, with interest. All these deeds were for the same premises. The defendant purchased the lot of Moffat, subject to the mortgage, and took possession in June, 1806. Six months notice to quit had been duly given to the defendant.\nThe defendant gave in evidence the deed from Moffat to him, subject to the mortgage, dated 14th June, 1806: and also a judgment of the supreme court, signed the 14th May, 1806, against Norton, in favour of one Larzelear, an execution under the judgment, and a deed from the sheriff, dated 20th May, 1807, to the defendant, for the premises, made in pursuance of a sale, under the execution. At the. time of the sale, the mortgage-money was due, and the premises had become forfeited at law.\nThe plaintiff offered to prove, that since the sale by the sheriff, the lot had been advertised by Norton, raider the act concerning mortgages, and sold at vendue, and pur- \" chased by Burt, the other lessor, for 350 dollars, and a deed duly executed by Norton to Burt. This evidence was overruled, and, by the direction of the judge, a verdict was taken for the defendant.\nThe plaintiff moved to set aside the verdict,\n1. Because the interest of a mortgagee cannot be sold on execution.\n2. Because Burt, one of the lessors, was a bona jide purchaser at the sale, under the power in the mortgage, without notice of the sale on the execution.\nThe cause was submitted to the court without argument, on the facts above stated."
+  },
+  "file_name": "0041-01",
+  "first_page_order": 53,
+  "last_page_order": 56
+}

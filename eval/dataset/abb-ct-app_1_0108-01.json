@@ -1,0 +1,140 @@
+{
+  "id": 1112021,
+  "name": "BARNARD v. MONNOT",
+  "name_abbreviation": "Barnard v. Monnot",
+  "decision_date": "1866-09",
+  "docket_number": "",
+  "first_page": "108",
+  "last_page": "111",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "21 Barb. 147",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 Barb. 529",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5123568
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/43/0529-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 462",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15622
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/31/0462-01"
+      ]
+    },
+    {
+      "cite": "18 Barb. 67",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Barb. 00",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Barb. 90",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5071239
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/34/0090-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 462",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15622
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/31/0462-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 429,
+    "char_count": 6724,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 3.431586657120011e-07,
+      "percentile": 0.8791761604634093
+    },
+    "sha256": "83ce45a153943e316e2208b31f991b33e78f911b846abbb789d68ff78480cb41",
+    "simhash": "1:2e62a3214f35ba46",
+    "word_count": 1202
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BARNARD v. MONNOT."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nHurt, J.\n[After stating the facts as above.] \u2014 I think the decision was erroneous. The duty of the broker consisted of bringing the minds of the vendor and vendee to an agreement. He could do no more. He had no power to execute a contract, to pay the money for the one side, to convey the land on the part of the other, or to compel the performance by either of their duties. The plaintiff produced a purchaser, willing and ready to accept the terms of the defendant, and able to perform the obligation on his part. He had then earned his commissions, and it would be a singular conclusion of the law that the refusal of his employer to complete the bargain should destroy his right to them. His right to the commissions depended upon the successful performance of the service, and upon nothing else. On the one hand, however much time he might devote to the interests of the defendant, unless he was successful in finding a purchaser, he was entitled to no compensation; and on the other his right was perfect, so soon as that was performed. Moses v. Bierling, 31 N. Y. 462; McGavoch v. Woodlief, 20 How. U. S. 221; Koch v. Emmerling, 22 Id. 69. In the case last cited, as in the present, the broad ground was assumed \u201cthat no contract of this character can be specifically enforced unless it has been fully executed.\u201d Id. 73. The court says: \u201c Where the vendor is satisfied with the terms made by himself through the broker' to the purchaser, and no valid objection can be stated to the contract, it would seem to be clear that the commission of the agent was due, and ought to be paid. It would be a novel principle, if the vendor might capriciously defeat his own contract with his agent, by refusing to pay him when he had done all that he was bound to do. The agent might well undertake to procure a purchaser, but this being done, his labor and expense could not avail him, as he could not coerce a willingness to pay the commission which the vendor had agreed to pay. Such a state of things could only arise from an express understanding that the vendor was to pay nothing unless he chose to make the sale.\u201d\nJudgment should he reversed and a new trial ordered.\nDavies, Ch. J.,\nexpressed the opinion that Moses v. Bierling, 31 N. Y. 462, was decisive of this case.\nAll the judges also concurred in the opinion of Hunt, J., except Morgan, J., who dissented.\nJudgment reversed and new trial ordered, costs to abide the event.",
+        "type": "majority",
+        "author": "Hurt, J. Davies, Ch. J.,"
+      }
+    ],
+    "attorneys": [
+      "Alexander S. Johnson, for plaintiff, appellant.",
+      "Amasa J. ParTcer, for defendant, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "BARNARD v. MONNOT.\nSeptember, 1866.\nBeversing 34 Barb. 90.\nA broker employed to sell, becomes entitled to bis commissions when be has found a purchaser able and willing to purchase at the price and terms for which the broker was authorized to negotiate, notwithstanding his principal afterward refuses to carry out the bargain.\nIt is not necessary that the parties to a contract for the sale of land, should sign a written agreement, before the broker is entitled to his commission.\nCkauncey Barnard sued John B. Monnot in the supreme court, to recover his compensation as a real estate broker, amounting to two thousand five hundred dollars, in effecting the sale of the \u201c Hippodrome \u201d property in the city of New York. On the trial, the plaintiff was nonsuited. The judgment was affirmed at the general term of the first district. The facts may be stated as follows: The plaintiff, a real estate broker in the city of New York, was employed by the defendant to negotiate a sale of certain real property of the defendant, known as the Hippodrome property, for the price of two hundred and fifty thousand dollars.\nHe brought his negotiation to a successful issue on the 31st of May, 1855, when the defendant and one Amos R. Eno came to an agreement which was complete in all its terms for the sale and purchase of the property. The defendant agreed to sell to Eno the Hippodrome property for two hundred and fifty thousand dollars, and Eno agreed to buy it at that price, to be paid as follows: twenty thousand dollars in cash ; No. 555 Broadway at one hundred and twenty thousand dollars, and No. 74 Broadway at one hundred and ten thousand dollars. To these terms both parties were agreed.\nThe parties having agreed upon the terms of their bargain, set out for the office of Mr. Wetmore, Eno\u2019s lawyer, to put the agreement in writing. They stopped on the way at the office of Mr. Logan, Monnot\u2019s lawyer, and stated to him the terms of the agreement. At Mr. Wetmore\u2019s office the terms were again stated, and it was arranged that Mr. Logan should draw the contract.\nSubsequently, Mr. Logan, on behalf of Monnot, objected to certain leases which were on the pieces of property which Mon-not was to receive, though they had been discussed and agreed upon by Monnot and Eno. Upon this objection being stated, Eno offered to remove the leases and give the property clear of them.\nEno was ready to carry out the contract, and no further objection was made on ac\u00f3ount of the leases. Monnot subsequently declined to perform the contract, alleging the unwillingness of his wife to its completion. Another bargain was therefore made and completed between Eno and the defendant, by which Eno purchased of the defendant a portion of the Hippodrome property, to the value of one hundred and seventy thousand dollars, and paid him for it, by Ho. 74 Broadway, and assuming certain mortgages.\nThe plaintiff was nonsuited upon the ground that he could not maintain an action for his compensation until the agreement for the sale of the property had been reduced to writing and signed by the parties. The general term, by their written opinion, concurred in this view of the law. (Reported in 34 Barb. 00.) The plaintiff appealed to this court.\nAlexander S. Johnson, for plaintiff, appellant.\nThe function of a broker consists in bringing vendor and vendee together so that their minds meet in a bargain. When that is accomplished his whole duty is discharged. Coleman v. Garrigan, 18 Barb. 67; Glentworth v. Luther, 21 Id. 145; Chilton v. Butler, 1 E. D. Smith, 150; Holly v. Gosling, 3 Id. 262. Eno having been ready to sign a written contract on the terms agreed to by Monnot, plaintiff had performed his duty. Moses v. Bierling, 31 N. Y. 462; Doty v. Miller, 43 Barb. 529 ; McGavock v. Woodlief, 20 How. U. S. 221; Koch v. Emmerling, 22 Id. 69; Morgan v. Mason, 4 E. D. Smith, 636; Murray v. Currier, 7 Carr. & P. 584; Wilkinson v. Martin, 8 Id. 1; Beebe v. Roberts, 3 E. D. Smith, 194.\nAmasa J. ParTcer, for defendant, respondent.\nThe signing of a contract is a condition precedent to the earning of a broker\u2019s commission. Glentworth v. Luther, 21 Barb. 147; Brood v. Thomas, 7 Bingh. 99; Story on Agency, \u00a7 329; 10 B. & C. 438.\nCompare Briggs v. Rowe, p. 189 of this vol., and cases cited."
+  },
+  "file_name": "0108-01",
+  "first_page_order": 118,
+  "last_page_order": 121
+}

@@ -1,0 +1,66 @@
+{
+  "id": 5006115,
+  "name": "Gallaghar vs. Ashby",
+  "name_abbreviation": "Gallaghar v. Ashby",
+  "decision_date": "1857-12-07",
+  "docket_number": "",
+  "first_page": "143",
+  "last_page": "147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 Barb. 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 353,
+    "char_count": 8446,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 6.673894318800993e-08,
+      "percentile": 0.40624820211525847
+    },
+    "sha256": "d8877a321bbfad99b50e261d368e2218b07763b6bf874341eec979419eeff4a7",
+    "simhash": "1:8f4ef8d082cdbdc5",
+    "word_count": 1474
+  },
+  "last_updated": "2023-07-14T19:54:55.517987+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gallaghar vs. Ashby."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, E. Darwin Smith, J.\nThe plaintiff was a laborer, under the 12th section of the general rad road act, of the Lake Ontario, Auburn and New York Rail Road Company, and had duly given notice of his claim for work done for a contractor, under that section, and had sued and recovered judgment in due form against the company, and issued execution thereon, and the same had been duly returned unsatisfied. All this is stated in the complaint. The defendant is a stockholder in said rail road company, and has paid, for his stock, in full. The point raised by this demurrer is, whether as such stockholder the defendant is liable for this judgment, under section 10 of said rail road act. Section 10 of the act of 1850 is as follows: \u201cEach stockholder of any company formed under this act shall be individually liable to the creditors of such company, to an amount equal to the amount unpaid on the stock held by him, for all debts and liabilities of such company, until the whole amount of the capital, stock so held by him shall have been paid to the company. And all stockholders of every company shall be jointly and severally liable, for all the debts dne and owing to any of its laborers and servants, for services performed for such corporation, but shall not be liable to an action therefor before an execution shall be returned unsatisfied in whole or in part, against the corporation,' and then the amount due on such execution shall be the amount recoverable, with costs, against such stockholders/\u2019 The plaintiff is a creditor of the Lake Ontario, Auburn and Hew York Bail Boad Company, and could obviously recover the amount of his judgment against any stockholder' of such company who had not paid up his stock in full, provided an amount sufficient to cover said judgment remains unpaid upon his subscription to the capital stock of said company. But the defendant having paid up his stock in full, is not hable to pay the plaintiff\u2019s judgment, under the first branch of the section. His liability depends upon the construction of the latter branch of the section. This part of the section makes the stockholders of every company jointly and severally liable for all debts due and owing to any of its laborers and servants for services performed for such corporation. Was the plaintiff such a laborer or servant ? I think not. This part of section 10 I tbink was designed to provide for the payment of the immediate servants, laborers and employees of the company itself, in contradistinction to the laborers employed by contractors in the construction of the rail road, or of any part of the work. Section 12 makes provision for this latter class of laborers. The provisions of section 12 are precise and \u2022definite in respect to this class of laborers. , The rail road company is only liable for 30 days labor by any laborer, and that upon condition that notice is given to the company of such indebtedness, within 20 days after the performance of the labor, and that suit be commenced therefor within 30 days thereafter.\nHone of these provisions apply to the laborers or servants for services performed for the corporation under section 10. Taking the two sections together, it seems to me quite clear that a distinction was intended by the legislature, between the class of laborers and servants directly employed by the rail road company and those employed by contractors, in the construction of the rail road of any company. For debts due to the first class of laborers and servants-\u2014those mentioned in section 10\u2014the stockholders of every rail road company are made jointly and severally responsible, but not for those mentioned in section 12. The latter class have the responsibility of the corporation itself, and also that of each stockholder who has not paid up his subscription in full; but they have no right of action against an individual stockholder who has paid up for his stock in full. Such is the case with the defendant in this action, and he is not liable for the plaintiff's debt. The demurrer is well taken, and the judgment of the special term overruling the same should be reversed.\n[Monroe General Term,\nDecember 7, 1857.\nJohnson, Welles and Smith, Justices.]",
+        "type": "majority",
+        "author": "By the Court, E. Darwin Smith, J."
+      }
+    ],
+    "attorneys": [
+      "G. Giles, for the plaintiff.",
+      "J. R. Cox, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Gallaghar vs. Ashby.\nWhere a laborer who has done work for a contractor, upon a rail road, has given notice of his claim, under the 12th section of the general rail road act, and has sued and recovered judgment against the company, and issued execution thereon, and the same has been returned unsatisfied, a stockholder of the company, who has paid for his stock in full, cannot be compelled to pay the amount of such judgment, under section 10 of the said act.\nThe latter part of that section was designed to provide for the payment of the immediate servants, laborers and employees of the company itself, in contradistinction to the laborers employed by contractors, in the construction of the rail road; for which latter class provision is made in section 12 of the act.\nPPEAL by the defendant from an order made at a special term, overruling his demurrer to the complaint. The complaint set forth the incorporation of the Lake Ontario, Auburn and Hew York Rail Road Company, under the general rail road act of April 2, 1850, and alleged that the company commenced the construction of their rail road, and in doing so contracted with Andrew J. Hackley and Marcus Hungerford to do the grading and excavating on said road at a given and stated price per yard ; that said Hackley and Hungerford underlet portions of said work to Daniel Stern-burgh and others to do, by the yard; and in pursuance and in fulfillment of his agreement to do such work, the said Sternburgh employed the plaintiff as a laborer, in the building and construction of said road, and as such laborer he worked on said road in \u00a1November and December, 1853, urnder the employment of said Sternburgh; that Sternburgh failed to pay him in full for his labor thereon; that in pursuance of section 12 of the general rail road law, he served a notice on the engineer of the company within the time therein required, and within the requisite time, by the provisions of said act, commenced an action against said rail road company to recover payment for such labor; and on the 25th day of February, 1854, judgment was rendered in his favor by Calvin Carpenter, Esq., a justice of the peace in and for Cayuga county, for $3.52 damages and $3.16 costs, which judgment was appealed from by the company to the county court of Cayuga county; which court, on the 18th day of January, 1855, reversed the judgment of the justice, with $22.54 costs, and from that judgment the plaintiff appealed to the supreme court; and on the 1st day of October, 1856, the judgment of the county court was reversed, and that of the justice affirmed, with costs, amounting in all to the sum of $91.24, for which sum judgment was duly entered in favor of the plaintiff, and against the said rail road company, and execution thereon was duly issued to the sheriff of Cayuga county, and the same was by him returned wholly unsatisfied, and the said amount now remans unpaid, due and payable to the plaintiff. And the plaintiff further alleged, that the defendant, by signing the articles of association of the said rail road company, became a subscriber for stock therein to the amount of the number of shares set opposite his name, which were five shares of fifty dollars each, and subsequent to that time payment was made, by the defendant, in full for the amount of stock subscribed for by him, and a certificate for said stock was duly issued to Inm by the proper officers of the company, by means of which subscribing and payment the defendant became and was a stockholder of the said rail road company. The plaintiff demanded judgment against the defendant for $91.24, with interest and costs.\nThe defendant demurred to the complaint, and stated the following grounds of demurrer, viz: That the complaint did. not state facts sufficient to entitle him to recover in this action ; that it did not show that the plaintiff was a laborer or servant of the Lake Ontario, Auburn and New York Rail Road Company, that he performed any labor or service for them, or that there was any debt due or owing to him from them. The complaint showed that the plaintiff was the laborer and servant of Daniel Sternburgh, and not of the rail road company.\nG. Giles, for the plaintiff.\nJ. R. Cox, for the defendant."
+  },
+  "file_name": "0143-01",
+  "first_page_order": 143,
+  "last_page_order": 147
+}

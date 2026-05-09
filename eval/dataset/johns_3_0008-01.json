@@ -1,0 +1,66 @@
+{
+  "id": 2129906,
+  "name": "Jackson, ex dem. Schuyler and others, against Vedder",
+  "name_abbreviation": "Jackson ex dem. Schuyler v. Vedder",
+  "decision_date": "1808-02",
+  "docket_number": "",
+  "first_page": "8",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Johns. 8"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 425,
+    "char_count": 8759,
+    "ocr_confidence": 0.647,
+    "pagerank": {
+      "raw": 4.3382776999350307e-07,
+      "percentile": 0.9179291920108084
+    },
+    "sha256": "0211a4fb9b835e810929d3100886d964a4573c4723da77daaa394a849edfa1e8",
+    "simhash": "1:56ae7b7a5ecaa661",
+    "word_count": 1617
+  },
+  "last_updated": "2023-07-14T16:58:56.360600+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Schuyler and others, against Vedder."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nUpon the consideration of this case, we are of opinion, that the motion on the part of the plaintiff be denied. The partition on the map was reduced to practice, by the actual survey of Henry Frey, soon after it was made. That survey was made for the proprietors, and if possessions have been taken and held accordingly, the proprietors, and those claiming under tjiem, ought certainly, after a lapse of forty years, to be concluded from contesting with each other, the correctness of the actual locations. It was a matter of fact left to the jury, whether the lines of that ancient' survey, were not now to be ascertained, and whether the recent survey of Henry Frey, and the possessions and settlements did not correspond with the original survey. The verdict of the jury ought to put that fact at rest, and the repose of the settlements, and public quiet, would seem to require, that a verdict in favour of a survey so long established, should not be disturbed.\nThe questions of law were correctly decided upon the trial. It is a well settled rule, that a verdict cannot be given in evidence against a person, who was not a party or privy to it; and the act of the legislature most clearly did not, and could not settle the question of the actual lor cation of the lots.\nRule refused.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Cady, for the plaintiff.",
+      "Van Vechten, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Schuyler and others, against Vedder.\nALBANY,\nFeb. 1808.\nWhere a partition was made by the proprietors of Klock'a patent, and a survey and map made for them, and possession taken accordingly, by the several proprietors, it was held, that, after a lapse of forty years, the parties were concluded from contesting with each other, the correctness of the actual locations.\nTHIS was ah action of ejectment, for lot no. 102, in Klock and Nellis\u2019s patent, in the town of Palatine, in Montgomery county.\nThe cause was tried, the 3d October, 1806, at the Montgomery circuit, before Mr. Chief Justice Kent.\nThe defendant admitted, that the lessors of the plaintiff, were owners of lot no. 102; and the plaintiff admitted, that the defendant was owner of lot no. 101, in the patent. The patent was granted, the 2d December, 1754, to George Klock, William Nellis, and fourteen other persons. On the part of the plaintiff, Jacob G. Klock, a witness, produced a map, and proved, that before the division of the patent, he, as surveyor for the proprietors, had traversed the creeks, which bounded the patent at each end ; and from that traverse, and the outlines of the patent, he made the outlines of the map, and laid out the patent into lots, before the inner lines were surveyed, and numbered them on the map as they now are ; that the proprietors of the patent, as early as 1756, (and before the patent was divided into lots by actual survey) met and made a division by ballot, of the lots ; and that he put on each lot, on his map, the name of the person who drew it, except the lots drawn as the share of Sir William yohnson t That at the time he made the map produced, he made another, like it, which he gave to the proprietors, but where it then was, he did not know : That the proprietors made a partition, by one of the maps, and, according to the map, the defendant lives on lot no. 102 : That lots no. 101 and 102, are in the middle tier of lots, and that between the creeks, on the line between the southern and middle tiers of lots, there is a sufficient distance to give to each lot its full width, according to the map\u00a1\u00a1' and leave a distance of 1 chain and 30 links, between the S. W. corner of lot 103 and the Canada creek: That soon after the said partition, he surveyed the southern tier of lots, and Henry Frey surveyed the middle and northern tiers for the proprietors : That he did not know how many acres were in lots no. 104# and 105, but they were laid down for 200 acres each.\nPhilip R. Frey, a surveyor, a witness on the part of the defendant, testified, that he commenced his survey at the Caroga creek, at the corner of lot no. 51, and surveyed the line between the southern and middle tiers of lots : That he did not regard the width of the lots, as represented on the map, but surveyed according to the monuments which he found upon the line, standing as the corners of the lots in the middle tier, and that, according to those monuments, the defendant possessed no part of lot no. 102, but possessed lot no. 101, and that, according to his survey, the S. W. corner of lot no. 102, is 1 chain and 37 links from the Canada creek, and is the last lot with square comers, in the middle tier, and that lot no. 105, contains 39 acres, 3 roods, and 24# perches, only : That the greater number of monuments which he found as the corners of lots, were stakes : That he found some marked trees', which he judged to have been marked thirty years: That the possessions on the lots in the middle tier corresponded with the survey : That from the corners of the lots, as ascertained by him, ancient lines generally extend to the N. as division lines of the lots, which appear to be thirty or forty years old : That he had traversed both the Caroga and Canada creeks, as far as the middle tier extends on those creeks : That he surveyed the whole of lots no. 104 and 105, as laid down on Flock's map, and found them to contain 224 acres, and which are designated in the map made by him, as lots no. 103, 104, and 105 : That by a deed, executed in 1765, by some of the patentees, lot no. 51 is 15 chains and lot no. 53 27 chains wide, which corresponds with the survey : That lots no. 60, 91, and 92, were settled in 1775, and lots no. 68, 79, 80, and 93, have been settled twenty years.\nAnother witness for the defendant, testified, that he lived on lot no. 156, in the northern tier : That the S. end of the lot, and the N. end of the lot, occupied as no. 100, in the middle tier, join : That the corners of these lots,, at their ends, are about a chain distant from each other : That no. 100 is E, and adjoins no. 101, as now occupied by the defendant: That the lot occupied as no. 157, in the N. tier, stands against no. 101, as possessed by the defendant, with the difference of their corners, one chain apart: That no. 155, stands against the lot occupied as no. 99, according to Frey's survey, with about the same, difference as to their corners : That lot no. 157 stands over against no. 101, on which the defendant lives : That he moved on to the patent, thirteen years before, and then found a tree marked as the corner of no. 155 and 156, in the N. tier, and from that, he judged that he lived on lot no. .156, and he.supposed that the marks were twenty or thirty years old-\nThe plaintiff then gave in evidence a release in fee, executed the 27th September, 1765, by twelve of the proprietors of the patent, to John Windecker, of lots no 15, 86, and 193, in which release, the boundaries of the patent were described, and the release recites, that the said patent is laid out into 165 lots, of 100 acres each, and that on drawing, the said John Windecker drew the aforesaid lots. The boundaries of the three lots, are described in the release ; and no. 103, is recognized as a square lot, and the last square lot in the map, but by Frey\u2019s survey, it is not a square lot. The plaintiff then offered in evidence a record of a verdict and judgment in ejectment, against Schuyler, one of the lessors, as defendant, brought to recover from him the lot adjoining to and W. of the lot on which the defendant lives ; and offered to prove, that the lessors in that action, claimed the said lot as no. 103, and that, while that action was pending, the present defendant promised, that if Schuyler lost the suit, he would give him the lot on which he lives, which evidence was overruled by the judge.\nThe plaintiff then read in evidence, an act of the legislature, passed the 11th April, 1795, to confirm the partition of the said patent.\nThe Judge charged the jury, that the act had no bearing on the question, as it was only to secure to each proprietor the lot by number, which had been drawn by him, without fixing its location. That, in his opinion, the monuments and possessions'spoken of by Frey, ought more to be regarded in locating the lots, than Klock\u2019s map, and that, if the jury believed, that the survey of Philip AL Frey, corresponded with the survey made by Henry Frey, soon after the partition mentioned by Klock, they ought to find for the defendant, and the jury found accordingly.\nAt the last August term, the plaintiff moved to set aside the verdict; 1st. Because it was against evidence. 2d. Because the record ought to have been received as evidence. 3d. Because the charge of the judge was incorrect, as to the statute, and as to the operation of the monu - ments, &c.\nCady, for the plaintiff.\nVan Vechten, contra."
+  },
+  "file_name": "0008-01",
+  "first_page_order": 24,
+  "last_page_order": 28
+}

@@ -1,0 +1,319 @@
+{
+  "id": 1112051,
+  "name": "BALDWIN v. CITY OF OSWEGO",
+  "name_abbreviation": "Baldwin v. City of Oswego",
+  "decision_date": "1865-12",
+  "docket_number": "",
+  "first_page": "62",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 62"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "40 N. Y. 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503126
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/40/0442-01"
+      ]
+    },
+    {
+      "cite": "84 Barb. 569",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Barb. 327",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5145158
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/45/0327-01"
+      ]
+    },
+    {
+      "cite": "37 N. Y. 518",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2044009
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/37/0602-01"
+      ]
+    },
+    {
+      "cite": "42 Barb. 627",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5114618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/42/0627-01"
+      ]
+    },
+    {
+      "cite": "51 Barb. 414",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2246485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/51/0414-01"
+      ]
+    },
+    {
+      "cite": "5 Den. 567",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881422
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/5/0567-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. 165",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11268587
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0165-01"
+      ]
+    },
+    {
+      "cite": "2 Den. 111",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. Y. 110",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019303
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0110-01"
+      ]
+    },
+    {
+      "cite": "32 Barb. 634",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5049278
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/32/0634-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 612",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. 158",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297839
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0150-01"
+      ]
+    },
+    {
+      "cite": "3 N. Y. 163",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 N. Y. 419",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005597
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/4/0419-01"
+      ]
+    },
+    {
+      "cite": "31 Barb. 142",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5040623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/31/0142-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. 326",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/19/0326-01"
+      ]
+    },
+    {
+      "cite": "23 Barb. 390",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1941851
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/23/0390-01"
+      ]
+    },
+    {
+      "cite": "4 Hill, 263",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Den. 520",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485362
+      ],
+      "pin_cites": [
+        {
+          "page": "523-4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/4/0520-01"
+      ]
+    },
+    {
+      "cite": "23 Wend, 458",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025552
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/23/0458-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021221
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0442-01"
+      ]
+    },
+    {
+      "cite": "40 N. Y. 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503126
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/40/0442-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1011,
+    "char_count": 29105,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 1.90249284984495e-07,
+      "percentile": 0.7304628571009353
+    },
+    "sha256": "1874341be430823228f5345507dcfc4cfaf31d113f40ceb3b50bfd6da4ea9096",
+    "simhash": "1:abe7e60b86f812e3",
+    "word_count": 5084
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BALDWIN v. CITY OF OSWEGO."
+    ],
+    "opinions": [
+      {
+        "text": "Denio, Ch. J.\nThe contract under which the services were performed for which compensation is claimed, provides for the prosecution of the work during the year in which it was made, and through the next year, and a portion of the following year, the compensation to be paid monthly, and the final payment when the work should be completed. Hence the defendant\u2019s counsel takes the position that the contract was unlawful and void, for transcending a provision of the charter, which is in these words: \u201c The said council shall not create any pecuniary obligation whatever on the part of the city which shall not be payable within the year for which the council creating such obligation was elected, and which cannot be discharged from the income of the same year; but this prohibition shall not affect the provisions of this act before contained in regard to obligations for or respecting the expenditure of any sum raised by special tax.\u201d L. 1848, p. 170, &c., c. 116, title 5, \u00a7 19. By another provision the city is authorized to raise annually, by tax, a sum not exceeding ten thousand dollars, for defraying all the contingent and other expenses of the city not otherwise specially provided for (Id. \u00a7 2); and the common council is forbidden to make appropriations for the city expenses mentioned in the second section beyond the amount thus authorized to be raised. Id. \u00a7 16.\nI am of the opinion that the making of local improvements, the expense of which is to be assessed upon and borne by the property benefited thereby, is not within the scope of those prohibitions. In a certain sense, no doubt, this contract created a pecuniary obligation on the part of the city. It was, however, an obligation to make use of the proceedings pointed out by the act, to collect the expenses of the improvement from the owners of the property benefited. The obligation rests primarily on the proprietors and their real estate. The moneys thus raised are not a part of the income of the city in the sense of the provision. The income referred to is the stated sources of revenue, consisting principally of the annual tax; and if that is not sufficient to pay all the expenses which might properly be made, these expenses must be curtailed, or there must be a special tax voted by the electors qualified to vote on that question. The ten thousand dollars authorized to be raised annually for ordinary purposes does not impose a limit upon the expenditures to be made for local improvements charged upon particular localities and property owners, like the enterprise under Consideration-\nAssuming, then, that the contract is not unlawful, for the cause suggested, it remains to inquire whether, under the facts disclosed in this case, the plaintiff can maintain an action against the city for the services he has performed under it. A recovery is objected to on these grounds : First, that the burden of paying for improvements of this character being confessedly imposed upon the property holders specially interested in the work, they cannot, without a violation of principle, be charged upon the city at large as a municipal corporation; and, second, that if so, the city could ordinarily be charged, under the form of an action, for not enforcing the statute obligation of the property owners in consequence of an error in the preliminary proceedings, pursuant to whjch the contract with the plaintiff was made, which will be presently mentioned.\nAs to the first point, the opinion of the learned and intelligent referee before whom the case was tried, was, as it appears from his opinion, that the common council possesses the general power to make improvements of this character, including the authority to contract with individuals for their construction ; and that the contractors, or other persons employed, are not concerned to inquire how the money to enable the council to pay the compensation is to be obtained; that the local assessments are only a method of taxation; and that the defendant can no more deny its primary and general liability than it could if the contract were for work falling within the description of expenditures chargeable upon the city generally, the means for defraying which are provided for by the general tax or the other sources of general income. Without examining the argument in detail, I am of opinion that there is a clear distinction between the cases. It is assumed by the provisions of the charter that there is a class of improvements so essentially local in kind, that the general tax-payers ought not to be burdened at all with the cost of their construction; and hence, a system is provided for reaching directly the parties chargeable with them, without calling upon tax-payers for any part of the expense. A judgment against the city as a corporation, would be a charge upon its general resources; and if the council have the the power of contracting m the manner supposed by the argument, the city can be made liable to burdens which the law designed should be borne exclusively by only a part, and it may be, in a given case, a small part of the citizens. I am therefore of opinion that the action cannot be sustained on that theory. And I understand the law to have been so adjudged in this court. In Hunt v. City of Utica, 18 N. Y. 442, an action was brought against the city for work done in grading a street, the expense of which was, according to the charter, and by the terms of the contract as construed by the court, payable by a local assessment. This action was brought while the city authorities were proceeding to enforce an assessment duly made according to the provisions of the charter, and before any default had occurred; and it was held that the plaintiff could not recover. In Baker v. City of Utica, 19 Id. 326, the same question arose in an action by the city surveyor, whose compensation for the services for which he claimed payment were by the charter directed to be embraced in local assessments for grading and paving the streets, in respect to which the services were performed. It was assumed by the court that the plaintiff stood in the same situation with the contractor for the paving and grading, and that, as the city authorities were proceeding diligently in enforcing the assessment when the action was brought, the plaintiff could not recover. There is some diversity between the provisions of the charters of Utica and Oswego, but the general system by which local improvements were charged upon the property owners benefited, and not upon the city at large, was substantially the same.\nThough I cannot agree to the conclusion of the referee, I am of opinion that the defendant in this case is chargeable with the compensation due to the plaintiff, on account of its neglect to put in force the instrumentalities which the law had provided, for assessing and collecting that compensation from the parties liable to pay it. The case shows that an assessment had been made, and some of the parties had voluntarily paid certain sums on account of their assessments, which had been paid over to the plaintiff, but that no steps had been taken to enforce the payment of the amount in arrears. There was a plain neglect on the part of the council, who were, in this respect, the representatives of the corporation, and a considerable time had elapsed after the default when the action was brought. In Cumming v. Mayor of Brooklyn, 11 Paige, 596, it was decided, after an elaborate .argument and by a well considered opinion, that in a case of this kind, where the officers of a corporation had unreasonably neglected to compel a proper assessment to be made, the plaintiff, who had performed the labor under a contract with the corporation, could compel payment by an action against it. The general fund, it was said, could be reimbursed out of the proceeds of the assessment when subsequently made. I am disposed to regard this judgment, which was pronounced in the highest court of general equity jurisdiction, twenty years ago, and which appears to have been acquiesced in, as an authentic precedent for the determination of the present case; and to hold that the defendant is responsible for the amount due the plaintiff, on account of the neglect of its offi cers to enforce the legal instrumentalities provided for enforcing the payment against the parties primarily chargeable with such payment.\nAs to the objection that the proceedings under which the contract was made were defective, the argument is, that by the express terms of the charter, the expenses of deepening the channel of the river are to be assessed on the land benefited thereby (tit. 6, \u00a7 17; see also \u00a7\u00a7 15,13, 33); but that the application for this improvement, and the resolution or ordinance by which the contract was authorized, were illegal in limiting the assessment to the lots fronting on the river.\nThe charter requires that a majority of the persons whose names appear upon the assessment roll shall have petitioned for the making of that improvement, or have signified their assent, in writing, within sixty days after the return of the assessment, or, in default thereof, the order for the improvement is to be rescinded. \u00a7 33. The petition appears to have preceded the order for the improvement, and the assessment itself was made afterward, and after the contract was signed. This was the natural order of the business, and it is not denied but that the requisite proportion of the persons assessed subscribed the petition. . But the petition prayed that the expense of the improvement should be assessed on the lots in front of which the .excavation was to be made, and the resolution or order of the council contains the same expression. Now it is certainly possible, and. perhaps probable, that there were other owners of real estate in the city, who would have been benefited by the proposed improvement, and who might have been assessed for the expense, if the resolution had been written in the words of the statute, \u2014 i. e., directing the assessment to be made upon the real estate benefited by the improvement. I think that would have been the formal and legal method of initiating the proceedings. But suppose that a portion only of the persons who might be embraced in an assessment, properly ordered and made, but whose lands were so situated, in reference to the site of the improvement, as to be designated by a general description, should agree that it ought to be made at their expense, thus narrowing the scope which the statute' would give to the proceeding, and should petition the common council to direct the improvement, and to assess the expense upon them, and the council should proceed accordingly, would the proceeding be void ? On the contrary, I think the petitioners would be estopped from questioning its regularity. The report of the committee, upon- which the resolution in this case was based, states that all the proprietors of lots fronting-on that part of the river in which the improvement was to be made, had subscribed the p\u00e9tition. Taking the petition and the action of the common council together, they form an agreement between the council and the petitioners, that the latter are the owners of all the property which would be benefited by the proposed improvement, and who ought to be assessed therefor. It is very true that no number of persons interested in an improvement can make an admission or an agreement which will conclude or in any way prejudice any other person. But the admission and consent of these riparian proprietors has no tendency to charge any. other parties with the payment of any of the expenses. On the contrary, it relieves all other parties who might otherwise be within the scope of the assessment. Unless it can be maintained that it is a right or privilege, or in some way an advantage to be taxed or assessed, I do not see that there is any person to complain that the area of assessment in this case is restricted to the lands of the riparian owners who were the petitioners for this improvement.\nI think, therefore, the common counsel was warranted in entering into the contract with the plaintiff, based, as it was, on the admission of the petitioners in writing, in effect, that they were the only persons to be benefited by, and who were assessable for the improvement.\nI think, therefore, that the judgment appealed from should be affirmed.\nPotter, J.\n[After stating the facts.] \u2014 By the charter of the city of Oswego (L. 1848, c. 116, \u00a7 1, tit. 6), \u201c All that portion of the Oswego river, within the bounds of said city, is declared to be a public highway.\u201d\nBy section 2 of the same title, the common council of said city are declared to be commissioners of highways in and for said city, with all the powers of commissioners of towns, subject to the provisions of the act. By section 4 of same title, the common council were given power to raise annually a sum not exceeding twenty-five hundred dollars, as a general tax for highway purposes, in addition to moneys otherwise ordered by them. By section 6 of the same title, they were authorized to construct wharves and piers in the Oswego river, and to alter, widen, contract, straighten, or discontinue the same; and by section 11 of the same title, power was given under section 6 of the same title, to deepen the channel of the Oswego river, or any part of it, the proceedings to be regulated by the provisions of that title; and section 17 of the same title repeats the power to do, and adds the power to assess the expenses thereof on the land benefited thereby. Sections 22 and 23 provide for the manner of making assessments upon the persons liable to be assessed for making such an improvement. The power to direct the improvement in question to be made by the defendant, and the provision whereby to raise the means to meet the expense, is, in my opinion, clearly given in the charter ; and the passage of the ordinance by the common eouncil to that effect, by more than two-thirds of the members of that body, based upon the petition set forth therein, is presumptive evidence, that all the proper preliminary steps had been taken, or at least estops the defendant from denying it. And if I am right in this, that the power is given, then 1 think I may add, that their obligation, solemnly made by them, to exercise this power, and to provide the means for carrying it into effect, imposes it as a duty upon them to perform, or at least to attempt the performance of, the act they were thus obligated by their written contract to perform. The defendants seem to stand before the court, in this attitude; of having made a solemn, moral obligation, to pay the plaintiff for doing an act which was in their power to direct; which the plaintiff entered upon the performance of, upon the faith of the promise in their obligation; that he was thereby induced to perform the labor, and expend his means; that the defendants knew and witnessed, and from time to time encouraged and ratified, the contract, by partial payments; that the law provided them with the means and the power to make the payments according to their contracts; but the exercise of that power, and the employment of those means, they never made the first effort to carry into effect for that purpose; and that when the plaintiff attempted to quicken them into duty by an appeal to the courts, the defense interposed is, that they never had any authority to make the contract they have made. It is not the disposition of co urts, so far as I know, to encourage, or to give countenance to such a defense, except where, upon the imperative demands of the law, and upon clear and well established grounds, it is justified. The law must still prevail, if the defense is justified by it. We will examine this defense further.\nIt is urged in this defense, that the defendant was the mere agent or instrument of the persons interested in this improve^ ment, for the purpose only of collecting the money, and to see it applied to the particular object specified in the contract; that the com mon council of Oswego had no power to create a charge upon the city, but only upon the fund to be raised from the assessment of the property to be benefited. Various cases of authority are cited to sustain this proposition of the defense, which it becomes necessary to examine for this purpose.\nThe first case is McCulloch v. Mayor of Brooklyn, 23 Wend, 458. In that case the action was against the city on an assumpsit. ' The city had made no contract; the action was to recover, for the damages which had been appraised or awarded to the plaintiff for his lands taken to make the improvement. The sums so awarded by the appraisers were not by law made debts against the city, nor did the law make it the duty of the common council to pay the money for the property so appraised and so awarded. The court very properly said in that case, that assumpsit could not be maintained. There was no express contract; none could be implied. It will be seen from this case that it has features of similarity with the case before us. There is, however, in that case a principle that makes it prove too much for the defendant\u2019s use. The court, though of opinion that assumpsit was not the plaintiff\u2019s remedy, say: \"If the common council (who were held to be agents through whom the money was to be obtained) has neglected the duty of putting the machinery in motion, or been wanting in diligence, an action on the case would perhaps lie in favor of any one who would be entitled to the money when collected.\u201d\nThe case' of Lake v. Trustees of Williamsburg, 4 Den. 520, 523-4, is another of the cases cited, and is but a repetition of .the principle in the preceding ease. The action was assumpsit upon -two drafts, given to pay for improvements made in that \"village in opening an avenue. An assessment had been made upon the persons benefited, to create a fund for the purpose of paying for the improvement. The president of the corporation gave the first draft, payable out of the \u201c Union-avenue fund.\u201d This was not paid, and a subsequent draft was given, including the amount of the first, and another demand, with a direction to charge the same to the account of the \"Union-avenue.\u201d The court held, that the drafts created no charge against the village or its treasury, but\u2019 on a particular fund; and they put it on the ground, \"that these drafts contained <ho words of contract.\u201d They distinguish that case from Kelly v. Mayor of Brooklyn, 4 Hill, 263, where the obligation was a contract absolute in itself, and where the defendants, for that reason, were held liable. That authority is in favor of the plaintiff, not the defendant. i\u2018\nThe next is the case of Hunt v. City of Utica, 23 Barb. 390. This case is subsequently reported in 18 N. I'\". 443. The court of appeals held the question to be, whether the contract under which the work in question was performed, undertook absolutely to pay the contractor, or to pay it in the manner in which it was held the contractor understood it to be paid by his proposition in applying for the work ; to wit, to take it from a fund to be assessed and collected by the defendant. The court held the latter to be the understanding, and the plaintiff for that reason failed to recover. A case clearly distinguishable from the present.\nThe case of Baker v. City of Utica, 19 N. Y. 326, is also relied upon by the defendant. That case lays down no principle differing from the last preceding case in the defendant\u2019s favor; but a rule is laid down, which, by the strongest implication, is against them. The note is this: \u201cA person accepting an office in a municipal corporation, under a charter providing a peculiar mode of compensation for his services, can, in the absence of a different express contract, obtain compensation only in the case and manner thus provided.\u201d The plaintiff in the case before us was not an officer of the corporation, but had a different and an express contract from them, to pay absolutely.\nThe last cited case to this point is Beard v. City of Brooklyn, 31 Barb. 142. That ease contained the features of liability, on the part of the corporation, similar to the cases above considered. The action was based upon a breach of duff, on the part of the defendant, through its officers, and on this ground the plaintiff recovered a judgment. Browin', J., who delivered the opinion, after reviewing the doctrine of the above cited cases, says: \u201c The negligent omission of the defendant is too manifest to admit of any doubt, and the authorities to which I have referred are decisive of the plaintiff\u2019s right to recover.\u201d A note in the case is to this effect: \u201c That a corporation cannot, with impunity, enter into contracts with individuals by which they are induced to expend their labor and substance in works of public improvement, and then refuse, or negligently omit, to employ the means given it by law, for their recompense and reimbursement.\u201d\nThis, I think, is good morals, as well as sound law, and, in my view, it has application to the features of the case before us.\nI think it may be regarded as a settled proposition that municipal, as well as other corporations which must of necessity act by human agencies, are liable for the negligent acts of their agents, to the same extent as natural persons are. And this is the principle, as I understand it, which the learned referee, and also the supreme court, applied to this case. The right, as well as the duty, to direct these improvements by these governmental agents, when the power is conferred by law, and the preliminary steps have been taken which authorize action, has been so ably and clearly settled by the cases of People v. Mayor, &c. of Brooklyn, 4 N. Y. 419 ; Hutson v. Mayor, &c. of N. Y., 3 N. Y. 163; Conrad v. Trustees of Ithaca, and Hickok v. Trustees of Plattsburgh, in note of same case, 16 N. Y. 158, and cases cited, that I need not dwell upon this point.\nIt was, therefore, competent for the common council of Oswego to make a contract with the plaintiff for this city improvement, and, having made the contract, and the common council having lawful power to provide the means in the manner specified, the city is liable upon the contract, and if the common council omit or neglect their duty in this regard, the city becomes liable also for this reason, and the laborer and contractor,-in the case of an absolute contract, is bound to look no further than his contract. He does not guarantee that the agents of the city will perform their duties properly ; he does not stipulate to await their action in obtaining the means, nor to abate his claim if they fail in their duty. He is bound to look no further than to the terms of his contract. It is distinctly found as a fact by the referee that- the common council \u201cfailed and neglected and refused to take the necessary measures for raising the funds necessary for defraying the expenses of said improvement, and enabling the city to fulfill the requirements of said contract, on its part to be performed and fulfilled.\u201d The case of Cumming v. Mayor, &c. of Brooklyn, 11 Paige, 596, 600, is a case in point. Unless that case is to be overruled, this case has been correctly decided.\nThe sections of the charter of the city which are cited as restrictive of the power of the defendants (\u00a7\u00a7 2, 16, 18 and 19 of title 5) have no application to the means for raising money for the improvements in question.\nI think the judgment should be affirmed.\nAll the judges concurred.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Denio, Ch. J. Potter, J."
+      }
+    ],
+    "attorneys": [
+      "A. Perry, for defendants, appellants,",
+      "Francis Kernan, for plaintiffs, respondents,"
+    ],
+    "corrections": "",
+    "head_matter": "BALDWIN v. CITY OF OSWEGO.\nDecember, 1865.\nThe charter of Oswego (L. 1848, p. 170, c. 116), forbid the common council to create any obligation whatever on the part of the city which should not be payable within the year, and could not be discharged from the income of the year; and forbid them to make appropriations for expenses, not especially provided for, beyond a certain limit. \u2014 Reid, that these provisions did not restrict the corporation from making expenditures for local improvements, to be reimbursed by assessments on the property benefited, nor from making a contract for the construction of such improvements, which, by its terms, was not payable within the year.\nA contractor employed for the making of a local improvement, the expense of which, under the charter, must be assessed, not upon the city at large, but only on the property benefited, cannot maintain an action for his compensation, against the municipal corporation, directly on the contract, to recover a judgment which shall be a charge upon the general resources of the city. If, however, the council or officers of the city, having power to raise the necessary funds by assessment, neglect . to do so, the action will lie upon the ground of negligence.\nUnder a charter requiring that the expenses of local improvements he assessed upon the real estate benefited, and that such improvements must be petitioned for, or consented to, by a majority of the persons whose names appear upon the assessment roll, it is competent for the owners of a part of the lands benefitted to petition for the improvement, and consent that the whole expense be assessed on their lands; and an assessment made accordingly will be valid.\nWilliam Baldwin (for whom, on his death pending the action, Charles L. Baldwin and Willard Johnson, administrators, were substituted as plaintiffs), sued the city of Oswego in the supreme court upon a contract made between him and the' city, May 22, 1854, by which Baldwin agreed to excavate and deepen the Oswego river, on the west side, within certain limits, in the city of Oswego, for the considerations expressed in the written agreement, to be paid by the defendants. The principal ground of defense was, that the defendants had no power or authority to make the contract, and that they were not bound by it. The complaint stated two causes of action. The first set forth the contract, and alleged that the plaintiff did a large amount of work under it, and defendants neglected and refused to pay therefor, and declared the contract to he void. The contract was silent as to the mode in which the funds to pay the plaintiff were to be raised. For a second cause of action, the complaint alleged that defendants were owners of upward of one-fourth of the lands that would be benefited by the improvement in question, and that two-thirds of the owners of lands which would be benefited petitioned for the improvement, whereupon defendants duly ordered the improvement to be made, and entered into the contract aforesaid with plaintiff; that thereupon it became defendants\u2019 duty to raise the expense by assessment, but they neglected and refused to do so, to plaintiff\u2019s damage, &c.\nOn the trial it appeared that the work alleged had been done under the contract, and that several payments had been made to plaintiff pursuant to the terms of the contract; after which defendants made default in further payments, and the plaintiff discontinued the work, and brought this action to recover for what he had done.\nThe referee before whom the cause was tried found, that the corporation was authorized to order the improvement to he made; that the proceedings, petition for the work, &c., were sufficient; that the defendants neglected to make the necessary assessment, or to take measures to raise the necessary funds; and found that plaintiff was entitled to recover $12,588.93. In his opinion, he placed the right to recover upon the contract, but suggested that the action was also sustainable on the ground of negligence.\nThe Supreme Court, on appeal, were of opinion that plaintiff was chargeable with knowledge of the provisions of the charter, and that the assessment could not be legally restricted to those who petitioned for it, but must he laid, if at all, on all the lands benefited; but that the persistent neglect of the corporation to levy a tax and create a fund rendered them liable in this action. They accordingly affirmed the judgment, and defendant appealed.\nA. Perry, for defendants, appellants,\nCited, besides authorities in the opinions, Mayor, &c. of N. Y., v. Furze, 3 Hill, 612; Peck v. Village of Batavia, 32 Barb. 634; Weston v. City of Syracuse, 17 N. Y. 110; Kent Com. 298; Hodges v. City of Buffalo, 2 Den. 111; Mayor, &c. of Albany v. Cunliff, 2 N. Y. (2 Comst.) 430; Cuyler v. Trustees of Rochester, 12 Wend. 165; Exp. Mayor of Albany, 23 Id. 277 ; Halsted v. Mayor, &c. of N. Y., 3 N. Y. (3 Comst.) 430 ; Thompson v. Schermerhorn, 6 N. Y. (2 Seld.) 92.\nFrancis Kernan, for plaintiffs, respondents,\nCited and commented on the foregoing cases, and 11 Paige, 596 ; Moss v. McCullough, 5 Den. 567.\nCompare Ireland v. City of Rochester, 51 Barb. 414.\nConsult, also, King v. City of Brooklyn, 42 Barb. 627; Clark v. Miller, 47 Id. 38; Smith v. Mayor, &c. of N. Y., 37 N. Y. 518; People ex rel. Market Commissioners v. Common Council of N. Y., 1 Abb. Pr. N. S. 318 ; S. C., 45 Barb. 327, affirmed in court of appeals, and reported in this series; Richardson v. City of Brooklyn, 84 Barb. 569 ; Lee v. Village of Sandy Hill, 40 N. Y. 442."
+  },
+  "file_name": "0062-01",
+  "first_page_order": 72,
+  "last_page_order": 85
+}

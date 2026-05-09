@@ -1,0 +1,91 @@
+{
+  "id": 2021163,
+  "name": "Huttemeier v. Albro",
+  "name_abbreviation": "Huttemeier v. Albro",
+  "decision_date": "1858-09",
+  "docket_number": "",
+  "first_page": "48",
+  "last_page": "52",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 N.Y. 48"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 N. H., 190",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6754097
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/3/0190-01"
+      ]
+    },
+    {
+      "cite": "1 Sumn., 492",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "case_ids": [
+        6630043
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/24/0841-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 430,
+    "char_count": 8662,
+    "ocr_confidence": 0.595,
+    "pagerank": {
+      "raw": 2.1224781943243275e-06,
+      "percentile": 0.9954661449374076
+    },
+    "sha256": "2a45858275a843f012fcac284ea40f11945046e513a3d10ef7d0b05e286b5cda",
+    "simhash": "1:edc3b0a581bcc7bf",
+    "word_count": 1535
+  },
+  "last_updated": "2024-02-27T22:36:09.220622+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Huttemeier v. Albro."
+    ],
+    "opinions": [
+      {
+        "text": "Strong, J.\nAt the time of the partition between the heirs of John Beekman, they owned the strip of land over which the easement as an alley-way is claimed by the plaintiff, and also the adjoining lots on each side of it. The alley-way, as claimed, then clearly appeared upon the land, and was in actual, visible use by the occupants of the contiguous lots. It had been open, apparent to observation, and in such actual use for more than forty years. Two of the deeds given on the partition, one conveying the .lot now owned by the plaintiff to his grantor, and the other conveying to the grantor of the defendant the lot now owned \u2019by the defendant, recognize the alley-way as existing, and refer to it as a boundary. In the former of said deeds, it is expressed that one of the, lines of the lot runs to the \u201c southerly side of an alley-way three feet wide,\u201d and that the west line runs \u201csoutheasterly along said alley-way.\u201d In the other deed, one of the lines, as given, runs to the \u201ceasterly side of an alley-way three feet wide; thence northwesterly along the same.\u201d The alley is not otherwise mentioned or embraced in any of the conveyances on the partition. It is not important to the decision of this case, whether or not the description in the last mentioned deed \u25a0covers that portion of the alley opposite the lot conveyed; \u25a0for, assuming that it does, the easement will nevertheless \u25a0exist for the common benefit of all the lots, if it is apparent \u00a1from the conveyances, and the circumstances connected with the manner of the use and enjoyment of the land, that such was the intention of the parties. The conveyance,, in that case, is subject to the easement. The first mentioned deed clearly cannot embrace more than one-half of the alley, if it includes any part of it.\nIn seeking for the intention of the parties on the subject, the several conveyances on the partition must be regarded as one transaction, and all be taken into consideration in connection with the fact of the existence and use of the alley-way as above stated. The importance of the way for the benefit of the lots may properly be inferred from the period it had existed and been used; and it is a reasonable supposition that the grantee of each lot, in the-division, would desire, and insist upon having, an easement corresponding with it. It is also a fair conclusion, in the absence of evidence' excluding that idea, that the grantors designed to convey, with the lots, a way which had been long used as appurtenant to them. The omission to convey the alley, or at most but part of it, in a division of the premises among the heirs, would seem strongly to indicate an intention of all the parties that the alley-way should be and remain an easement for the common benefit of the owners of the lots. Another important circumstance, manifesting a similar purpose, is the reference in the deeds to the alley as a boundary of the land conveyed. If the alley was to be abandoned and no longer exist, it would hardly be made a part of the description of the land, to aid in identifying it, not merely at the time of giving the deed, but in future. All these circumstances point in the same direction, and there is no fact in the case in conflict with them. They are conclusive, to my mind, that all the parties intended the way should continue and be used, as it had theretofore been, in connection with.the several lots; and if so, an easement to that extent was conveyed to the several grantees as an appurtenance.\nIt :e a general rule that, upon a conveyance of land, what3.vi is in use for it, as an incident or appurtenance, passes w'th it. The law gives such a construction to the conveyance, in view of what is thus used for the land as an incident or appurtenance, that the latter is included in it. Whether a right of way or other easement is embraced in a deed, is always a question of construction of the deed, having, reference to its terms and the practical incidents belonging to the grantor of the land at the time of the conveyance. The intention of the parties is to be learned from those facts. (4 Kent's Com., 467, and cases there cited; United States v. Appleton, 1 Sumn., 492; N. Ins. Fac. v. Batchelder, 3 N. H., 190; Pyer v. Carter, 40 Eng. L. and Eq., 413.)\nMy conclusion is that the judgment should be affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "John H. Reynolds, for the appellant.",
+      "JI. M. Ruggles, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Huttemeier v. Albro.\nUpon a partition between the owners of, three lots and an alley in the city of New York, the lots all fronting on public streets and abutting upon the alie)\u2019, which then was and for years had been used as a means of access to the rear of the lots, deeds were executed which referred to the alley as a boundary, and with one exception so described the lots as to exclude the alley from the premises conveyed; Held, that such deeds conveyed, and were subject to an easement in the alley for the grantees of the respective lots as appurtenant thereto.\nAppeal from the Superior Court of New York city. This was an action in the nature of a writ of nuisance, brought to compel the defendant to remove a building by which he. obstructed an alley-way in which the plaintiff claimed an easement, and for damages for such obstruction. The trial was before Mr. Justice Bosworth, a jury having been waived. The judge found these facts: In December, 1844, John Beekman died, owning lots No. 106, on the corner of Division and Eldridge streets, Nos. 108 and 110, next adjoining on Division-street, No. 8 on Eldridge-street, and a strip of land three feet wide, lying between No. 8 Eldridgestreet and the lots before mentioned. He had owned all the premises for about forty years. The strip of land three feet wide had, during the ownership of Beekman, been used as an alley-way by the tenants and occupants of 108 and 110 Division-street and 8 Eldridge-st., and this use was continued, after Mr. Beekman\u2019s death, until May, 1848, when the alley-way was closed by the defendant, who had become the owner of 106 Division-street. During all this time there was a house on the rear of lot No. 108 Division-street, which was accessible only through the alley. On the 9th of January, 1847, the widow of John Beekman, and all his heirs except Lydia Foulke, conveyed to the said Lydia the lot No. 108 Division-street, \u201c together with all the tenements, hereditaments and appurtenances thereto belonging,\u201d describing the lot as bounded on one side hyaline \u201crunning northeasterly seventy-five feet and four inches, to the southerly side of an alley-way three feet wide ; thence southeasterly along the said alley-way twenty-one feet and ten inches,\u201d &c. Mrs. Foulke, on March 2d, 1848, conveyed said lot No. 108 to the plaintiff, describing it, in her deed, in the same words as in the aforesaid conveyance to her.\nOn the 9th January, 1847, the widow and all the heirs of John Beekman, except Jane H. Borrowe, conveyed to the latter lot No. 106 Division-street, by words of description referring to and describing the alley-way the same as those above mentioned, except that the line above denominated the southerly side of the alley was therein called the easterly side.\nThe widow and heirs on the same day conveyed also lot No. 110 Division-street, and No. 8 Eldridge-street, by descriptions and measurements which excluded the alley-way, but did not in terms refer to it. The defendant\u2019s title to No. 106 Division-street was by deed from Mrs. Jane H. Borrowe, describing it in the same terms as in the conveyance to her above stated, with the exception that the rear boundary was described as an alley-way three feet wide, and ran \u201c along the same, \u201d not along a side thereof. By a subsequent conveyance, Mrs. Borrowe released to the defendant all the title and interest which she had in the alley-way under the deed to her before mentioned.\nThe judge held that the deed to Lydia Foulke, from the other heirs and widow of John Beekman, of lot: No. 108-Division-street, conveyed, as an incident and appurtenance to the lot itself, a right to the use of the alley-way, as it had been and was then used, and that the deed from her to the plaintiff conveyed to him the same right. Judgment was entered for'the plaintiff for $106.59 damages, and that the defendant remove from the alley-way all obstructions to the free use thereof as it had been used prior to March 2d, 1848, and that he refrain from interfering with the free and unobstructed use thereof, in the manner and for the purposes for which it had been used prior to that date. On appeal this judgment was affirmed by the Superior Court at general term, and the defendant appealed to this court.\nJohn H. Reynolds, for the appellant.\nJI. M. Ruggles, for the respondent."
+  },
+  "file_name": "0048-01",
+  "first_page_order": 52,
+  "last_page_order": 56
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1842795,
+  "name": "Harger against M'Mains",
+  "name_abbreviation": "Harger v. M'Mains",
+  "decision_date": "1835-09",
+  "docket_number": "",
+  "first_page": "418",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Watts 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Johns. 44",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132725
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 333,
+    "char_count": 5764,
+    "ocr_confidence": 0.554,
+    "pagerank": {
+      "raw": 8.419392832369934e-07,
+      "percentile": 0.975970413719101
+    },
+    "sha256": "7c4c689b204511a24b3788f914d84a012801953af74a848704b1cf97783bb48d",
+    "simhash": "1:b8a6896591bab3f8",
+    "word_count": 1011
+  },
+  "last_updated": "2024-02-27T21:13:54.847573+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harger against M\u2019Mains."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\n\u2014There was certainly some evidence of conversion. The witness on whose testimony it rests proved that he had consented to demand the certificate in the plaintiff\u2019s name ; and being the plaintiff\u2019s agent for that, purpose, he was necessarily his agent to receive the defendant\u2019s answers. What, matters it that he would not have been authorised to receive, had the defendant consented to deliver1? He might have delivered to the plaintiff in person had he been disposed to comply with the demand ; but his refusal to deliver at all, was a virtual waiver of objection that no one was present with authority to receive.\nAs to the damages, though the value of the property is the ordinary measure, it has been long settled that, under circumstances, the jury may go beyond it.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Livingston, for plaintiff in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Harger against M\u2019Mains.\nEvidence of conversion in an action of trover is matter of fact for the jury, and, although the evidence be not strong, the judgment will not be reversed because the jury found that fact.\nIn an action of trover, the value of the goods is the ordinary measure of damages, but the jury may go beyond it.\nERROR to the district court, of Alleghany county.\nThomas Kinhead against George Harger. Trover and conversion of a certificate of a revolutionary claim or pension of 80 dollars annually. The suit was instituted on the 1st of March 1834, when no part of the pension was due ; and upon a former trial of the cause the certificate was returned to the plaintiff. The charge of the court was the only subject of the errors assigned.\nGrier, president. \u201cTo entitle the plaintiff to recover, in thiscase, he must prove a demand and refusal of the paper in question, this being the only evidence of a conversion of a paper of this description, of which defendant could make no beneficial use for himself. It cannot be doubted but this action will lie for the detention of a paper of this sort, as well as for a bill of exchange, and title deeds to land, &c.\n\u201c The court will not charge you, as requested -by defendant\u2019s counsel, that there is not sufficient evidence of conversion to justify a jury in finding for plaintiff. There is some evidence on the subject, and the jury are the proper judges of its sufficiency to prove a demand and refusal. The court can only instruct you that you should be satisfied of that fact from the testimony, before you can find for the plaintiff. If you find that plaintiff made demand of the pension certificate before suit brought, and defendant refused to give it up, or offered it only on condition of getting a release or receipt in full of the judgment on Lowrie\u2019s docket (which was a most oppressive and iniquitous demand), it would be your duty to find for the plaintiff. What the damages should be, or what is the measure of damages, would then be your next inquiry.\n\u201cThe defendant\u2019s counsel have contended, that as in this case the pension certificate, the subject matter of the suit, has been returned to the plaintiff by defendant, and accepted by plaintiff at the former trial of this cause in December last, therefore his cause of action is entirely gone. But this is not so : the return and acceptance of the paper would undoubtedly be a bar to plaintiff recovering 1he whole value of it in damages ; but at the same time, if you believe this paper has been detained maliciously and oppressively by the defendant, to the injury of the plaintiff, he certainly has a right to recover damages for that injury in this action. This suit was brought about the beginning of March 1834\u2014at which time an instalment of the pension was payable. If the defendant had returned the paper immediately, the plaintiff might have got his pension, and would have been entitled to little more, probably, than nominal damages and costs. But, as the defendant has continued to detain the paper till December last\u2014till after two instalments of the pension became due, and even till after the death of the plaintiff and never till then offered to deliver it up, except on an iniquitous condition, for the purpose of extorting which he has been guilty of committing this flagrant injustice, reasonable damages should be given for the inconvenience the plaintiff was necessarily subjected to by his conduct. I know of no rule or measure of damages which the court can lay down in such a case\u2014the jury must therefore judge of it,. The interest of the money from the time it might have been, until it actually was, received, would, at least, be something tangible as a portion of the injury. And if it be true, as alleged by the plaintiff, (and of which there is some evidence) that this defendant, after extorting the sum of one hundred dollars from this old man for getting his pension paper, afterwards defrauded him out of two-thirds of the balance, and has detained this pension certificate from him in order to extort from his poverty and necessities the compromise or release of a suit wherein the defendant\u2019s villainy would be justly exposed, I think the jury should be liberal in their damages. This is an action for a tort, and the jury may impose damages not only to compensate the plaintiff, but, in some measure, to punish the defendant for his fraudulent conduct in the case\u2014at the same time, the jury should be cautious not to take into view any circumstances not properly connected with this suit.\n\u201cThe money of which plaintiff was defrauded is the subject of another action, and cannot be taken into view here. The subject matter of this suit is the detention of the certificate, and damages should be given for that act alone.\u201d\nWhich charge was excepted to by defendant\u2019s counsel, and a bill of exceptions was sealed.\nLivingston, for plaintiff in error,\ncited, 1 Chitt. PI. 183; 1 Camp. 439 6 Johns. 44."
+  },
+  "file_name": "0418-01",
+  "first_page_order": 418,
+  "last_page_order": 420
+}

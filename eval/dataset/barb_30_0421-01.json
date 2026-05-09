@@ -1,0 +1,79 @@
+{
+  "id": 5030038,
+  "name": "The Bridgeport City Bank vs. The Empire Stone Dressing Company",
+  "name_abbreviation": "Bridgeport City Bank v. Empire Stone Dressing Co.",
+  "decision_date": "1859-11-07",
+  "docket_number": "",
+  "first_page": "421",
+  "last_page": "425",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 Barb. 421"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "16 N. Y. Rep. 125",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0117-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 431,
+    "char_count": 8982,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 2.2822415720786247e-07,
+      "percentile": 0.7853114216311453
+    },
+    "sha256": "845f5cd70becf7d1bcc885738ad5e0a28758e75135f043677bd9b342f4caf782",
+    "simhash": "1:2941e125a1501bcd",
+    "word_count": 1545
+  },
+  "last_updated": "2024-02-27T19:02:44.432128+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Bridgeport City Bank vs. The Empire Stone Dressing Company."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Clerke, J.\nWhether a corporation can become surety, either as accommodation indorser, or in any other form, we supposed was, beyond all question, firmly established in the negative. We had occasion to discuss and decide this question, little more than a year ago, at the general term of this district. The decision is reported in the 26th Barbour, 568, in the case of Morford'v. The Farmers\u2019 Bank of Saratoga. It is expressly stated in the opinion in that case, that a banking or other corporation is not authorized to make an accommodation indorsement; and it is not binding, unless it appears that the note has been discounted in good faith by the party suing on it, in consequence of a representation made by the bank that it was its own note. This, in fact, was only a reiteration of the opinion of the court of appeals, in The Bank of Genesee v. The Patchin Bank, (3 Fernan, 309.) The language of the court in that opinion is: \u201cIt is quite clear that the officers of a banking association, or other corporation, have no power to engage the institution as the surety for another. Such a transaction is without the scope of the business of the company.\u201d And again: \u201c But if the proper officers of the defendant have negotiated it to the plaintiff, representing it to be a bill belonging to their bank, and upon the faith of that representation the plaintiff has in the usual course of its business discounted it, advancing to the defendant the proceeds, the defendant is precluded, upon the principle just referred to, (the principle of estoppel,) from setting up that it was indorsed without authority.\u201d The principle indeed is also recognized in that opinion, that a negotiable security of a corporation, which, upon its face, appears to have been duly issued by the corporation, is valid in the hands of a bona fide holder without notice, although in fact it was issued for a purpose, and at a place, not authorized by its charter.\nThe decision of the court of appeals, in The Farmers and Mechanics\u2019 Bank v. The Butchers and Drovers\u2019 Bank, (16 N. Y. Rep. 125,) is not in conflict with these principles; but, on the contrary, is in complete accordance with them. The real question in that case was, whether the jDrincipal is estopped by the representation of the agent from disputing facts which show that the act was authorized. In that case, the defendant\u2019s teller had certified that the drawer of a check had funds in their bank to pay the check. While it was admitted that a principal is not bound by an unauthorized act of the agent, it was held that, although the teller had no authority to certify without funds, there was a plain distinction between the terms of a power and facts entirely extraneous, upon which the right to exercise the authority conferred, may depend. \u201c One who deals with an agent has no right to confide in the representation of the agent as to the extent of his powers. If, therefore, a person knowing that the bank has no funds of the drawer, should take a certified check upon the representation of the cashier, or other officer by whom the certificate was made, that he was authorized to certify without funds, the bank would not be liable.\u201d But in regard to the extrinsic fact, whether the bank had funds or not, it was held that the bank was estopped from denying the representations of its agent. The teller, by certifying the check, virtually declared the extrinsic fact that the drawer had funds in the bank; and it was held, that the bank was estopped from disputing this declaration. It is expressly held in that case, however, that if the holders of the check knew that the representations of the teller were false, they would not be deemed innocent holders; much less does it contradict the principle that a corporation cannot become surety, either as an accommodation indorser, or in any other form,, unless the note has been discounted in good faith, in consequence of representations made by its proper officers that it was their own note, (the note of the corporation,) or unless it has passed into the hands of a bona fide holder without notice, who has paid valuable consideration for it.\n[New York General Term,\nNovember 7, 1859.\nIn the case under consideration, the main questions, besides that relating to the notice of protest, arising from the principles to which I have referred, were whether the indorsement on the note in suit was for the accommodation of a third party, or whether it -was discounted by the plaintiff for the benefit of the defendant; and secondly, if really an accommodation indorsement, was it discounted by the plaintiff, in consequence of representations made by the proper officers of the defendant, that it was their own note, received by them in the ordinary course of business. There was conflicting evidence on these points; but the judge left nothing for the jury to decide, he himself deciding that the plaintiff discounted the note so as to become the bona fide holder, and directing the jury to find a verdict for the plaintiff. This, without any consideration of the other points presented on the argument, is sufficient to induce us to set aside the verdict, and to order a new trial; costs to abide the event.\nRoosevelt, Clerke and Sutherland, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Clerke, J."
+      }
+    ],
+    "attorneys": [
+      "W. M. Evarts, for the defendant.",
+      "H. & C. S. Andrews, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "The Bridgeport City Bank vs. The Empire Stone Dressing Company.\nA corporation cannot become surety, either as an accommodation indorser, or in any other form; unless the note has been discounted in good faith, in consequence of representations made by its proper officers that it was the note of the corporation; or unless the note has passed into the hands of a bona fide holder without notice, who has paid a valuable consideration for it.\nWhere, in an action against a corporation, as indorser of a promissory note, there was conflicting evidence upon the questions whether the indorsement was for the accommodation of a third party, or whether the note was discounted by the plaintiff for the benefit of the defendant; and if it was an accommodation indorsement, whether the note was discounted by the plaintiff in consequence of representations made by the proper officers of the defendant that it was their own note, received by them in the ordinary course of business; Held, that those questions should have been submitted to the jury ; and that it was' erroneous for the judge himself to decide that the plaintiff discounted the note so as to become a tona fide holder, and to direct the jury to find a verdict for the plaintiff.\nMOTIOH, upon a case and exceptions, for a new trial. The plaintiff is a banking corporation, created by the legislature of Connecticut, and is located at Hartford in said state. The defendant is a corporation, organized under the general manufacturing law of the state of Hew York. The defendant\u2019s secretary was authorized, by by-law, to indorse and accept notes and bills of exchange in the prosecution of its business. On the 11th February, 1854, at the city of Hew York, William J. Flagg made his promissory note in writing, bearing date on that day, for $6292.38, payable eight months after date, to the order of the Horth American Stone Dressing Company, a Connecticut corporation, of which Chas. T. Shelton was treasurer. Shelton indorsed the note in the name of the latter company. On the 16th May, 1854, he procured it to be indorsed in the name of the defendant by the defendant\u2019s secretary, George Sherman; indorsed it again in his own name; and on the 19th June, 1854, transferred it, thus indorsed, to the plaintiff; receiving, as the consideration of such transfer, a protested note of one John T. Bruen, which had previously been charged to his account, amounting, with protest fee, to $2925.83. The balance, $2978.43, (a discount of $390.12 having been reserved,) was passed to his credit, upon an agreement that the same should not be required of him till the plaintiff got ready, a contingency which does not appear to have ever arisen. The note was protested for non-payment at maturity, and was subsequently taken up by Shelton, and again left with the plaintiff by him as 'collateral security for the payment of certain other notes, as would appear from the written agreement between him and the plaintiff. There was evidence tending to show that the indorsement by Sherman of the note in the defendant\u2019s name, was not made \u201c in the prosecution of the defendant\u2019s business,\u201d but was solely for Shelton\u2019s accommodation; and that the defendant never received any benefit from, or consideration for, such indorsement. The judge charged, that the plaintiff discounted the note so as to become the bona fide holder, and that upon the whole evidence the plaintiff was entitled to recover the full amount claimed, after crediting a certain $600 note which had been paid to the bank; and directed the jury to find a verdict for the plaintiff, which they accordingly did, for the sum of $7138.02.\nW. M. Evarts, for the defendant.\nH. & C. S. Andrews, for the plaintiff."
+  },
+  "file_name": "0421-01",
+  "first_page_order": 421,
+  "last_page_order": 425
+}

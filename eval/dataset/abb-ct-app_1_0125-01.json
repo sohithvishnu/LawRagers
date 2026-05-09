@@ -1,0 +1,66 @@
+{
+  "id": 1111945,
+  "name": "BENEDICT v. DE GROOT",
+  "name_abbreviation": "Benedict v. De Groot",
+  "decision_date": "1867-09",
+  "docket_number": "",
+  "first_page": "125",
+  "last_page": "126",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 125"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 220,
+    "char_count": 2878,
+    "ocr_confidence": 0.437,
+    "pagerank": {
+      "raw": 7.871964132982944e-08,
+      "percentile": 0.45975247977777856
+    },
+    "sha256": "f256a95a6ff75b32fcaf6ffcddc74892848cb51e68868a64f56e064c1651a8d7",
+    "simhash": "1:b7437e5b958ca082",
+    "word_count": 504
+  },
+  "last_updated": "2023-07-14T20:19:41.185035+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BENEDICT v. DE GROOT."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nGrover, J.\nThe refusal of the judge to submit .the case to the jury was not error. The note was entirely impeached; although it was proved that William De Groot made the note in the name of his firm, for a purpose not authorized by the partnership, yet it appeared to have been discounted by the Exchange Bank without any notice of such fact before maturity. The plaintiff, at maturity, purchased the note of the bank. He was not a party to the note, and had no interest in it prior to such purchase. Under these facts he acquired, by his purchase, all the rights of the bank.\nThe bank was a l>ona ficle holder, and the plaintiff, by his purchase from it, acquired its rights as such, and was, therefore, entitled to a verdict for the amount of the note. Such a verdict wqs rendered by direction of the court. This was correct. This disposes of all the questions raised upon the trial as to the competency of evidence. None of these questions had any relation to the right of the plaintiff to recover.\nThe judgment appealed from should be affirmed.\nAll the judges concurred, except Bocees, J., absent.\nJudgment affirmed with costs, and five per cent, damages.",
+        "type": "majority",
+        "author": "Grover, J."
+      }
+    ],
+    "attorneys": [
+      "8. Sanxay, for defendants De Groots, appellants.",
+      "A. J. Vanderypoel, for plaintiff, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "BENEDICT v. DE GROOT.\nSeptember, 1867.\nPlaintiff induced a third person to lend his indorsement to defendants, and obtain a discount of the paper at bank; but after the failure of the defendants, plaintiff paid and took up the note at maturity (without its dishonor). \u2014 Held, that he acquired the rights of the bank as a Iona fide holder; and that in his action against the defendants, evidence of his knowledge of an original want of consideration was not admissible.\nEli Benedict sued William H. De Groot, Theodore B. De Groot and Daniel S. Darling, in the New York common pleas, upon a promissory note dated August 9, 1855, for one thousand and thirty-five dollars, made by the defendants De Groot, in their firm name of William H. De Groot & Son, payable in four months to the order of defendant Darling.\nThe note, about the time of its date, was indorsed, at plaintiffs request, by Jesse Oakley, who had it discounted at the American Enchange Bank. The plaintiff, hearing of the failure of the makers, before the note become due, considering himself honorably bound to Mr. Oakley to pay it, paid and took it up from the bank, by paying the amount at maturity.\nThe defense attempted to be set up was that the note was not made in the course of the partnership business, but without the knowledge of the co-partner, and that plaintiff had knowledge of the fact.\nEvidence tending to show this was excluded, and verdict was rendered for plaintiff, upon which judgment was entered, and affirmed at general term; from which defendants appealed.\n8. Sanxay, for defendants De Groots, appellants.\nA. J. Vanderypoel, for plaintiff, respondent.\nTo somewhat similar effect, see Flint v. Schomherg, 1 Hilt. 532."
+  },
+  "file_name": "0125-01",
+  "first_page_order": 135,
+  "last_page_order": 136
+}

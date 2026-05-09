@@ -1,0 +1,337 @@
+{
+  "id": 1111974,
+  "name": "BANK OF AUBURN v. PUTNAM",
+  "name_abbreviation": "Bank of Auburn v. Putnam",
+  "decision_date": "1867-03",
+  "docket_number": "",
+  "first_page": "80",
+  "last_page": "86",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 80"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "19 N. Y. 319",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 N. Y. 44",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. Y. 103",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 262",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        2511916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/21/0262-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 504",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. Y. 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. 128",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 N. Y. 624",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Wend. 615",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2007450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/6/0615-01"
+      ]
+    },
+    {
+      "cite": "4 Hill, 442",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Cow. 62",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Barb. 378",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4955020
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/17/0378-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 125",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297799
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0117-01"
+      ]
+    },
+    {
+      "cite": "30 Barb. 421",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5030038
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/30/0421-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 105",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 274",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hill, 578",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hill, 461",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "pin_cites": [
+        {
+          "page": "463, 464"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Den. 333",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "460"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Johns. 181",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hill, 322",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Barb. 171",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4954656
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/17/0171-01"
+      ]
+    },
+    {
+      "cite": "26 N. Y. 505",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2033162
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/26/0497-01"
+      ]
+    },
+    {
+      "cite": "2 Abb. 227",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hill, 572",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Den. 567",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881422
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/5/0567-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y. 309",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Barb. 568",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5007903
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/26/0568-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. 312",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497695
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0312-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y. 435",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496014
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/14/0435-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y. 314",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 653,
+    "char_count": 12683,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 3.073214934785773e-07,
+      "percentile": 0.8574901471089628
+    },
+    "sha256": "9046618138bdc813a97fd9b8091dcbe0bab7ba360a5ed4639942b241777069fd",
+    "simhash": "1:2e171a2fe84c57b4",
+    "word_count": 2283
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BANK OF AUBURN v. PUTNAM."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nParker, J.\nIt is found, as a fact in this case, that Bliss, who indorsed the note in question, in the name of the defendants, as their agent, had frequently before indorsed their business paper in the same manner, and procured it to be discounted by the plaintiff, which indorsements had been recognized by the defendants.\nIt is also found that this note was discounted for the defendants upon their application through their secretary, and the avails paid over to him, which the defendants had and used in their business, as commission dealers, in buying grain for the maker, and that the plaintiff had no notice that the note was accommodation paper.\n-How, whether Bliss, the agent, had authority from the defendants to indorse accommodation paper in.their name, or whether this note was in fact indorsed for the accommodation of the maker or not, is quite immaterial, for the plaintiff had the right to presume, from the facts found as above stated, that *it was business paper such as it had been in the habit bf discounting for the defendants ; and the defendants are precluded from denying that it was such business paper. Bank of Genesee v. Patchin Bank, 13 N. Y. 314; S. C., 19 Id. 312 ; Farmers\u2019 & Mechanics\u2019 Bank v. Butchers\u2019 and Drovers\u2019 Bank, 16 Id. 125.\nThe notice of protest was sent to Bliss, the agent, and received by him. This, I think, was sufficient. In the first place, Bliss was the agent to endorse this paper for the defendants. In Firth v. Thrush, 8 Barn. & C. 387, Lord Tbht\u00cdrde\u00edt expressed the opinion that authority to indorse negotiable paper carried with it authority to receive notice of its dishonor. But it is not now necessary to examine that question, for here the agent was not only authorized to indorse this paper, but, as from the findings we must conclude, was the general agent of the defendants to indorse and attend to such paper for them. There is a distinct finding of fact that he was their agent; for what, is not stated, but manifestly not merely to indorse this paper. There is evidence from which we may infer that a general agency was meant. Mow, if he was the general agent of this joint stock company, in reference to the indorsing and taking care of their business paper, no doubt notice to him of the dishonor of this note was notice to the defendants. See 1 Pars. on Notes & B. 499, and cases therein cited; also Id. 502-3.\nBut, for another reason, that must be deemed the law of this case. There is, in the findings of the judge before whom the cause was tried, the following conclusion of law : \u201c The objection that the notice of non-payment was not properly served on the defendants, because sent to the agent Bliss, is not good. It was the proper way to serve the notice, especially if Bliss was agent of the company and authorized to indorse. To this there is no exception, and consequently it is not open to review. Code, \u00a7 268; Magie v. Baker, 14 N. Y. 435; Weed v. N. Y. & Harlem R. R. Co., 29 Id. 616.\nThe judgment should therefore be affirmed.\nAll the judges concurred.\nJudgment affirmed, with costs.",
+        "type": "majority",
+        "author": "Parker, J."
+      }
+    ],
+    "attorneys": [
+      "William B. Mills, for defendant, appellant;",
+      "Cox \u00e9 Avery, plaintiff\u2019s attorneys;"
+    ],
+    "corrections": "",
+    "head_matter": "BANK OF AUBURN v. PUTNAM.\nMarch, 1867.\nA corporation cannot evade liability on negotiable paper indorsed with their name by their agent, for the accommodation of a third person, on the ground that the agent had no authority so to indorse it, if it appear that the agent had frequently before indorsed their paper and procured it to be discounted by the plaintiff, and received the avails, and that the corporation had recognized the validity of such previous\" transactions.\nNotice of protest of negotiable paper, to charge a corporation in whose name it is indorsed, is properly served on the general agent of the corporation.\"\nThe Bank of Auburn brought this action in the supreme court against Aaron Quimby and Isaac Bell, the president of the Farmers\u2019 and Mechanics\u2019 Protection Company of Weeds-port, to recover on a promissory note for one thousand dollars, made by Quimby to the order of said company, and indorsed by one Bliss, their agent.\nAt the trial Lewis Putnam, the successor of Bell, was substituted in the title of the cause.\nThe judge bfefore whom the cause was tried found the following facts: That oh August 19, 1854, Aaron Quimby made the promissory note set forth in the complaint. That he delivered the same at the date thereof to Mr. Henry W. Bliss, who was the agent of the Farmers\u2019 and Mechanics\u2019 Protection Company of Weedsport, of which the said Lewis Putnam is now president; a company consisting of more than fifty persons, organized pursuant to L. 1849, p. 389, and L. 1851, p. 838.\nThat the said Bliss indorsed the said note as follows: \u201cFarmers\u2019 and Mechanics\u2019 Protection Co., H. W. Bliss, Agent.\u201d\nThat when said note was executed and delivered, the said Quimby was not indebted to said company, bnt the said company was then engaged in buying grain for said Quimby on commission, and the said note was made for the purpose of raising money by said Quimby, to be put into the hands of the said company, to buy grain for him.\nThat the said note was before due discounted by the Bank of Auburn, and the avails of it were paid to S. Giles, the secretary of the said company, a.nd received by the said company, and used in buying grain for said Quimby.\nThat when said note fell due, payment thereof was duly demanded, at the place where it was payable, and refused, and due notice of non-payment served by mail upon the said \u201c H. W. Bliss, Agent of the Farmers\u2019 and 3iechanics\u2019 Protection Co., at Weedsport, FT. Y.,\u201d the place of residence of said Bliss, and the place of business of said company.\nThat said Bliss had no authority to indorse the note for said company, except such authority as may be implied from the fact of being agent for said company, and from having frequently endorsed business paper of said company, which had been discounted at the said bank,- and which indorsements were recognized by said company.\nThat when said plaintiffs discounted the note, they had no knowledge of the history of the note, except what is furnished by the note itself and the indorsement, the said bank having previously discounted notes for said company indorsed as this one was, made payable to said company by persons who were indebted to the said company.\nCan the plaintiff recover ?\n1. The objection that the notice of non-payment was not properly served on the defendants, because sent to the agent, Bliss, is not good. It was the proper way to serve the notice, especially if Bliss was agent of the company and authorized to indorse.\n2. But inasmuch as this was an aceommodation note, can the indorsement of Bliss, as agent, bind the company F Clearly, the bare fact of being agent would not authorize him to bind the company, by an indorsement on an accommodation note; but it is quite as clear that he could bind the company by endorsing a business note of the company\u2019s which was discounted by the bank, and the proceeds of which were paid to the defendant.\nIf Quimby had procured the note to be discounted and received the avails, I think there is no doubt the company would not have been holden by the indorsement.\nBut here the note was discounted for the defendants, who received the avails of it. I say then:\n1. Bliss, as agent, had indorsed paper just like this, so far as the bank could tell by any knowledge they had, and had procured discounts on business paper of the defendan ts. There was nothing in this case to lead the plaintiffs to suppose or suspect that this was not a business note; especially as,\n3. The note was discounted by the bank, not on the application of Quimby, but of the agent of the defendants, and the money paid to them.\nJudgment for plaintiff having been entered, was affirmed at general term.\nThs supreme court assigned their reasons as follows, in an opinion by Johssou, J.:\nThis case was rightly disposed of at special term. It is not denied that had the note in question belonged to the defendants. It was properly indorsed, so as to give the plaintiff a good title, and bind the defendants. It was apparently the defendants\u2019note; it was payable to their order; was presented by and discounted at'the request of one of their agents; and the defendants actually received and used the money in the business in which they were engaged.\nHo notice was given by the defendants to the plaintiffs, at the time they procured the note to be discounted, and received the avails, that it was discounted for the benefit of the maker, or that the avails were to be used by the defendants in the maker\u2019s business. It is quite evident upon the whole case, that the defendants are not, as between them and the plaintiffs, accommodation indorsers for the maker of the note.\nThe money went into their hands, and they use! it in their business with Quimby. Even if it was wholly Quimby\u2019s money, they used it for their own advantage and profit; and whether, as between them and Quimby, they charged the money to him or he to them, it can make no difference to the plaintiffs, who had no notice of their private arrangements.\nI think the case falls entirely within the principle established in Bank of Genesee v. Patchin Bank, 19 N. Y. 312. See also Farmers\u2019 and Mechanics\u2019 Bank v. Butchers\u2019 and Drovers\u2019 Bank, 16 Id. 125. It was apparently business done for the defendants, and they had the money, without giving any notice, and they ought to respond.\nJudgment affirmed.\nFrom this judgment the defendant, Putnam, appealed.\nWilliam B. Mills, for defendant, appellant;\n\u2014..s to authority to bind corporation by indorsement, &c., cited Morford v. Farmers\u2019 Bank, 26 Barb. 568; Central Bank v. Empire Dressing Co., Id. 23; Bank of Genesee v. Patchin Bank, 13 N. Y. 309; Mechanics\u2019 Bank v. N. Y. & N. H. R. R. Co., Id. 599; McCullough v. Moss, 5 Den. 567; Bank of Genesee v. Patchin Bank, 19 N. Y. 312; National Bank v. Norton, 1 Hill, 572; Moss v. Livingston, 4 Comst. 208; Knight v. Lang, 2 Abb. 227; Nixon v. Palmer, 4 Seld. 400; Exchange Bank v. Monteath, 26 N. Y. 505 ; 17 Barb. 171; 24 Id. 371; Rogers v. Coit, 6 Hill, 322; De Witt v. Walton, 5 Seld. 57l; 4 Kern. 35,623. As to service of notice, and proof thereof, Cayuga Co. Bank v. Warden, 1 Comst. 413; Story on Prom. N. 299; Edw. on Bills and Cases Cited, p. 581; Story on Prom. N. p. 361, \u00a7 309; Louisiana State Bank v. Ellery, 16 Martin, 87; Cross v. Smith, 1 Maule & S. 545, 552, 553; Agan v. McManus, 11 Johns. 181; 4 Edm. Stat. 620, \u00a7 8; 5 Den. 333; 4 Id. 460.\nCox \u00e9 Avery, plaintiff\u2019s attorneys;\nAs to notice to agent, cited Dunlap\u2019s Paley, 262, and cases cited; Firth v. Thrush, 8 Barn. & C. 387; Hern v. Mill, 13 Ves. 120; Bank of the United States v. Davis, 2 Hill, 461, 463, 464; Chitty on Bills, 497; National Bank v. Norton, 1 Hill, 578; Fulton Bank v. Sharon Canal, 4 Paige, 137; North River Bank v. Aymar, 3 Hill, 274-5; Story on Prom. N. \u00a7 307; McEwen v. Montgomery Mutual Ins. Co., 5 Hill, 105; Story on Agency, \u00a7 140. The company have got the money on the strength of the endorsement, and are estopped. 6 Seld. 449 ; Bridgeport v. Empire, 30 Barb. 421; Genesee v. Patchin, 3 Kern. 309; Farmer v. Butcher, 16 N. Y. 125; Story on Agency, \u00a7 245, 258; Navigation Co. v. Weed, 17 Barb. 378, and cases cited; Shirias v. Morris, 8 Cow. 62. This note being drawn and indorsed in the usual form of their customers\u2019 notes, many of which plaintiff had discounted before, precludes the defendant from raising the question. Safford v. Wyckoff, 4 Hill, 442 ; Vallett v. Parker, 6 Wend. 615; Royal Bank v. Turquand, 36 Eng. L. & Eq. 142; Farmers\u2019 and Mechanics\u2019 Bank v. Butchers\u2019 and Drovers\u2019 Bank, per Denio, Ch. J., 14 N. Y. 624; S. C., 16 N. Y. 128, per Selden, J.; Bank of Genesee v. Patchin Bank, 19 N. Y. 312; Barnes v. Ontario Bank, 19 N. Y. 153, 162; Bank of Lake Erie v. Norton, 1 Hill, 504; North River Bank v. Aymar, 3 Hill, 262, cited and reviewed in 4 Kern. 631; Boyd v. Cummings, 17 N. Y. 103 ; Marine Bank v. Clements, 31 N. Y. 44. There is a class of cases, however, which may be cited against us, where the law of oiegotiable paper does not intervene. Grant v. Norway, 10 Com. B. 665 ; Coleman v. Rich, 29 Eng. L. & Eq. 323 ; Hubbersby v. Ward, 8 Exch. 330; Schuyler & Kyle Case, 3 Kern. 600. There are many others; but in the light of this distinction they have no application to this case. As to the apparent power of agent being the real power, as regards those parties, vide Pickering v. Bush, 15 East. 42; Whitehead v. Tuckett, Id. 403; Houghton v. Ewbank, 4 Camp. 89 (per Ellenborough) ; Genesee v. Patchin, 19 N. Y. 319. Defendant cannot raise any new questions upon this appeal, which were not presented and ruled upon below. Cowperthwaite v. Sheffield, 3 Comst. 247-8."
+  },
+  "file_name": "0080-01",
+  "first_page_order": 90,
+  "last_page_order": 96
+}

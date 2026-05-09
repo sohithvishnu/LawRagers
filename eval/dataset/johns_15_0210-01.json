@@ -1,0 +1,85 @@
+{
+  "id": 2141009,
+  "name": "Pike against Evans",
+  "name_abbreviation": "Pike v. Evans",
+  "decision_date": "1818-05",
+  "docket_number": "",
+  "first_page": "210",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Johns. 210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Johns. Rep. 461",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Johns. Rep. 253",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Johns. Rep. 86",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 7344,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 8.113423591910326e-07,
+      "percentile": 0.974239617831001
+    },
+    "sha256": "3ae1853726095ee557eef4b96d8335f1a9cde123ce34907a22af5cfdf86d2903",
+    "simhash": "1:f8ecf6f89528e7ec",
+    "word_count": 1299
+  },
+  "last_updated": "2024-02-27T16:17:14.253519+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pike against Evans."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe ground's on which an application for a new trial in this case is made are,\n1. That the verdict was against the weight, of evidence.\n2. That the contract proved is materially different from the one declared upon.\n3. On the ground of newly-discovered evidence.\nWith respect to the first point, the verdict is warranted not only by the weight of evidence, but a contrary verdict would have been against the positive and direct testimony of one witness. The contract between the parties was, that the clothes in question were to be made, and sent on to Sachet's Harbour, by the stage that would arrive there, according to the course of the stages, on Tuesday, the 1st of November, 1814; and the material question, as it would seem from the judge\u2019s charge, was, whether they were left at the stage-office in Utica, in season to be sent on according to contract. One witness swears positively, that the defendant, on being asked whether he sent them on by the time agreed, answered, \u201cno; but he sent them\" the week following.\u201d There are, to be sure, some circumstances stated by the defendant\u2019s witnesses, which render it somewhat questionable, whether this witness could be correct. Though it was on Friday, the 28th of October, when the plaintiff first spoke to the defendant about making the clothes,' yet the proof is pretty strong to show the clothes were left at the stage-office on Saturday evening, which must have been the next day, or Saturday, of the ensuing week. This, however, was a question fairly submitted to the jury, and we cannot think it fit and proper to set aside the verdict on this ground.\n2. With respect to the alleged variance, admitting it to be well founded, the objection should have been made on the trial, and the defendant comes too late now to call that in question.\n3. The newly-discovered evidence is material to make out the delivery of the clothes by the time agreed on, and the only objection to granting a new trial on this ground is, that it is merely cumulative testimony. This must have been known to the defendant to be a material question on the trial. The newly-discovered evidence does not relate to any new fact; and it has been repeatedly decided by this court, that a new trial ought not to be granted, merely for the discovery of cumulative facts and circumstances relating to the same matter, which was principally controverted on the former trial. (2 Caines, 129. 8 Johns. Rep. 86.) The motion for a new trial must, accordingly, be denied.\nMotion denied.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Talcot, for the defendant.",
+      "Parker, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Pike against Evans.\nA variance be* tween the declaration and proof must be objected to at the trial, and if not done then, the party rannot, after-wards, avail himself of it\nA new trial will not be granted for the purpose of letting in cumulative evidence* as to matter Which was principally controverted on the former trial.\nTHIS was an action of assumpsit. The count in the declaration on which the plaintiff claimed to recover, stated, that the defendant was a taylor in the village of Utica, and\u00f3n the 28th of October, 1814, in consideration that the plaintiff, at his request, had delivered him a large quantity of broadcloth and kerseymere, to be made up into a coat, pantaloons, and vest, for a large reward, he, the defendant, undertook to make and deliver them safe to the plaintiff, at SackePs Harbour, by the next Tuesday following, to wit, on the 1st of November, 1814; yet that the defendant, not regarding, &c. would not make and deliver them to the plaintiff at SackePs Harbour, but, on the contrary, so carelessly and negligently behaved and conducted himself with respect to the said clothes, that by his carelessness, negligence, and improper conduct, they were wholly lost to the plaintiff. The cause was tried before Mr. 3. Platt, at the Chenango circuit,- in July, 1818. /\nThe plaintiff was aid to a general in the militia, who had beeb called out for the defence of SackePs Harbour, with whom he was proceeding to that place, and on his way thither, on the 28th of October, 1814, called on the defendant, and left with him some cloth to be made into a military suit, and paid him for the making, the defendant promising to send the clothes, by the next week\u2019s stage, to SackePs Harbour, so that they should he received by the plaintiff on: Tuesday. The clothes were made up by the defendant, and sent on by the stage, but never reached the plaintiff A witness on the part of the plaintiff testified, that he had asked the defendant if he had sent the clothes by the time he agreed ; to which he answered \u201c no,\u201d but that he sent them the week following. The defendant proved, by one of his workmen, that the clothes in question were made in a great hurry at the defendant\u2019s shop ; that the witness assisted the defendant in making the coat, which was not usual, unless the defendant was particularly hurried; that some of the other workmen made the other clothes ; that as soon as they were finished they were put into a package, on which was sewed a card, addressed to \u201c Major Pike, SackePs Harbourand were taken out of the shop by the defendant, and a young man named Miner, to deliver at the stage-office, and that this took place on Saturday evening. Miner testified, that he went with the defendant from the shop to the stage-house with the bundle of clothes, which he observed was done up, and directed on a card, but that he did not read the inscription, and that this was in the latter part of October, on Saturday evening. Another witness testified, that in the latter part of October, or beginning of November, the defendant left a bundle at the stage office directed to Major Pike, at SackePs Harbour, and paid stage fare for it, but it did not appear to have been entered on the books of the office, and whether it was entered on the way-bill could not be ascertained, as the way-bills were regularly, at certain times, destroyed. The judge charged the jury, that if they believed that the defendant did not deliver the package at the stage office in Utica, in season, so that by the ordinary course of the stage it might arrive at SackePs Harbour on Tuesday next after the contract, then they ought to find for the plaintiff; because, if the defendant had broken his contract as to time, the risk was thereby varied without the consent of the plaintiff; but if the jury believed that the package had been delivered by the time agreed on, then he recommended a verdict for the plaintiff, subject to the opinion of the court: whereupon, the jury found a verdict for the plaintiff for 75 dollars, absolutely, on the ground that .the package had not been sent in time.\nThe defendant now moved to set aside the verdict, and for a new trial, on the ground that the verdict was against evidence, and that the contract proved varied from the one declared upon ; and on the ground of newly-discovered evidence, as to which affidavits were produced of testimony, the object of which was to substantiate the delivery of the clothes at the stage office in due time.\nTalcot, for the defendant.\nHe cited Phillips' Law of Ev. 160. Penny v. Porter, 2 East, 2. Crawford v. Morrell, 8 Johns. Rep. 253. Smith v. Barker, 3 Day's Rep. 312. Voshurgh v. Thayer, 12 Johns. Rep. 461. Steinbach v. Col. Ins. Co. 2 Caines, 129\u2014133. Norris v. Freeman, 3 Wils. 38. Broadhead v. Marshall, 2 Bl. Rep. 955.\nParker, contra."
+  },
+  "file_name": "0210-01",
+  "first_page_order": 218,
+  "last_page_order": 221
+}

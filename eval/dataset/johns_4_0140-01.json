@@ -1,0 +1,63 @@
+{
+  "id": 2001784,
+  "name": "Jackson, ex dem. Goodrich and others, against A. Ogden and J. Ogden",
+  "name_abbreviation": "Jackson ex dem. Goodrich v. Ogden",
+  "decision_date": "1809-02",
+  "docket_number": "",
+  "first_page": "140",
+  "last_page": "143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Johns. 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 428,
+    "char_count": 7457,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 4.876283237379652e-07,
+      "percentile": 0.9331756407419892
+    },
+    "sha256": "29588c307f59312aa078e55e81da250910e014b1f41d73fc031add9049dfff2e",
+    "simhash": "1:66a389fc580dc526",
+    "word_count": 1356
+  },
+  "last_updated": "2023-07-14T18:02:21.737570+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Goodrich and others, against A. Ogden and J. Ogden."
+    ],
+    "opinions": [
+      {
+        "text": "Spencer, J.\ndelivered the opinion of the court. The lessors of the plaintiff having, on the trial, deduced a title, in Some of them, to lots No. 15 and 16. in a tract of land originally surveyed for Peter Van Brugh Livingston, and others, lying between the Coquaga branch of the Delaware river, and the Susquehannah river, in the town of Walton, in the county of Delaware, it became the sole question on the trial, how these two lots should be located. On the map of partition between the original purchasers, made prior to the issuing of the patents, it appears that lots No. 15 and 16. adjoin each other, and the, patent for lot No. 15. refers to the map on file in the secretary\u2019s office. It is required to begin at a beech tree, marked 14 and 15. running thence south twenty-eight degrees east, 70 chains and 81 links, to a hemlock tree, marked No. 15 and 16. running thence north 62 degrees east, 34 chains and 32 links, to a beech sapling, marked No. 15, 16. 31, 32. then north 28 degrees west, 70 chains and 81 links to a maple tree,, marked 14,15. 30, 31. and then in a direct line to the place of beginning, containing 243 acres. The patent for No. 16. describes the boundaries as follows, beginning at a hemlock tree, marked No. 15 and 16. and running thence south 28 degrees east, 29' chains to the Delaware river; then up along the same 34 chains and 32 links, measured on a course north, 63 degrees east to a beech sapling, marked No. 16. thence north 28 degrees east, 30 chains, to a beech sapling, marked No. 15, 16. 31, 32. and thence on a direct line to the place of beginning, containing 157 acres. 'From the map, and the description of the lots in the patent, the lessors of the plaintiff have made out a title to the premises in question. It is, however, not to be controverted, that parties, whose rights to real property may be perfect, and the boundaries of which may be susceptible of certain and precise ascertainment, may, by their acts, conclude themselves, by establishing other and different boundaries. Thomas W. Griswold, one of the lessors of the plaintiff, and who must be considered, in 1797, as proprietor of lot No. 16. purchased of the defendants 50 acres of the land which they set up to be vacant, and to lie without both lots, 15 and 16. which was described in the instrument he took, as without the bounds of that lot. The evidence of this purchase, though under seal, was excluded by the judge atthe trial; what other evidence might have been adduced, we cannot pretend to say ; it might have been followed up by acts which would conclude Griswold, and those who derive title under him, from claiming the premises as within either of the lots, and after the rejection of the covenant entered into between Griswold and the defendants, the defendants might well have forborne to offer similar or inferior evidence of acts. In this view, that it was improper to exclude such evidence, and that it should have been submitted to the jury, with such observations as the evidence required, I think there should be a new trial. The rejection of one of the lessors as a witness, I conceive to haye been proper; if his name was used without his consent, it might be struck out on application to the court. The costs must abide the event of the suit.\nNew trial granted.",
+        "type": "majority",
+        "author": "Spencer, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Goodrich and others, against A. Ogden and J. Ogden.\nALBANY,\nFebruary, 1809.\nA lessor of (he ment'cannot be a witness in the cause; if ins name is used williout his consent, it may be application to denceofthefts\" of the lessor of the plamtifij m ejectment, which tend to conclude him, derive'\u00fc\u00abe'un\u00b0uSssible!\u2019 18 ad\"\nTHIS was an action of ejectment for land, in the town of Walton, in the county of Delaware. The cause was .ried at the Delaware circuit, on the 24th May, 1808, before . J1 7 Ml*. Justice Tates. The declaration contained eleven de- . . . mises. A title was deduced to some of the lessors of the plaintifF to lots No. 15 and 16. in a tract of land originally surve37ed for Feter Van Brugh Livingston, and others, lying between the west branch of the Delaware-, and the Susquehannah river; and the only question at the trial was how the lots were to be located.\nThe plaintiff produced m evidence a warrant of survey, dated the 8th October, 1785, describing the outlines of the tract,, and a return of the surveyor-general, dated the 29th April, 1786, of a survey of the outlines of the tract, ascertaining the quantity to be 35,178 acres, with a map of the lots ; and an order from the commissioners of the land-office for a patent to the proprietors, of which Wattles, one of the lessors, was one, and a map of partition. He also produced a patent to the trustees of Adams, who are also lessors, for No. 15. and a patent to Wattles for lot No. 16.\nJacob Trumpbourn, a surveyor, testified, that he had traced and chained the south-west lines of the tier of lots, from No. 1. to the Delaware; that tracing the lots, from. No. 1. to a hemlock tree, blazed on four sides, and then locating No. 16. on the Delaware, according to the distance in the patents, there would be a vacancy of about 78 chains.\nArch. E. Payne, surveyor, testified, that lot No. 16. according to the description in the patent, contained 101 acres, but by his survey, and as Griswold possessed it, it contained 128 acres.\nThe defendant offered S. Wattles, one of the lessors, as a witness, to prove that he surveyed the tract by order of government, and that he made 17 tiers of lots, instead of 16. that he made the map with but 1-6 tiers of lots, leaving a vacancy between 15 and 16. but he was objected to. He was offered to be sworn o.i his voir dire, that he had no interest in the land, and would disclaim all connection in the suit, but he was rejected by the judge.\nJames A. Murrin, a surveyor, proved, that he traced all the lines of lots 15 and 16. as possessed and located under the patents, and he had no doubt there was a vacant lot between them. The defendants were proved to have been in possession of the premises eight or nine years, and 3.'PCall9 under whom they claim, fourteen or fifteen years.\nBy articles of agreement between the defendants and Griswold, one of the lessors, dated the 5th July, 1797, the defendants covenanted to convey to Griswold 50 acres., lying next to lot No. 16. then, and now, in \"the possession of Griswold; and a witness was called to prove that he assisted Griswold in laying out the 50 acres, and that Gris. wold, who held lot No. 16. considered it, until lately, as no larger than his possession, according to the distances in the patent. The plaintiff admitted he was in possession of lot No. 16. under a deed from one Freeman ; and he objected to the evidence of the acts of Griswold. The counsel for the defendants insisted, that the plaintiff having recognised the interest of Griswold, by making him a lessor, and he being shown to be in possession under tide, all die mesne conveyances from Wattles to him, were to be presumed. But the judge rejected his evidence, and, under his charge, tire jmy found a verdict for the plaintiff.\nA motion was made, on the part of the defendants, to set a'side the verdict;-\n1. Because S. Wattles ought to have been admitted as a witness;\n2. Because the evidence of the acts of Griswold ought to have been received.; and\n3. Because the verdict was against evidence.\nThe case was argued by Hawkins and Haggles, for the defendant, and E. Williams for the plaintiff."
+  },
+  "file_name": "0140-01",
+  "first_page_order": 152,
+  "last_page_order": 155
+}

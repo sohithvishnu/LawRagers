@@ -1,0 +1,109 @@
+{
+  "id": 500785,
+  "name": "Thaddeus A. Lawrence, Respondent, v. Alfred Ely, Appellant",
+  "name_abbreviation": "Lawrence v. Ely",
+  "decision_date": "1868-01",
+  "docket_number": "",
+  "first_page": "42",
+  "last_page": "45",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 N.Y. 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "30 Barb. 655",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5029557
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/30/0655-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 285",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012872
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/10/0285-01"
+      ]
+    },
+    {
+      "cite": "37 N. Y. 34",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 N. Y. 634",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2038621
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/29/0634-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 390,
+    "char_count": 6238,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 7.507892394364129e-07,
+      "percentile": 0.9700619611413639
+    },
+    "sha256": "93309f06c632896f9bd5264f510fabb1c5a4da339e119acd7098e793ce97f0fd",
+    "simhash": "1:08c8bf11a9dea7fe",
+    "word_count": 1136
+  },
+  "last_updated": "2024-02-27T21:57:11.298890+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thaddeus A. Lawrence, Respondent, v. Alfred Ely, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Hunt, Ch. J.\nNo question of law is involved in this order, and it is not appealable to this court. An order granting a new trial on the ground of newly discovered evidence, surprise, misconduct of jurors, or the like, has always been considered as addressed to the discretion of the court. (Selden v. The Del. & Hud. Canal Co., 29 N. Y. 634; Young v. Davis, 30 id. 134; Sherman v. Felt, 2 Comst. 186. See also King v. Platt, 37 N. Y. 34, How. Pr. 26, where all the eases are examined.) In such cases, this court never attempts to review the action of the courts below.\nIn Burk v. Adams, (2 Abb. N. S. 104), the question was discussed but no conclusion was reached by the court, and the later case of Kmg v. Platt gives the true rule which should govern the decision. It is discretionary in its nature, and not the subject of appeal to this court.\nIf in our power to review the discretionary action of the court below, we should not have felt disposed to exercise that power in the present case. In the first place we have not -the facts on both sides before us. The defendant has presented his affidavits, but the \u201c opposing affidavits,\u2019.\u2019 which were before the court below, are not among the papers. We are entirely ignorant of their contents. In the next place, the evidence is cumulative in its character. The witness, Barnum, swore to one state of facts, and the defendant, as a witness, swore to another and different state of facts. The facts now desired to be proven by Mrs. Barnum to sustain the defendant and to impeach her husband, are upon the same point, of the same general nature, and come in aid of the testimony given by the defendant. They are intended to show that the note in suit belonged to her husband as was insisted by the defendant, and not to her, as was insisted by the plaintiff. They were well known to the wife at the time of the trial, and known to the defendant to be known by her. He then suffered her to be in the interest of the plaintiff and to have the same purpose with her husband, and that she would sustain his testimony. He therefore omitted to call her. He now ascertains that she will give evidence to sustain his view of the case, and he therefore asks for a new trial on the ground of newly discovered evidence. This will not do. Ho verdict could stand if this should be held a good cause for opening it. (People v. Superior Court, 10 Wend. 285; Peck v. Hiler, 30 Barb. 655.)\nAnd, lastly, the delay of more than a year after the report, in making the application, is too great. (Same authorities.)\nThe judgment and the order appealed from should be affirmed with costs.\nAll affirm.\nAppeal from order dismissed.",
+        "type": "majority",
+        "author": "Hunt, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "John H. Reynolds, for the appellant.",
+      "George F. Danforth, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Thaddeus A. Lawrence, Respondent, v. Alfred Ely, Appellant.\nA motion for an order granting a new trial, on the ground of newly discovered evidence, and the like, is addressed to the discretion of the court; and is not the subject of appeal to this court.\nIn this case there are two appeals by the defendant\u2014one from a judgment of the Supreme Court, in the seventh district, rendered in favor of the plaintiff, on the report of a referee; and the other from an order of the same court, denying a motion for a new trial on the ground of surprise and newly discovered evidence. No argument is made to show error in the judgment.\nThe action was on a promissory note, made by the defendant, dated 1st April, 1857, for $3,257.01 with interest, payable one day after date, to Rebecca Barnum or order, and by her indorsed to the plaintiff.\nThe defense was, first, general deiiial; second, counter claim and set-off of moneys paid by defendant at the request of Milo Barnum, the husband and agent of said payee, to apply on said note, before the transfer of the note, which took place after the note became due; third, counter claim\u2014that the said Milo Barnum was the agent of the said Rebecca, in taking the note in suit, that the consideration thereof arose out of matters of deal between the defendant and said Milo, in which the latter acted as agent of the said Rebecca, and in her name, and that defendant subsequently paid large sums of money at the request of said Milo, as such agent, and in pursuance of an agreement with him that they should apply on the note in suit.\nThe defendant and Milo Barnum were examined and gave conflicting evidence. \"\nThe referee reported in favor of the plaintiff, for the whole amount of the note in suit, holding, that, as the draft and note set up by the defendant were made by the husband, in his own name, they were \u00a1prima facie on his own account, and that there was no evidence to explain or contradict prima facia showing, and that, as the defendant held the affirmative, his claim could not be allowed. Mrs. Barnum was subpmnaed by the plaintiff, and attended at Rochester, where the cause was tried, but was not called. The defendant alleges that he had not transacted any of the business with her personally, and did not know what she would testify to, but supposed, from her position and from the fact of her being subpoenaed by the plaintiff, that her testimony would corroborate that of her husband and would prejudice the defense.\nJudgment was entered February 5, 1861, and exceptions to the report were filed in February, 1861.\nIn January, 1862, he, defendant, claims to have discovered that she never considered the note in suit as her property, and never claimed any interest in it, or exercised any control over it, but that it was made for the benefit of her husband, and she always considered it his absolutely, and he was at liberty to use it as he chose, without any interference of hers; she supposed it was paid in full, or nearly so, until a short time before it was sued in her name, when her husband told her it was not paid. The affidavit of Mrs. Barnum forms a portion of the papers.\nOn the 3d of March, 1862, the motion for a new trial, on the ground of newly discovered evidence, was heard upon the affidavits and case now presented, \u201c and opposing affidavits on the part of the plaintiff,\u201d and was then denied. From this order the defendant appealed to the G-eneral Term, where the same was affirmed. He now brings his appeal to this court.\nJohn H. Reynolds, for the appellant.\nGeorge F. Danforth, for the respondent."
+  },
+  "file_name": "0042-01",
+  "first_page_order": 44,
+  "last_page_order": 47
+}

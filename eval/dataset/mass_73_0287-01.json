@@ -1,0 +1,77 @@
+{
+  "id": 1996040,
+  "name": "Zeno Kelley vs. Benjamin Lindsey",
+  "name_abbreviation": "Kelley v. Lindsey",
+  "decision_date": "1856-10",
+  "docket_number": "",
+  "first_page": "287",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "7 Gray 287"
+    },
+    {
+      "type": "official",
+      "cite": "73 Mass. 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Hill, 266",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 358,
+    "char_count": 8021,
+    "ocr_confidence": 0.655,
+    "pagerank": {
+      "raw": 4.784289295540913e-07,
+      "percentile": 0.9308840013452522
+    },
+    "sha256": "68edb12b223f955741fdf492f23df936a5e8a5e5c8ad99c3364dc36b11a2e11f",
+    "simhash": "1:a86962b29b0aa9f9",
+    "word_count": 1401
+  },
+  "last_updated": "2024-02-27T18:23:04.220820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zeno Kelley vs. Benjamin Lindsey."
+    ],
+    "opinions": [
+      {
+        "text": "Dewey, J.\n1. We perceive no objection to the admission of the testimony relied upon by the plaintiff to establish the agency of Coffin and his authority to bind the defendant, nor to the instructions given as to the nature of the evidence upon which a general authority to borrow money for his principal might be found by the jury.\n2. We are of opinion that if Coffin had authority to borrow money on account of the defendant, to be used in the transaction of his business, and if in the exercise of such agency he borrowed money at a greater rate of interest than six per cent, per annum, the defendant would be liable on a contract for such borrowed money, after deducting from the same three times the unlawful interest paid, as would be the rule in other cases of payment of usurious interest; and such liability would attach to the defendant, to the same extent as if he had made the loan himself.\n3. The remaining instruction was objectionable, and should not have been given. If Coffin had no authority to borrow money on account of the defendant, to expend in his business and to pay his debts, the money advanced for that purpose, though so applied, created no debt against the defendant. No one can thus make himself a creditor of another by the unsolicited payment of his debts; and it is not enough to create a liability, that the defendant had the benefit of the money, by reason of its being expended in his business or in the payment of his debts. There must have been shown some authority to make such advance or payment of money, proceeding from the defendant, in addition to the mere fact of its being applied for his benefit, in order to charge him with the same in a suit at law. For this reason, the court are of opinion that the verdict must be set aside and a New trial had.",
+        "type": "majority",
+        "author": "Dewey, J."
+      }
+    ],
+    "attorneys": [
+      "L. F. Brigham, for the defendant,",
+      "J. F. Dearborn, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Zeno Kelley vs. Benjamin Lindsey.\nEvidence that a person was the financial agent and confidential clerk of another, and had on various occasions, with his assent, in his behalf, accepted drafts, and drawn orders upon others, which he afterwards allowed in account, is evidence from which, without any proof of direct authority, a jury may infer a general authority to borrow money to meet the exigencies of the principal\u2019s business, even at a usurious rate of interest, and to bind him by a check given therefor.\nOne in whose behalf money is borrowed without authority, but to whose use it is appropriated by the borrower, is not liable to the lender as foi money had and received.\nAction of contract on a check payable to the plaintiff and signed \u201c Benjamin Lindsey, by George G. Coffin.\u201d There were also counts for money lent, and for money had and received.\nAt the trial in the court of common pleas, before Morris, J., the evidence tended to show \u201cthat Coffin obtained the money of the plaintiff for the use of the defendant, and that it was applied for the benefit of the defendant in his business; that Coffin was, at the time the check was drawn and dated, the financial agent and confidential clerk of the defendant, and had charge of his money affairs, while the defendant was engaged personally as editor of a newspaper; that Coffin had, on various occasions, under the direction and with the assent of the defendant, accepted drafts drawn on the defendant, drawn orders on tradesmen, and borrowed and hired money of various persons for the use of the defendant and in the defendant\u2019s name, and given checks, signed as above, to the persons from whom the money was had; that he had, for the defendant, accepted drafts drawn on the defendant, which drafts had been left at the banks for collection, and been paid; and that orders upon tradesmen, signed as above, payable to operatives in the defendant\u2019s employ, had been accepted and paid by the drawees, and allowed by the defendant in settlement of the accounts of such tradesmen.\u201d\nIt was admitted by the plaintiff that a rate of interest, greater than was allowed by law, was reserved in this check; that a sum equal to three times such excess should be deducted, according to the statute ; and that the check was in fact made and signed six weeks earlier than its date.\nIt did not appear that specific authority had been given by the defendant to Coffin to borrow from the plaintiff, or that express authority had been given to procure money of him at more than the legal rate of interest. But there was evidence to show that on one occasion the defendant was informed by Coffin that the defendant\u2019s funds were insufficient to meet his liabilities, and that the money could not be obtained anywhere at the legal rate.\nThe defendant requested the court to instruct the jury, \u201c that evidence that Coffin kept books, paid bills, accepted drafts, drew checks to pay the defendant\u2019s debts, and receipted bills in his name, would not authorize the jury to infer general authority to borrow money in the defendant\u2019s name; that evidence that Coffin had a general authority to borrow money in the defendant\u2019s name would not authorize the jury to infer his authority to borrow money on usurious terms; that, it being admitted that the check declared upon was given for money borrowed upon usurious terms, the plaintiff must prove not only an express authority to borrow money on usurious terms, but an authority to borrow of the plaintiff the sum sought to be recovered by this action ; that if Coffin borrowed this money without authority, the mere fact that the money so borrowed was appropriated to the payment of the defendant\u2019s notes or other indebtedness, or business expenses, would not authorize the jury to find for the plaintiff in this action ; and that a general authority from the defendant, to draw checks upon banks where money was deposited to the defendant\u2019s credit, would not authorize Coffin to postdate and otherwise draw such checks in manner and form like the check declared upon.\u201d\nThe court declined to instruct the jury as requested ; but instructed them \u201c that evidence that Coffin kept books, paid bills, accepted drafts, drew checks to pay the defendant\u2019s debts and receipted bills in his name, would not, standing alone, authorize the jury to infer a general authority to borrow money in the defendant\u2019s name, but might be considered by the jury, in connection with the other evidence in the case, tending to show such general authority; that a general authority to borrow money might be shown by direct evidence of such authority expressly given; or it might be inferred from the relation in which Coffin stood to the defendant, from the mode in which the business was transacted by Coffin, and the defendant\u2019s knowledge of and acquiescence in the same, from the whole course of dealing, and from other circumstantial evidence ; and that it was for the jury to determine, from the whole evidence in the case, whether Coffin had such authority from the defendant ; that if Coffin had a general authority to borrow money in the defendant\u2019s name for the exigencies of the defendant\u2019s business, and, to meet those exigencies, borrowed it at rates exceeding the legal rate, the defendant would be bound by such acts of Coffin, to the same extent as though performed by himself personally.\u201d\nThe court further instructed the jury \u201c that if they were not satisfied that Coffin had authority to borrow the money which the plaintiff sought to recover in this action, yet if they were satisfied by the evidence that said money was expended by Coffin in the defendant\u2019s business, or in payment of his debts, and that the defendant had the use and benefit of it, the plaintiff was entitled to recover the same upon the count for money had and received, subject to the legal deduction for any forfeiture incurred by the usury.\u201d\nThe jury found a verdict for the plaintiff, and the defendant alleged exceptions.\nL. F. Brigham, for the defendant,\ncited Story on Agency, \u00a7\u00a7 21, 195 ; Hawtayne v. Bourne, 7 M. & W. 595 ; North River Bank v. Aymar, 3 Hill, 266; 1 Amer. Leading Cases, (3d ed.) 556, note to Batty v. Carswell.\nJ. F. Dearborn, for the plaintiff."
+  },
+  "file_name": "0287-01",
+  "first_page_order": 297,
+  "last_page_order": 300
+}

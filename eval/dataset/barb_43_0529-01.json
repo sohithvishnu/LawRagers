@@ -1,0 +1,79 @@
+{
+  "id": 5123568,
+  "name": "Doty vs. Miller",
+  "name_abbreviation": "Doty v. Miller",
+  "decision_date": "1865-02-06",
+  "docket_number": "",
+  "first_page": "529",
+  "last_page": "530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "43 Barb. 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "21 Barb. 145",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2421136
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/21/0145-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 194,
+    "char_count": 2716,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 1.0317426215808612e-06,
+      "percentile": 0.9837027178032387
+    },
+    "sha256": "2ba5d402ff88b0542bbbc9bc15e82f6d9cb7957e526acbd8c03568d32e1b068d",
+    "simhash": "1:f687b6f7ed483efd",
+    "word_count": 476
+  },
+  "last_updated": "2024-02-27T18:03:57.740259+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Doty vs. Miller."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nSutherland, J.\nIt would seem to follow from the decision of this court, in Glentworth v. Luther, (21 Barb. 145,) and of the common pleas in Holly v. Gos ling, (3 E. D. Smith, 262,) that the offer to prove that Hitchcock did not complete the purchase, in consequence of there being prior incumbrances, and of a defect in the title, was improperly overruled. These cases are to the effect that a broker or agent who undertakes to sell property for another for a certain commission, if he finds a purchaser willing to purchase at the price, has earned and can recover his commission, though the sale never was completed, if the failure to complete the sale was in consequence of a defect of title, and without any fault of the broker or agent.\n[New York General Term,\nFebruary 6, 1865.\nThe evidence offered, then, in this case should have been received, for it went to show that it was\u2019 not the fault of the plaintiff\u2019s-assignor that the sale was not completed.\nThe judgment should be reversed and a new trial ordered, with costs to abide the event.\nIngraham, Clerke and Sutherland, Justices.]",
+        "type": "majority",
+        "author": "Sutherland, J."
+      }
+    ],
+    "attorneys": [
+      "Henry Wh\u00fctalcer, for the appellant.",
+      "John K. Hadcett, for the respondent,"
+    ],
+    "corrections": "",
+    "head_matter": "Doty vs. Miller.\nA broker or agent who undertakes to sell property for another for a certain commission, when he finds a purchaser willing-to purchase at the price, has earned and can recover his commission, though the sale was never completed, if the failure to complete the same was in consequence of a defect of title, and without any fault of the broker or agent.\nIQ) ICHARD SALTONSTALL, the assignor of the plainjLlb tiff, was employed by the defendant, through an agent, as broker, to negotiate the sale of a mortgage for $5,000, represented to be a \u201c1st mortgage.\u201d It was agreed that he was to receive $200, and the interest on the mortgage from 1st May to 11th June, this sum to cover his brokerage and all the expenses of searching the title, &c. The arrangement was afterwards fully ratified by the defendant himself. Saltonstall did negotiate a sale of the mortgage early in J une to a Mr. Hitchcock, who was to pay the face of it, and search the title free of expense. Hitchcock testified that he agreed to purchase the mortgage and was prepared to pay the money and complete the transaction, but did not complete it. The plaintiff offered to prove by Hitchcock that his refusal was caused by the fact that, on examining the title, he found it defective, and found prior incumbrances on the property, but the evidence was excluded and an exception taken. The court nonsuited the plaintiff, on the ground that no commission was earned if the sale was not consummated, and the plaintiff excepted and appealed from the judgment,\nHenry Wh\u00fctalcer, for the appellant.\nJohn K. Hadcett, for the respondent,"
+  },
+  "file_name": "0529-01",
+  "first_page_order": 531,
+  "last_page_order": 532
+}

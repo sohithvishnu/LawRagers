@@ -1,0 +1,173 @@
+{
+  "id": 4972058,
+  "name": "Rathbone vs. McConnell and Lane",
+  "name_abbreviation": "Rathbone v. McConnell",
+  "decision_date": "1855-09-03",
+  "docket_number": "",
+  "first_page": "311",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 Barb. 311"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Barb. 333",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2412996
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/10/0333-01"
+      ]
+    },
+    {
+      "cite": "8 Barb. 567",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936180
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/8/0567-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 380",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018779
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0380-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 563",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012977,
+        2013002
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/10/0563-02",
+        "/wend/10/0563-01"
+      ]
+    },
+    {
+      "cite": "1 John. 146",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128302
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/1/0146-01"
+      ]
+    },
+    {
+      "cite": "3 John. 450",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129911,
+        2129863
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0450-01",
+        "/johns/3/0450-02"
+      ]
+    },
+    {
+      "cite": "1 Denio, 550",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0550-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 537",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Wend. 495",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009697
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/7/0495-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 787,
+    "char_count": 21749,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 8.54931134918089e-07,
+      "percentile": 0.9766507622645181
+    },
+    "sha256": "62fb718fae6ae784cdb8be3f1042ebed6e0a02677be2c722295b8aec1cfa366e",
+    "simhash": "1:a063cc10927866b8",
+    "word_count": 3874
+  },
+  "last_updated": "2024-02-27T22:23:00.049246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rathbone vs. McConnell and Lane"
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, T. R. Strong, J.\nThe plaintiff alleges in his complaint that he \u201c for a long time past has been, and still is, the owner and in the possession\u201d.of the lands and premises ; and the defendants in their answer put the allegation in issue, by denying it generally, and also by averring that they \u201c have not any knowledge or information thereof sufficient to form a belief.\u201d In order to determine whether a \u201cclaim of title to real property arises on the pleadings\u201d thus far given, within the meaning of section 304 of the code, it is important to, consider what was' necessary to be proved on the part of the plaintiff upon the issue, in order to maintain the action. The action, under the former system of pleading, would be termed an action on the case, and the injury complained-1 of, a nuisance. The act done, by which the water-course was diverted, was done above the plaintiff\u2019s land, and the injury to the plaintiff was consequential. (Crabb\u2019s Real Prop. \u00a7 430, 433.) It was obviously not necessary for the plaintiff to prove, in regard to his right or interest, any thing further than that he was in possession of the premises at the time of the injury. In 1 Chitty's Pl. 330, (Phil. ed. of 1828,) it is stated, in regard to injuries: to real property, corporeal or incorporeal, that it is now fully settled, that in a personal action against a wrongdoer, for the recovery of damages, and not the land itself, it is sufficient to state in the declaration,\" that the plaintiff, at the time the injury was committed, was possessed of the premises. (See also Crabb\u2019s Real Prop. \u00a7 409, 410.) The precedents only allege possession. (2 Chitty\u2019s Pl. 788, 769.) And it is not necessary \"to prove more than need be alleged. It is- equally clear, I think, that proof of possession was necessary, and that without it the action could not be supported. The party in possession was the proper person to bring the action. The owner, if not in possession, could not maintain an action, except for an injury to his reversionary interest, and under a complaint presenting such a case. (Crabb\u2019s Real Prop. \u00a7 433, 443. Arch. N. P. 409, 410.) Chitty says, \u201c when a reversioner sues for an injury to land, &c., in possession of his tenant, his interest must be described accordingly.\u201d (1 Chitty\u2019s Pl. 330.) And such is the precedent of a declaration in such a. case. (2 id. 778.) It must be expressly alleged that the reversion has been prejudiced. (Id. in notes.) As the complaint in this case is framed, ? the injury to the possession is the gist of the action. The alle gation of ownership does not at all enlarge the issue to be tried. An issue upon the ownership alone, aside from the question of possession, would be immaterial. The issue formed is practically and substantially a claim of possession on one side denied on the other. Undoubtedly upon the issue made, evidenced title, in connection with the fact that the premiseswere unoccuppied if such was the case, was competent for the plaintiff, with a view to prove a constructive possession, which would have been sufficient. But such evidence would have been equally admissible if possessiou only had been alleged. Had it appeared on the trial that the premises were vacant, and the plaintiff had given evidence of title, to prove a constructive possession, the case would have been one of a, claim of title arising on the trial; but it will not be assumed upon the pleadings, in the place of an allegation of possession, that the premises were vacant, and that proof of title was necessary. It will be intended by the allegation of possession, that the plaintiff was in actual possession. A claim of possession is not a claim of title. In its most comprehensive sense, the term title embraces the possession, but not in the sense in which it is used in the provision under consideration. As there used it is nothing less than an assertion of a right of possession. (Brown v. Majors, 7 Wend. 495. Ehle v. Quackenboss, 6 Hill, 537.)\nIf under the liberal system of pleading of the code, the plaintiff might, under this complaint, recover as a reversioner for an injury to his reversionary interest, he will not, at least, looking at the pleadings alone, be regarded as making any such claim.\nIt is further alleged in the complaint, that the plaintiff was \u201c entitled to have and enjoy the benefits and advantages of the water \u201d of the stream or water-course across his land; and this allegation is denied in the answer. This right is not averred, in terms, to be an incident to the land, but upon the c\u00e1se, as stated in the complaint, it is prima facie an appurtenant to the premises. It would be supported by proof of possession alone. And if the issue is broad enough to admit evidence of a right \u2019 independent of the land, derived from an agreement or license, I think it must not be understood from the complaint alone, that such a right was intended to be averred. The plaintiff will be regarded as intending to claim the use of the water as an appurtenance. In this view the right is involved in the issue as to the possession. And no claim of title to real property arises on the pleadings relating to it, for the reason already stated, that a claim of possession is not a claim of. title.\nThe defendants, in the answer,, in addition to denying the complaint, set up as an affirmative defense, that they, with others, \u201cat the request and solicitation, and with the leave, license, permission and consent of the plaintiff, first made, given and granted, made and constructed an aqueduct to convey, and by means of which they did conduct and convey, the water\u201d to a village named, for the purpose of supplying the inhabitants with water. This defense must be deemed controverted under section 168 of the code. It was held by the learned justice at special term, that this issue raises a question of title to real property, for the reason that the defendants set up a permanent right derived by deed from the plaintiff to the water of this water-course, which right was part of the plaintiff\u2019s freehold. If this is a correct construction of the answer, the conclusion drawn from it is right; but is this a fair and just construction ? The object of the action is to recover damages sustained in consequence of an act done by the defendants above and off the plaintiff\u2019s land, by which the water of a water-course, passing over the plaintiff\u2019s land has been diverted, and the plaintiff has been deprived of the use of it. It is set up in defense that the act was done at the request and solicitation, and with the leave, license, permission and consent of the plaintiff, first made, given and granted. This permission is expressly designated by the defendants as a license; and the answer is in the ordinary form of a plea and answer of license. (3 Chitty's Pl. 1106.) The words, \u201cgiven and granted,\u201d do not enlarge the answer; it is the \u201cleave, license, permission and consent,\u201d and nothing more, that were granted. If the matter of the defense is available as a license, the defendants having named and presented it as such, that should be regarded as its scope and operation. That it is valid as a license is, I think, well settled by authority. In Pierrepont v. Barnard, in the court of appeals of this state, (2 Selden, 219,) it was held, that a parol license by the owner of land to cut and carry away standing timber, fully executed before revocation, was a complete protection for what was done under it. The principle of that case is directly in' point. The trees were as much a part of the freehold as the right to the use of the water. (Green v. Armstrong, 1 Denio, 550.) The diversion of the latter might be justified under a license, as well as the cutting of the former. Liggins v. Inge, (7 Bingham, 682; 20 Eng. Com. L. Rep. 287,) also goes directly in support of the validity of the license. It was an action on the case for wrongfully continuing the diversion of water from the plaintiff\u2019s mill, and the facts and question to be decided, as briefly stated in the opinion of Tindall, Ch. J., were these: ,\u201cIt appeared in evidence before the arbitrator, that the bank of the river which had been cut down, was the soil of the defendants; and that the same had been cut down and lowered, and the weir erected, and the water thereby diverted by them, the defendants, and at their expense, in the year 1822, under a parol license to them given for that purpose by the plaintiff's father, the then owner of the mill; and that in the year 1827 the plaintiff\u2019s father represented to the defendants that the lowering and cutting down the banks was injurious to him in the enjoyment of his mill, and had called upon them to restore the land to its former state and condition; with which requisition the -defendants had refused to comply. The question therefore is, whether such non-compliance, and the keeping of the weir in the same state after, and notwithstanding the countermand of the license, is such a wrong done on the part of the defendants as to make them liable in this action.\u201d After stating the argument on the part of the plaintiff, and some remarks in reference to it, the chief justice observes: \u201c But we think the operation and effect of the license, after it has been completely executed.by the defendants, is sufficient, without holding it to convey any interest in the -water, to relieve them from the burthen of restoring to its former state what has been done under the license, although such license is countermanded, and consequently that they are not liable as wrongdoers for persisting in such refusal.\u201d The views of the court are given by the chief justice at considerable length, and it is also held, that the license, after it was executed, was not countermandable That was much further than it is necessary to go in this case. That case is referred to with approbation in Smith v. The Birmingham and Staffordshire Gas Light Co. (1 Adol. & El. 526; 28 Eng. Com. Law. Rep. 140 ;) and in Wood v. Manley, (11 Adol. & El. 34; 39 Eng. Com. L. Rep. 19.)\nThe case of Otis v. Hall, (3 John. 450,) decides that such; a license is valid, and also that setting it up does not raise a question of title. The action was a special action on the case,' for overflowing the plaintiff\u2019s land, by means of a mill-dam erected by the defendant on his own land. On the trial the defendant proved that he had permission to erect the dam, and overflow the plaintiff\u2019s land if necessary for the use of the mill. On a motion by the plaintiff for full costs, under a statute then existing, on the ground that the title to lands came in question, the court, after stating the question, and expressing the opinion that the freehold or title did not come in question, within the purview of the statute, say: \u201c The case bears no analogy to that of Heaton v. Ferris, (1 John. 146.) Here was no claim of a right of entry into the plaintiff\u2019s land, nor of any direct use or enjoyment of it. The defendant merely sets up a right to use his own land in the manner he has done, by erecting the dam; that any consequential injury to the plaintiff w\u2019as waived by his express license for that purpose; and that it was a mere damnum absque injuria, for which the plaintiff had no right of action. The statute only applies to cases where a claim or. question to the direct use by entry on another\u2019s land comes in controversy. This and many other cases of consequential injuries as for nuisances erected on the defendant\u2019s own land, do not in any manner bring the title in question. Nor does the setting up a leave or license by the plaintiff raise a question as to the title, or give any right or interest in the plaintiff\u2019s land.\u201d If a license to flow land with water is valid, it would seem that a license justifying the alleged wrongful diversion of water from it must be, at least until revoked. The case of Chandler v. Duane, (10 Wend. 563,) was a motion for costs to the defendants, and similar to that last cited. Sutherland, J., says, \u201c the action and the ground of defense, and all the circumstances in the case, were precisely the same as in. this,\u201d and the same principle was applied. (See also Clinton v. McKenzie, 5 Strobhart, 36.)\n[Monroe General Term,\nSeptember 3, 1855.\nViewing the portion of the answer in justification of the act complained of in the complaint, as setting up a mere license, it is very plain that no question of title was raised by putting the same in issue. (Mumford v. Whitney, 15 Wend. 380.\nWickham v. Seely, 18 id. 649.)\nThe case of Powell v. Rust, (8 Barb. 567,) is entirely unlike the present. The decision in that case, that a claim of title arose on the pleadings, was placed upon the ground that Bust claimed, by virtue of an agreement with the plaintiff, the property in, and the right to enter with teams and take away certain growing trees and shrubs, which were part of the land. Here, no transfer to the defendant of a right to the use of the water is asserted, but only a permission to do an act by which the diversion of the water was effected. If the license may not be revoked, it is not because it conferred any interest in the use of the water upon the defendant, but because it operated as a yielding up and relinquishment of the water diverted. (Liggins v. Inge, above cited.)\nMumford v. Whitney, above referred to, is the case of a claim by the defendant to a permanent interest in the plaintiff\u2019s land. Davis v. Townsend, (10 Barb. 333,) contains only the same doctrine.\nFor the foregoing reasons,-1 am of opinion that no claim of title to real property arises on the pleadings in this case ; hence the decision at special term should be reversed.\nSelden, Johnson and T. R. Strong Justices.]",
+        "type": "majority",
+        "author": "By the Court, T. R. Strong, J."
+      }
+    ],
+    "attorneys": [
+      "E. Howell, for the appellants.",
+      "W. Barnes, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Rathbone vs. McConnell and Lane\nA claim of possession is not a claim of title to land.\nIn its most comprehensive sense, the term title embraces the possession, but not in the sense in which it is used in the section of the code giving costs to the plaintiff in actions for the recovery of real property, or where a claim of title to real property arises on the pleadings, or comes in question.\nAs there used it is nothing less than an assertion of a right of possession.\nIn an action to recover damages for the diversion of water from land, of which the plaintiff alleges he is the owner and in the possession, the act done being above his land and the injury consequential, it is not necessary for the plaintiff to prove, in regard to his right or interest, any thing further than that he was in possession of the premises at the time of the injury.\nThe party in possession is the proper person to bring such an action.\nThe owner, if not in possession, cannot maintain an action, except for an injury to his reversionary interest, and under a complaint presenting such a case.\nA parol license to divert water from a water course, so as to prevent it from passing over another\u2019s land, is valid.\nWhere the object of an action was to recover damages, sustained in consequence of an act done by the defendants above the plaintiff\u2019s land, by which the water of a water-course, passing over\" such land, was diverted and the plaintiff deprived of the use of it, the defendants alleged as a defense, that the act was done with the leave, license and permission of the plaintiff, it was held, that the answer was to be viewed as setting up a mere license, and that under this issue the\u2019title to the land did not come in question, so as to entitle the plaintiff to costs under the 304th section of the code.\nAPPEAL by the defendants from an order made at a special term, reversing and setting aside a decision of the clerk of Steuben county, refusing costs to the plaintiff and allowing costs to the defendants. The order appealed from further directed that the plaintiff be allowed his costs in the action, and that the same be adjusted by the clerk, on application, and inserted in the judgment in the usual manner, as provided by statute. The complaint was as follows : \u201c Isaac Rathbone, the plaintiff in this action, complains of Aaron McConnell and Ira Lane, the defendants herein, and says that he the said plaintiff, for a long time past, has been and still is the owner and in the possession of certain lands and premises, with the appurtenances, in the town of Howard, in the county of Steuben, and used by him for farming and agricultural purposes, and for the pasturing, raising and keeping of cows, cattle and horses, and was at the time of the committing of the wrongs and injuries hereinafter mentioned, entitled to have and enjoy the benefit and advantage of the water of a certain stream or water-course for the irrigating of the said lands and premises, and improvement of the soil thereof, for the supplying of his cows, cattle and horses with water, and for agricultural purposes, which, until the diversion thereof as hereinafter mentioned, had run and flowed, and still of right ought to run and flow, upon and across the said lands and premises. That the said \u25a0 defendants, on or about the first day of March, 1853, and on divers days and times between that day and the commencement of this action, in the town of Howard aforesaid, wrongfully and unjustly 'cut, dug and made, and caused to be cut, dug and made, divers sluices, trenches and channels in and out of the sides and banks of the said stream or water-course, and laid pipes or pump-logs in said stream or water-course, above the said lands and premises of the said plaintiff, and ever since has-kept and continued, or caused to be kept and continued, the said sluices, trenches and channels and the said pipes and pump-logs, and thereby during all the time aforesaid, unlawfully and wrongfully diverted and turned the water of\u2018the said stream or water-course away, from the iaid lands and premises offThe said plaintiff, and stopped and prevented and hindered the water of the said stream or watercourse from running and flowing along its usual course upon and over the said lands and premises as the same of right ought to have done, and otherwise would have done, and deprived the said plaintiff of the use, benefit and advantage of the said water for the purpose of irrigating his said lands and premises, the improvement of the soil thereof, and for the watering of his cows, horses and cattle, and for all agricultural, farming and domestic purposes, and by reason thereof the water of the said stream or water-course sufficient for the supplying the said plaintiff with water for the purposes aforesaid, during all or any part of the time aforesaid, could not nor did not flow upon and across the said lands and premises as the same of right ought to have done and otherwise would have done ; and the said plaintiff thereby, for want of sufficient water could not, during the time aforesaid, use and enjoy his said lands and premises or follow or exercise his said business of farming, and of raising, pasturing and keeping of cattle, horses and cows in so large, extensive and beneficial a manner as he might and otherwise would have done, but was thereby deprived of the full and ample use and enjoyment of his said lands, and of all the benefits, profits, gains and advantages which he otherwise might and would have made and derived from the cultivation thereof, and by carrying on his said business thereon. And the said plaintiff says that by reason of the premises aforesaid he has suffered and sustained damage to the amount of one thousand dollars, for which sum, together with costs, he demands judgment against the said defendants.\u201d\nThe defendants, by their answer, denied all the allegations in the complaint. And for a further answer to so much of the complaint as related to the plaintiff\u2019s being the owner and in the possession and occupation of the premises mentioned in the complaint, and of the use made by him of the same, and whether he was entitled to have and enjoy the benefit and advantage of the water of a certain stream or water-course for the irrigating of the said lands and premises and other purposes as was alleged in the said complaint, the defendants averred that they did not know and had not any knowledge or information thereof sufficient to form a belief. And for a further answer to the complaint the defendants denied that they, \u201con or about the first day of March, 1853, or at any other time, in the town of Howard aforesaid, unlawfully or wrongfully diverted and turned the water of the said stream or water-course away from the lands and premises of the said plaintiff, or stopped, prevented or hindered the water of the said stream or water-course from running and flowing along its usual course upon and over the said lands and premises as the same of right ought to have done. And said defendants deny, and each of them denies, that they deprived the said plaintiff of the use, benefit or advantage of the said water for the purpose of irrigating his lands and premises, or for any other improvements or purpose whatever. And for a further answer to the said complaint, these defendants say, that in the year 1853, they, with other citizens of the village of Howard in the county of Steuben, at the request and solicitation, and with the leave, license, permission and consent of the said plaintiff, first made, given and granted, made and constructed an aqueduct to convey and by means of which they did conduct and convey the water of a certain spring to the said village of Howard for the purpose of supplying the inhabitants of the said village with water, which is the unlawful and wrongful diversion and turning of the water of the said stream or w'ater-course away from the lands and premises of the said plaintiff, alleged in the said complaint.\u201d\nE. Howell, for the appellants.\nW. Barnes, for the respondent."
+  },
+  "file_name": "0311-01",
+  "first_page_order": 311,
+  "last_page_order": 320
+}

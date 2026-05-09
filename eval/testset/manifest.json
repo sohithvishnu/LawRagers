@@ -1,0 +1,11 @@
+{
+  "corpus_dir": "/Users/diekgbbtt/LawRagers/eval/dataset",
+  "corpus_size": 201,
+  "corpus_sha256": "04000671e2657e334c60a9583d1e02b5e9a549b5448e9e6305fa1765f18fe60d",
+  "queries_total": 252,
+  "queries_single_removed": 126,
+  "queries_all_removed": 126,
+  "cases_with_queries": 59,
+  "window_words": 150,
+  "max_queries_per_case": 5
+}

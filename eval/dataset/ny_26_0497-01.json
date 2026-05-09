@@ -1,0 +1,182 @@
+{
+  "id": 2033162,
+  "name": "The Exchange Bank v. Monteath et al.",
+  "name_abbreviation": "Exchange Bank v. Monteath",
+  "decision_date": "1863-03",
+  "docket_number": "",
+  "first_page": "497",
+  "last_page": "506",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 N.Y. 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Hill, 263",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Wend., 620",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Hill, 307",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wend., 572",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Hill, 262",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        2511916
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/scl/21/0262-01"
+      ]
+    },
+    {
+      "cite": "25 N. Y., 595",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2031386
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/25/0595-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y., 125",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297799
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0117-01"
+      ]
+    },
+    {
+      "cite": "24 Barb., 371",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4993952
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/24/0371-01"
+      ]
+    },
+    {
+      "cite": "17 Barb., 171",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4954656
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/17/0171-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y., 135",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wend., 529",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/1/0529-01"
+      ]
+    },
+    {
+      "cite": "2 Johns., 300",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Hill, 263",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 732,
+    "char_count": 19101,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 6.182998314628531e-07,
+      "percentile": 0.9567347362722691
+    },
+    "sha256": "216a819f3d011eeab0a15677fbdf93be81d23aac638534bc3f96653f793a1b20",
+    "simhash": "1:1ec9b606ab7cae93",
+    "word_count": 3393
+  },
+  "last_updated": "2024-02-27T22:16:51.282939+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Exchange Bank v. Monteath et al."
+    ],
+    "opinions": [
+      {
+        "text": "Davies, J.\nThere are two grounds upon which, in my opinion, the plaintiffs can recover upon these drafts, and the defendant\u2019s liability upon them is unquestionable.\n1. The drafts were made and issued by the two partners, Joy and Hoyt, in the name of the partnership, and although the proceeds of the drafts did not inure to its benefit, it must be held liable.\n2. The acts of Joy and Hoyt in making and issuing these \u25a0 drafts, must, under the circumstances, be held as binding upon the defendants, their principals, for whom they acted as agents; and as such, clearly and undeniably, they had authority to make, issue and put in circulation, such checks, drafts and bills of exchange.\nIt is to be remarked that there is no controversy that the plaintiffs are Iona fide holders of the drafts, paying full value for them on an ordinary and accustomed discount. They had previously discounted large amounts of similar paper, made by the same parties and in the same form, and which had been regularly paid at maturity. These drafts came to them in the same way without any notice or circumstance leading or warranting or suggesting the suspicion that they were not of the same character as the paper previously discounted by them. How I suppose that the principle is familiar and incontrovertiblv settled, that in a copartnership firm each of the partners is the agent of the partnership, as to all matters within the scope of the partnership business, and can bind them effectually by making, indorsing and accepting bills and notes in such business. But such partner has no more authority than a mere stranger to make them a party to paper issued in his own business or for the accommodation of another person. If, however, he gives the partnership note or acceptance for his own debts or for the accommodation of a third person, it 'is void in the hands of the payee, who is necessarily cognizant of the consideration and of all the facts connected with its inception ; but when such note or bill is negotiated to a iona fide holder, the firm is precluded from questioning the authority of the partner and is effectually bound. The cases by which this doctrine is established and illustrated, are very numerous. (Livingston v. Hartie, 2 Caines, 246; Lansing v. Irvine, 2 Johns., 300; Laverty v. Burr, 1 Wend., 529; Williams v. Walbridge, 3 id., 415; Boyd v. Plumb, 7 id., 309; Gansevoort v. Williams, 14 id., 133; Joyce v. Williams, id., 141; Wilson v. Williams, id., 146; Steel v. Catskill Bank, 18 id., 466; S. C., 15 id., 364; Farmers\u2019 Bank v. Butchers\u2019 and Drovers\u2019 Bank, 4 Kern., 627; S. C., 16 N. Y., 135.)\nBut if Joy and Monteath and Hoyt, had not been partners, it is admitted by the answer that they were the agents of the copartnership, and as such had authority to draw, indorse and accept such checks, drafts and bills of exchange, for them, the said defendants, and such only as were necessary to the carrying on of the business, and for the use and benefit of the said Albany and Canal line of tow boats. It is, therefore, conceded that the agents had the authority of. the defendants to issue drafts, notes and bills of exchange; but that such authority was limited to such drafts, notes and bills as were necessary to carry on the business of the defendants, and for their use and.benefit. These drafts being negotiable or commercial paper and the plaintiffs being bona fide holders, the same question arises as was presented in the case of the North River Bank v. Aymar (3 Hill, 263). The very learned and exhaustive opinion of Cowem, J., in that case, leaves little to be said. That case was very like the present in the aspect we are now considering it. There the notes were made by'an attorney, and the power under which he acted, authorized him to draw notes in the name of his principal \u201c to his use.\u201d The notes then in controversy were not made or indorsed in the business of the principal, nor for his use or benefit, but for the accommodation of the payees therein who obtained them from the attorney, and who procured their discount by the plaintiffs in that case.\nCowen, J.,\nthus correctly states the rule of law: That the power conferred by the letter of attorney, was limited to notes in the proper business of the testator, and that it would have been so independently of.the words \u201cto his use.\u201d That there is nothing in the nature or effect of such a power which, authorizes the attorney to use it for his own benefit, or for the benefit of any one except the principal And that if the limitation be such that an appointee would be bound to \u2022 notice the fact that the attorney overstepped it, then these plaintiffs were properly cut off by the court below from their claim upon the contested notes and indorsements. He further said, that in dealing with the agent or attorney they were not required to stop and ascertain whether the notes had been delivered out by him upon a consideration passing to his principal : that he, the principal, had put his agent in a condition which enabled him to impose upon strangers, by apparently pursuing his authority. The principal had given a discretion to speak for him both by words and actions. The neglect or falsehood of the agent, therefore, was legally imputable to the principal. The paper being issued without consideration, whether by the agent or by the principal, was indeed void as between the original parties; but there being in each case a power to issue paper valid in form, it could not be impeached in the hands of a bonas fide holder.'\nWhen this present case was before the general term of the Supreme Court (17 Barb., 171), that court very properly and correctly held, that it was controlled by the decision in the case of the North River Bank v. Aymar; that it was a case directly in point and should be regarded as an authority, decisive of the question then presented. In the opinion delivered in this court, in the case of Mechanics' Bank v. New York and New Haven Rail Road Company (3 Kern., 633), in alluding to this case of North River Bank v. Aymar, the learned judge said, the decision of the Supreme Court in that case, was reversed in the Court of Errors, but the case in that court is not reported. The learned judge added, the reversal, however, proceeded, as he learned, upon a doctrine directly opposite to that held by the Supreme Court. This statement, and the decision by this court in the Mechanics\u2019 Bank case, were held and generally regarded, as overthrowing the authority of the case of North River Bank v. Aymar, and when this present case again came before the Supreme Court at general term (24 Barb., 371), the same learned justice who had delivered the opinion of the court on the former hearing, gave the opinion then reported, and observed that when the case was before that court on the former application for a new trial, he was unable to find anything to distinguish it from the case of the North River Bank v. Aymar, and, upon re-examination, he still thought the two cases involved precisely the same question; that he thought the North River Bank case directly in point and decisive of the question. But he regarded the views expressed by this court in the Mechanics\u2019 Bank case, as establishing a contrary doctrine, and as establishing the fact that the North River Bank case had been overruled by the Court of Errors. But this court subsequently, in the case of the Farmers' and Mechanics' Bank v. Butchers' and Drovers' Bank (4 Kern., 623; S. C, 16 N. Y., 125), had occasion to review the doctrine of the case of the North River Bank v. Aymar, and it received the emphatic approval of this court. Denio, Ch. J., in his opinion, says: \u201cI am clearly of the opinion that- the case of the North River Bank v. Aymar, was correctly adjudged in the Supreme Court. If the Court of Errors laid down a different rule, in reversing that judgment, they ran counter, as I think I have shown, to a strong course of adjudication in that court and in the Supreme Court and overturned a legal position which was then well established in this State, and has since been repeatedly acted upon.\u201d Selden, J., in his opinion, says : \u201c It is true that the decision in the case of the North River Bank v. Aymar, was reversed in the Court of Errors, but the opinions pronounced in that court have never been published, and consequently the views then expressed upon the point in question are unknown. Under these circumstances, the principal reasons against the reconsideration of a question, which has been passed upon by the court of last resort, viz., that the public needs a fixed and definite rule, upon which it can rely in the transaction of business, loses most of its force. The opinion of the Supreme Court, which is published at large in the reports, is more likely to be taken as the rule, than that of the Court of Errors, to which attention is rarely directed. The question, therefore, should, I think, be considered as still open for examination; and I have little hesitation in holding that it was properly decided by the Supreme Court.\u201d The doctrine of the case of the North River Bank v. Aymar, was re-affirmed in this court, in the case of Griswold v. Haven (25 N. Y., 595), decided at the last December term, and must now be regarded as established on an impregnable basis. It is well sustained by authority,'sound reasoning and well-established principles, and it should be firmly adhered to by the courts. It receives my entire assent, and is entirely decisive of the plaintiff\u2019s right of recovery on the three drafts involved in the present action.\nThe judgment of the general term should be reversed, and a new trial ordered, with costs to abide the event.\nBalcom, J.\nThere can be no doubt that Joy\u2019s drafts, in the name of Joy & Monteath as agents of the Albany and Canal line of tow boats, for legitimate purposes in the business of the line, bound the defendants. Joy & Monteath were not mere joint agents; each had authority to do business for the line, and the signatures of both as agents, though written by one, bound the defendants. It is true that Joy testified on his direct examination, that he and Monteath were joint agents, and not partners, in transacting the business of the line; but on his cross-examination he said, he was in the habit of signing for the defendants; that the defendants got paper like the drafts in question, discounted at the Canal Bank, previously to these for years, whenever they wanted funds; that he and Monteath had been defendant\u2019s agents twelve or' thirteen years, and that there was nothing in the form of these drafts different from those they had usually drawn in the business of the company or line. These drafts, therefore, must be regarded as executed in a manner that would' bind the defendants, if they had been used in the legitimate business of the line or company.\nThere is nothing on the face of these drafts to distinguish them from those properly used by Joy & Monteath, as agents, in the business of the defendants, and being negotiable, I am unable to see why they are not valid in the plaintiff\u2019s hands, its cashier having discounted them before maturity in good faith, in the regular course of business, and the Canal Bank having received the proceeds thereof.\nThe plaintiff took the drafts before maturity and under circumstances that render it a bona fide holder thereof for value, within the decision of the Supreme Court in the North River Bank v. Aymar (3 Hill, 262); and this court held in The Farmers' and Mechanics' Bank v. The Butchers' and Drovers' Bank (16 N. Y., 125),. that that case was correctly decided by the Supreme Court, notwithstanding the fact that it had been reversed by the Court for the Correction of Errors.\nI have never doubted that the Supreme Court properly decided the case of the North River Bank v. Aymar, and I am of the opinion we should now hold that their decision was correct, for the reasons assigned by Judge Selden in The Farmers' and Mechanics' Bank v. The Butchers' and Drovers Bank (supra).\nIn this view of the law, the fraudulent purpose for which the drafts in question were made by the agents of the defendants and negotiated by the cashier of the \u25a0 Canal Bank, is not a defence to them in the hands of the plaintiff.\nThe rule which makes- the defendants liable upon the drafts is succinctly and clearly stated by Professor Parsons. (1 Parsons on Motes and Bills, ed. of 1863, p. 108.) He says \u201cIf an agent be authorized generally to execute notes in the name of and for the benefit of his principal, and he executes notes in his principal\u2019s name for the fraudulent purpose of raising money for his own use, such notes will nevertheless be binding upon the principal in the hands of a bona fide holder.\u201d\nThe defendants by employing Joy & Hoyt, and giving them authority to draw, accept and negotiate drafts in the business of the Albany and Canal line of tow boats, enabled them, in conjunction with the cashier of the Canal Bank, to make the drafts in question and negotiate them to an innocent person for value,' for a purpose outside of the business' of the line or company; and the defendants come within the rule, that when one of two innocent persons must suffer from the fraud of a third, he shall suffer who by his indiscretion has enabled such third person to commit the fraud. (13 Wend., 572; 7 Paige, 69; 1 Hill, 307; 2 id., 465; 6 Wend., 620; 23 id., 268.)\nWhen the drafts were presented to the plaintiff, its cashier was authorized therefrom to believe they were drawn by Joy & Monteath, and accepted by Hoyt as agents, upon sufficient authority, in the regular business of the defendants, and that the cashier of the Canal Bank was duly authorized to indorse them and forward the same to the plaintiff to be discounted . in the regular course of business; and upon this state of facts the defendants were bound to pay the drafts, notwithstanding the fraudulent purpose for which they were made and negotiated, because Joy & Hoyt acted within the authority conferred on them by the defendants in drawing and accepting them.\nThere is no good ground for the position taken by the defendant\u2019s counsel, that the cashier of the Canal Bank acted as the agent of the plaintiff in receiving the drafts from Joy or Hoyt, and forwarding them to the plaintiff. The opposite ground is the tenable one; and the cashier of the Canal Bank must be deemed the agent of the defendants in the transaction; for the plaintiff\u2019s cashier had the right to suppose they had authorized and requested the Canal Bank to send the drafts to the plaintiff for discount, and that the cashier of that bank did so for the benefit of the defendants.\nFor the foregoing reasons I am of the opinion the judgment in the action should be reversed and a new trial granted, costs to abide the event.\nAll the judges were for reversal\u2014Weight, J., on the ground that the question whether the plaintiff was a Iona fide holder of the draft, should have been submitted to the jury.\nJudgment reversed, and new trial ordered.\nThe doctrine of this case has lately received the sanction of the judicial committee of the Privy Council in two cases, viz., The Bank of Bengal v. Macleod, and The Same v. Fagan (7 Moore P. C. Cas., pp. 35. 61).",
+        "type": "majority",
+        "author": "Davies, J. Cowen, J., Balcom, J."
+      }
+    ],
+    "attorneys": [
+      "Francis Fellows and John H. Reynolds, for the appellant.",
+      "John K. Porter, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "The Exchange Bank v. Monteath et al.\nWhere a principal authorized an agent to draw and negotiate commercial paper for his use, and by a course of dealing in the recognition of such paper, drawn for legitimate purposes, had accredited drafts having nothing on their face to discriminate them from such as the agent had the right to issue, he is responsible to a purchaser for value and without notice, though the paper was issued fraudulently for the accommodation of a third party.\nThe doctrine of Aymar v. North River Bank (3 Hill, 263), reaffirmed for the fourth or fifth time, notwithstanding the known reversal of the judgment in that case by the late Court for the Correction of Errors\u2014the reversal remaining unreported, except by such posthumous remembrances as the present.\nAppeal from the Supreme Court. Action upon three drafts made by the defendants, Joy and Monteath, as drawers to their own order and indorsed by them as agents of the Albany and Canal line of tow boats, dated at Albany, June v 20th, 22d and 23d, 1848, drawn upon and accepted by Alfred Hoyt, agent, 16 South street, Hew York, two for $3,500 each and one for $3,000. The drafts were discounted by the plaintiff in the usual course of business, and the proceeds remitted to the Canal Bank of Albany, from whom the draft had been received. The plaintiff had previously discounted a large amount of similar paper, all of which had been paid at maturity. At the time these drafts were drawn, all the defendants, including Joy and Monteath, and Hoyt were partners, doing business under the name and style of the Albany and Canal line of tow boats, and Joy and Monteath were the agents of the firm at Albany, and Hoyt was the agent at Hew York. \u25a0 It had been the practice of the agents to raise money for the use of the partnership, by procuring the discount of paper like that in controversy in this action. It was admitted in the answer that Joy and Monteath were \u201c authorized to draw, indorse and accept such checks, drafts and bills of exchange for them, the said defendants, and such only as were necessary to the carrying on of the business and for the use and benefit of the said Albany and Canal line of tow boatsand the answer also admitted that the defendants had an agent in the said city of Mew York, the said Alfred Hoytj \u201cwho was authorized to transact and do business for said line, and was also authorized to draw, indorse and accept such checks, drafts- and bills of exchange for said defendants, and such only as were for the use, benefit and business purposes of said line.\u201d It was proved on the trial that the drafts were not drawn for the use of the Albany and Canal line of towboats, but that Joy, who was a director of the Canal Bank, which was in a failing condition,, made them at the request of the cashier of that bank for its use and accommodation, framing them, at his suggestion, at such dates and in such form as would give th'em the appearance, of ordinary paper drawn in the legitimate business of the line, and similar to paper which the Canal Bank had previously procured to be discounted, \u25a0 or re-discounted, by the plaintiff. The proceeds of the drafts were remitted by the plaintiff to the Canal Bank, and passed by that bank, in a pass book of the Albany and Canal line with it, to the credit of said Albany and Canal line. This credit would seem to have been made soon after the drafts were discounted, and on the ascertainment of the Canal Bank of the net proceeds of the discount. Upon the trial, by direction of the judge, a verdict was rendered for the defendants, and the exceptions taken having been directed in the first instance to be heard at the general term, judgment was there given for the defendants, and the plaintiff appealed to this court.\nFrancis Fellows and John H. Reynolds, for the appellant.\nJohn K. Porter, for the respondents."
+  },
+  "file_name": "0497-01",
+  "first_page_order": 505,
+  "last_page_order": 514
+}

@@ -1,0 +1,650 @@
+{
+  "id": 1111995,
+  "name": "BABCOCK v. UTTER",
+  "name_abbreviation": "Babcock v. Utter",
+  "decision_date": "1864-09",
+  "docket_number": "",
+  "first_page": "27",
+  "last_page": "62",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 27"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Barb. 354",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2413731
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "441"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/10/0354-01"
+      ]
+    },
+    {
+      "cite": "7 Barb. 91",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4885351
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/7/0091-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y. 519",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040665
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/30/0519-01"
+      ]
+    },
+    {
+      "cite": "22 How. Pr. 416",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2213697
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/22/0416-01"
+      ]
+    },
+    {
+      "cite": "5 Duer, 272",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1350794
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/12/0272-01"
+      ]
+    },
+    {
+      "cite": "38 Barb. 473",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5095950
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/38/0473-01"
+      ]
+    },
+    {
+      "cite": "15 How. Pr. 193",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2204372
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/15/0193-01"
+      ]
+    },
+    {
+      "cite": "8 Barb. 135",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/8/0135-01"
+      ]
+    },
+    {
+      "cite": "5 How. Pr. 58",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2190833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/5/0058-01"
+      ]
+    },
+    {
+      "cite": "1 Wend. 666",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Barb. Ch. 407",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1997904
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/3/0407-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. Ch. 184",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1980755
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/5/0184-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 105",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16281
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/32/0105-01"
+      ]
+    },
+    {
+      "cite": "5 Barb. 379",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/5/0379-01"
+      ]
+    },
+    {
+      "cite": "20 Barb. 311",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4972058
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/20/0311-01"
+      ]
+    },
+    {
+      "cite": "29 N. Y. 639",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 N. Y. 3",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/47/0003-01"
+      ]
+    },
+    {
+      "cite": "40 N. Y. 287",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503169
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/40/0287-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 111",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Ark. 391",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Watts, 317",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842725
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0317-01"
+      ]
+    },
+    {
+      "cite": "4 Serg. & R. 341",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Hill, 63",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Wend. 104",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2144190
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/3/0104-01"
+      ]
+    },
+    {
+      "cite": "1 Den. 550",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0550-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 387",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Barb. Ch. 221",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1995776
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb-ch/2/0221-01"
+      ]
+    },
+    {
+      "cite": "5 Barb. 550",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778073
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/5/0550-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Johns. 81",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001822
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/4/0081-01"
+      ]
+    },
+    {
+      "cite": "4 Sandf. Ch. 72",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Hill, 869",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Den. 135",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187591
+      ],
+      "pin_cites": [
+        {
+          "page": "143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/3/0135-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 109",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021190
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0109-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 523",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145745
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/5/0523-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 48",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021163
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/18/0048-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. 344",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-ch/1/0344-01"
+      ]
+    },
+    {
+      "cite": "2 Am. Lead. Cas. 514",
+      "category": "reporters:federal",
+      "reporter": "Am. Lead. Cas.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Serg. & R. 267",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        8878406
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/14/0267-01"
+      ]
+    },
+    {
+      "cite": "5 Day, 464",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "case_ids": [
+        6753666
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/day/5/0464-01"
+      ]
+    },
+    {
+      "cite": "35 Barb. 162",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5780213
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/35/0162-01"
+      ]
+    },
+    {
+      "cite": "23 Conn. 214",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        758350
+      ],
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/23/0214-01"
+      ]
+    },
+    {
+      "cite": "3 Duer, 255",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1326193
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/10/0255-01"
+      ]
+    },
+    {
+      "cite": "3 Chand. (Wis.) 117",
+      "category": "reporters:state",
+      "reporter": "Chand.",
+      "case_ids": [
+        8713145
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pin/3/0107-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. 418",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001835
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/4/0418-01"
+      ]
+    },
+    {
+      "cite": "10 Conn. 375",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753310
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/10/0375-01"
+      ]
+    },
+    {
+      "cite": "13 N. H. 264",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        467732
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/13/0264-01"
+      ]
+    },
+    {
+      "cite": "2 Gray, 302",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1998185
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/68/0302-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 380",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018779
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0380-01"
+      ]
+    },
+    {
+      "cite": "11 Metc. 251",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Mass. 533",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053400
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0478-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2017,
+    "char_count": 77419,
+    "ocr_confidence": 0.482,
+    "pagerank": {
+      "raw": 3.1379762361092254e-07,
+      "percentile": 0.8617056438425561
+    },
+    "sha256": "aa21b27ca350e334916c9539a424373e91a392c80c5b2ad2759b6600ccc2cd37",
+    "simhash": "1:e443a9333426e25d",
+    "word_count": 13738
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BABCOCK v. UTTER."
+    ],
+    "opinions": [
+      {
+        "text": "At the March term the following opinion was read in consultation:\nH. R. Selden, J.\nThe first question presented by this case is what were the rights of William Titter in this water-power, when he executed the mortgage of the eleven acres to Johnson, in August, 1831 ? It is in effect declared by the judgment, that the construction by the plaintiff of the dam and the canal in pursuance of the license of Henry Clarke and Thier Johnson, the construction of the mills on the eleven acres, and putting his machinery therein in operation by water drawn from the river by means of such dam and canal, gave to him, as against said Clarke and Johnson and persons claiming under them, a right perpetually to maintain the dam and canal and use the water as they were then maintained and used. This judgment rests upon the position that the license, after the construction of the dam, canal and mills, was irrevocable. If this position be sustained, then the parol license, by means of the expenditure made in pursuance of it, was deprived of its character as a license and became a grant in fee of the rights claimed by the plaintiff.\nIn my opinion this conclusion is in conflict with well established principles. There are many cases in which licenses, so called, and perhaps properly so called, have been regarded as grants, in consequence of their character, and of what has been done under them; but in all such cases, with the exception of a few which have been very generally condemned (Browne on Stat. of Frauds, \u00a7\u00a7 28, 29; 3 Kent Com. 453), the rights which have been established were such as might have been granted by parol. Whenever the right claimed was such as could not be created by parol, it has been denied, whatever may have been done under the license. The nature of both classes of licenses, those connected with grants capable of taking effect, by parol, and those not thus capable, is clearly pointed out by Baron Albebsos\", in his able opinion in the case of Wood v. Leadbitter, 13 Mees. & W. 838, in the course of which he states, as an illustration of the latter class, the precise case now under consideration.\nHe says (at p. 845), \u201c A mere license is revocable; but that which is called a license is often something more than a license \u2014it often comprises or is connected with a grant, and then the party who has given it cannot in general revoke it so as to defeat his grant, to which it is incident. . . . But where there is a license by parol, coupled with a parol grant, or pretended grant of something which is incapable of being granted otherwise than by deed, there the license is a mere license; it is not an incident'to a valid grant, and is therefore revocable. Thus a license by A. to hunt in his park, whether given by deed or by parol, is revocable; it merely renders the act of hunting lawful, which without the license would have been unlawful. If the license be not only to hunt, but also to take away the deer when killed, this is in truth a grant of the deer, with a license annexed to come on the land; and supposing the grant of the deer to be good, then the license would be irrevocable by the party who had given it; he would be estopped from defeating his- own grant, or act in the nature of a grant. But suppose the case of a parol license to come on my lands, and there to make a watercourse to flow on the lands of the licensee. In such a case there is no valid grant of the watercourse, and the license remains a mere license, and therefore capable of being revoked. On the other hand, if such a license were granted by deed, then the question would he on the construction of the deed, whether it amounted to a grant of the watercourse; and if it did, then the license would be irrevocable.\u201d\nThe cases of license to enter upon the land of the licensor, and to cut and remove trees, or to dig and carry away gravel, or to quarry and remove marble, and the like, are licenses of the class first mentioned, where the grant connected with the license, when executed, is valid. The license in such cases renders lawful the entry and severance of the article granted, which would otherwise be a trespass, and the grant operates as a gift of the severed article, a parol gift of which would be effectual upon delivery. But if under such a license to take marble, a perpetual right were asserted, on the ground that the license r-as irrevocable, the case would fall within the second class, and the right could not be maintained, as it could not be created or granted by parol; nor would it aid the licensee to show that he had been induced by the license, with the knowledge of the licensor, to erect expensive works on his adjoining land, for the purpose of working the marble. Browne on Stat. of Frauds, \u00a7\u00a7 27, 28.\nThe law in this State, and generally in the United States, as well as in England, is in entire accordance with the opinion of Baron Auderson\", above mentioned. The subject has been so often and so fully discussed, that a revieAV of the cases would be a useless labor. Mr. Washburn, in his Treatise on Real Property, has stated with perfect accuracy the substance of prominent cases bearing directly upon the point under discussion, and I avail myself of his summary of the cases, as sufficient for the present occasion. He says: \u201c In the cases of Cook v. Stearns, 11 Mass. 533; Cowles v. Kidder, 4 Fost. (N. II.) 364; Stevens v. Stevens, 11 Metc. 251; and Mumford v. Whitney, 15 Wend. 380, the license was to erect a dam or a part of one on the licensor\u2019s land, for raising a head of water to work a mill of the licensee, which was held to be revocable after the dam had been erected, without reimbursing the licensee for his expenses thereby incurred. In Morse v. Copeland, 2 Gray, 302; Hewlins v. Shippam, 5 Barn. & C. 221; Fentiman v. Smith, 4 East, 107; and Sampson v. Burnside, 13 N. H. 264, the license was to dig a ditch or tunnel in the licensor\u2019s land, to divert the water of a stream to or from the land of the licensee, and it was held to be revocable, though executed, without remuneration to the licensee for his expenses thereby incurred. In the cases of Prince v. Case, 10 Conn. 375; and Jackson v. Babcock, 4 Johns. 418, a license to erect a house on the licensor\u2019s land was held to be revocable after the erection of the house. In Hazleton v. Putnam, 3 Chand. (Wis.) 117, a well considered and ably reasoned case, where the owner of lands licensed the owner of a mill site situate below these to flow them for the working of his mill, it was held to be a revocable license after the licensee had erected his mill and dam.\u201d 1 Washb. on Real Prop. 400, note. To the same effect are the cases of Jamieson v. Milleman, 3 Duer, 255; Foot v. New Haven & Northampton Co., 23 Conn. 214, 223; Eggleston v. N. Y. & Harlem R. R. Co., 35 Barb. 162. The decision in the court below is in conflict with all the foregoing cases, and others which might be referred to, and I think it equally in conflict with the common law rule, that an easement can only be created by deed (or its equivalent prescription), within the statute of frauds, prohibiting the conveyance of any interest in. lands, other than short leases, without writing (2 R. S. 134, \u00a7 6), \u2014 and with the statute requiring deeds for the conveyance of freehold interests. 1 R. S. 738, \u00a7 137.\nIn my opinion, the principle upon which the decision of the court below rests, would substantially repeal the common law rule and the statutes above referred to; for there is no interest in the lands which may not be made the subject of such irrevocable license. As has been well said by Mr. Chitty, \u201c If a person could acquire a perfect right by a license, any one has only to get a person to swear to a parol license by the owner of land to build a house upon it, and thereby without any conveyance by deed, he would acquire, in effect, all the beneficial right of an owner in fee.\u201d 1 Gen. Prac. 339; Benedict v. Benedict, 5 Day, 464 ; Browne on Stat. of Frauds, \u00a7 29.\nWe have been referred to no reported cases having any tendency to sustain the decision that the license in question was irrevocable, except those of Rerick v. Kern, 14 Serg. & R. 267, and Hepburn v. McDowell, 17 Id. 383. The last of these cases contains nothing inconsistent with the rule to be deduced from the cases to which I have referred, excepting the approval by the judge who delivered the opinion, of the case of Rerick v. Kern. The latter case, treating it as one of license and not of contract, is certainly not law in this State, if it is anywhere beyond the jurisdiction in which it was decided. Jamieson v. Milleman, 3 Duer, 255, 261; 1 Washb. on Real Prop. 400, note. The note of Messrs. Hare and Wallace to the case of Rerick v. Kern, 2 Am. Lead. Cas. 514, 1st ed., so far as an attempt is -made to sustain the soundness of that decision, is not very satisfactory in its reasoning, and the learned authors seem not to have much in the way of authority to support it. The effort to sustain it appears to have deprived the note of the clearness and consistency which usually characterize the notes in that valuable work.\nThe English cases which have been supposed to give some support to the doctrine of the irrevocability of licenses under such circumstances as this case presents, were reviewed by Baron Alderson, in the opinion before referred to, and their insufficiency to sustain that doctrine was clearly demonstrated.\nThere is another class of cases which have been invoked in support of the same doctrine, viz: where the owners of lands who have encouraged others to expend money upon them, under an erroneous opinion of title, have been prohibited from afterward asserting their legal rights. Wendell v. Rensselaer, 1 Johns. Ch. 344. The basis of these cases is fraud on the part of the owner of the land; and where the person making the expenditure knows the state of the title, he makes it at his peril, and acquires no equitable rights against the owner thereby. Browne on Stat. of Frauds, \u00a7 29.\nThe doctrine of the presumption of a grant arising from twenty years\u2019 adverse possession, has been urged in support of the plaintiffs\u2019 claim; but where one enters and holds in pursuance of a license, the holding is not adverse, and no such presumption can arise out of it.\nIt follows from what has been said, that the only right which William Utter possessed at the time of the execution of his mortgage to Johnson, to so much of his water-power as depended upon the license of Henry Clarke, was the right to the use of such power so long as the heirs or assigns of Henry Clarke saw fit to allow such use, and no longer. That right was merely personal, and was not susceptible of conveyance to another party. Browne on Stat. of Frauds, \u00a7 22. Johnson, therefore, derived no title to that portion of the water-power through the mortgage of Utter. As Henry Clarke owned upon one side of the river, and Isaiah Hilliard upon the other, where the same was erected, each was the owner of one-half the stream, and consequently this deficiency of title in Johnson extended to one-half of the water-power.\nAs to the other half of the stream, Utter had a perfect title, so far as related to the right to maintain the dam for the long term specified in his lease from Hilliard, and to draw the water from the river, and through the canal for its whole length, excepting that part where it crosses the lands of Thicr Johnson, and in that respect his right (upon the principles above laid down) depended entirely upon the pleasure of Thier Johnson, or of those who may have become his successors. That right, too, derived from the license of Thier Johnson, was merely personal, and did not pass by force of the mortgage to William Johnson.\nUtter, however, had power to convey the entire right to his half of the water-power, subject to the right of Thier Johnson to revoke the license allowing the maintenance of the canal and the flow of the water through his land. .\nThe question then arises, whether, by the mortgage to Johnson, Utter conveyed all the right which he possessed in this half of the water-pdwer (which would give to the mortgagee a perfect title, with the exception of the right to maintain the canal and conduct the water across Thier Johnson\u2019s land), or only so much of his right as was comprised within the boundaries of the eleven acres described in the mortgage.\nI entertain no doubt upon this question. At the time when the mortgage was executed, the mill was in operation, its machinery being driven by water drawn from the river, by means of the dam\u2018and canal, and such right to the waterpower as the mortgagor possessed, not depending upon mere license, and therefore incapable of conveyance, passed by the mortgage to the mortgagee. Huttemeier v. Albro, 18 N. Y. 48. It is not material in this respect, that the conveyance does not contain the word \u201c appurtenances,\u201d or any equivalent expression, nor that it contains no reference to the mill. The deed is to be interpreted as though it had been executed and delivered between the parties in view of the premises, and thus interpreted, it must be held to convey the mill, as such, as fully and completely as if it had been expressly named in the grant, and with the mill, all the appurtenances, which were at the time connected with it, and which gave it its value as a mill, so far as the grantor had power to convey the same. This is expressly decided in the case of Oakley v. Stanley, 5 Wend. 523, and there is nothing in the case of Tabor v. Bradley, 18 N. Y. 109, under\" the peculiar circumstances disclosed in that case, which is inconsistent with this position.\nWilliam Johnson, therefore, by virtue of his mortgage and its foreclosure, obtained a title to one-half of the water-power, subject to the right of Thier Johnson to stop the flow of the stream across his premises at pleasure, and perhaps subject also to a forfeiture of his right to the water in case of default in payment of the rent on the lease of Hilliard. The conveyance of the mill did not operate as an assignment of the whole interest of the lessee in the demised premises, but only of his right to maintain the dam and canal, and to conduct the water across such premises. If the lands leased possessed value for any other purpose, to that extent the interest of the lessee was not affected by the mortgage to Johnson, but passed to Francis A. Utter on the assignment of the lease to him. The rent in such case would doubtless be apportioned between the assignees according to the value of their several interests. Gilb. on Rents, 153; 3 Kent Com. 470; Van Rensselaer v. Bradley, 3 Den. 135, 143.\nThis qualified title to one-half the waters of the river was vested in the plaintiffs at the time of the commencement of the action, and it constituted the extent of their title to the waterpower which they were using at the time of the interference by the defendants. What right they had as licensees or otherwise to the other half of the waters of the river, depends upon the state of the title to that half, which is next to be considered.\nIt has already been shown that the title to one-half the waters of the river, notwithstanding the license to Utter and what was done by him in pursuance of such license, remained in Henry Clarke at the time of his death, as he had the right at any time during his life to revoke the license, remove the dam and apply the waters to any use, or allow them to flow in their natural channel. This title passed by his will to his three sons, and remains in them still, so far as the case shows, unless it passed to Ethan Clarke, by virtue of the conveyance of the farm by them to him on May 7, 1831. The description. in that conveyance begins, \u201c at a stake and stones on the west hank of the Unadilla river,\u201d as a starting point in the boundary line, and runs thence by courses and distances around the farm until it comes again \u201cto the Unadilla river,\u201d and runs \u201cthence down the west bank of the Unadilla river as it winds and turns, to the place of beginning.\u201d The words \u201c to the TTnadilla river,\u201d according to the usual interpretation of such an expression in conveyances, would carry the line, to the center of the river, as the general rule is that where a line touches tbe river it goes to the center; but the words are entirely consistent with an interpretation which should stop the line at the margin or bank of the river; and whether the one or the other interpretation should be given to them must depend upon the apparent intention of the parties, to be determined by reference to the other portions of the deed. The other expressions of the deed which have reference to the river, I think show a clear intention to limit the operation of the grant to the bank of the river. The starting point is unequivocally from \u201c the bank,\u201d and not from the center of the river, and if the last line in the description is confined to the center of the river, it cannot run \u201c to the place of beginning,\u201d as the description requires; and if it starts from the center of the river, and'runs \u201cto the place of beginning,\u201d it would neither follow the center of the river nor \u201c the west bank as it winds and turns,\u201d according to the description in the deed. From the terms of the deed alone, I think it must be held to convey the farm to the west bank of the river only, leaving the title to the river and the land covered by it in the grantors. See Child v. Starr, 4 Hill, 869. This construction is strongly confirmed by the circumstances, which may properly be considered as bearing upon the interpretation of the deed, that the river was, at the execution of the deed hy the grantors, controlled and used by their father\u2019s friend, in pursuance of license granted by him ten years \"before his death, and which he had not seen fit during his lifetime, nor the grantors, his sons, after his death, to revoke.\nIt will thus be seen that the right to that part of the water which is not vested in the plaintiffs remains in the three sons, devisees, of Henry Clarke. Ethan Clarke obtained no title to it by his deed from them, and consequently conveyed none by, his devise to Francis A. Utter. The defendants, therefore,11 were entirely without right to interfere with the dam, or to^ divert the water of the river from the plaintiff\u2019s factory.\nThe only remaining question is whether the plaintiffs are entitled to recover damages for the diversion of the water. It appears that the whole stream was diverted from their factory, and as their title to half of it was complete, so long as Mr. Thier Johnson allowed it to flow across his premises, there can be no doubt of their right to recover the damages occasioned by the diversion of such half. In regard to the other half, their right, so long as the license to use it remained unrevoked,' was a perfect possessory right, sufficient to sustain an action for its diversion against strangers. The referee reported that the license had never been revoked, by which I understand that there had been no direct revocation by Henry Clarke, or his successors in interest. The death of the original licensor was itself a revocation (1 Washb. on Real Prop. 399, \u00a7 9), but it was optional with his devisees to enforce the revocation or renew or continue the license, and their acquiescence in the use of the water by the licensee and his successors, from the death of their father in 1831, until the time of the commencement of this action in 1847, without interfering with or forbidding such use, may doubtless be regarded as sufficient evidence of the confirmation of the license, by them, in favor of the successive occupants of the mills. The plaintiffs were, therefore, entitled to recover the damages which they sustained by the diversion of the water, unless a revocation of the license by the devisees of Henry Clarke prior to such diversion, can be shown. As the license was held irrevocable on the former trial, there was no object in the introduction of proof of such revocation, if it existed, as it would have been, under that ruling, wholly unavailing.\nThe judgment of the supreme court should be reversed and a new trial should be granted, as against the defendant Francis A. Utter, with costs to abide the event.\nThe defendant, Ethan Clarke, has not appealed from the judgment of the general term, of the supreme court, and that judgment as against him remains undisturbed.\nIsaiah Hilliard, who is named in the papers as a defendant, does not appear to have been served with process, or to have appeared voluntarily, and he is not therefore a party to the action. The judgment dismissing the complaint as against the defendants, William Utter and Morris W. Utter, has not been appealed from; consequently they have ceased to be parties, although their names are still continued in the papers. In all future proceedings Erancis A. Utter alone will be the only proper party defendant.\nHogeboom, J.,\ndelivered the following opinion. \u2014 This is an \u2022appeal by the defendant, Erancis A. Utter, from a judgment for the plaintiffs, entered upon the report of a referee, and affirmed by the supreme court at general term.\nThe action was brought to establish and declare the rights of the plaintiffs in and to a certain water-power, arising in, and flowing from, the Unadilla river,'in the county of Otsego, to restrain the defendants from the diversion of the water, and to recover damages for the diversion already made. The judgment appealed from was in favor of the plaintiff, in all these particulars.\nThe rights claimed by the plaintiffs and sustained by the judgment, are to maintain a dam across the west branch of the Unadilla river, and a canal or ditch leading therefrom to the hoe factory of the plaintiffs, some distance below; and to pass through such canal so much of the waters of the Unadilla river as shall be necessary to operate the plaintiffs\u2019 works in the manner and to the extent they have been hitherto enjoyed.\nThe dam was erected in 1821, across the Unadilla river, by William Utter, who did not own the lands on either side of the stream at that point \u2014 the dam on the north or west shore resting on lands of Henry Clarke, and on the south or east shore, on lands of Isaiah Hilliard. The canal passed southerly from the south side of the stream through lands of Isaiah Hilliard, then into and through those of Thier Johnson, then into and through a four acre lot of William Utter, then into an eleven acre lot of William Utter, on which last mentioned premises the factory of the plaintiffs is situated.\nThe plaintiffs claim title thereto, and to the water-power in question, through William Utter \u2014 Utter having mortgaged the eleven acre lot at an early day, and after he had erected his manufacturing works, to William Johnson, Johnson having foreclosed the mortgage, and on such foreclosure become the purchaser, and having subsequently conveyed the same to the plaintiffs.\nThe defendants claim under Henry Clarke, who died in 1831, having devised the premises on the west side of the river, on which the plaintiffs\u2019 dam abutted, to his three sons. They conveyed to Ethan Clarke; and the latter granted to Francis A. \"Utter, by an instrument under seal, the exclusive privilege of maintaining so much of the mill as was located on said Clarke\u2019s premises, and also the privilege of controlling the water by dams and dykes to the center of the stream, for fifteen rods above the dam, and below the dam to the south-eastern terminus of Clarke\u2019s land. A question is made whether the deed to Ethan Clarke carried him further east than to the west bank of the stream, instead of to the center, as the defendants claim. This question, if important, will be subsequently considered.\nThe defendants also malee claim to the land where the dam is located, and adjoining the same on the south or east side of the stream. This claim is through William Utter, who in 1824 obtained a lease of the same from Isaiah Hilliard, the then owner, for ten thousand years. In 1839, William Utter, in consideration of fifty dollars advanced by Francis A. Utter, assigned to him and to his brother, Jacob Sherrill Utter, the lease above mentioned, from Hilliard to William Utter.\nFrancis A. Utter is the principal defendant, and the other defendants are made parties to the suit as having co-operated with him in the act of tapping the dam and diverting the water, which led to the institution of the suit.\nThe defendants thus claim to have had the ownership and the rightful control of both banks of the stream at the places where the dam at its opposite extremities touched the shore, and consequently to have had the legal right to control the dam, and, if they pleased, to divert the water, inasmuch as the plaintiffs are not riparian proprietors on the stream below. They further claim that, whether their acts were lawful or unlawful, they are not answerable to the plaintiffs, whom they insist not to be either the lawful proprietors of the dam, or of the water-power, or of the right to divert and draw the water through the canal to their works.\nThe plaintiffs\u2019 claim arises in this wise: When William Utter built his dam across the fiver, in 1821, and before he constructed the same, he obtained the verbal consent and permission of Henry Clarke to abut the north or west end of the dam on his land. This license was never revoked. On the opposite side of the stream William Utter, as before stated, obtained from Hilliard, in 1824, a lease of the land for ten thousand years. He also obtained from Thier Johnson, across whose lands the canal passed after leaving those of Hilliard, a verbal consent to construct said canal across his lands. This license has never been revoked. The residue of the lands over which the canal passed \u2014 being the four acre lot and the eleven acre lot \u2014 were lands belonging to William Utter himself.\n\u201cIn 1821 or 1822, William Utter erected on the eleven acre lot a saw-mill and carding and clothing-dressing works, and placed therein machinery proper to be used in such works, and operated the same, the propelling power being the water drawn from said dam through said canal.\u201d\nSo far as appears, this use of the dam, the water, the canal, the mills and machinery, continued without objection or interruption up to 1846. In that year the plaintiff Babcock, for the benefit of all the plaintiffs, contracted to purchase the same from the then owner, Johnson, and in August, 1846, obtained from Johnson a quitclaim deed of the eleven acres. In November, 1846, he conveyed an undivided interest therein to the other plaintiffs.\n\u201c After such purchase the plaintiffs removed the buildings used by Utter for the saw-mill and clothing works,'and erected in their stead a valuable building for a hoe factory, and used the same for that purpose, propelling the machinery therein with the water from the dam erected by said Utter,as aforesaid, through said canal or ditch.\u201d\nThe said Utter and others, who occupied the eleven acres, and carried on the mills and machinery thereon, found it necessary on several occasions to repair the said dam, and for that purpose to use gravel from a pit on the lands of Henry Clarke, or those claiming under him. And before making such repairs on some of such occasions, leave to go on to said farm to get said gravel to repair the dam was asked of .said owners or occupants, and granted.\nOn some two ov three or more occasions, while William Utter was in possession, permission was ashed from Henry Clarice to go upon his land to repair the dam. The right of Utter and those claiming under him to maintain said dam and ditch, and draw water through said ditch,\u2019was never called in question by any of the owners of the lands on which said dam abutted, and over which said canal or ditch was dug, until after the contract was entered into between said Johnson and Babcock for the purchase of said eleven acres.\nThe mortgage by Utter to William Johnson, before mentioned, was given in 1831, upon the eleven acre lot on which the mills and machinery stood and \u25a0 were operated. It described the premises by metes and bounds, but without the word \u201cappurtenances,\u201d or other equivalent words. It was foreclosed in 1834 and 1835, and the premises were purchased by the mortgagee, who entered into the occupation thereof, and, as before stated, subsequently sold and conveyed the same to .Henry H. Babcock, for himself and the other plaintiffs.\nOn this state of facts, the plaintiffs claim that the construction of the dam and the ditch, the mills and the machinery, under the verbal permission of the owners on both sides of the stream, never withdrawn, and the written lease of the owner on the south side, the erection of valuable buildings and the expenditure of large sums of money for the apparent purpose of a continuing and permanent business, before the eyes and in the presence of the owners of the land on both sides of the stream, and the continued operation of these improvements for manufacturing purposes for a long series of years, without objection or interference, constitute, in equity, an irrevocable license from such owners to the continued use of the stream for the purpose named, and perpetually forbid any interference on the part of such owners with privileges thus enjoyed by their express consent and permission, and that the plaintiffs are the legitimate successors to the rights thus granted to William Utter, under the mortgage foreclosure, as incidents and appurtenances to the ownership of the eleven acres, notwithstanding the mortgage did not in terms contain any reference to to the dam, canal, water-power, or the mode of the use thereof.\nThe position of the defendants, on the-other hand, is that the right to abut the dam on the shores of the river was a right pertaining to real estate, and involved an interest in lands which could not pass or be conferred otherwise than by deed or writing; that the license was verbal and without consideration, and liable at any time to be withdrawn or revoked; that it could not ripen into a right by lapse of time, because there was no adverse possession, but one always held and enjoyed in subordination to the rights of the true owner; that whatever may have been the rights of Utter, they did not pass by the foreclosure of the mortgage to Johnson, inasmuch as the rights now in question were not mentioned or alluded to in that conveyance, nor in the proceedings to consummate title thereon; and that, therefore, whatever may be the rights of the defendants, the plaintiffs are not in a condition to institute or maintain this suit for want of the requisite interest in the subject matter involved.\nThey further contend that the purchase by the defendants of Henry Clarke\u2019s interest, in the mode appearing hy the proofs, vested in them the title of Henry Clarke to the lands on the west side of the stream to the center thereof; and the assignment by William Utter to them of the Hilliard lease vested in them the title of Hilliard during the continuance of the lease to the lands on the north side of the stream, to the center thereof.\nThese are the questions to be considered. In examining them it will be convenient to inquire: 1. What were the rights of William Utter in the premises in question prior to the foreclosure of the Johnson mortgage, and independent of the mortgage F 2. What right became vested by the mortgage and the foreclosure thereof in William Johnson, and through him in the plaintiffs F\nLet us see what has been the course of adjudication on this subject.\nThe question to be determined in this case is a difficult one, and the cases are by no means uniform, and perhaps no well defined rule can be extracted from them.-\nThe first question to be determined is, whether the permission to build the dam and abut the same upon the lands of Henry Clarke was a mere license, or an interest in lands. The distinction between the two is perhaps as accurately defined in the leading case of Mumford v. Whitney, 15 Wend. 380, as in any other. A license is an authority to enter upon the lands of another and do some act or series of acts thereon, without passing or intending to pass an estate therein. When the permission partakes of the latter character it loses the character of a mere license and then becomes an interest in lands.\nThe former may be by parol; are valid, though not in writing; are usually founded in personal confidence, and not assignable; are generally revocable, but sometimes irrevocable; confer complete protection until revoked; are always revocable when executory, and generally irrevocable when executed. The latter are required by the statute of frauds to be in writing, and are void if not so, inasmuch as they pass or confer an estate in the land, and it is against the policy of the law, as well as against the explicit directions of the statute, that they should have force and validity unless manifested in writing. See also Wolfe v. Frost, 4 Sandf. Ch. 72.\nI think it also sufficiently clear that permission to build a dam across a stream of water, and abut the same upon the lands of another, when designed not merely for temporary but permanent use with a view to collect and divert water for milling and manufacturing purposes, is, under the decisions of our courts, of a nature which passes an interest in lands, and if it is to possess the characteristics of a right instead of a mere license, must, in order to confer such right and to operate as a complete protection to the licensee or grantee, be in writing. Such was the express decision in Mumford v. Whitney, supra. See also Thompson v. Gregory, 4 Johns. 81; Jamieson v. Milleman, 3 Duer, 255; Jackson v. Babcock, 4 Johns. 418; Miller v. Auburn & Syracuse R. R. Co., 6 Hill, 61; Brown v. Woodworth, 5 Barb. 550; Pitkin v. Long Island R. R. Co., 2 Barb. Ch. 221.\nnotwithstanding the weight of adjudication in regard to the nature of such an interest and the necessity of a writing or a deed to give it complete efficacy, there are many cases which hold that the licensee who relies in good faith upon the license given, and acts upon it and makes permanent improvements, is not altogether remediless. Thus in Wood v. Lake, Sayer, 3, a parol agreement to stack coals on part of a 'close for seven years with the use of that part of the close was held good. So in Mumford v. Whitney, 15 Wend. 387, it is said that a license to enter upon land, while it remains executory, may be revoked at pleasure; but when executed, it in general can \"only be revolved by placing the other party in the same situation in which he stood before he entered upon its execution.\nIn Winter v. Brockwell, 8 East, 308, where the defendant, with the consent and approbation of the plaintiff, placed a sky-light over an open area above the plaintiff\u2019s window, by means of which light and air were prevented from entering, and the plaintiff, after it was done, gave notice to have it removed, Lord Ellbsbobough held, on the trial, that the license having been acted on, and expense incurred, it could not be recalled, without offering to pay all the expenses incurred under it. The defendant had a verdict, and a new trial was denied.\nIn Rerick v. Kern, 14 Serg. & R. 267, the defendant had given the plaintiff permission to divert a stream of water and to pass the same over defendant\u2019s land for the purpose' of propelling a mill which the plaintiff thereafter built on his own land. The court held the license irrevocable after the expense had been incurred; that a license may become an agreement on valuable consideration, for, when the grantee has made improvements, or invested capital in consequence of it, he has become a purchaser for a Valuable consideration; and that equity would decree the specific performance of such an agreement; that a right under a license was co-extensive with the object intended, and if it was designed to be permanent in character and a perpetual exclusion of the owners\u2019 rights, it was of unlimited duration.\nIn Wetmore v. White, 2 Caines\u2019 Cases in Err. 87, an executed parol contract for the damming and diversion of water to one side of the stream, the opposite shores of which were owned by different owners, was upheld and enforced as a contract for its perpetual diversion.\nIn Pierrepont v. Barnard, 6 N. Y. (2 Seld.) 297, it was held by this court that a parol license to cut and carry away standing limber, when fully executed before revocation, constitutes a complete protection to the licensee; and that, notwithstanding there was an agreement between the parties in a written contract for the sale of the lands, that the purchaser should not cut any timber without the consent or approbation of the vendor in writing.\nIt is not to be denied that, determining the case by the rules of the common law, there are a large number of apparently well-considered cases in opposition to those here referred to. They are almost all of them cited in the leading cases of Mumford v. Whitney and Pierrepont v. Barnard, supra. They are quite numerous, and many of them I think irreconcilable with the doctrine contained in most of the foregoing cases. They are so fully discussed in the two cases above cited that I deem it unnecessary to repeat them here, otherwise than by reference to their titles. See Cook v. Stearns, 11 Mass. 533; Green v. Armstrong, 1 Den. 550; Moore v. Wait, 3 Wend. 104; Fentinam v. Smith, 4 East, 108; Hewlins v. Shippam, 5 Barn. & Cress. 210; Bryan v. Whistler, 8 Id. 288; Thomson v. Gregory, 4 Johns. 81; Jackson v. Buel, 9 Id., 298.\nIn this apparently irreconcilable conflict of authority in the courts of the common law, it is proper to consider whether a more liberal rule prevails in equity. We are determining this case in a court and in an action of the latter description, and it is fit that we should examine the course of adjudication in tribunals of that description, and see if there be anything there to relax the unbending rigor of the common law.\nIn Miller v. The Auburn & Syracuse R. R. Co., 6 Hill, 63, already quoted, Justice Co west observes: \"How far the cases mentioned may accord with the rule of equity which sometimes enforces parol conveyances made on valuable consideration and executed by possession, it is not necessary to inquire.\u201d\nIn Pierrepont v. Barnard, 6 N. Y. (2 Seld.) 304, Justice Gridley observes: \u201c But it will be asked, is there no remedy for a party who has proceeded under a parol license and expended his money and labor on the timber in manufacturing it into lumber? I answer, there is no remedy at law, any more than there is in a case where a man purchases a hundred acres of land by contract, and expends a thousand dollars in improvements upon it, and is sued in ejectment by the owner of the legal estate. In loth cases he may file his lili in chancery for relief when that court will see equal and exact justice done to loth parties. At law there is no remedy, and the defendant, before he can have any relief, must seek it at the door of another tribunal.\nIn Rerick v. Kern, 14 Serg. & R. 267, before quoted, Justice Gibson remarks, in a cass very analogous to the present, that equity would decree the specific performance of such an agreement.\nThe leading cases in equity are collected and freely extracted from in Angell on Watercourses, \u00a7\u00a7 318-335 inclusive. I will only briefly refer to a few of them. The author says the decisions of the courts of equity proceed on the principle, not that the right passes by parol license or agreement, but that wherever one party has executed it by payment of money, taking possession and making valuable improvements, the conscience of the other is bound to carry it into execution, and equity will compel him to do it. Referring to Le Fevre v. Le Fevre, 4 Serg. & R. 341; McKillip v. Cheany, 4 Watts, 317.\nSo when one stood by and saw his watercourse diverted, but, instead of preventing it, encouraged the work while it was going on, and afterward brought his action at law, he was restrained' by injunction. 2 Eq. Cas. Abr. 533. So in the case of long possession of a watercourse by the plaintiff, the defendant having cut a channel on his own land and set up a sluice so as to- divert the stream, a decree was made for the plaintiff. White Church v. Hide, 3 Ark. 391.\nLord Chancellor Cottenham in Williams v. Earl of Jersey, 1 Craig & Phil. Ch. 97, says, a party may so encourage that which he afterward complains of as a nuisance, as to prevent him from complaining of it, and be prevented from doing so by an injunction, and that it was the duty of a party, seeing a nuisance in course of erection, to give notice of his intention to object.\nThe case of Wetmore v. White, 2 Caines\u2019 Cases in Error, 87, has been before referred to. The judgment was unanimous, and the court held that a parol agreement, in part performed, was not within the statute of frauds. In Hulme v. Sheeve, 3 Green (N. J.) Ch. 16, the use of water-gates by the defendant for four years, with the assent of the complainants, was held to give the right to continue them, so long as confined to their original purpose.\nThe case of Rerick v. Kern, 14 Serg. & R. 267, before referred to, is a signal instance of the rule which a court of equity enforces in cases similar to that under consideration. The court, among other things, says: \u201c A right under a license, when not specially restricted, is commensurate with the thing of which the license is an accessory. Permission to use water for a mill, or anything else that was viewed by the parties as a permanent erection, will be of unlimited duration, and survive the erection itself, if it should be destroyed or fall into a state of dilapidation, in which case the parties might perhaps be thought to be remitted to their former rights. But having had in view an unlimited enjoyment of the privilege, the grantee has purchased, by the expenditure of money, a right, indefinite in point of duration, which cannot be forfeited by non-user, unless for a period sufficient to raise the presumption of a release.\u201d\nThese views appear to me to be sound, and, if supported by the facts of this case, to have a direct and decisive bearing upon the present controversj'. They seem to establish the following propositions:\nFirst. The permission to erect a dam across the Unadilla river, and to abut the same upon the land of the riparian owner, whether it be regarded as a mere license or as conferring an interest in land, may become, under certain circumstances, irrevocable, and ripen into a right, notwithstanding such permission may be by parol. But for what seems to be the weight of authority at the common law, I should have had some doubt whether such permission was not rather a license than an casement \u2014 a privilege to employ the land for a particular purpose, rather than an interest in the land itself \u2014 revocable, perhaps, in its nature, while executory. And perhaps so, after it was executed, if obviously intended as merely gratuitous and temporary in its operation; but not revocable after it was executed, if originally contemplated to be perpetual, or so reasonably expected to be by the licensee, and if it was followed by substantial erections and permanent improvement, made with the knowledge of the owner of the land and without objection by him, and therefore with his acquicsence and consent.\nSecond. The same considerations are in substance applicable if the permission amount to an easement or interest in land instead of a mere license to do certain acts upon it. Though such an interest cannot be conferred by parol, and a defense resting upon it may possibly be unavailable at law, yet in equity, if the grant was designed to be unlimited in point of time, permanent in point of interest, to invite large outlays of money and of labor, and such were actually made in good faith, in honest reliance upon the perpetuity of the grant, and with, the acquiescence and consent of the owner of the land, he is in equity estopped from violating the rights thus conferred, and it would be a fraud for him to attempt to do so.\nThird. The right of the plaintiff to relief depends upon the establishment of these facts. If the license was designed to be of temporary duration it has probably long since expired. If it was intended to be restricted to the saw-mill and clothing works originally erected, and to business of that description, it cannot be enlarged so as to embrace manufactures of an entirely different and essentially permanent character, and the right of the plaintiff in any event to a perpetual injunction depends upon the structures and improvements being permanently devoted to the purposes for which the grant was originally made. When they cease to be thus appropriated, the right ceases, and the privileges revert to the grantor or his successors in the title. -\nThe act of constructing the dam was, when done, justifiable. It was done with the permission of the owners of the land, and was, so far, an executed license. It was done for a manifest purpose, to wit: to procure a head of water and to divert such water from the bed of the stream. It was followed in the same year by the construction of a canal over lands held by three different owners, with the obvious inten fc to appropriate the water-power to milling or manufacturing purposes at the terminus of the canal. It was followed, in the same or the next subsequent year, by the construction of the saw-mill and. carding and cloth-dressing works, to the operation of which Utter and his successors for twenty-five years devoted the property. The owners on both sides of the stream saw these buildings in the course of construction and these expenditures being made. They must necessarily have been of considerable magnitude. The question is, what effect they had upon the rights of the owners of the land. Could the license be revoked, if they saw these' expenditures going on, perceived the improvements to be of a permanent character, and could reasonably have anticipated these results at the outset ? I am of opinion they could not. It would be in effect giving countenance to fraud. They were bound to object in season, if they had reason to anticipate these results. They had no right to stand silently by and witness large expenditures for permanent improvements, without interposing any objection. If the permission was gratuitous it ought to have bean withheld. The making of the expenditures constituted in effect a consideration. It involved the payment of money by the grantor of the plaintiffs, and resulted in harm to him whether it was or was not a benefit to Clarke.\nThe effect of the acquiescence of the adjoining owners as an estoppel or as imparting irrevocability to the license, depends, it is true, in part upon the lapse of time, in part upon the amount of expenditures made, and in part upon the permanency of the improvements actually made or reasonably anticipated. Ho doubt the license could have been revoked, before it was executed. Whether it could be, and to what extent, afterward, must depend, I think, upon circumstances. Did the adjoining owners know that a dam was to be erected in its material and mode of construction solid and permanent ? Did they see the ditch in course of construction well excavated and continued over adjoining lands to an eligible location for milling or manufacturing works? Did they observe these works in process of construction, and have reason to infer from their material, their extent, their mode of construction, their location, that they were designed to be permanent ? I think we may answer all these questions in the affirmative. If not directly found by the referee, they are reasonably inferable from his report. The contrary of them certainly is not found, and we may make any reasonable intendment in support of the judgment.\nThese improvements were thus perfected within one year, or at most within two years, after the license was'first given. The licensors had reason to anticipate from the first, from the very nature of the license sought, the permanency of the contemplated structures and improvements. If they had not, then they had abundant opportunity within that period plainly and promptly to make their protest against their further prosecution1. I think they were bound to do so. It was- a fraud not to do so, if they designed any subsequent revocation of the license. If they were silent when they ought to speak, they cannot now be heard when they ought to be silent. Whatever may be the rule at law, I think in such cases equity is competent to administer, and is in the constant practice of administering, proper relief.\nThese considerations derive additional force from the lapse of time. The licensor not only held his peace while these structures were in course of erection, but he never opened his mouth in his lifetime to object to William Utter\u2019s proceedings. Clarke died in 1831; he was the friend and connection of Utter; he devised his property to his sons; they made no objection. In the same year, they conveyed to Ethan Clarke; he made no objection, at least till 1846, after the plaintiffs had contracted to purchase of Johnson, and then he only objected by granting to the defendant, Francis A. Utter, the exclusive privilege of maintaining the dam, and controlling the water to the west of the center of the stream. There was no notice to the plaintiffs, and no express prohibition to them to continue in the exercise of the privileges theretofore enjoyed. The grant was no' consent to the destruction or injury of the dam, but a provision for its maintenance and for the use of the water by the defendants. It was in effect a subsequent license to the defendants, inconsistent it may be, to some extent, with that conferred on the plaintiffs, but still subsequent in point of time. Was it intended thereby to destroy the plaintiffs\u2019 right? Was it designed to confer on Utter the right to destroy or mutilate the dam ?\nAssume that the object was to revoke the license, and confer the privileges on the defendant, Utter. I am of opinion that Ethan Clarke was not in a situation to do so; that the character of the license given, and the rights intended to be enjoyed under it, the exercise of those rights in accordance with the license given, without objection or interruption, the valuable character of the structures erected, the magnitude of the expenditures incurred, the permanency of the improvements made, the acquiescence of all the parties, constitute in equity a bar to the subversion of the plaintiffs\u2019 privileges, and the destruction of their property.\nSuch was the state of things before the foreclosure of the Johnson mortgage. As the plaintiffs claim under that foreclosure,it remains to be considered whether its effect was to secure a transmission of the rights of William Utter to Johnson, and to the plaintiffs as his grantees.\nThe defendants insist, as I understand them: firstly, that in the mortgage, the premises are described only by metes and bounds, without any fit words to pass the appurtenances, and therefore the foreclosure of that mortgage and the purchase by the mortgagee did not pass the title to the dam and water privileges, first, because there are no apt words of description under which they would be conveyed; second, because they are not properly appurtenances to the eleven acre lot: and, secondly, that by reason of the union of title, and of possession of the eleven acre lot, and the four acre lot in the same person, to wit, William Utter, the easement or right of passage across the four acre lot lost its character of an appurtenance, \u2014 inasmuch as it never exists as a distinct right or interest over a man\u2019s own property, \u2014 and became merged or united with his general ownership over the whole property; and thirdly, that even if the right vested in Johnson by his purchase at the mortgage sale, it did not pass to the plaintiffs under the quitclaim deed from Johnson to them, or to Babcock, which both-failed to describe the premises so as to pass this easement, and were not intended to pass it in point of fact.\n1. The general rule is unquestionable, that whatever is necessary to the enjoyment of a grant, or in \u00f3ommon use with the subject of a grant, passes with it to the purchaser as an incident or part of the same, without express words. Whether a right of way or other easement is embraced in a deed is always a question of construction of the deed, having reference to its terms and the practical incidents belonging to the grantor of the land at the time of the conveyance. Huttemeier v. Albro, 18 N. Y. 48; Tabor v. Bradley, 18 Id. 109; 21 Id. 505; Oakley v. Stanley, 5 Wend. 523.\nThe case of Tabor v. Bradley, 18 N. Y. 109, is suppposed by the defendants to lay down a different doctrine, but I think otherwise. That case stands on its peculiar circumstances, and if well decided (which I will not discuss, and do not deem it necessary to dispute), should not be regarded as authority beyond the range of the facts therein mentioned. It was held in that case, that the premises conveyed by metes and bounds did not pass a mill-dam and water-privilege alleged to exist thereon, but it is distinguished in three particulars (one of which is mentioned by Judge Peatt, and two by Judge De\u00edtio) from most cases of this description. First, it contained no evidence that the grantors knew or supposed there existed any such rights or privileges on the premises. Second, the mill-dam and water-privilege, according to the fair inference from the evidence, were not in existence on the premises at the time of the conveyance, or at least it is doubtful whether they were. Third, the presumption of knowledge in the grantor of the nature, incidents and privileges of this description existing on the premises, arising in ordinary cases, was held not to apply in the particular case, which was the grant of wild lands by a company which was the owner of immense tracts of that description.\nThis does not interfere, I think, with the general doctrine that the grant of land ordinarily conveys not only the land itself but all that is upon it or attached to it, and all which has been connected or enjoyed with it as an incident or appurtenance to its ordinary use. Hence the conveyance of land would pass a mill and mill-pond and canal upon the same; and the lattter would pass the flowage of water and water-privileges enjoyed and used with it and often giving to it its chief value. 4 Kent Com. 467; Oakley v. Stanley, 5 Wend. 523; Burr v. Mills, 21 Id. 290; Le Roy v Platt, 4 Paige, 77.\n2. I do not think that the fact that William Utter owned simultaneously the four acre and the eleven acre lots which adjoined each other, extinguished the easement or right of water passage analogous to a right of way across these lands, so that when the ownership of the two lots became separated, and one, that of the four acre lot, remained in Utter, and the other, that of the eleven acre lot, passed on the foreclosure of the mortgage to Johnson, that Johnson necessarily lost the right of way or of water passage across the four acre lot.\nI admit the general rule that a man cannot ordinarily have an easement or right of way over his own lands (Huttemeier v. Albro, 18 N. Y. 111; Angell on Watercourses, \u00a7\u00a7 191-195), because, having the whole estate in the lands, such right of way, as a special and independent right, is unnecessary to be maintained, he having a perfect right of way over every part of his own premises. But each case must be judged by its own peculiar circumstances, and if it be quite obvious that the right of way for carriage by land or passage of water was intended to be preserved as a distinct and independent interest, if such be obviously necessary and indispensable for the full enjoyment of the lands conveyed, in the most lucrative manner, if such easement has been practically preserved and enjoyed for a long series of years in the same person, notwithstanding the unity of title and of possession, then we are, I think, entitled to regard and treat it as an appurtenance or mode of enjoyment which is designed to be perpetual as long as the necessity for it continues.\nMoreover, if we conclude that the conveyance of the eleven acre lot to Johnson passed to him the mill and the factory thereon, and the ditch or the canal feeding the same, so far as they were actually located on the eleven acre lot, by the mere force of the ordinary words of conveyance therein, then I think, under the cases already cited, the right to flow water in the canal across the four acre lot passed to Johnson as a natural incident or appurtenance to the useful and long continued enjoyment of the premises embraced in the eleven acre lot. They were strictly rightful and essential incidents to the accustomed use of that property, and are to be maintained, not as conveying any land outside of the boundaries in the deed, but collateral rights and privileges over the land of another, necessary to the profitable enjoyment of the first, confirmed and matured by long usage, and therefore properly concluded to have been within the intention of the parties to pass by a conveyance thereof.\n3. The same course of reasoning which has been heretofore employed to justify the conclusion, in a certain aspect of the facts of the case, that Johnson succeeded to all the rights of William Utter, will also, in the same aspect of the facts, justify the conclusion that Henry H. Babcock and the plaintiffs succeeded to the rights of Johnson.\nThe grounds upon which the defendants\u2019 counsel argue otherwise, rest mainly on incidents founded on the facts of the case, as that Babcock purchased by quitclaim deed; that he paid not more than half the value of the premises for milling and manufacturing purposes; that Johnson declined to give any guaranty of the water-rights and privileges; that Babcock had reason to believe the right would be denied and controverted by the Utters, and, therefore, was a bold speculator or prowling assignee.\nAll these are questions of fact properly addressed to the referee and the court below, but not to us, except in a limited point of view, as having some bearing on the construction to be given to the instruments. The referee has decided against them, and must be assumed to have found the intentions of the parties to have corresponded with the theory which the plaintiffs put forth, and we must address ourselves to the task of giving a construction to these instruments, assuming these inferences of the referee to .be correct.\nThe case then appears to occupy this position :\nThe mortgage described the premises by metes and bounds, but made no allusion to mills, canal or water-power, on its face. There can be no doubt that it would carry with it the mills and such part of the canal as were within its boundaries, together with the water-power and privileges which properly pertain to the mills and that part of the canal. This would embrace the flow of so much water as was accustomed to flow and to be used on the premises conveyed.\nIt follows that the source of supply could not be lawfully interfered with, for that would interupt and curtail the usual quantity. Hence, as the water was not and could not be derived from any other source, the mortgagee and purchaser was entitled, as a part of his purchase, to be protected in the rights and privileges theretofore enjoyed, and, among them, in the full enjoyment of the means essential to procure the supply of water needed for the operation of the mills. This right was, I think, as absolute as if the water which flows through this artificial canal had come between the banks of a natural stream. In the latter case it will not be pretended that the riparian proprietor above could divert the water, or interfere with its accustomed flow to the mills below. This course of reasoning tends to show that there was no right to divert the water. Perhaps it is unnecessary to inquire whether this also passed the right to the property in the dam or the right of reparation thereof, although I think it did as an appurtenant or incident to the principal thing conveyed, and as one means, and the chief means, for procuring the quantity of water which could not otherwise be supplied.\nIf I am correct in these propositions, then the effect of the foreclosure was to transmit to Johnson, and through him to the plaintiffs, not only the land embraced within the boundaries of the deed and all the structures and improvements upon it, but all the rights and privileges incident and appurtenant to it. If so, then none of them remained in \"William Utter, and none of them passed by the attempted assignment of the Hilliard lease by William Utter, to his sons, Francis A. Utter and Jacob S. Utter, in March, 1839.\nHence, the plaintiffs have a perfect title, and the defendants\u2019 acts were without authority of law, and a direct invasion of the plaintiffs\u2019 rights.\nI think the judgment should be affirmed, with costs.\nThe Court reserved the case for further consideration until the September term; when the following opinion was delivered, and adopted by the court.\nT. A. Johnson, J.\nIt is agreed, upon all hands, that the right in question in this case is an interest in real estate, which in law cannot be created or transferred from one party to another without some instrument in writing. Whether it can he done hy a court of equity, against the positive provisions of the statute, is the question to be determined.\nIt is also agreed that the right claimed by the plaintiffs, as against the defendants, on the north or west side of the river, was derived solely from a mere parol license, given hy Henry Clarice in 1821, without consideration, to William Htter, to build and abut a dam, upon the lands of the former, and across that portion of the stream included within his boundaries. The dam was built under this parol license, and has been ever since maintained for the purpose of supplying with waterpower the mills and machinery erected by said Utter and his assigns, according to the original intention and design of both the licensor and licensee, until the commission of the acts complained of in this action.\nThe plaintiffs\u2019 position is that, although no property or interest ever actually passed by the license from the licensor to the licensee, yet by the execution of the license by the licensee the rights of the licensor became so fixed and hound that neither he nor his heirs or assigns can now revoke such license, and thus deprive the licensee or his assigns of the advantages and privileges accruing by means of the license thus executed. This position, if sound, must have its foundation in the principle of equitable estoppel, operating hy way of impediment upon the licensor and those deriving title from him. There is no other principle in our law, as I conceive, which can lend any countenance to such a proposition.\nDoes the doctrine of equitable estoppel apply to a case like this F I am constrained to say, after a careful examination of the facts and the authorities, that, in my opinion, it does not, and that the preponderance of authority of this country is most decidedly the other way. I shall not attempt to go over the cases, hut content myself with observing that the principal authority in this country for the application of the doctrine to the case of a mere verbal license is that of Rerick v. Kern, 14 Serg. & R. 267, which Duer, J., in Jamieson v. Millemann, 3 Duer, 255, declared not to be law in this State, or in this country, outside of Pennsylvania.\nA mere verbal license to do an act or a series of acts upon the land of the licensor, necessarily excludes all idea of a right to do the act or acts hy virtue of a contract, or promise, which equity might enforce specifically. It also excludes all idea of fraud or concealment on the part of the licensor, in respect to his title, and of ignorance or mistake as to such title on tho part of the licensee. It presents the case simply of two parties acting voluntarily with their eyes open, each understanding fully and perfectly the situation of the other, and where the licensee does the act he is permitted hy the license to do, and makes the expenditure necessary thereto, with perfect knowledge and consciousness on his part that he has acquired no interest in the lands of the licensor which the law can recognize or protect, and never expecting to acquire any other interest than that conferred hy the license. What is there in such a case for equity to act upon ? Manifestly nothing. While equity will regard that as done which the parties agreed to do, and compel the specific performance of agreements between parties according to the original understanding and intention, and will interpose to protect an innocent party against mistakes in matters of fact, and the fraudulent acts or concealments of the other party, it can never lend its aid to confer upon one, as against another, rights or interests which were never within the contemplation of either, even by way of impediment. It never aids in the subversion of legal rights, but always assists in their security and perservation, by appropriate remedies, and in furtherance of more perfect justice. To grant the relief here prayed for, would effectually subvert the legal right, or, which is the same thing in effect, forever prevent the exercise of those rights, which unavoidably pertain to one seized of the undisputed legal title, and with which he has never consented to part. To imply such consent, from a mere license to occupy, would be to confound a license with a contract or deed, which have no resemblance to it whatever. It was never any part of the office or jurisdiction of equity to shield or rescue men from the legitimate consequences of their own free and voluntary acts of imprudence or folly. To give, by decree, to one, the title or the right to the perpetual use and occupancy of the land of another, simply because he had been imprudent enough to build or expend money upon it with the mere naked consent of such other, without any stipulation whatever as to such title or right, would be as repugnant to the principles of equity as to the rules of law. If, therefore, Ethan Clarke\u2019s deed extended to the thread or center of the Unadilla river, it gave him all the right and title which Henry Clarke had in his lifetime, and this action cannot be maintained, as the rights of Francis A. Utter are superior to those of the plaintiffs.\nUpon this question, however, I agree with Selden, J., that the deed of Ethan Clarke confines him to the bank of the stream, and conveys no right to the water; consequently there must he a new trial.\nA majority of the judges concurred in this opinion.\nJudgment \u25a0 reversed, and new trial ordered,- costs to abide event.",
+        "type": "majority",
+        "author": "H. R. Selden, J. Hogeboom, J., T. A. Johnson, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "BABCOCK v. UTTER.\nSeptember, 1864.\nA mortgage, though without the word \u201c appurtenances \u201d or its equivalent, covering land on which there is a mill worked by water-power, brought by a watercourse over adjoining lands, passes the mortgagor\u2019s right in the mill and water-power.\nA deed described the premises conveyed as bounded by a line beginning at a point \u201c on the bank \u201d of a stream, thence going by courses and distances around the tract \u201c to the said stream and down the stream as it winds and turns, to the place of beginning.\u201d \u2014 Held, that the words \u201c to the said stream\u201d must be construed to mean to the bank of the stream and not to the center.\nA parol license to do an act on the land of the licensor, given without a consideration, may be revoked at any time, even though the licensee, acting under the license, and with the knowledge and acquiescence of the licensor, has made valuable and expensive erections on the land, which would be useless to him in case the license were revoked.\nThis is not a case for the application of the doctrine of equitable estoppel.\nA possession of lands acquired and held under a parol license, is not adverse to that of the licensor; and an uninterrupted use for twenty years of the rights granted by the license, will not prevent the licensor from revoking the license.\nHenry H. Babcock and others brought this action against Francis A. Utter and others in the supreme court, to establish and declare the rights of the plaintiffs to a water-power, arising in and flowing from the Unadilla river in the county of Otsego; to restrain the defendants from diverting the water; and to recover damages for a diversion already made.\nThe rights claimed by the plaintiffs were to maintain a certain dam across the west branch of the Unadilla river, and a canal or ditch leading therefrom to the factory of the plaintiffs.\nThe facts found by the referee, which are material to the conclusions of the court, may be concisely stated as follows:\nThe dam was erected in 1831, by William Utter (under whom the plaintiffs claimed), who did not own the lands on either side of the stream at that point. On the north shore the dam rested on the lands of Henry Clarke, and on the south shore on the lands of Isaiah Hilliard. The canal which led the water to the factory, passed southerly from the south side of the stream through lands of Isaiah Hilliard, then into and through those of Thier Johnson, then into and through a four acre lot of William Utter, and then into an eleven acre lot of William Utter, on which last mentioned premises the factory of the plaintiffs was situated.\nBefore constructing the dam or canal William Utter obtained from Henry Clarke, the owner of the land on the north side of the stream, verbal permission to abut the north end of the dam on his land. This license was never revoked. From Isaiah Hilliard, owner of the land on the south side of the stream where the canal abutted and through which a part of the canal was constructed, he obtained, in 1834, a lease with right of flowage, &c., for ten thousand years, at a yearly rent of seven dollars. He also obtained from Thier Johnson, across whose land the canal passed after leaving those of Hilliard, a verbal consent to construct said canal across his lands. This license was never revoked.\nIn 1831-33, William Utter erected on the eleven acre lot a saw-mill and other works, which he operated by means of the water drawn from the dam through the canal-, and this use ot the dam, canal,- water, mills and machinery was continued without interruption up to 1S40, a period of twenty-five years.\nThe diagram below shows the relative situation of the lands through which plaintiff\u2019s canal ran, as well as the position of the dam and factory, and the canal dug by defendants, by means of which the alleged illegal diversion of the water was caused.\nIn 1831, William Utter made a mortgage to one William Johnson of the eleven acre lot on which the mills stood. The mortgage described simply the lot by metes and bounds, but without mentioning the .buildings or canal, and without the usual words \u201c appurtenances,\u201d &c. It was foreclosed about 1834, and under the foreclosure the premises were purchased by Johnson, the mortgagee, who entered into and retained occupation thereof till 1846, when he conveyed to the plaintiffs, Babcock and others, who removed the buildings erected by Utter and used by him and his grantees, and erected a hoe factory, using therefor the water-power from the dam and canal made by Utter.\nThe act complained of by the plaintiffs, and for which they now sought to recover damages, as well as to obtain an injunction to prevent their rights from being further injured, was the defendants\u2019 having dug a ditch tapping the stream above the plaintiffs\u2019 dam and discharging into the stream again below the dam, thus drawing off the water from above the dam, and preventing it from going to the plaintiffs\u2019 factory.\nFrancis A. Utter was the principal defendant, and the other defendants were made parties as having cooperated with him in the act of tapping the dam and diverting the water.\nThe defendants claimed under Henry Clarke, who died in 1831, having devised the premises on the north side of the stream, on which the plaintiff\u2019s land abutted, to his three sons. They conveyed to Ethan Clarke, by a deed describing the premises as follows:\n\u201c Beginning at a stake and stones, on the west bank of the Unadilla river,\u201d thence going by courses and distances around the tract \u201c to the Unadilla river; thence down the west bank of the Unadilla river as it winds and turns to the place of beginning.\u201d\nEthan Clarke, supposing that by this deed he became owner to the center of the stream, granted to Francis A. Utter, by an instrument under seal, the exclusive privilege of maintaining so much of the mill dam as stood on his premises, and of controlling the water by dams and dykes, to the center of the stream, for fifteen rods above the dam, and below the dam down to the south-east corner of Clarke\u2019s Island.\nThe defendants also made claim to the land where the dam stood, and adjoining.the same, on the south or east side of the stream, under an assignment from William Utter, in 1839 (made after he had made the mortgage to Johnson), of the lease from Isaiah Hilliard, this lease having come into the possession of Francis A. Utter. They also claimed the right to stop the flow of water through the plaintiffs\u2019 canal, since Francis Utter was owner of the four acre lot lying to the north of the factory which had formerly, and at the time of the mortgage of the eleven acre lot to Johnson, been the property of William Utter.\nThe defendants thus claimed the ownership of both banks of the stream at the places where the dam at its opposite extremities touched the shore, and consequently the legal right to control the dam, and if they pleased to divert the water, inasmuch as the plaintiffs were not riparian proprietors on the stream below. They further claimed that whether their acts were lawful or unlawful, they were not answerable to the plaintiffs, whom they insisted to be neither the lawful proprietors of the dam, nor of the water-power, nor of the right to divert and draw the water through the canal to their works.\nThe referee to whom the case was submitted, reported in favor of the plaintiff) holding that an executed license was irrevocable; that the right of William Utter to the dam, canal, &c., passed to Johnson by the mortgage and the foreclosure and sale thereunder; that William Utter and those claiming under him were estopped from claiming any right under the Hilliard lease or by virtue of the ownership of the four acre piece, lying northerly of the mill premises; that the defendant Francis A. Utter acquired no right to divert the water by the grant from Ethan Clarke, as Clarke had no title to the water; that the plaintiffs were entitled to damages against the defendant Francis A. Utter; and that the complaint should be dismissed as against the defendants William and Morris U. Utter.\nThe supreme court, at general term, adopted all the foregoing conclusions of law of the referee, and also held that, by the uninterrupted use for twenty-five years, the grant of a right to maintain a dam might be presumed. They accordingly affirmed the judgment.\nFrom that decision the defendants appealed to this court.\nFollowed on this point, in Potter v. Cromwell, 40 N. Y. 287. See also French v. Carhart, N. Y. (1 Comst.) 96 ; Simmons v. Cloonan, 47 N. Y. 3.\nBeside the authorities cited in the case above on this question, compare Selden v. Delaware, &c. Canal Co., 29 N. Y. 639; Pratt v. Ogden, 34 Id. 20; Rathbone v. McConnell, 21 Id. 466; affirming 20 Barb. 311; Houghtaling v. Houghtaling, 5 Barb. 379; Doolittle v. Eddy, 7 Id. 74; Dubois v. Kelly, 10 Id. 496 ; Day v. N. Y. Central, 31 Id. 648.\nOn the question of estoppel, see also Brewster v. Striker, 2 N. Y. (2 Comst.) 19; Chautauque Co. Bank v. White, 6 N. Y. (2 Seld.) 236; Wood v. Seely, 32 N. Y. 105 ; Mattoon v. Young, 45 Id. 696 ; Corning v. Troy Iron & Nail Factory, 40 Id. 168; 44 Id. 577; Simmons v. Cloonan, 47 Id. 3; Curtis v. Ayrault, Id. 73; Higginbotham v. Burnet, 5 Johns. Ch. 184; Storrs v. Barker, 6 Id. 166; Town v. Needham, 3 Paige, 545; Dougrey y. Topping, 4 Id. 94; Lowry v. Tew, 3 Barb. Ch. 407; Malin v. Malin, 1 Wend. 666 ; Pell v. Tredwell, 5 Id. 661, 698; Adams v. Rockwell, 16 Id. 285, 318; Voorhees v. Presb. Ch., 5 How. Pr. 58; S. C., 8 Barb. 135; affirmed in 17 Id. 103; Hall v. Fisher, 9 Id. 17; Tilton v. Nelson, 27 Id. 595; Am. Exch. Bank v. Webb, 36 Id. 291; reversing 15 How. Pr. 193; Wood v. Mather, 38 Barb. 473 ; Corkhill v. Landers, 44 Id. 218; Miller v. Platt, 5 Duer, 272; Christianson v. Linford, 3 Robt. 215; Van Valen v. Schermerhorn, 22 How. Pr. 416.\nSee also Brown v. Bowen, 30 N. Y. 519, where it was held, that if one knowing premises to belong to him neglects to assert his title thereto, and allows the one in possession to make valuable permanent improvements thereon in the belief that he is the rightful owner, an estoppel is created against the one neglecting to assert title. But one who consents to the construction of a mill adjoining his own, on condition that the work shall be so done as not to injure his, is not estopped by so assenting nor by assisting in the work, from maintaining an action for an injury resulting from it to his mill.\nOn the question of adverse possession, see also Burhans v. Vanzandt, 7 Barb. 91; reversed in 7 N. Y. (3 Seld.) 523; Troup v. Hurlbut, 10 Barb. 354; Vrooman v. Shepherd, 14 Id. 441."
+  },
+  "file_name": "0027-01",
+  "first_page_order": 37,
+  "last_page_order": 72
+}

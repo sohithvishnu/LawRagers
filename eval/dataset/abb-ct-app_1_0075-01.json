@@ -1,0 +1,119 @@
+{
+  "id": 1111943,
+  "name": "BALDWIN v. MAYOR, &c. OF NEW YORK",
+  "name_abbreviation": "Baldwin v. Mayor of New York",
+  "decision_date": "1866-09",
+  "docket_number": "",
+  "first_page": "75",
+  "last_page": "77",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 75"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "45 Barb. 459",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 How. Pr. 289",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2225114
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/30/0289-01"
+      ]
+    },
+    {
+      "cite": "45 Barb. 359",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5146986
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/45/0359-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 401",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/46/0401-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 164",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        15595
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/31/0164-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 340,
+    "char_count": 5535,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0404349828889638
+    },
+    "sha256": "a7cfb7e83a6ab2048053f41d5dd54d91f9c8addbafccd6a44a7c4d2bd6c7665c",
+    "simhash": "1:96cc37e6c4630463",
+    "word_count": 962
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BALDWIN v. MAYOR, &c. OF NEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "Peckham, J.\nPreliminarily it is objected, that this motion cannot be made by any one, except by the counsel to the corporation ; that another attorney cannot appear without a substitution; farther, that no one hut the counsel to the corporation could make the mation, as the statute of 1863 gave .that exclusive right to him, and made it his peculiar duty; that the act of 1859 which allowed the comptroller to intervene and move to set aside a judgment that he had reason to believe was obtained by collusion, or was founded in fraud, was unconstitutional ; if not, that it was repealed by the act of 1863. L. 1863, p. 409.\nI have carefully considered all these objections, and some others, and think they cannot prevail.\n[The learned judge, after expressing the opinion that the order was right on the merits, discussed the constitutionality of the law at great length, concluding against it on the ground that the legislature had no right to appoint a board to arbitrate on a claim against a municipal corporation, and saying that the principle on which such boards were appointed in respect to claims against the State was inapplicable to municipal corporations, which might be sued, and questioning the doctrine of Darlington v. Mayor, &c. of N. Y., 31 N. Y. 164, on this point.\nHunt, J.,\ndelivered a contrary opinion on the merits and on\nthe question of constitutionality, and relied on Darlington v. Mayor, &c., as settling that it was entirely competent for the legislature to direct that the public property of the city not held in trust for specific uses, be sold, and the proceeds applied to any public or municipal use within the city.\nBy the Court,\nall concurring except Hunt, J., the order\nwas affirmed, without passing on these questions, on the ground that the order was in the discretion of the supreme court, and could not be reviewed here.\nOrder affirmed, with costs.\nCompare People ex rel. McLean v. Flagg, 46 N. Y. 401.",
+        "type": "majority",
+        "author": "Peckham, J. Hunt, J., By the Court,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "BALDWIN v. MAYOR, &c. OF NEW YORK.\nSeptember, 1866.\nAffirming 45 Barb. 359; S. C., 30 How. Pr. 289.\nUnder the act of 1859 (Z. 1859, p. 1127, c. 489, \u00a7 5), \u2014 allowing the comptroller of the city of New York to vacate judgments against the city obtained by collusion or founded in fraud, and notwithstanding the act of 1863, p. 409, c. 227, giving the exclusive right to the corporation counsel to appear for the city, \u2014 the supreme court have power to grant such a motion', made, on behalf of the comptroller, by counsel (other than the corporation counsel) employed by him under direction of the common council.\nAn order of the court at general term, affirming an order vacating a judgment on such a motion, is in the discretion of that court, and cannot be reviewed here.\nWilliam Baldwin and John M. Jaycox sued the Mayor, &c. of New York, on an award made by arbitrators, appointed under L. 1860, p. 773. By that act it was provided that damages claimed by plaintiffs against the city \u201c may be ascertained by three arbitrators, one of whom may be chosen by the mayor of the city of New York, and one by'the parties claiming such damages, and the third shall he appointed by the two arbitrators chosen as aforesaidand the confirmation of the report, and the payment of the amount thereof by the comptroller of the city, were also provided for.\nAn award in favor of plaintiffs was made by arbitrators so chosen, and payment having been refused, the plaintiffs sued the city thereon, in the supreme court, and recovered judgment for seventy-four thousand two hundred and ninety-nine dollars and forty cents.\nIt seemed that the comptroller\u2019s refusals to pay the award and the judgment were based on the fact that the city officers had not appeared or produced any witnesses before the arbitrators, thus suffering a recovery, on the pretext that the statute was unconstitutional.\nThe corporation counsel having refused to appeal or move to vacate the judgment, the common council passed a resolution authorizing the comptroller to move. The comptroller also relied on the following clause of the act of 1859 :\n\u201c Whenever the comptroller of the said city shall have reason to believe that any judgment now of record against the mayor, aldermen and commonalty of the city of New York, or which may hereafter be obtained against them, shall have been obtained by collusion, or founded in fraud, he is hereby authorized and required to take all proper and necessary means to open and reverse the same, and to use the names of the said mayor, aldermen and commonalty, and to employ counsel for such purpose.\u201d L. 1859, p. 1127, c. 489, \u00a7 5.\nOn motion at special term, the preliminary objection was taken that the motion papers were served in the name of \u201c Henry E. Knox, attorney for the comptroller,\u201d and no order of substitution having been entered, the motion was irregular.\nIn support of the objection the following act was relied on: \u201c The head of this department (the corporation counsel) shall have the exclusive right, and it shall be his exclusive 'duty, to appear for and present the said -mayor, aldermen and commonalty, and their officers, in all motions, actions and proceedings.\u201d L. 1863, p. 409, c. 227. \u00b0\n\u25a0 The objection was overruled, the motion granted, and the order granting it affirmed on appeal by the court at general term. Reported in 45 Barb. 459; S. C. 30 How. Pr. 289. Plaintiff appealed.\nFor subsequent provisions of law as to the power to appear for the city, see 2 Z. 1868, p. 2022, c. 853, and the later charters. As to appeals, see Code of Pro. \u00a7 11, as amended in 1871."
+  },
+  "file_name": "0075-01",
+  "first_page_order": 85,
+  "last_page_order": 87
+}

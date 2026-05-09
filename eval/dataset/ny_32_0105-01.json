@@ -1,0 +1,461 @@
+{
+  "id": 16281,
+  "name": "Hosea Wood v. Catherine Seely and Abel Seely",
+  "name_abbreviation": "Wood v. Seely",
+  "decision_date": "1865-03",
+  "docket_number": "",
+  "first_page": "105",
+  "last_page": "118",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 N.Y. 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "13 How., 132",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 How., 103",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3478117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/55/0103-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. Ch., 166",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1982794
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/6/0166-01"
+      ]
+    },
+    {
+      "cite": "14 Johns., 15",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376201
+      ],
+      "pin_cites": [
+        {
+          "page": "35, 36"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0015-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y., 9",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496066
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/14/0009-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. Ch., 191",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 How., 486",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 N. Y., 472",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026263
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/22/0472-01"
+      ]
+    },
+    {
+      "cite": "20 N. Y., 422",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 How., 189",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 N. Y., 490",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1749987
+      ],
+      "pin_cites": [
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/21/0527-01"
+      ]
+    },
+    {
+      "cite": "10 N. Y., 51",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2013361
+      ],
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/10/0051-01"
+      ]
+    },
+    {
+      "cite": "11 How. Pr., 201",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2199156
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/11/0201-01"
+      ]
+    },
+    {
+      "cite": "14 How. Pr. 456",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2203182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/14/0456-01"
+      ]
+    },
+    {
+      "cite": "21 How. Pr., 9",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2212050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/21/0009-01"
+      ]
+    },
+    {
+      "cite": "27 Barb., 652",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5013459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/27/0652-01"
+      ]
+    },
+    {
+      "cite": "5 Duer, 661",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1350876
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/12/0661-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y., 45",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 How., 269",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y., 263",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297792
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0255-01"
+      ]
+    },
+    {
+      "cite": "21 How., 296",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 N. Y., 357",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 N. Y., 425",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/22/0425-01"
+      ]
+    },
+    {
+      "cite": "13 How., 411",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 How., 57",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. Y., 534",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0534-01"
+      ]
+    },
+    {
+      "cite": "15 N. Y., 593",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2018096
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/15/0593-01"
+      ]
+    },
+    {
+      "cite": "15 How., 221",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 How., 239",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        5677502
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/58/0239-01"
+      ]
+    },
+    {
+      "cite": "8 How., 73",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3350104
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/49/0073-01"
+      ]
+    },
+    {
+      "cite": "12 How., 331",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 How., 174",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. Y., 270",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019334
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0270-01"
+      ]
+    },
+    {
+      "cite": "40 Barb., 538",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wend., 630",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005424
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0630-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch., 344",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-ch/1/0344-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y., 592",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019288
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/17/0592-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y., 9",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496066
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/14/0009-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1225,
+    "char_count": 29646,
+    "ocr_confidence": 0.482,
+    "pagerank": {
+      "raw": 1.5405130557611226e-06,
+      "percentile": 0.992143557404312
+    },
+    "sha256": "11e97bb3fe545fc663374d43c1c21ac6d1aeb3e0517330d88397a3bc4e18bfd4",
+    "simhash": "1:c835ae2f7e88f7e8",
+    "word_count": 5222
+  },
+  "last_updated": "2024-02-27T22:36:49.815337+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hosea Wood v. Catherine Seely and Abel Seely."
+    ],
+    "opinions": [
+      {
+        "text": "Brown, J.\nThe first, second and third grounds of demurrer. may be considered together. The objection is that Adam J. Shoemaker, the grantee of Spickerman\u2019s executors, the executors themselves, and the executor John O. Barranger, who conveyed to the plaintiff, are not made parties to the action. \u2022 It is difficult to see what possible interest these executors have in the present litigation. \u2022 They acted as trustees in the execution of a trust\" under the wills of their respective testators, and nothing more. They have no interest in the lands, none in the mortgage, and cannot be affected by any judgment or decree entered in the action. In regard to Shoemaker, he is in the same situation, with this exception, that he conveyed to Shufeldt with covenant of warranty, and should the defendant, Catherine, \u2022 succeed in recovering her dower, might be liable upon Ms \u201e covenant. TMs is a question in which the defendants have no manner of interest, and they have no right to Msist upon Ms presence as a party to the action. A complete decree can be made without Mm. The fourth ground of demurrer is the uniting of two Mcongruous causes of action in the same complaint. This is a mistake. There is but one cause of action relating exclusively to the interest wMch the defendant Catherine Seely claims to have in the lands of the plaintiff.. The complaint seeks alternative relief; that her claim as tenant in dower may.be adjudged extinguished, or if the evidence does not warrant that measure of relief, she may be adjudged to contribute to the payment of the Spickerman mortgage in proportion to her interest in the lands. Next, it is said that the subject of the action has been adjudicated m the surrogate\u2019s court, wMch is thought to be a bar to the plamtiff\u2019s action. The surrogate\u2019s decree extends no farther than the extent and location of the lands assigned in the report. The title is not affected and still remains open to dispute. (2 R. S., 403, \u00a7 II.) The sixth ground of demurrer is the insufficiency of the facts to constitute a cause of action, and involves the plaintiff\u2019s right to the relief demanded in the complaint.\nAssuming for the moment that the defendant, Catherine Seely, is entitled to dower, of what is she entitled to be endowed ? She united with her husband in the mortgage to Andrew Spickerman, to secure the payment of $2,100, which was a lien upon the land at the time of her husband\u2019s death. She was entitled to dower in the eqmty of redemption, if that term may still be used. The money due upon the mortgage was first to be paid, and she was entitled to the use of one-tMrd of whatever remained during life. Shoemaker paid the money due upon the mortgage as a part of the purchase-money, and as against the widow it was in Ms hands, and is now in the hands of those claiming under Mm, an. equitable lien upon the premises. Had Shoemaker taken an assignment of it, in place of satisfying it, and had it been transferred to the subsequent owners to protect the title, she could have redeemed upon payment of a ratable portion of the money due, and until she did so redeem, she could not have entered. And so Shoemaker having paid the mortgage, and those who have acquired his rights may require her to contribute to its payment as a condition of her entry upon the lands mortgaged. These are familiar principles, and would seem to establish the plaintiff\u2019s right to this measure of relief.\nIn regard to the alternative relief, I think his right equally indisputable. It is to be observed that James Spiekerman, by his will, gave the widow the use of one-third of his real estate during life, and the use of all his real estate in case his executors did not sell the same. And should the executors sell the real property, he then gave her the use of one-third of the proceeds during life, and the use of the whole until bis children attained the age of eighteen years. The complaint states, \u2014 and its statements are to betaken as true,\u2014that she was present and aided at the negotiations for the sale to Shoemaker, and at the time of the giving of the- deed. That he was told that the land was to be free from her claim of dower, and of all incumbrances except the patroon\u2019s ground rent and the mortgage, and that a recital to this effect was inserted in the deed, with which she was made acquainted. But this is not all. The complaint also says that she had and enjoyed the use of the whole of the purchase-money for the lands, from the time of the sale to the time of the commencement of the action. These acts of her\u2019s have the effect to create an estoppel m pais. After inducing Shoemaker, by such representations, to make the purchase and part with his money, and after taking to herself the use of the proceeds of the sale, she will not be allowed to assert her claim to dower in the lands sold. All this seems plain enough as a defense to an action by her to recover the possession.. But whether the plaintiff has a right to institute an affirmative proceeding himself, and have the dower declared to be extinguished, and she enjoined from prosecuting the action to recover the possession, is a much graver question, upon which there may be some difference of opinion.\nThe subject was considered in Scott v. Onderdonk (14 N. Y., 9), and in the opinion, Judge Denio says: \u201c Ordinarily a party must wait until his rights have been actually interfered with, before he can implead another from whom he anticipates injury. But there are several exceptions to the rule, and when the jurisdiction in law and equity was administered in different courts by different forms of proceeding, it was a common case for a party to appeal to a court of equity, for relief against apprehended injury to be effected by his adversary by some act m pads, or by some legal proceeding which he could not defend himself against, upon the principles of the common law.\u201d After saying that this class of cases has been narrowed by blending the two jurisdictions, he says, \u201c there is still a principle of equity which remains in force notwithstanding the confusion of remedies by which a person may, in certain cases, institute a suit to remove a claim which is a cloud upon the title to Ms property.\u201d If the claim is based upon a written instrument, void upon its face, or if it requires the existence of a series of facts, or the performance of'a succession of legal acts, and there is a defect as to one or more of the links, there is no reason for entertaining the litigation, and the party must wait until the pretended title is asserted.\u201d Where, also, the plaintiff claims to have a defense valid in law, and wMch rests upon evidence wMch may be lost by the lapse of time or the imperfections of memory, then I understand, also, the courts will entertain the litigation without waitmg for the assertion of the claim. In The N. Y. & New Haven R. R. Co. v. Schuyler (17 N. Y., 592), the subject came up again for consideration, and Judge Comstock, in the opinion, says: \u201c The jurisdiction does not universally attach, on the mere ground that the deed or other contract is mvalid. If the invalidity plainly appears on the face of the writmg, so that no lapse of time or change of circumstances can weaken the means of defense, it is held that no occasion arises for a smt in equity to decree its cancellation. And the doctrine now is, that such instruments do not, in a just sense, even cast a cloud upon the title or interest, or diminish the security of the party against whom the attempt may be made to use them. If, on the other hand, the invalidity does not appear on their face, the jurisdiction is not confined to instruments of any particular kind or class. Whatever their character, if they are capable of being used as a means of vexation or annoyance, if they throw a cloud upon the title, or disturb the tranquil enjoyment of property, then it is against conscience and equity that they should be kept outstanding, and ought to be canceled.\u201d In the light of these opinion's, I think we may safely dispose of the right of the plaintiff to maintain this action. The defendant, Catherine Seely, has already claimed her dower, and had it assigned to her under the statute. When she prosecutes her action, she has only to show she was the widow of Spickerman, that he died seized, produce the record from the surrogate\u2019s office and prove the possession of the defendant, and her case for a recovery is made out. The defense will not appear upon the face of any paper, nor in the absence of any link in the chain of facts upon which the plaintiff must rely to recover. The defense rests upon parol evidence alone \u2014\u2122 evidence which exists only in the memory of living witnesses, who may be removed from life, in the natural course of events, before the defendant proceeds to assert her claim by an action in the courts. To purchasers, and all others who may be led to examine the title to the lands, the cloud will be patent and apparent, while the means of reinoving it will not be manifested. The plaintiff not only anticipates an injury from the pretensions and attitude of the defendant, but he actually suffers one in the prejudice to his title. I arrive, therefore, at the conclusion that upon the principle of the cases referred to, the plaintiff is entitled to maintain this action.\nIn answer to the objection that Abel Seely, the husband of the defendant, Catherine, is improperly made a party, it is enough to say the action was commenced in 1855, at which time the husband was a necessary party in an action against the wife. (Code of 1851, sec. 114.)\nThe judgment of the court below should be affirmed with costs.\nDenio, Ch. J.\nIt is conceded that the provision contained in the will of James Spickerman, in favor of his widow, cannot be considered as made in lien of dower, so as to pnt her to her election. She asserted that position in her proceeding for admeasurement, and the plaintiff conceded it by bringing this action. Moreover the course of adjudication favors the view thus taken by the parties. (Lewis v. Smith, 5 Seld., 502, and cases referred to in the opinions.) It is material, however, to observe that at the time of the sale of the premises, out of which dower is sought, the defendant, the widow of Spickerman, was entitled to the possession of the premises, so devised, subject to the power of the executors to sell them; and that, upon the sale, she became immediately entitled to the interest on the whole purchase price, during a period of more than thirteen years, if she should live so long, and to the interest of one-third of that money, during her life. The natural supposition of every person not a well informed lawyer, would be that such arrangements would be inconsistent with a right in the party who was thus to have the use and enjoyment of the money to be paid on the purchase, to one-third of the premises under her title as doweress from the moment of the execution of the conveyance.\nAccording to the averments of the complaint, the negotiations between the executors and Shoemaker was for the purchase of an estate which should be free from all hostile claims, and especially from any claim of dower on the part of the defendant, as the widow of Spickerman; and the deed which was eventually executed, recited in terms that such was the character of the purchase. The further averments are that the defendant, then Mrs. Spickerman, fully understood and well knew that the executors were selling the premises to Shoemaker as free and clear from all claims and incumbrances (except a mortgage which the purchaser assumed), and free and discharged from all claims of dower therein; that she heard the representations made by the executors to Shoemaker to that effect, and knew that the latter was purchasing for the full value of the property as an unincumbered estate, winch was free from any right of dower; that-she eon-coaled her interest with a fraudulent intent, and with a view to defraud Shoemaker, and encouraged .him to purchase for the full value of the property, he being entirety ignorant of the existence of any such right of dower; and that he, accord^ ingly, completed the purchase and paid such full value. These averments being admitted by the demurrer, the principle of equity is exceedingly well settled that she is estopped from asserting the right which she claimed in instituting the _ proceedings for admeasurement. The following cases, among others, illustrate and apply the principle. (Wendell v. Van Rensselaer, 1 Johns. Ch., 344; Storrs v. Barker, 6 id., 166; Town v. Needham, 3 Paige, 545; Dougrey v. Topping, 4 id., 94.)\nThe defendant\u2019s counsel maintained that the estoppel was personal, and that Shoemaker alone could avail himself of it. I am of opinion, on the contrary, that the plaintiff or the owner of the land under Shoemaker\u2019s title, holding under mean conveyances from him, is equally entitled to avail himself of the equitable bar. In some of the cases referred to, relief was given, to the grantee of the party defrauded. Such was the case of Town v. Needham. In Jones v. Powell, where a right of dower was relieved against, on the ground that a collateral compensation had been made by the testamentary trustees of the husband, the party to whom the relief was adjudged was a grantee of the immediate purchaser. Estoppels by record and by deed, as is well known, ran in favor of, and against the privies in estate of the immediate parties to the estoppel, as well as for and against the parties personalty; and I see no reason why estoppels en pais should not be within the rule, as they clearly are within its principle. Cases of dedication often rest upon the principle of estoppels en pais it being considered fraudulent on the part of one dedicating his land to public uses to retract, to the prejudice of parties who have purchased on the faith of such dedication. It has frequently been held that the estoppel attaches itself to the land, and can be asserted on behalf (if the grantee of the immediate purchaser. (Hills v. Miller, 3 Paige, 256; Trustees of Watertown v. Cowen, 4 id., 514; Child v. Chappell, 5 Seld., 246.)\nIt is further urged that the plaintiff could not bring his action in anticipation of the ejectment which the defendant was expected to commence against Mm. It is very true that equitable defenses may now be made in actions of ejectment; and it may be that if such a suit had been actually commenced, the plaintiff would have been compelled to await the trial of that case. But, in the absence of such an action, he was not obliged to remain passive until the defendant should move. The allegations upon winch his equity is based, rest upon the oral testimony of witness who may die, or whose testimony it may hereafter be impracticable to procure. In such cases, the party expecting to be challenged may take the initiative by bringing an action in the nature of a bill pida timet. (Scott v. Onderdonk, 14 N. Y., 9.)\nThe point raised in the defendant\u2019s brief, that the equity relied upon could be availed of on appeal from the order of the surrogate confirming the admeasurement of dower, is not' well taken. Such a defense could not be received in that proceeding. (2 R. S., \u00a7\u00a7 17, 18; Hyde v. Hyde, 4 Wend., 630.)\nIt remains only to allude briefly to certain objections of form. It is said, in effect, that the complaint is multifarious in embracing allegations respecting the mortgage which Shoemaker was to assume, and which he or his grantee have paid off. It was signed and acknowledged by the defendant wMle the wife of Spickerman. The intention of these averments was to entitle the plaintiff to partial relief, if he should be unsuccessful in establisMng the estoppel. TMs was not incongruous with the principal subject of the suit. The defendant was threatemng to prosecute to recover one-third of the estate for her dower. It is possible that the defendant could have relief in the ejectment suit to the extent of the mortgage. But the judgment appealed from proceeds upon the general ground of the estoppel. This renders the other allegations practically immaterial. The plaintiff, as. has been shown, had a right to bring Ms suit in respect to that ground of relief; and I tMnk he could, with propriety, connect the other allegations with that, claim, and the court, having jurisdiction of the whole case, could do justice between the parties.\nIt was not necessary to make the grantors of the plaintiff partids. They had no direct interest in the controversy, nor any claim to relief. The same may he said of the executors of Spickerman.\nThe '\u2022point that Abel Seely, the husband, was improperly made a defendant, is not taken in the demurrer. The allegation 'Of the want of facts sufficient to establish a cause of action, applies equally to both defendants; and there is no intimation that if the wife was liable to the plaintiff\u2019s equity, the-husband was not a proper party defendant. Besides, the allegation in the complaint is that both defendants were threatening to sue the plaintiff in ejectment. If this were really so, it was not improper that both should be enjoined. The husband had joined with his wife in the admeasurement proceeding, which was sufficient evidence of confederacy.\nThe judgment appealed from should he affirmed with costs; in which all the judges concurred.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Brown, J. Denio, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "R. H. McClellan, for the appellant.",
+      "H. P. Hunt, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Hosea Wood v. Catherine Seely and Abel Seely.\nThe surrogate\u2019s decree for the admeasurement of dower extends no further than to the extent and location of the lands assigned in the report.\nThe title to the lands thus assigned, is not affected, but still remains open to dispute.\nA testator, by will, authorized his executors to sell his real estate, and, in case they did so, the will gave to the widow the use of one-third of the proceeds of such sale. The executors sold the real estate, and the widow accepted and enjoyed the use of the proceeds of such sale for a number of years. Held, she is estopped from setting up any claim to dower in said premises, in the hands of an innocent grantee, who was permitted to receive the title to such land in her presence, with the assurance that her claim to dower therein was extinguished.\n'Where the widow knowingly permits the purchaser to part with his money for \u00ab real estate, under the assurance that the land is free from her claim of dower therein, and she accepts and enjoys the use of the whole purchase-money, as a bequest under the will of her husband, such acts on her part, constitute an estoppel en pais, and she will not be permitted to set up a claim to dower in said premises.\nSuch widow proceeding to procure the admeasurement of dower in such case, and threatening to bring ejectment to recover the same, may be permanently enjoined from doing so, and an action may be maintained against her for such purpose.\nSuch proceedings on her part constitute a cloud upon the title to such land, and justify the commencement of an action to quiet the title to the same.\nJames Spickerman, the former hush and of the defendant, Catherine Seely, died seized of certain lands in the county of Kensselaer, described in the complaint, on or about the 7th December, 1839. He left a will executed in form to pass real estate, and thereby authorized his executors, Philip Harder and Philip T. Harder, to sell his real estate whenever they thought proper, and therein also gave to his wife, Catherine, one-third of his real estate, during life, and also the use of all his real estate, in case his executors should not sell the same. And, in case it should be sold, then he gave to her the use of one-third of the moneys received therefor, during life, and the use of all the moneys realized from the sale, and of his personal estate, after the payment of debts, until all his children' attained the age of eighteen years. The executors proved the will, and took upon themselves the execution thereof. At this time the lands were incumbered by a mortgage, dated Hay 1st, 1837, to Andrew Spickerman, duly executed by James Spickerman and the defendant, Catherine, his wife, to secure the 'payment of $2,700, with the interest, upon which there was due and unpaid $2,541.73. In execution of the trusts of the'will, the executors, by deed, duly executed in the spring of the year 1844, conveyed the land in fee to one Adam J. Shoemaker, for the consideration of $4,800. The defendant, Catherine, was present at the negotiation which resulted in the sale, and in which it was represented in her presence that the land was free and clear' from her claim of dower, and of all charges and incumbrances except the patrooh\u2019s ground rent, and the mortgage to Andrew Spickerman. The deed itself recited in terms that the premises were free and discharged from the claim of dower of the widow, Catherine Spickerman. Induced by, and relying upon fhese representations, Shoemaker accepted the deed, paid the consideration money, and assumed as a part thereof the payment of Andrew Spickerman\u2019s mortgage, which he afterward paid and satisfied from his own means. Shoemaker conveyed the premises in fee to one Shufeldt, with covenants of warranty, except as against the patroon\u2019s rents and the mortgage of Spickerman, who mortgaged the same to secure the payment of certain moneys to Philip Harder and Joseph I. Bull\u00eds, which mortgage was afterward foreclosed, and the premises sold and conveyed to one John C. Barringer. Barringer afterward sold and conveyed one-half of the premises to the plaintiff, who subsequently acquired the title to the remaining half, by conveyance from the executors of Barringer, under a power given in his will,- so that the plaintiff thereby became the owner of the premises, and entitled to the enjoyment thereof. In the year 1850, the widow, Catherine, intermarried with the defendant, Abel Seely, and on the 30th of July, 1853, she instituted proceedings before the surrogate of the county of Eensselaer to have her dower assigned to her, due 'notice of which was served upon the plaintiff in this action. The surrogate made the usual order for the appointment of admeasurers, who proceeded to assign and set apart the dower and to make their report, which was afterward confirmed tiy the usual decree of the surrogate, without requiring the defendant, Catherine, to contribute anything toward the payment of the mortgage to Spiekerman, or to make to the plaintiff any allowance therefor. These facts are all set out and asserted in the complaint, with the further allegation that the defendants give out and threaten to bring an action in one of the courts to recover the possession of the lands assigned to Catherine, under the surrogate\u2019s decree. And the complaint prays that she may be barred and estopped from all claim to the lands aforesaid, on account of her dower, and enjoined from instituting any action to recover the same; or that she be adjudged to. contribute and pay to the plaintiff an equitable' portion of the money paid by Shoemaker, on account of the mortgage to Spiekerman, and for other and further relief, &c.\nThe defendants demurred separately to the complaint, and assigned for cause: 1st. That Adam J. Shoemaker was not named as a party plaintiff. 2d. That the executors of John C. Barringer were not made parties as plaintiffs. 3d. That the executors of James Spiekerman were not made defendants. 4th. That two causes of action are improperly joined in one action. 5th. Because the surrogate\u2019s decree was res adgudieata. 6th. That the complaint does not state facts sufficient to constitute a cause of action. The demurrers were overruled at the Special and General Terms of the court below, and judgment ordered with costs for the plaintiff, with leave to the defendants to withdraw the demurrer and answer, &c. The defendants did not avail themselves of this leave, and judgment was entered for the plaintiff, from which the defendants appealed to this comt.\nR. H. McClellan, for the appellant.\nI. The complaint shows: 1. The defendant, as the widow of a former husband, entitled to dower in the premises mentioned; 2. The proceedings before the surrogate, and the admeasurement and allotment of her dower. The complaint sets forth two alleged defenses to an action of ejectment, should one be brought to recover possession; one total, the other partial; and makes these defenses an alleged cause of action.\nSuch defenses do. not constitute a cause of action: 1. Because mere matter of defense does not constitute a cause of action, except in equity, where no legal defense can be made available. (Story\u2019s Eq. Jur., \u00a7 894; Murray v. Graham, 6 Paige, 622; Willard\u2019s Eq. Jur., p. 347; Obourn v. Taylor, 5 Paige, 615; Mitchel v. Oakley, 7 Paige, 68.)\nBut such distinction has been removed by the Code, \u00a7 150; an equitable defense is now equally available. (Dobson v. Pearce, 2 Kern., 156; Crary v. Goodman, id., 266; Traphagan, v. Traphagan, 40 Barb., 538.)\nHence a mere matter of defense is not now a good cause of action in any ease. (Van Santvoord\u2019s Plea., 505, et seq.; Phillips v. Gorham, 17 N. Y., 270; Harman v. Remsen, 23 How., 174.)\nII. It is no cause of action that the defendant threatens to bring a causeless suit. Injunction to restrain the bringing of a suit is improper. (Will. Eq. Jur., 346; Story Eq. Jur., \u00a7\u00a7 874, 875.) _\n_ HI. There is no cause of action against Mrs. Seely until she takes possession, or brings her action for the possession.\nIV. The adjudication by the surrogate is conclusive upon the parties.\nV. There is a misjoinder of causes of action; one count alleging matters in tort, the other matters in contract; 1. They do not belong to the same class, as required by the Code, \u00a7 167; 2. They did not arise out of the same transaction. Plaintiff could not succeed upon both; for success in one would be fatal to the other. (Sweet v,. Ingerson, 12 How., 331; McIntosh v. McIntosh, id., 289; Lampert v. Abbott, id., 340; Dewey v. Ward, id., 419; Cobb v. Dows, 9 Barb.; Smith v. Halleck, 8 How., 73; latin v. McCarty, 17 How., 239; Hunter v. Powell, 15 How., 221.)\nH. P. Hunt, for the respondents.\nI. If, as claimed by defendants, there be a second count, and the court has given no judgment thereupon, and the issues arising therefrom remain undisposed of, the defendants\u2019 remedy is not by appeal but by motion in the court \u2022 below, to set aside the judgment for irregularity. For, according to this position of defendants, there has been no final judgment. (Hollister\u2019s Bank of Buffalo v. Vail, 15 N. Y., 593; Thompkins v. Hyatt et al., 19 N. Y., 534; 15 How., 57, 427; Paddock v. Springfield Fire, &c., Co., 2 Kern., 591; Hulce v. Sherman et al., 13 How., 411; Ingersoll v. Bostwick, 22 N. Y., 425.)\nII. The complaint contains but a single cause of action \u2014 a bill with a double aspect \u2014 praying for alternative, epmtable relief, and does not ask to recover under both aspects. (Phillips v. Gorham, 17 N. Y., 270; New York Ins. Co. v. Northwestern Ins. Co., 23 N. Y., 357; S. C., 21 How., 296; Bidwell v. Astor Mutual Ins. Co., 16 N. Y., 263; 9 How., 269; 24 N. Y., 45, 46; Wandle v. Turner, 5 Duer, 661.)\nThe complaint' asks for alternative equitable relief, and hence the necessity of stating the facts embraced in what the defendants call the \u201c second count,\u201d in order to lay the foundation for such prayer. The plaintiff does not ask a recovery under both aspects of his case.- His claim is that Mrs. Seely is not entitled to dower, and if the court so decide, the second aspect of the case cannot arise. (See Roth v. Palmer, 27 Barb., 652; Campbell v. Wright, 21 How. Pr., 9; Hillman v. Hillman, 14 How. Pr. 456; Conner v. Edwards, 11 How. Pr., 201; Colton v. Ross, 2 Paige, 396; Caboon v. Bank of Utica, 3 Seld., 486.)\nIII. The pleader in the complaint, speaking of a further cause of action, proves nothing which can embarrass the case. The object of the new system of pleading is to enable the court to give judgment according to the facts stated and proved, without reference to the form used, or the legal conclusions adopted by the pleader. ( Wright v. Hooker, 10 N. Y., 51, 59; Oneida Bank v. Ontario Bank, 21 N. Y., 490, 501.)\nAnd where the facts appear in the complaint, the court will give such relief as the party is entitled to, whether asked for or not. (Marquat v. Marquat, 2 Kern., 336; Jones v. Butler, 20 How., 189; Mills v. Voorhies, 20 N. Y., 422.)\n\u2022 Where the complaint, in fact, contains but a single cause of action, though stated in different counts, the defendant cannot demur on the ground of misjoinder of causes of action; and, upon demurrer to the complaint, on the ground that it does not state facts sufficient to constitute a cause of action, the court will sustain the complaint if the facts alleged establish a case for\" equitable relief in such case.\nIY. The facts set forth in the complaint are admitted by the demurrer still remaining upon the record (Cutler v. Wright, 22 N. Y., 472); and Mrs. Seely cannot deny such admission. (See Justice Harris, in Richtmyer v. Haskins, 9 How., 486); Allen, in Dotson v. Pearce, 2 Kern., 165; Johnson, in Crary v.. Goodman, 2 Kern., 267.)\nHpon conceded facts, plaintiff is entitled to the relief granted in the court below. (Jones v. Powell, 6 Johns. Ch., 191; Town v. Needham,, 3 Paige, 545; Dougrey v. Topping, 4 Paige, 94; Lawrence v. Brown, 1 Seld., 401 to 404; Scott v. Onderdonk, 14 N. Y., 9; Parkhurst v. Van Cortland, 14 Johns., 15, 35, 36; Robt. Fraud, 130, et seq.; 6 Johns. Ch., 166.)\nV. The equitable aid of the court is invoked to remove the cloud resting on the title to his farm. (See 14 N. Y., 9; Field v. Holbrook, 14 How., 103; Johnson v. Stevens et al., 13 How., 132.)"
+  },
+  "file_name": "0105-01",
+  "first_page_order": 105,
+  "last_page_order": 118
+}

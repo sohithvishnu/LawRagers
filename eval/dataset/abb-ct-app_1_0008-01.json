@@ -1,0 +1,271 @@
+{
+  "id": 1111932,
+  "name": "ARMSTRONG v. DUBOIS",
+  "name_abbreviation": "Armstrong v. Dubois",
+  "decision_date": "1868-12",
+  "docket_number": "",
+  "first_page": "8",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 8"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Gray (Mass.) 441",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2075605
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/70/0441-01"
+      ]
+    },
+    {
+      "cite": "28 N. Y. 659",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036826
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0659-01"
+      ]
+    },
+    {
+      "cite": "40 Barb. 331",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5104415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/40/0331-01"
+      ]
+    },
+    {
+      "cite": "16 Abb. Pr. 417",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4627195
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/16/0417-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 359",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 N. Y. 196",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 How. Pr. 23",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2201865
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/13/0023-01"
+      ]
+    },
+    {
+      "cite": "5 Den. 92",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881455
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/5/0092-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 631",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018808
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0631-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 79",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4875270
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/6/0079-01"
+      ]
+    },
+    {
+      "cite": "8 Wend. 587",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2147326
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/8/0587-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 301",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145700
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/5/0301-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 237",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        2510991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/21/0237-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 210",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141009
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0210-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 418",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842795
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/4/0418-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 525",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Wend. 301",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009717
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/7/0301-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 523",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Barb. 79",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4875270
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/6/0079-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 563,
+    "char_count": 11434,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04043478982751504
+    },
+    "sha256": "d9bd9f2efb87052094bc436bdf52ed8856513772a39fb15d3f81132c1e2520ef",
+    "simhash": "1:a98f3e958144a4d0",
+    "word_count": 1977
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ARMSTRONG v. DUBOIS."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nMason, J.\nWhen the plaintiff\u2019s evidence was in, there can be no doubt his case was made out. He was entitled to recover. [The learned judge here recited the facts as they are above stated, and continued:] The defendant remained silent and made no reply, and must be held to have sanctioned and approved what his attorney, Van Pelt, said and did. This was enough to make him liable. Any one who unlawfully intermeddles with another\u2019s goods, although there be no manual interference therewith, as exercising an authority over them in defiance or exclusion of the OAvncr, is liable for a conversion. Cow. Tr. \u00a7 556, 4th ed. by Tracy, 1856. The deputy sheriff is the agent of the plaintiff in seizing the property, and when the plaintiff directs or is present with his attorney, and allows him to do so, and refers the officer to him for for directions, and the attorney gives them in his presence, it is precisely the same as if the plaintiff gave them himself, for he must he deemed to have sanctioned and approved the acts of his attorney. Stewart v. Wells, 6 Barb. 79. He is responsible for the directions and acts of his attorney (Newberry v. Lee, 3 Hill, 523); and the rule seems to be, that wherein the attorney conducts the suit in such a way as to be liable to an action of trespass himself, his client is also liable. Barker v. Braham, 2 Wils. 396; Bates v. Pilling, 6 Barn. & C. 38; Brown v. Feeter, 7 Wend. 301; 3 Hill, 525; Leigh Nisi Prius, 1479.\nThe question, whether here was evidence of conversion against the defendant, certainly should have been submitted to the jury; for where the evidence of a conversion is slight, the jury are proper judges of the sufficiency thereof. Harger v. McMais, 4 Watts, 418; Leigh Nisi Prius, 1479.\nThe only remaining question is, whether the stipulation put in evidence by the defendant contains admissions which take away the plaintiff\u2019s case, and deprive the plaintiff of his cause of action.\nIt is proper to consider in this connection the circumstances under which this stipulation was given. The defendants made a motion to transfer this cause of action to the supreme court, and to change the place of trial to the county of Westchester, on the ground of the convenience of witnesses, and to obviate said motion the plaintiff\u2019s attorney gave this stipulation, in which the plaintiff agreed to admit on the trial:\n1. That the sheriff received no directions, instructions or communications from this defendant personally, in reference to the levy or sale under said executions, or either of them.\n2. That the said William P. Little, as such special deputy, levied upon and sold the goods, under the said two executions of this defendant and said Ackerman and Deyo, withont having received any directions or instructions so to do from this defendant personally.\n3. That this defendant took no part in this said levy and sale, and had no portion of the proceeds of the sale personally.\nThere is an affirmation, contained in brackets, at the bottom of each of said three admissions, that no implication should be drawn from the form of said admissions, that the defendant had given such direction and instruction to said deputy through his attorney, agent, or any other person; or that the defendant had done, received or suffered any of the things named in the third clause, by any person on his behalf. These negative affirmations, embraced in brackets, at the end of each clause of the stipulation, make no other claim and can have no other effect, than to repel any implications being drawn from the stipulation itself against defendant as to any of the things therein referred to, and could never have been intended to deprive the plaintiff of the right to make proof in regard to them. I do not think this stipulation should be held to overthrow the plaintiff\u2019s case made by his proof. All there is in the first two clauses of the stipulation is an admission that, personally, the defendant did not give any directions or instructions to the deputy in reference to the said levy and sale. This is quite consistent with the case made by the plaintiff\u2019s evidence. He did not give any directions or instructions, personally, but his attorney did, in his presence, and he, by his silence, approved it.\nAnd I cannot regard the admission in the third clause as necessarily admitting away the plaintiff\u2019s case.\nThe admission is, first, that the defendant took no part in the said levy and sale. This may all be true; and yet the plaintiff\u2019s case made by his evidence be true. Very likely the defendant did not take any part in the levy or sale.\nThe evidence does not show when the levy or sale was made. He may have done just what the plaintiff\u2019s evidence proves he did, and yet not have taken any part in the levy or sale. He was asked to release from the levy the plaintiff\u2019s exempt property, and turned the plaintiff over to his attorney, Van Pelt. This, certainly, was not taking part in the levy, and there is no evidence that he was present or took any part in the sale. Hor is there any pretense in the ease that he, personally, had any portion of the goods, or that he had received any of the proceeds of the sale. His attorney may have them. At any rate, it is quite immaterial what has become of them.\nThe judgment should be reversed, and a new trial granted.\nClebke, J., was of opinion that as the stipulation unqualifiedly admitted that defendant took no part in the levy and sale, had none of the goods under his control, and received none of the proceeds, and no proof was given or offered that the alleged trespass was committed by the defendant\u2019s direction, or that he indemnified the sheriff, or in any way ratified his acts, the judgment should he affirmed with costs.\nAll the other judges concurred.\nJudgment reversed, and new trial ordered, with costs to abide event.",
+        "type": "majority",
+        "author": "Mason, J."
+      }
+    ],
+    "attorneys": [
+      "William 0. Hornfager, for plaintiff, appellant;",
+      "B. W. Van Pelt, for defendant, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "ARMSTRONG v. DUBOIS.\nDecember, 1868.\nThe plaintiff, in an execution wrongfully levied on property exempt by law, is liable in damages therefor, if he was present at the levy, and referred the officer to his attorney for instructions, ancbthe attorney directed the levy in his presence, even though he himself took no other part in the levy, and never received either the goods or the proceeds of the sale.\nA stipulation admitting that he gave no directions personally, and took no part in the levy, does not exonerate him.\nBenjamin Armstrong sued Jacob Dubois in the New York common pleas for damages in the sum of one thousand dollars, for taking, on execution, property of plaintiff which he claimed was exempt by law from execution, as the necessary bedding and clothing of plaintiff and his family, and for injury thereto.\nDefendant\u2019s answer admitted that he recovered judgment against plaintiff, and that he caused^ execution thereon to be issued against plaintiff\u2019s property, to the sheriff, who levied upon all the goods of plaintiff. It also alleged that after the commencement of the present action, plaintiff demanded and accepted a return of the necessary household goods exempted by the statute, to the value\" of two hundred and fifty dollars \u2014 the remainder being sold to satisfy the execution.\nOn the trial the evidence showed that the defendant, having his execution in the hands of a deputy of the sheriff, went in company with such deputy and with his attorney in the suit and execution, Yan Pelt, to the house of the plaintiff. Some one of them pushed open the door, and the three entered the house. The deputy showed the plaintiff the execution, and told him he had come to take possession of the property. The execution was in favor of Dubois and against the plaintiff. The sheriff told this in the presence of Dubois. Armstrong, the plaintiff, asked the deputy to release his exempt property, and the deputy referred him to Dubois as the principal. Arm-i strong then made a request of Dubois, and Dubois referred him to his attorney, Van Pelt, and Armstrong then asked Van Pelt to release his exempt furniture and clothing; and Van Pelt replied that he should release nothing, but would sell him out neck and heels, and ordered the sheriff to keep possession of the property. The sheriff obeyed the instructions. The defendant, Dubois, heard all this, but did not personally interfere further by word or deed.\nAfter the direct examination of the plaintiff (who was examined as witness in his own behalf), was closed, defendant read a stipulation as follows:\n\\Title of this, and another similar, causei\\\n\u201cMotions having been made to transfer the above causes to the supreme court, and to change the place of trial to Westchester county, on the ground of convenience of witnesses, &c., now, to obviate said motions, it is hereby, stipulated and agreed that, upon the trial of these causes the plaintiffs will admit, and hereby do admit, the following facts.\u201d\n1. [After admitting the recovery of judgments and issue of execution.] That the sheriff received no directions, instructions or communications, from this defendant personally, in reference to the levy or sale under said executions, or either of them (not hereby implying that this defendant did give any such directions or instructions to the said sheriff through his attorney, agent, or other person).\n2. \u201c That William P. Little, as such special deputy, levied upon and sold the goods under said two executions of this defendant, and Ackerman & Deyo \u201d [other judgment creditors], \u2018\u2018 without having received any directions or instructions so to do from this defendant personally (not hereby implying that this defendant did communicate such directions or instructions to said deputy through any other person).\u201d\n3. \u201c That this defendant took no part in the said levy and sale, and had no portion of said goods under his control, and had received no portion of the proceeds of the sale personally (not meaning to imply that this defendant has done, received or suffered, the same to be done, by any person on his behalf\u201d).\n[Signature of plaintiff\u2019s attorney, &c.]\nThe court, thereupon, on motion of defendant, dismissed the complaint, to which plaintiff excepted, and the court at general term affirmed the judgment of dismissal with costs, Avithout, however, rendering any opinion, and the plaintiff appealed.\nWilliam 0. Hornfager, for plaintiff, appellant;\nAs to dismissing complaint before plaintiff had rested his case, cited Pike v. Evans, 15 Johns. 210; Shall v. Lathrop, 3 Hill, 237; Lawrence v. Barker, 5 Wend. 301. As to defendant\u2019s liability for ratifying his attorney\u2019s acts, cited, beside eases cited in opinion, Coates v. Darby, 2 N. Y. (2 Comst.) 517; Morgan v. Varick, 8 Wend. 587; Stewart v. Wells, 6 Barb. 79; Fonda v. Van Horne, 15 Wend. 631; Davis v. Newkirk, 5 Den. 92. As to plaintiff\u2019s right to be relieved from the stipulation, and from a summary judgment where he had not opportunity to be heard, Becker v. Lamont, 13 How. Pr. 23; Fitch v. Hall, 18 Id. 314; People v. Medical Soc. of Erie, 32 N. Y. 196.\nB. W. Van Pelt, for defendant, respondent.\nThe facts admitted by the stipulation were a perfect defense (Allen v. Crary, 10 Wend. 359; Fonda v. Van Horne, 15 Id. 631); and it was the duty of the court to nonsuit. Bostwick v. Abbott, 16 Abb. Pr. 417; S. C., less fully, 40 Barb. 331.\nBesides the authorities cited in the case in the text, see also Kerr v. Mount, 28 N. Y. 659; and Chambers v. Clearwater, reported in this series,\nOpposed in Richardson v. Reed, 4 Gray (Mass.) 441."
+  },
+  "file_name": "0008-01",
+  "first_page_order": 18,
+  "last_page_order": 23
+}

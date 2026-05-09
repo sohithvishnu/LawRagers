@@ -1,0 +1,63 @@
+{
+  "id": 2001822,
+  "name": "Thompson against Eb. Gregory",
+  "name_abbreviation": "Thompson v. Gregory",
+  "decision_date": "1809-02",
+  "docket_number": "",
+  "first_page": "81",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Johns. 81"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 350,
+    "char_count": 6486,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 1.5899197467089927e-06,
+      "percentile": 0.9925621146252156
+    },
+    "sha256": "b8e0a5b64e1d781c1c40199b217bacba05180164af30693e68ff4621b5b84701",
+    "simhash": "1:bf466fb1840101eb",
+    "word_count": 1146
+  },
+  "last_updated": "2023-07-14T18:02:21.737570+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thompson against Eb. Gregory."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis case is submitted, without argument, and the counsel for the defendant has stated several points, as reasons for setting aside the verdict, and awarding a new trial.\n1. It is contended, that the plaintiff had no interest in the lands overflowed by the mill dam, as they were embraced by the exception or reservation, contained in the original lease to Griggs. The lease excepts and reserves all streams, and the soil under them, with the right to erect mills, and mill dams, and it then excepts and reserves the land which may be overflowed, in consequence of such dams. But until the grantor has exercised his right to erect mills, and mill dams, it cannot be ascertained what lands will be overflowed, and the reservation is, in the mean time, inoperative, and, considered strictly as an exception in the deed, it is void for uncertainty. It must be construed in relation to the subject matter, and it is like the right to erect mills, and to have ingress to them, the reservation only of a right to use the lands so conveyed, for such a specific purpose. The direct interest in the soil, in the mean time, passed by the deed; and the plaintiff can well maintain the present action, so far as respects his interest in the premises. '\n2. The next, and the principal point in the case, relates to^the,matter set up as a defence, and to the competency of the witness, who was offered to prove it. The defence was, that the mill and mill dam were erected by permission of Stephen Van Rensselaer, the original grantor, and Stephen Gregory was offered as a witness to prove this permission. He was objected to, and rejected ; but the plaintiff, at the same time, offered to admit in evidence any permission in writing from the grantor. It is not necessary to examine whether the witness was, or was not competent, because assuming him to have been so, his testimony would have been of no avail, since the right in question could not pass by parol. The right reserved by the lease to the grantor, and his heirs and assigns, to erect mills, or mill dams, was an incorporeal hereditament. It was not the- land itself, but a right annexed to it, and it could only pass by grant. The appropriate subject matter of grants, is these incorporeal rights, of which livery cannot be had, and a grant is, in general, good only by deed. This was the rule of the common law, and were it otherwise, no such interest could be assigned, or granted, without writing, according to the express provision of the statute of frauds. The court are of opinion, therefore, that the motion on the part of the defendant be denied.\nRule refused.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thompson against Eb. Gregory.\nALBANY,\nFebruary, 1809.\nWhere A.granted 8G acres of iandtoB.reserv\u00d3f^-ater^imdthe erecting mill dams, and all such part of the overflowed*1 by y^of m\u00fcis \u00edbr g of l*16 premises like exceptions, dam on his part vibch thefiauS flowedWit \u00b0w-(s hold, that A. exercised luo rls!lb ami erected dams, the re-serration was inoperative, and, if considered ceptiun, would certainty; that the ?ase\u00b0by R a' so near the land o\u00ed B. as to overfloy t \u201c3 mul that a parol permission given to C. by A. was the right\u2019 re\u201c.\u00a1g^al grantor^ porcal Tereditaonty^hy^deed^ ail(i werc lt signmentofsuch the statute of frauds, must he writing.\nTHIS was an action on the case, for erecting a dam across a stream or water running through the land, o\u00ed the plaintiff, situate in the manor of Rensselaer, and so near the land of the plaintiff, that it was thereby overflowed. At the trial of the cause, the following facts appeared. The plaintiff was in possession of land, through which the stream ran, which was admitted to be an an-dent stream, and in 1802, the defendant erected a back-\u25a0mill and dam, below the possession of the plaintiff. The plaintiff\u2019s land, every season, was overflowed by the stream, at high water, before the dam was built; and the dam erected by the defendant, prevented the water from running off the plaintiff\u2019s land, as soon as formerly, and thereby destroyed its use as meadow. About nine acres of the plaintiff\u2019s land were thus overflowed.\nThe defendant gave in evidence a lease, dated 7th January, 1797, from the proprietor of the manor to one Joshua Griggs, which included the premises of the plaintiff, and also those of the defendant, where the back-mill and dam were erected. The lease contained about 86 acres, 40 acres of which were, on the 21st March, 1806, assigned by Griggs to one Stephen Gregory, and they included the land whereon the mill and dam were erected, The defendant held his premises, by a parol agreement under Stephen Gregory. The lease to Griggs, contained , \u201e \u201e the following exception, excepting, and reserving out of the grant, unto the grantor, his heirs and assigns, all mines, &c. and all streams and runs of water upon the premises, with the soil under the same, and the right and privilege of erecting upon any part of the premises, mills and dams, &c. for the use of the grantor, &c. and also, such part of the said land, as may, by the said dams, be overflowed with water, &c. and also free ingress, &c. for the purposes of, &c. the grantor, his heirs and assigns, making a due abatement in rent for the lands which he shall so use and occupy.\u201d The defendant contended that the lands of the plaintiff, thus overflowed, were included in the exception, and did not pass by the grant, and that the plaintiff could not bring the action; but the objection was overruled: the defendant then offered to prove by Stephen Gregory, that the defendant erected the mill and dam, by permission of the original grantor, and the witness, on being examined as to his interest, said, that the fee of the land on which the mill and dam were erected, was still in him, but that the defendant entered under a parol contract with him for the purchase of the land, and built the mill and dam thereon. The witness, being objected to as interested, was rejected; but the plaintiff offered to admit any permission in writing from the grantor. The witness then offered a release of his right to the premises, in the possession of the defendant under the parol contract, and on which the mill and dam stood, and which release the defendant was ready to accept. The witness was still rejected, as incompetent, and the jury-found a verdict for the plaintiff, for 31 dollars 8 cents damages.\nA motion was made to set aside the verdict, and a case containing the above facts, was submitted to the court, without argument."
+  },
+  "file_name": "0081-01",
+  "first_page_order": 93,
+  "last_page_order": 95
+}

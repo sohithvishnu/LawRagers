@@ -1,0 +1,66 @@
+{
+  "id": 496014,
+  "name": "Magie and others against Baker and others; Myers and others against The Same",
+  "name_abbreviation": "Magie v. Baker",
+  "decision_date": "1856",
+  "docket_number": "",
+  "first_page": "435",
+  "last_page": "439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 N.Y. 435"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 370,
+    "char_count": 8040,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 6.580816677781533e-07,
+      "percentile": 0.9615076014084218
+    },
+    "sha256": "07d204a2e79f67c89487edbef4a1de45eef2605b3de82da146de873fcb21ae04",
+    "simhash": "1:9a818e9235afaed3",
+    "word_count": 1431
+  },
+  "last_updated": "2023-07-14T19:45:34.977583+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Magie and others against Baker and others. Myers and others against The Same."
+    ],
+    "opinions": [
+      {
+        "text": "Comstock, J.\nThese causes, which are alike, were tried at a special term of the supreme court, without jury, and the complaint in each was dismissed. The judgments were affirmed at the general term, and the plaintiffs appeal to this co'urt. For the purpose of review the cases were made in the following manner: In the first place, the evidence, which is voluminous, embracing a variety of schedules and facts and matters in detail, is inserted. At the close of the evidence, it is set forth that the cause was then summed up, the counsel for the plaintiffs insisting upon certain propositions, both of fact and law, which are set out, and which, if true, would entitle the plaintiffs to the relief demanded It is then stated that the judge overruled those propositions; but there is no entry of any exception to the decision. The case then proceeds to say that the judge found certain conclusions of fact and law as follows. Then come the conclusions, with a paper attached thereto called \u201cAmendments, marked A.\u201d In that amendment the general conclusions of the judge, both of fact and law, are very properly stated, the last one being \u201cthat the plaintiffs have failed to sustain their complaint, and that the same should be dismissed with costsbut there is no entry of any exception to these conclusions or any one of them. This is the end of the case or history of the trial, which was prepared in order to a review at the general term, and it is brought before this court in the same form. The next paper contained in the appeal book is an extended opinion of the judge who tried the cause, in which he discusses somewhat the evidence, and, at large, the principles of law involved in his decision, the conclusion being as follows: \u201c I order and adjudge that the complaint be dismissed with costs.\u201d Then follows an entry in these words : \u201c To which decision, and to each and all thereof, the plaintiffs then and there excepted.\u201d After these matters, the next paper in order is the formal decision signed by the judge, simply directing, as it should, that the complaint be dismissed. Then the exception before mentioned is repeated in the same words. This decision was filed, and the judgment of the court entered thereon follows in due order.\nIn the cases of Hunt v. Bloomer and Johnson v. Whitlock, at the last April term (3 Kern., 341, 344), we considered attentively the provisions of the Code in regard to exceptions and the preparation of cases for a review after trial by the court or referees, and we endeavored to point out a uniform and intelligible practice. We said that the review could be had on a case only, which must be so drawn and settled as to contain the conclusions of fact and law and all the exceptions intended to be argued in the appellate court; and that it should also contain so much only of the evidence as may be necessary for the examination of any conclusion of fact intended to be reviewed in the supreme court. In these causes the cases are not prepared in accordance wfith the rules we laid down. I suppose the paper called a statement of facts, and the amendments thereto in a separate schedule, marked A., containing the conclusions of fact and law, are intended as part of the case, although they should have been settled and properly incorporated into the body of the proceeding, instead of being outsiders as they now appear. But the fatal difficulty is that there is no exception. The case should have stated not only that the judge refused to hold and decide according to the points submitted to him, but also that the plaintiffs excepted to his refusal. His conclusions upon the law should also have been excepted to in a proper manner. If they were all wrong, a general exception to all of them would be sufficient; but it is always safer to put in an exception to each refusal of the judge to hold as requested, and to each of his conclusions upon the law. Conclusions of fact need no exception. They can he reviewed in the supreme court without any, and in this court they cannot be reviewed at all. In these causes, as the cases are made up, there is no exception to the refusal of the j udge to decide as he was requested upon the law, or to the points which he did decide, and there is therefore nothing to review.\nThe appeal book contains, it is true, an elaborate opinion of the judge, and a general exception thereto. But that opinion is not in the case, and has no right to be there. It is not one of the papers on which an appeal can be taken. We sometimes notice a practice of filing an extended opinion signed by the judge, and making it a part of the roll, as the authority for the judgment which is entered. This is altogether erroneous. In the appeal book it is very proper that the opinion, if any has been written, should be printed, in order to give the appellate court the benefit of the reasons assigned for the judgment. But it performs no other office. The paper to be signed by the judge and filed as the authority for the judgment is a very brief and simple statement, directing what judgment is to be entered, but not giving any reason therefor. Such a statement was signed and filed in these causes, merely reciting that the suits had been tried and ordering the complaints to be dismissed, and the general exception is repeated at the foot of this statement. But the difficulty still is that there is no exception in the case prepared and settled on the appeal. In Hunt v. Bloomer (supra), we held that the office of exceptions, made after the final decision, was merely to authorize them to be properly set forth in the case to be settled. They are allowed to be made within a specified time after the judgment, because there is no opportunity to make them during the trial. The error has been in supposing that a judgment is to be reviewed upon disconnected and disjointed papers loosely thrown together in a printed book, which must be looked through in order to find the one that is essential. We repeat what was said in the cases referred to, that a case must be made containing the exceptions in due form. That, together with the pleadings and judgment, constitutes the matter to be examined in this court on appeal.\nInstead of dismissing these appeals we allow the appellants until the next March term of this court to put these cases in proper form, and have an amended return made, with leave to make any motion in the supreme court which they may be advised is necessary; and unless the cases are so reformed the appeals are to be dismissed with costs\nOrdered accordingly.",
+        "type": "majority",
+        "author": "Comstock, J."
+      }
+    ],
+    "attorneys": [
+      "A. Mann, for the appellants.",
+      "Dana & Beers, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Magie and others against Baker and others. Myers and others against The Same.\nTo authorize a review, by this court, of a judgment in a cause tried by a judge without a jury, there should be a case containing so much of the evidence as is necessary to present the'questions raised, the facts found by the judge, his conclusions of law, and exceptions to the rulings complained of.\nThese should all be incorporated in the case prepared and settled. The prae- \u2022 tice of referring, in this case, to separate papers, making part of the judgment roll, for the conclusions of fact or law or the exceptions, disapproved.\nWhere the case, as settled, contains no exceptions, there is no question for review by this court.\nThere should be a distinct exception to each conclusion of law pomplaincd of.\nA general exception is not available unless all the conclusions are erroneous. What the case prepared and settled should contain, discussed and pointed out by Comstock, J.\nThe actions were brought by the plaintiffs, as judgment creditors, to set aside an assignment alleged to be fraudulent. The causes were tried at a special term of the supreme court in the city of Hew-York, without a jury. The complaints were dismissed, and, after judgment of affirmance at a general term, the plaintiffs appealed to this court. The facts are sufficiently stated in the opinion of the court. The causes were submitted on printed briefs, by\nA. Mann, for the appellants.\nDana & Beers, for the respondents."
+  },
+  "file_name": "0435-01",
+  "first_page_order": 435,
+  "last_page_order": 439
+}

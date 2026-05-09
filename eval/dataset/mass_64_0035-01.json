@@ -1,0 +1,83 @@
+{
+  "id": 1991468,
+  "name": "Ezekiel Keith & another vs. George A. Kibbe",
+  "name_abbreviation": "Keith v. Kibbe",
+  "decision_date": "1852-09",
+  "docket_number": "",
+  "first_page": "35",
+  "last_page": "36",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "10 Cush. 35"
+    },
+    {
+      "type": "official",
+      "cite": "64 Mass. 35"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Met. 491",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        1976745
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/53/0491-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 166,
+    "char_count": 2293,
+    "ocr_confidence": 0.607,
+    "pagerank": {
+      "raw": 4.175302287060668e-07,
+      "percentile": 0.912355121862317
+    },
+    "sha256": "eba4f89f3e60b87efd3cbbdeecbc28f51c566657b7bbd13d52c1d23ba140f0a5",
+    "simhash": "1:8d48bea043edb5c1",
+    "word_count": 403
+  },
+  "last_updated": "2024-02-27T20:14:57.717810+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ezekiel Keith & another vs. George A. Kibbe."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nThe day-book of the plaintiffs was not competent for the purpose for which it was allowed to be introduced. The controversy was not as to the items or time of delivery of the timber. It was conceded that the amount was furnished by the plaintiffs, and was used in building the defendant\u2019s house. But the defendant denied that he was the purchaser, and insisted that the same was sold by the plaintiffs to one Rollins, the contractor for building the house. It was a mere question as to the party who was the debtor to the plaintiffs for these articles. And in this aspect of the question, the plaintiffs could not properly be allowed to introduce their own charges for the timber made against the defendant as the debtor, to aid in sustaining their case. The case of Ball v. Gates, 12 Met. 491, cited by the plaintiffs, differs materially from the present, as there was other evidence relied upon to charge the defendant as the debtor, and the book was offered to show merely the items delivered.\nExceptions sustained: verdict set aside.",
+        "type": "majority",
+        "author": "By the Court."
+      }
+    ],
+    "attorneys": [
+      "W. G. Bates, for the defendant.",
+      "H. Morris, for the plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "Ezekiel Keith & another vs. George A. Kibbe.\nIf a defendant in an action for goods sold admits the delivery of all the items sued for, but defends on the ground that the sale was to a third person, the plaintiff\u2019s books of account are not admissible to prove that credit was given to the defendant.\nAssumpsit for the price of a quantity of timber sold by the plaintiffs to the defendant. The trial was before Mellen, J. in the court of common pleas, and the defendant admitted the delivery by the plaintiffs, of the timber sued for, and that it was used in a dwelling-house erecting for him, but contended that the same was sold to one Rollins, a contractor,, who had agreed to furnish the materials and build said house. The plaintiffs called their clerk, who produced their books of account, and swore to the entries therein made by himself, charging said timber to the defendant. The defendant objected to these entries as incompetent evidence of the fact to whom the credit was originally given, but the presiding judge admitted the evidence. The verdict was for the plaintiffs, and the defendant excepted. The case was argued in this court, as of the September term, 1851.\nW. G. Bates, for the defendant.\nH. Morris, for the plaintiffs."
+  },
+  "file_name": "0035-01",
+  "first_page_order": 43,
+  "last_page_order": 44
+}

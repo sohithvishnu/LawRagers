@@ -1,0 +1,66 @@
+{
+  "id": 2001835,
+  "name": "Jackson, ex dem. Hull, against Babcock",
+  "name_abbreviation": "Jackson ex dem. Hull v. Babcock",
+  "decision_date": "1809-08",
+  "docket_number": "",
+  "first_page": "418",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Johns. 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 4110,
+    "ocr_confidence": 0.591,
+    "pagerank": {
+      "raw": 6.956837768214894e-07,
+      "percentile": 0.9653448907639017
+    },
+    "sha256": "2dcfbc88c4c604ca48b29c00f48222368047fb8795b69bf561a725103f273629",
+    "simhash": "1:0d4dac91bfa4c45d",
+    "word_count": 698
+  },
+  "last_updated": "2023-07-14T18:02:21.737570+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson, ex dem. Hull, against Babcock."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe instrument of writing, given by Goodrich to Hitchcock, was a mere license, or personal privilege to inhabit; it conveyed no title to the premises. As soon as Hitchcock sold the premises to Cragie, it put an end to the privilege granted by Goodrich. The plaintiff is clearly entitled to recover.\nJudgment for the plaintiff.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "E. Williams,",
+      "Van Vechten, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Jackson, ex dem. Hull, against Babcock.\nALBANY,\nAugust, 1809.\nWhere G. by writing Under his hand and seal, gave to H. ihe privilege, during pleasure, to occupy a certain piece of land, and H. afterwards sold the land to C. it was held, that the instrument given by G. was a mere license orpersonal privilege to occupy, which was determined as soon as H. undertook to convey the premises.\nTHIS was an action of ejectment, brought to recover lands, which include the Mineral Spring, in the village of New Lebanon, in the county of Columbia, in the possession of the defendant. The cause was tried at the Columbia circuit, in October, 1808. On the trial it was admitted by both parties, as follows : That prior to the year 1760, and from that time down to the 19th December, 1778, Charles Goodrich held the premises, claiming in his own right; that on the 19th December, 1778, James Hitchcock, an invalid, and a poor man, came to the Springs for the purpose of using the water ; on application to Goodrich, he obtained from him the following instrument in writing, to wit: \u201c taking into consideration the advantage the pool may prove to the public good of mankind, and the conveniency of more buildings on the premises, for their -comfort, as well as out of benevolence to Mr. James Hitchcock, whose circumstances and character render it necessary, and his own and the public advantage : wherefore I do give the privilege, and secure by this lease, unto the said James, during Ms pleasure, unmolested, the privilege of building over, or near the said pool, on the sequestered lands, on that land reserved adjacent to the said pool, which is reserved for the advantage the\" public may have of the said pool, in Hancock : and that the said James shall have the privilege of building as aforesaid, thereon, free from molestation, disturbance, injury, or removal, from, of under me, for him the said James to inhabit, occupy, peaceably, and quietly possess the premises aforesaid, during his necessity or pleasure. Provided nevertheless, the said James shall not thereby molest, or discommode the public good, or encroach, or impede the public privileges, contrary to the design hereof.\n44 \"Pittsfield, 19th December, 1778.\n\"Charles Goodrich,\u201d L. s.\nHitchcock, some time after, built a small house, near the pool, and took possession of a small piece of land, for a garden j continuing an invalid, he lived in possession of the house, under Goodrich, and his assigns, to the 25th July, 1795, when Hitchcock executed to Andrew Cragie, a conveyance, without covenants, or warranty, of all his right to the house and land, so possessed by him, lying around the pool, being the premises in question j and on the same day delivered to Cragie the possession, according to, and under the same conveyance. The defendant then hired the same premises of Cragie, and has continued to hold them of Cragie, to this time, and has erected additional buildings thereon.\nOn the 18th January, 1790, Goodrich, in due form of law, conveyed the same premises, to William, Nichols, without reserving any right in the premises, either to himself, Hitchcock, or any other person.\nBy mesne conveyances, the lessor of the plaintiff became possessed of all the right and title to the premises which were ever vested in Goodrich or Nichols.\nNotice to quit had been repeatedly given, but the defendant, and his landlord always denied the title of the lessor of the plaintiff, claiming title in himself, by virtue of the deed from Hitchcock, who is still living, and now resides with the lessor of the plaintiff.\nA verdict was entered for the plaintiff, by consent j subject to the opinion of the court, upon the foregoing case.\nE. Williams,\nfor the plaintiff, was stopped by the court.\nVan Vechten, contra."
+  },
+  "file_name": "0418-01",
+  "first_page_order": 430,
+  "last_page_order": 432
+}

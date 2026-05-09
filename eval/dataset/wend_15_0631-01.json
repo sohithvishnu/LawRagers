@@ -1,0 +1,104 @@
+{
+  "id": 2018808,
+  "name": "Fonda and Hoag vs. Van Horne",
+  "name_abbreviation": "Fonda v. Van Horne",
+  "decision_date": "1836-10",
+  "docket_number": "",
+  "first_page": "631",
+  "last_page": "637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Wend. 631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Johns. Cas. 127",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1888939
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-cas/1/0151-01"
+      ]
+    },
+    {
+      "cite": "2 Wend. 153",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        3517424
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/2/0153-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 349",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012845
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/10/0349-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 616,
+    "char_count": 14503,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 1.373351190221469e-06,
+      "percentile": 0.9903708671818319
+    },
+    "sha256": "9abfbe8ef376bee27d6b24d2612a4df32235ea96589cb651f08405f09b43e207",
+    "simhash": "1:44abff6d492b2b51",
+    "word_count": 2680
+  },
+  "last_updated": "2024-02-27T20:50:12.147231+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fonda and Hoag vs. Van Horne."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nBronson, J.\nVan Horne, the father, had no legal interest in the event of the suit. If the plaintiff recovered, the witness, as her guardian by nature, could have no right to the possession or use of the property. He procured two persons to receipt the goods, but it does not appear that he agreed to indemnify them. Although they acted on his request, it may have been from motives of kindness towards the plaintiff, and without any right to resort to the witness in case of loss.\nThere was sufficient evidence of a trespass, or taking of the goods to sustain the action. Fonda, the creditor, directed the levy, and agreed to indemnify the sheriff; and Hoag, the deputy, made the levy. An inventory was made of the property, and a receiptor was required to prevent its removal. The defendants exercised dominion over the goods. Allen v. Crary, 10 Wend. 349.\nThe objection that Van Horne as the guardian of the plaintiff was entitled to the possession of the property, and that the action should have been brought by him, cannot be sustained. He was not guardian in socage, for two reasons: First, it does not appear that the daughter was seized of any lands held by socage tenure; and second, as in this state the inheritance may descend to his father, he could not at the common law be guardian in socage to his child. Coke Litt.88 b. (note 67.) Jackson v. Combs, 7 Cowen, 36. S. C. in error, 2 Wend. 153. Both of these rules of the common law were modified in the late revision of the statutes. Where an estate in lands becomes vested in an infant, the guardianship of such infant now belongs to the father, with the rights, powers and duties of a guardian in socage. 1 R. S. 718, \u00a75. But it does not appear that the plaintiff has in any form an estate in lands; and consequently Van Horne had no rights under this statute. He was guardian by nature to the plaintiff, but this guardianship only extended to the person of his daughter, and gave him no control over her property, real or personal. Combs v. Jackson, 2 Wend. 153. If the plaintiff owned the property, the action was properly brought in her name.\nIn relation to the cow which the plaintiff purchased of Put-man, no question was made on the trial, nor do I perceive that there was room for any. The mere fact that the father kept the cow and had the use of it, would not make the transaction fraudulent against his creditors. The use of the animal must have been worth more than the keeping, and the creditors of the father could not be injured by such an arrangement between him and his child.\nThe only difficulty in the case is in relation to the cow which Van Horne purchased of Easterbrooks and gave to the plaintiff in the place of the one he had previously sold. If this must be regarded as a gift on the part of the father, then as he was insolvent at the time, the daughter acquired no title as against his creditors; and if it was a sale instead of a gift by the father, it would be primafacie fraudulent as against creditors, because he still retained the possession of the property. It was important, therefore, for the plaintiff to connect this transaction with her title to the cow that was given to her by Gross. The court charged the jury, that if Van Horne merely carried into effect the will of his daughter, by disposing of one cow and procuring for her another as good,as her agent, then the plaintiff was the real owner, and the defendants were not justified in taking the cow. This was, in effect, instructing the jury as matter of law, that the plaintiff though an infant, could constitute her father an agent for the sale of her property. The charge was in this particular erroneous. The plaintiff could not appoint an agent for the sale of her property. Her will or consent conferred no authority upon her father. She might treat him as a wrong-doer for making the sale, and the purchaser acquired no title. Notwithstanding the attempted transfer, the cow which was the gift of Gross still remained the property of the plaintiff, and she might assert her right to the property in the same manner as though it had been wrongfully taken by a stranger.\nWhat acts of an infant are void, and what are voidable only, is a question which has been very much discussed in the books ; and several attempts have been made to lay down some general rule which should be applicable to all cases; but with no great success. In Keane v. Boycott, 2 H. Black. 511, Lord Ch. J. Eyre laid down the doctrine that where the court could pronounce the contract for the benefit of the infant, as for necessaries, it was good ; where the court could pronounce it to be to the prejudice of the infant, it was void ; and in those cases where the benefit or prejudice were uncertain, the contract was voidable only. This may answer well enough as a general rule, but it must be subject to exceptions. It may be for the benefit of an infant to appoint an attorney or agent to sell his lands, but such an act would be clearly void. A conveyance, by the infant himself, of his lands, may be to his prejudice, and yet under certain circumstances the conveyance will be voidable only ; and there must be many cases where the act will be void, although it may be uncertain whether it will benefit or prejudice the infant. In Zouch v. Parsons, 3 Burr. 1794, Lord Mansfield sanctioned the rule laid down by Perkins, that \u201cAll such gifts, grants, or deeds made by infants, which do not take effect by delivery of his hand, are void; but all gifts, grants or deeds, made by infants, by matter in deed or in writing, which do take effect by delivery of his hand, are voidable, by himself, by his heirs, and by those who have his estate.\u201d He remarked that the words \u201c which do take effect,\u201d were an essential part of the definition, and exclude letters of attorney,ox deeds which delegate a mere power and convey no interest. A conveyance by lease and release executed by the infant, was held to be voidable only, and that he could not avoid it until he arrived at full age. Although the case of Zouch v. Parsons has been questioned in England, it was approved by this court in Conroe v. Birdsall, 1 Johns. Cas. 127. It was decided in this case, that the bond of an infant was not void, but was voidable only. A different rule was laid down by Lord Coke, who says that an infant will not be bound by a penal obligation, even where it is given for necessaries. Co. Litt. 172, a. See also 4 T.R. 363, and Baylis v. Dineley, 3 Maule & Sel. 477. In Swasey v. Vanderheyden, 10 John. R. 33, it was held that the negotiable note of an infant given for necessaries, and where that fact appeared upon the face of the instrument, was void. Whether this case and that of Conroe v. Birdsall stand well together, need not now be considered.\nIn relation to personal chattels, the rule seems to be, that if an infant give or sell his goods and deliver them with his own hand, the act is voidable only; but if he give or sell goods, and the donee or .vendee take them by force of the gift or sale, the act is void, and the infant may bring trespass. 1 Mod. 137. Bac. Abr. Infancy & Age, 1, pl. 3. This distinction was re-coSn'zec^ Roof v. Stafford, 7 Cowen, 179. The infant brought trover for a horse which he had sold to the defendant, and the court held that the sale was not absolutely void, on the ground that he had made manual delivery of the goods; and being voidable only, that he could not avoid the sale until he came of age. This judgment was reversed in the court for the correction of errors, 9 Cowen, 626, on the ground that it did not appear in point of fact that there had been a manual delivery of the horse. Chancellor Jones, who delivered the opinion of the court, said, \u201c the fact of possession by the vendee would be evidence of a delivery in the case of an adult; but in case of an infant vendor, there'should be strict proof of personal delivery. An infant cannot make an attorney. The appointment would be void ; and there being no proof of actual manual delivery, the contract would seem to be void. The agreement to sell conferred no right upon the vendee to take. The mere agreement of the infant to sell would not protect the vendee against an action of trespass for taking the horse. The taking would be tortious, and in itself a conversion.\u201d In the case under consideration, the plaintiff did not deliver the property, and the sale by the father was wholly without authority. The infant could not make an attorney or agent to do such an act. The purchaser acquired no title, and the plaintiff may at any time treat him as a tort-feasor, and recover the value of the property. The ground on which the court below placed the cause, in their charge to the jury, is wholly untenable ; and it is therefore unnecessary to inquire whether there be any other ground on which the plaintiff can succeed as to the cow (and its offspring) purchased of Easter-brooks. The plaintiff has never ratified the sale made by her father, nor can that be done while she remains an infant. The court below placed her title upon the ground that theffather, loith her consent and as her agent,had made an exchange of one animal for another, and that this was a lawful act. But her consent conferred no authority, and the father could not act as her agent. She has her remedy for the unauthorized sale; and that transaction can have no legal conn\u00e9ction with the subsequent purchase of two cows from Easterbrooks. If she acquired any right to one of those animals, it must be on the ground either of a gift or a sale to her by the father; and before she can recover, the validity of that act must be passed upon by a jury. But she can never recover this animal without making a profit by her incapacity to contract. She has an undoubted right of action for the cow given to her by Gross, and if she may also recover the one given in exchange by her father, she may have double satisfaction, when, in law, there has been but one injury. It is, however, enough for the present, that the court below erred in its charge to the jury.\nJudgment reversed,",
+        "type": "majority",
+        "author": "Bronson, J."
+      }
+    ],
+    "attorneys": [
+      "D. Cady, for the plaintiffs in error.",
+      "M. T. Reynolds, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Fonda and Hoag vs. Van Horne.\nPrevious to the last revision of our statutes, a father could not be guardian in socage to his child\u2014now he may be ;\u25a0 as guardian hj nature, a father has no control over the property, real or personal, of his child.\nIf a father, during the infancy of his child, sells chattel property belonging to the child, with the assent of the child, and for the purpose of having it replaced by other property, and the father purchases other property and gives it to the child, but it remains in the possession of the father, who at the time is insolvent, such substituted property does not become the property of the child, but is the property of the father, and subject to a levy under an execution against him.\nNo title passes to the purchaser of personal property belonging to an infant, unless manual delivery is made by the infant; it is not enough that the property be sold by an agent appointed by the infant.\nActs of an infant, when void, and when only voidable, considered.\nA levy upon property, the taking of an inventory and requiring a receiptor to prevent its removal, is sufficient evidence of taking to sustain the action of replevin.\nError from the Montgomery common pleas. Maria Van Horne, an infant, by her next friend, brought an action of replevin against Fonda and Hoag, for the taking of two cows and a calf. They were taken by Hoag, a deputy sheriff of Montgomery, by the direction of Fonda, by virtue of an execution issued on a judgment in favor of Fonda against A. Van Horne, the father of the plaintiff, obtained in January, 1833. The property was levied upon in February, 1833, and a receiptor required. The property was not removed. A. Van Horne testified that in June, 1829, a person of the name of Gross made a present of a cow to the plaintiff, the daughter of the witness, then about 10 years of age, and who lived in the family of the witness. That he kept the cow for the plaintiff about a year, when she became diseased, and he with the consent of the plaintiff, and on the condition that he should purchase another cow for her as good as the one she then had, sold the cow for $16, and in a few months afterwards purchased two cows of one Easterbrooks, and gave one of them to the plaintiff instead of the cow he had sold. He fur- y ther proved that in May, 1831, the plaintiff bought another cow of one Putnam, and that the two last mentioned cows, together with a calf which had come of the cow purchased by him of Easterbrooks and given by him to the plaintiff instead of the cow which he had sold, were the cattle described in the plaintiff\u2019s declaration. The cows and calf were kept by the witness as he kept his own, and he had the use of the cows. Van Horne, the father of the plaintiff, was objected to as an incompetent witness, but the objection was overruled. The counsel for the defendant moved for a nounsuit on the grounds, 1. that there was not such a taking of the property as would justify the bringing of the action, and 2. that the plaintiff being an infant, her father her guardian, and the property in his possession, an action did not lie in/ her name. The court refused to nonsuit the plaintiff, and charged the jury that the evidence of taking was sufficient to sustain the action ; and in respect to the cow bought of Easterbrooks and the calf which came from her, they instructed the jury that if they believed that A. Van Horne purchased of his daughter the cow which had been given her by Gross, then he would be liable to her for the value of the cow, and would be obliged to account to her for the same, and if he afterwards gave a cow to his daughter, he at the time being insolvent, such gift would not be valid as regarded his creditors, and if they so considered the facts of this case, the defendants were justified in taking that cow and her calf; but if they believed that A. Van Horne merely carried into effect the will of his daughter, and as her agent disposed of the cow which she had received of Gross, and procured for her another as good, then the plaintiff was the real owner of the cow thus substituted, and the defendants were not justified in taking the cow and her calf. To which charge the defendants excepted. The jury found for the plaintiff for both cows and for the calf. The defendants sued out a writ of error.\nD. Cady, for the plaintiffs in error.\nM. T. Reynolds, for the defendant in error."
+  },
+  "file_name": "0631-01",
+  "first_page_order": 631,
+  "last_page_order": 637
+}

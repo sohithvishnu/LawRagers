@@ -1,0 +1,82 @@
+{
+  "id": 2209409,
+  "name": "Joel Wolfe agt. The Supervisors of the County of Richmond",
+  "name_abbreviation": "Wolfe v. Supervisors",
+  "decision_date": "1860-03",
+  "docket_number": "",
+  "first_page": "370",
+  "last_page": "374",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 How. Pr. 370"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Denio, 595",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483998
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0595-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 612",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 388,
+    "char_count": 8611,
+    "ocr_confidence": 0.575,
+    "pagerank": {
+      "raw": 1.675921749265368e-07,
+      "percentile": 0.6967083795232849
+    },
+    "sha256": "62284f8705e9f1abe21746a8599e003f9fd4611168cdaa3a3a199e782c286130",
+    "simhash": "1:5e7f2dfefdb2761a",
+    "word_count": 1542
+  },
+  "last_updated": "2024-02-27T21:48:32.294411+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joel Wolfe agt. The Supervisors of the County of Richmond."
+    ],
+    "opinions": [
+      {
+        "text": "Ingraham, Justice.\nThe plaintiff claims to recover damages for property destroyed by a mob in the county of Richmond. The complainant avers that he was the owner of goods and chattels in the town of Westfield; that a riot was there committed by certain persons, and the dwelling house in which such goods and chattels then were was set on fire by a mob, and the property of the plaintiff was thereby destroyed. The complaint further avers that the plaintiff was not apprised of any threat or attempt to destroy or injure his property..\nThe defendants demur to the complaint, for the cause that it does appear on the face of the complaint that the same does not state facts sufficient to constitute a cause of action.\nThis action is brought under the statute of 1855, ch. 428, which provides that any city or county shall be liable to an action by or in behalf of the party whose property was thus destroyed or injured for the damages sustained by reason thereof.\nIt is not necessary for the plaintiff to aver in the complaint that he did not aid in, assist or permit the destruction of the property. He avers that the act was done by the mob, and there is nothing in the statute which requires any other averment. It is never necessary in a complaint for injury to the person or to property, to aver that the act did not occur through the negligence or carelessness of the plaintiff. That may be shown by the defendant as matter of defence upon the trial; but it is not necessary to be averred in the complaint, any more than it is necessary upon the trial for the plaintiff, in making his case, to prove in the first instance that he was not at fault, either through carelessness or negligence. The defendant may prove it, and if any proof of that character is offered, the plaintiff then, and not before, is required to show that he was free from such fault.\nThe objection that the act of 1855 was not passed by a three-fifth vote, cannot be taken on this demurrer. It does not appear on the face of the complaint that any such objection exists. The complaint avers that the statute was passed by the legislature. In the absence of any proof on that subject, we must presume that it was properly passed.\nThe only objection remaining is to the constitutionality of the act of 1855. This does not involve any question as to the power and authority, or as to the liability and duty of the sheriff. That he has power to suppress riots, and for that purpose to use the whole force of the county, cannot be doubted But the action is not founded on any injury arising from the act of the sheriff. It is the reverse. It rests entirely on the acts of those engaged in the riot, whether they were committed in consequence of the inability or neglect of the proper authorities to maintain the peace by preventing or suppressing riots. Upon the same principle, acts of negligence by corporate authorities are the grounds of action by individuals whose property is damaged by, or in consequence of such negligence, when, if the injury had arisen from the acts themselves, properly performed, no damage could be recovered. The cases of The Mayor, &c., agt. Freeze, (3 Hill, 612,) The Mayor, &c., agt. Lloyd, (1 Seld., 369,) The Mayor agt. Huston, (5 Seld., 163,) and others cited in those cases, are in point to show that such actions may be maintained for negligence causing damage. And Wilson agt. The Mayor, &c., (1 Denio, 595,) is important to show that by acts legally done, although injurious, no liability exists.\nThe statute, (1 R. S., 384,) provides for bringing actions against a county in the name of the board of supervisors. I do not understand the defendants as objecting to the mode in which the action is brought: but to the power of the legislature to impose upon the county this liability under the act of 1855.\nI suppose it must be conceded that the legislature has ample power to declare any act legal or illegal, and to impose liability for damages to a party injured in all cases in which there is no restriction contained in the fundamental law which limits their powers. If the constitution does not affix a limit by prescribing cases in which they may not act, they have full authority to legislate in regard thereto.\nThe defendants, however, contend that such prohibition is contained in the 1st section of the 10th article of the constitution, which says: \u201c The county shall never be made answerable for the acts of the sheriff.\u201d The true construction of this clause is, that for anything done by the sheriff in the discharge of his official duties, the county should not be liable. If it had been averred that the sheriff, while attempting to preserve the peace, illegally took possession of and destroyed the plaintiff\u2019s property, this provision would apply and would protect the county from liability. In the present case, however, I do not understand this action to be founded on any claim for damages arising out of the acts of the sheriff. The statute of 1855 does not place the responsibility either on the act of the sheriff, nor as the defendant supposes, on the neglect of the sheriff to act. The only ground of liability is the existence of a mob or riot in the county, and the destruction of property by such mob.\nThe propriety of charging the people of counties with the consequences of riots within the county is apparent. It is not to punish them for the acts or negligence of the sheriff, but for their own conduct in permitting riots to take place. The sheriff could do nothing without the aid of the people. It becomes a matter of interest to them to prevent and suppress riots, if the statute makes them responsible for the damages proceeding therefrom, and although the sheriff is the officer to whom the authority is specially committed, yet there are other officers in the county who, with him, have authority to arrest all offenders against the public peace. It is no more intended to make the county liable for the acts of the sheriff, than for other officers. The provision in the statute which requires notice to be given to the sheriff in the county, requires the like notice to be given to the mayor of a city; but no part of the statute contemplates the liability as limited by the neglect of the sheriff to discharge his duties.\nThe inability of the sheriff to do what is necessary to suppress a riot, is no more a defence to this action than his neglect would be a ground for it. The liability is irrespective of either, and is imposed for the destruction of property by the riot, whether the sheriff has done all in his power or not to prevent it.\nThis notice is not for the purpose of fixing any liability on the sheriff. The party whose property is in danger is required to avoid everything which might aid, sanction or permit the injury to be done, and where he knows of the intended injury he is required to use all reasonable diligence to prevent it; and as an evidence that he has used such diligence, he is required to show that he has applied to the sheriff of the county for protection. The notice to the sheriff, so far as the plaintiff\u2019s rights are involved, is intended for no other purpose.\nThe plaintiff is entitled to judgment on the demurrer, with leave to defendants to answer, on payment of costs.",
+        "type": "majority",
+        "author": "Ingraham, Justice."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SUPREME COURT.\nJoel Wolfe agt. The Supervisors of the County of Richmond.\nIt is never necessary in a complaint for injury to the person or property, to aver that the act did not occur through the negligence or carelessness of the plaintiff. Therefore, in an action under the statute of 1855, ch. 428, where the complaint averred ec that the plaintiff was the owner of goods and chattels in the town of Westfield; that a riot was there committed by certain persons, and the dwelling-house in which such goods and chattels then were, was set on fire by a mob, and the property of the plaintiff was thereby destroyed,\u201d\nHeld, sufficient. It was not necessary for the plaintiff to aver that he did not aid in, assist or permit the destruction of the property.\nWhere the complaint averred that the statute was passed by the legislature, held, that the objection that the act was not passed by a three-fifth vote, could not be taken on demurrer. The presumption from the averment is, that it was properly passed.\nThe act of 1855 held not unconstitutional, as violating the 1st section of the 10th article of the constitution, which says: \u201cThe county shall never be made answerable for the acts of the sheriff.\u201d The only ground of liability under this statute, is the existence of a mob, or riot in the county, and the destruction of property by such mob."
+  },
+  "file_name": "0370-01",
+  "first_page_order": 378,
+  "last_page_order": 382
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1980755,
+  "name": "Higinbotham against Burnet and others",
+  "name_abbreviation": "Higinbotham v. Burnet",
+  "decision_date": "1821-02-24",
+  "docket_number": "",
+  "first_page": "184",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Johns. Ch. 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ch.",
+    "id": 9946,
+    "name": "New York Court of Chancery"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Johns. Ch. Rep. 354",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Johns. Rep. 495",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 486,
+    "char_count": 10042,
+    "ocr_confidence": 0.692,
+    "pagerank": {
+      "raw": 8.750645375883266e-07,
+      "percentile": 0.9776585430270259
+    },
+    "sha256": "e2e320a5ac7b0da3521f7dd03ef7e55400a8907d992605b9bd51bcdd55c63a4a",
+    "simhash": "1:2e4569728f7c30fa",
+    "word_count": 1776
+  },
+  "last_updated": "2024-02-27T22:18:34.516391+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Higinbotham against Burnet and others."
+    ],
+    "opinions": [
+      {
+        "text": "The Chancellor.\nThis is a demurrer to the whole bill, and there are two causes of demurrer assigned, (1.) That the plaintiffs claim to be seized in fee of the premises, and therefore the matter is properly and exclusively cognizable at law. (2<) That the bill contains no matter of equity.\nPerhaps it would be sufficient to dispose of the demurrer, by referring to the rule, (Laight v. Morgan, 1 Johns. Cases, 429.) that if a demurrer be general to the whole bill, and be bad, in part, it must be overruled. If it be good for discovery, and not for relief, a general demurrer to the whole bill is bad. The defendants should in such a case give the the discovery, and demur to the relief; and this rule was so settled, in the case referred to, in the Court of Errors. I cannot s\u00e9e any doubt, in this case, of the right of the plaintiffs to a discovery concerning the deeds charged in the bill to have been lost, and concerning their contents.\nBut the bill appears to me to state several distinct and sufficient heads of equity jurisdiction.\n\u00edt is easy to perceive, that the real ground of the claim of the defendants, as heirs of Vredenbergh, rests on the defec- . . \u00b0 , live conveyance from him to John Carpenter, under whom the plaintiffs claim title; and that defect consists in the omission of words of inheritance, the want of which, I apprehend, would confine the operation of the assignment, in a Court of law, to an estate for life. But when the right of the soldier rested originally in equity, and continued so when he conveyed his right to Smith, and when Smith transferred that right to Vredenbergh, and when we consider the charge in the bill that Vredenbergh and Carpenter negotiated and agreed for the sale and purchase of that entire right, and the circumstances attending the assignment from V. to C. and the language and mode of the assignment, and the accompanying delivery of the patent and original discharge of the soldier, there is good cause to infer a mistake in that assignment; and that owing to a defect in drawing it, the intention of the parties was not carried into effect. To remedy this defect, and to prevent an unconscientious advantage being taken of it, may afford a very fit case for equitable interposition. Under such special circumstances, a trust in fee may be considered as created, which this Court would execute according to the conscience and intention of the parties. There are many cases at common law in which a fee has been held to pass without the word heirs; (Co. Litt. 9. b.) and if a trust interest in fee was intended to be created by the assignment from V. to C., in like manner as a trust interest in fee was conveyed by the deed from Elliot to Smith, and by the assignment from Smith to Vredenbergh, then this Court, according to the doctrine in Fisher v. Fields, (10 Johns. Rep. 495.) would decree an adequate legal conveyance, according to that intention, notwithstandthe want of words of inheritance.\nThe allegations in the bill on which so much stress has been laid by the counsel for the defendants, that the plaintiffs were seized of the land in question, must be understood t0 mean an equitabie, and not a legal seisin. The whole scope of the bill, and the very fact of coming into this Court, demonstrate this meaning.\nThe bill also states facts, from which we are to infer, that Vredenbergh and his heirs, the present defendants, are equitably estopped from asserting any claim to a reversionary interest in the land. It is charged, that V. after the death of Carpenter for 13 years, stood by and saw great and costly improvements made upon the land, by persons claiming, and believing themselves to be owners in fee, under Carpenter, and never interposed any pretension of right or title. It appears from the cases referred to in Wendell v. Van Rensselaer, (1 Johns. Ch. Rep. 354.) that though the right of the party, who thus misleads third persons by his silence, be merely a reversionary interest, and subject to a life estate, in the very person whom he suffers to deal with the property as absolute owner, the rule of equity still applies, that he never shall be permitted to exercise bis legal title against such person. He is bound, and all persons claiming under him, are bound, by his silence. This case is much stronger than ordinary ones of the kind; for here the silence was maintained for thirteen years, after the assumed life interest of Carpenter had terminated. If Carpenter was bound to know the duration of his title, those who succeeded to the estate, after his death, were certainly encouraged and misled by the studied silence or express admissions of Vredenbergh ; and the case as stated, presents one of the strongest claims for the assistance of this Court against the assertion of a title under him by his heirs. It is to be traced up to imposition and fraud.\nThe demurrer must, therefore, be overruled with costs, and the defendant ordered to answer.\nOrder accordingly.",
+        "type": "majority",
+        "author": "The Chancellor."
+      }
+    ],
+    "attorneys": [
+      "Gold and Sill, for the plaintiffs.",
+      "M. Van Buren, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Higinbotham against Burnet and others.\nFebruary 24.\nWhere there is a general demurrer to the whole hill,, and it is bad in part, the whole will be overruled-\nIf a bill be for discovery only, and not for relief, a demurrer to the whole bill is bad.\nWhere the bill is for discovery and relief, the defendants should answer as to the discovery sought, and demur as to the relief.\nE., a soldier, entitled to a lot of land, as a military bounty, in 1785, before the patent issued, by an agreement, sold the lot to S., and bound himself to execute a deed of conveyance. S. sold and assigned the lot, bond, &c. in 1789, to V., who, in 1790, by endorsement, sold and assigned the same, and all his right, title, and interest in the land, &c. to C., to whom he delivered the original bond, agreement, and discharge of the soldier, and the patent for the lot: Held, thatalthough, for want of words of inheritance, the assignment, in law, transferred only an estate for life ; yet as it was clearly the intention of the parties to convey the whole estate, a trust estate in fee was to be considered as created and conveyed; and this Court would, therefore, decree an adequate legal conveyance in fee, according to the intention of the parties, notwithstanding the want of words of inheritance.\nThat V; in such case, having stood by, for thirteen years, after the death of C., and seen his heirs claiming to be owners in fee, under C., and dealing with the land as absolute owners, and making very great and valuable improvements upon the property, without disclosing any claim to the reversion, or any pretension of right or title, he,, and all persons claiming under him, were estopped, by his silence, from asserting his legal title.\nTHE bill stated, that lot No. 81, in Manlius, (part of the military bounty lands,) was patented to Archibald Elliot. That on the 17th of January, 1785, before the patent was issued, Elliot, by an agreement contained in the condition of a bond, sold the lot to Leonard Smith, and bound himself to execute a deed of conveyance. On the 4th of November, 1789, Smith, by an assignment endorsed on the bond, sold and assigned the lot and the bond to William I. Vredenbergh. The bond, with the assignment endorsed, was duly deposited in the office of the Clerk of Onondaga, pursuant to the act of 1794. On the 28th of August, 1790. Vredenbergh sold and assigned the bond, by an endorsement thereon, together with all his right, title, and interest in and to the land, to which he was entitled by the said bond, to John Carpenter: and V., at the same time, delivered to Carpenter the patent for the lot, and Elliot's discharge from the army. About the year 1792, Carpenter conveyed the lot in fee to Jeremiah Jackson, who entered upon it, built a house and.mills, and made valuable improvements. On the 25th of June, 1799, Jackson reconveyed the lot in fee to Carpenter, with warranty. C. entered on the premises, and continued in possession, until his death, in February, 1800. In February, 1806, a partition of the lands of C. was made among his heirs, pursuant to the statute, and the premises in question were allotted to the share of his son, Benjamin C. Ever since the conveyance of Jackson to John C., he and his heirs have been in the peaceable occupation of the premises, to the present time. Since his death, (and since the right, if any, of the heirs of V. had accrued,) several houses, mills, barns, 8zc. have been erected on the premises, and other improvements made, to the value of eighteen thousand dollars. That Vredenbergh, at the time of the death of John C., lived at Marcellus, within twenty miles of the premises, and continued to reside there until his death, in 1813; and he was well acquainted with the improvements making on the premises. The plaintiffs are severally seized in fee of parts of the lot, xmder Benjamin C.; and the defendants are the children and heirs of Vredenbergh,\nThe bill further stated, that Vredenbergh, at all times, and particularly after the death of John C,, disclaimed all interest in the lot, declaring that his whole interest had been conveyed to J. C,, and that his heirs were seized thereof in fee. That the heirs of V. claim the lot, denying that any other than an estate for life was conveyed by their father, for want of words of inheritance. But the plaintiffs charged, that the conveyance to J. C. was intended to create, and did create an estate in fee. That in May, 1820, the defendants brought . \" actions of ejectment against the plaintiffs, to recover possesS-Qn 0p t^e premises. The plaintiffs prayed a discovery as to the facts stated in the bill, and for a release from the defendants of any claim to the lot, and that they may be enjoined, &c. and for other relief, &c. An injunction was, accordingly, awarded.\nThe defendants demurred to the bill: 1. Because the plaintiffs claiming to be seized in fee of the premises, under the conveyance from V., it was a question of law only. 2. Because the bill contained no matter of equity.\nGold and Sill, for the plaintiffs.\nM. Van Buren, contra."
+  },
+  "file_name": "0184-01",
+  "first_page_order": 192,
+  "last_page_order": 196
+}

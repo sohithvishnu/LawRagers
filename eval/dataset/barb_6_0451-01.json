@@ -1,0 +1,137 @@
+{
+  "id": 4876627,
+  "name": "Dorlon vs. Douglass",
+  "name_abbreviation": "Dorlon v. Douglass",
+  "decision_date": "1849-05-07",
+  "docket_number": "",
+  "first_page": "451",
+  "last_page": "457",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 Barb. 451"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "9 John. 141",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372266
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/9/0141-01"
+      ]
+    },
+    {
+      "cite": "3 John. 427",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129904,
+        2129857
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0427-01",
+        "/johns/3/0427-02"
+      ]
+    },
+    {
+      "cite": "15 John. 229",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/15/0229-01"
+      ]
+    },
+    {
+      "cite": "10 John. 365",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135931,
+        2135942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/10/0369-02",
+        "/johns/10/0369-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 440",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Wend. 350",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2155251
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/24/0350-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 582,
+    "char_count": 13915,
+    "ocr_confidence": 0.621,
+    "pagerank": {
+      "raw": 4.531535257586544e-07,
+      "percentile": 0.9239318585755386
+    },
+    "sha256": "4b901151ecd174a28412de1beafbf8f265f78fe38ecb021425c51e7be4ed2d0f",
+    "simhash": "1:7cda88e1fc76c192",
+    "word_count": 2502
+  },
+  "last_updated": "2024-02-27T21:49:09.188144+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dorlon vs. Douglass."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Willard, J.\nThe testimony of Robinson? the attorney of the bank, that the plaintiff told him that his name indorsed on the $300 note was not his signature, tended to show that the plaintiff\u2019s admission to Bell, the bank teller, that he had indorsed a note for Bragg on the morning of the 9th of April, related to the note in question. It thus increased the presumption that the note in dispute belonged to Bragg and not to the plaintiff. And if so, the former had a right to dispose of it as he did, and the latter had no right to complain.\nThe cause, however, on the argument, was narrowed down to the two last exceptions, viz. that to the exclusion of the whole of the plaintiff\u2019s conversation, of which the defendant had given evidence only of a part, and that to the refusal to charge as requested. In the Queen\u2019s case, (2 Brod. & Bing. 298,) Lord Tenterden (then Ch. J. Abbott) remarks : \u201c The conversations of a party to the suit, relative to the subject matter of the suit, are in themselves evidence against him in the suit, and, if a counsel chooses to ask a witness as to any thing which may have been said by an adverse party, the counsel for that party has a right to lay before the court the whole which was said by his client in the same conversation ; not only so much as may explain or qualify the matter introduced by the previous examination, but even matter not properly connected with the part introduced upon the previous examination, provided only it relate to the subject matter of the suit; because it would not be just to take part of a conversation as evidence against a party, without giving to the party, at the same time, the benefit of the entire residue of what he said on the same occasion.\u201d This doctrine of Lord Tenterden has been repudiated by the court of queen\u2019s bench, in Prince v. Samo, (7 Ad. & Ellis, 627.) Lord Denman, in delivering the judgment of the court, says that the observations of Lord Tenterden in the Queen\u2019s case were not called for by the questions proposed by the lords, nor acted upon by them, nor concurred in by all the judges. Indeed several of the judges dissented from them. The doctrine, therefore, rests upon the authority of that learned judge alone. The conclusion to which the court arrived was that a witness who has been cross-examined as to what the plaintiff said in a particular conversation, can not, on that ground, be re-examined as to other assertions made by the plaintiff in the same conversation, but not connected with the assertions to which the cross-examination related.; although the assertions as to which it is proposed to re-examine be connected with the subject matter of the present suit. The same principle was recognized in the s\u00fcbsequent case of Sturge v. Buchanan, (10 Ad. & El. 598,) and seems now to be the settled practice in England.\nThe same principle was adopted by this court in Garey v. Nicholson, (24 Wend. 350,) and repeated in Kelsey v. Bush, (2 Hill, 440.) The cases collected in Cowen & Hill\u2019s Notes, 226 et seq., where it has been ruled that the whole confession or declaration must be taken together, are in affirmance of the same rule. Nothing is clearer, upon principle and authority, than that when a party relies upon the confession of his adversary for matter of charge, the latter is entitled to all that was said at the same time, on the same subject, by way of discharge. The court and jury are not bound to give equal weight to all parts of the admissions. They may give credit to what charges the party, and disbelieve matter said at the same timefin avoidance, If the latter is improbable in itself, or is shaken by the other proofs in the case. But if the matter of avoidance relates to another subject not Inquired about by the examining party, although relevant to the matter in issue, it is not admissible within the rule that the whole conversation must be given of which the examining party has called only for a part. The further conversation, beyond what the examining party has called out, must not only relate to the matters in issue, but also to the fact called for by him by questions on his side. A party who calls for the admissions of his adversary on a particular point, must take with it all that was said on that point. Thus in Credit v. Brown, (10 John. 365,) the plaintiff in trespass for killing his dog proved that the defendant confessed that he had shot the dog, that assaulted him on the main road. Here the admission and the avoidance relate to the same subject and can not be disjoined. When taken together they amount to a justification. So also in Smith v. Jones, (15 John. 229,) in assumpsit for goods sold, the only evidence of the sale was the admission of the defendant, coupled with the allegation that he had paid for them. In Carver v. Tracy, (3 John. 427,) the defendant said he had received a dollar of the plaintiff, but it was his due. To the same effect is Wailing v. Toll, (9 John. 141.) In such cases, when there is no evidence with which to charge a party with a debt except his admission, and that admission is coupled with a declaration of payment or other discharge, and there is no other proof in the case, the plaintiff can not recover.\nBut those cases are distinguishable from this-. In them the whole confession was made at the same time, and related to the same point of inquiry. In this, the confession given in evidence by the defendant related to a note, which was not the subject of the suit; and the plaintiff claims to use in his own favor a declaration made by himself, at the same time, upon the subject of the note in question. The transactions were entirely separate and distinct. A party making an inquiry as to the first, could not reasonably have expected an answer as to the last. And the matter thus proposed to be shown had no connection with the answer to the question originally put to the plaintiff; nor did it tend to qualify Or limit it in any mann\u00e9r.\nThe exception to the refusal to charge as requested was not well taken. The fact that the plaintiff made a claim to the note, in the presence of the defendant and Bragg, and that both of them w\u00e9r\u00e9 silent, was proper evidence for the consideration of the jury, and was properly submitted to them by the court. The plaintiff\u2019s counsel reqiiired the judge to charge, that it was sufficient evidence that the plaintiff owned the note. This h\u00e9 very properly refused to do. There was nothing, in their silence, in the nature of an estoppel. There was other evidence, besides the plaintiff\u2019s claim and the defendant\u2019s silence, bearing on th\u00e9 question of title. The whole of it was proper for the consideration of the jury. The judge could not be required to separate a part from the whole, and instruct the jury as to its effect; when separated from the rest.\nMotion for a new trial denied;",
+        "type": "majority",
+        "author": "By the Court, Willard, J."
+      }
+    ],
+    "attorneys": [
+      "J. Holmes, for the plaintiff.",
+      "D. Buel, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Schenectady General Term,\nMay, 1849.\nPaige, Willard, and Hand, Justices.\nDorlon vs. Douglass.\nWhen a party relies upon the confessions of his adversary, for matter of charge, the latter is entitled to all that was said, at the same time, on the same subject, by way of discharge.\nThe court and jury may give credit to what charges the party, and disbelieve matter said at the same time, in avoidance, if the latter is improbable in itself, or is shaken by the other proofs in the cause.\nIf the matter of avoidance relates to another subject, not inquired about by the examining party, although relevant to the matter in issue, it is not admissible.\nThis was an action of trover for a promissory note for $375, made by John Ives, payable to the order of Isaac Wilson, three months from date, with interest, at the Washington County Bank, and dated Hebron, March 2, 1847. It was indorsed successively by 1st, I. Wilson; 2d, H. J. Paine; 3d, J. G. Bacon; 4th, E. Dorlon, (the plaintiff.) The cause was tried under the plea of the general issue, at the Rensselaer circuit, in November, 1847, when the jury found a verdict for the defendant. The cause came before this court on a bill of exceptions taken by the plaintiff to sundry rulings of the judge at the circuit, and to his refusal to charge as requested. The cause turned entirely upon the question whether the plaintiff showed any title to the note, at the time of the alledged conversion by the defendant. In the progress of the trial it appeared that the defendant, as cashier of the Merchants\u2019 and Mechanics\u2019 Bank in Troy, on the 24th of March, 1847, had discounted a note for one S. M. Bragg for $300, which purported to be made by Adams, and to be indorsed by Paine, Ferris & Rockwell, E. Dorlon, (the plaintiff,) and S. M. Bragg, which note and indorsements, except Bragg\u2019s, was a forgery. On the 9th of April, 1847, Bragg presented at the bank, for discount, in the morning, a note made by himself for $350, and purporting to be indorsed by J. G. Bacon and E. Dorlon, (the plaintiff,) both which indorsements were forgeries. The bank discounted both these notes and paid the proceeds to Bragg, before discovering that they were forgeries. On the 9th of April, after the last mentioned note was discounted, it was ascertained that both were forgeries, and the defendant was anxious to secure the bank. Bell, the teller of the bank, after dinner on the 9th of April, took the $350 note and showed to the plaintiff his indorsement, concealing that of Bacon, and asked if it was his, and he said it was. After uncovering the other signature, the plaintiff, on again looking at his own, said it was not his signature. The witness then told him they had discounted the note, and asked him why he said that was his signature. Dorlon replied that he had indorsed a note for Bragg, and witness thinks he said that morning. On returning to the bank he found Bragg there trying to get a check for $160 on the Essex County Bank discounted. Bragg was then told that the $300 and $350 notes were both forgeries, and he was required to restore the money to the bank or secure them. Bragg said he had disposed of the money. Bell, the teller, asked him \u201c Where is the note Dorlon (the plaintiff) discounted for you ?\u201d Bragg took out the note now in question for $375, and handed it to the cashier and said, \u201c Here it is.\u201d After ascertaining that this was a genuine note, and that the maker was a man of undoubted pecuniary responsibility, the defendant said to Bragg that he would pin it to the $350 forged note as collateral security. Bragg said \u201cWell.\u201d The cashier pinned them together accordingly. From the testimony of the plaintiff\u2019s witness it was shown that in this same interview, the plaintiff said in the presence of the defendant and Bragg, that the $375 note belonged to him, the plaintiff, and no reply was made to this. It appeared also, that Bragg left the $375 note and check on the Essex County Bank with Douglass, on the 9th of April, with an assurance that on the next day he would call and redeem all the forged paper. He did not call, but was on the 10th of April committed to jail for forgery by a magistrate, on the complaint of the plaintiff. While in jail, on the 15th of April, he drew an order on the defendant, as cashier of the Merchants\u2019 and Mechanics\u2019 Bank, requiring him to deliver to J. G. Bacon the $375 note in question, describing it as being left by him with the cashier on the 9th of April as security for the $350 note, upon his paying the amount of the said $350 note, and the cashier delivered it up accordingly. Having thus obtained possession of the $375 note, Mr. Bacon struck out his own indorsement thereon, and claimed to hold the note as security for the money he advanced.\nThe defendant then proved by Robinson, the attorney for the Merchants\u2019 and Mechanics\u2019 Bank, that the $300 forged note was put into his hands for collection, by the bank; that he called on the plaintiff for payment, and the plaintiff told him that his name indorsed on said note was not his signature. This was objected to by the plaintiff\u2019s counsel, as immaterial and irrelevant, but admitted by the court, and the plaintiff\u2019s counsel excepted. On his cross-examination the witness stated that he never indorsed that note, but that he had admitted to Mr. Douglass that it was his signature, and for that reason he paid it. The plaintiff\u2019s counsel then offered to prove by this witness that the plaintiff, in the same conversation, stated to the witness that the defendant Douglass, after discovering Bragg\u2019s forgeries, had got Bragg into the bank and got a $375 note from him which belonged to him, the plaintiff, and that Douglass, the defendant, did not deny that the note belonged to Dorlon, but refused to give it up until he got his pay upon the forged notes. This was objected to by the defendant\u2019s counsel, on the ground that they had not called out any conversation in relation to the $375 note; that the admission of Dorlon which they had proved related to the $300 note only, and that the plaintiff was entitled to have all that Dorlon said on that subject, but not what he said on any other subject. The objection was sustained by the court and the testimony excluded; to which the plaintiff\u2019s counsel excepted.\nThe judge, in submitting the cause to the jury, after reviewing and commenting on the evidence, left it to them to say whether the plaintiff was the owner of the note or not, and instructed them if they found that the plaintiff was the owner of the note, to find for the plaintiff. Neither party excepted to the charge. The plaintiff\u2019s counsel requested the judge to charge that the claim made by the plaintiff that that note was his, in the presence and hearing of both Douglass and Bragg, and neither of them denying it, was sufficient evidence that the plaintiff toas the owner of the note, after Douglass had said that the note had not been discounted. The judge refused so to charge, and the plaintiff\u2019s counsel excepted.\nJ. Holmes, for the plaintiff.\nD. Buel, for the defendant."
+  },
+  "file_name": "0451-01",
+  "first_page_order": 451,
+  "last_page_order": 457
+}

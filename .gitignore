@@ -7,6 +7,8 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+.pytest_cache
+pytest.ini
 
 # Databases & Vector Stores
 legal_sessions.db
@@ -17,3 +19,16 @@ node_modules/
 .expo/
 dist/
 web-build/
+
+
+# agentic artifacts
+.agents/
+.claude/
+skills-lock.json
+CLAUDE.md
+docs/**/plan
+docs/**/gap-map
+
+## vscode noise
+
+**/.DS_Store

@@ -1,0 +1,73 @@
+{
+  "id": 498882,
+  "name": "Phineas L. Ely, Successor, etc., Respondent, v. The Board of Supervisors of Niagara County, Appellant",
+  "name_abbreviation": "Ely v. Board of Supervisors",
+  "decision_date": "1867-03",
+  "docket_number": "",
+  "first_page": "297",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "36 N.Y. 297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "90 Pa. St. 415",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 501,
+    "char_count": 10616,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.683145480319405e-06,
+      "percentile": 0.9932609970697134
+    },
+    "sha256": "eaa32b9b84e95f694d881079552a4100326b3bd034308cc2bb7756bdde6c4322",
+    "simhash": "1:6b17bcf2042eb44a",
+    "word_count": 1831
+  },
+  "last_updated": "2024-02-27T20:13:57.712105+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Phineas L. Ely, Successor, etc., Respondent, v. The Board of Supervisors of Niagara County, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Scrugham, J.\nThe only questions presented by the printed argument of the appellant are as to the necessity of notice to the sheriff, and as to the carelessness or negligence of the plaintiff.\nIt is not pretended that it was possible for the plaintiff to give the notice required by the \u2022 provisions of the act under .which her action ds brought before the destruction of her property was complete; but it is insisted that as she did not afterward give the notice, her action cannot be maintained.\nThe notice which the act requires is not of the injury or destruction of the property, \"but of the facts brought to the knowledge of the owner, showing any threat or .attempt .to destroy it, and the object of requiring it is fully disclosed by the only duty expressed in the act which its receipt imposes upon the officer to whom it.is given; which is to take all .legal means to protect the property attacked or threatened, a duty impossible of performance after its total destruction. One of its good effects, if it should be received by the sheriff in time, would be to enable him to arrest the rioters while the riot was progressing, but this he would not do by virtue of any power conferred by the notice, but under his general authority as a peace officer.\nNo benefit in this respect, however, could be derived from the notice after the rioters had dispersed, for the sheriff could not then arrest them without a warrant, and the duty of procuring such is no greater upon him than upon the person who gives the notice, or any other citizen having knowledge of the facts.\nIt was proved, on the trial, that the houses which were destroyed were kept and maintained by the plaintiff as bawdy houses at the time of their destruction, and had been so kept for a long time previous thereto, and the defendant also offered to prove that they were also kept as a resort and rendezvous of thieves, robbers and murderers; that such and other disorderly and wicked persons were notoriously accustomed to be received, entertained and harbored in them by the plaintiff, to the great fear, danger and apprehension of all the people of the town of Niagara, and that during the night preceding their destruction, divers of the criminal and wicked persons whom the plaintiff was accustomed to receive and harbor in them, murdered a resident and citizen of the town in the highway near the houses, while he was in the exercise of his duty as a policeman, and that the fact of such murder being publicly made known on the next morning, and the body being found on the highway close by the plaintiff\u2019s house, \u201cgreat exasperation, excitement and indignation were caused and excited among all the people in said vicinity and town.\u201d\nThe defendants claim that the exclusion of this testimony by the court was error, as it was calculated to establish such carelessness or negligence in the plaintiff as would bar her right to recover against the county.\nThe third section of the act provides that no person shall be entitled to recover against a city or county for the damages sustained by reason of his property being destroyed or injured in consequence of a mob or riot, \u201c if such destruction or injury was occasioned, or in. any manner aided, sanctioned or permitted by the carelessness or negligence of such person.\u201d To keep a bawdy house and place of rendezvous for thieves and murderers is criminal wickedness; but, considered only, in reference to the safety of the house and furniture used, it cannot be regarded as carelessness or negligence; for it is not an act which, of itself, would naturally cause or contribute to produce the injury Or destruction of the property; but it is urged that such a use of a house occasions riot and \u201c stirs up the virtuous indignation of contiguous society who injure the property on this account,\u201d and, therefore, that such use of the property is carelessness or negligence, which occasions, or in some manner aids, its destruction or injury.\nA house kept as a house of ill fame and as a resort for thieves and other disreputable persons, is a public and common nuisance; but the destruction of\u2019the building and its furniture is not necessary to its abatement, and is unlawful; so, too, are riots and mobs:\nThe keeping of such a house may justly excite the virtuous indignation of persons residing in the neighborhood, but it in no man\u00faer authorizes or justifies their unlawful acts; nor can it be \u25a0 said that, in well-governed communities, it occasions riots or leads to the destruction of injury of the property through the indignation of the public, for this, in such communities, will be kept within lawful bounds by the public authorities, whose duty it. is to prevent all riots, and to protect all property from injury by them. The property of the plaintiff was not put beyond the pale of the law\u2019s protection by her detestable and criminal conduct \u2014 she still had the right to expect and to rely implicitly upon the zeal and ability of the proper public ofiicers to defend her house \u2022 and furniture against the unlawful effects of any public indignation her evil practices might provoke.\nShe was not to assume that the officers would not or could not perform their duty effectually, and, therefore, having no reason to fear the injury or destruction of her property by a riot or mob, she was not careless or negligent in not anticipating that such would b\u201de the result of the evil use to which she applied the property, ,\nBut the carelessness and negligence referred to in the act, are such as actually occasion or proximately contribute to the injury or destruction of the property, as the opening of a window and its fire-proof shutters in a house adjoining one in conflagration at the time, through which burning embers enter and set fire to the house. In such a case no action coidd be maintained under this act, although the adjoining house was fired by a inob, for the negligent act of opening the windows and shutters would be considered as occasioning or aiding the destruction of the property. But the conduct of the. plaintiff was not such a cause as .would naturally produce or aid in producing the destruction of her property; and its influence in that direction is too remote and uncertain to prevent its being considered such carelessness or negligence as would bar her recovery.\nAll that her conduct can strictly be claimed to have produced was local public indignation; and this, lawfully manifested, would not have occasioned or in any manner aided in the destruction of her property. .\nBeing misdirected, but not through her agency, it produced the riot, and the violent and unlawful acts of those engaged in it occasioned the injury.\nThe construction for which the defendants contend requires the substitution of the words \u201c mob or riot \u201d for the words \u201cdestruction or injury\u201d in the third section of the act.\nThat this substitution \"was not made by the legislature is a sufficient indication that it was not intended the act should be so construed.\nThe evidence offered was properly rejected, and as that which was received did not establish carelessness or negligence within the meaning of the act, the judgment \"should be affirmed.\nAll the judges concurring,\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Scrugham, J."
+      }
+    ],
+    "attorneys": [
+      "Lamont & Ellsworth, for the appellant.",
+      "A. P. Lanning, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "36 N. Y. 297-Approved, 83 N. 190. Reviewed, 90 Pa. St. 415.\nPhineas L. Ely, Successor, etc., Respondent, v. The Board of Supervisors of Niagara County, Appellant.\nUnder the provisions of the act of April 13, 1855, to provide for compensating parties whose property may be destroyed in consequence of mobs or riots, notice to the public officers will not be required, where the party injured, had no information in respect to which to give the proper notice.\n\"Where the property of the party has been thus destroyed, in an action against the board of supervisors of the county to recover for such damage, it is no defense to the action to prove that the houses destroyed were kept by the plaintiff as bawdy houses, and as a rendezvous of thieves, robbers, murderers, etc.\nTo keep a bawdy house and a rendezvous for thieves, robbers and murderers, does not constitute such an act of carelessness or negligence as will prevent the guilty party from recovering under the provisions of such act.\nA house kept as a house of ill fame, etc., is a public and common nuisance; but the destruction of the building and its furniture is not necessary to its abatement.\nAppeal from a judgment of the Supreme Court, rendered at General Term in tlie eighth district, affirming a judgment entered on a verdict in favor of Maria Moody, the plaintiff\u2019s assignor, for $4,500, rendered on trial at circuit in Niagara county, Hon. Noah Davis presiding.\nThe action xvas brought by the said Maria Moody under the \u201c act to provide for compensating parties whose property may be destroyed in consequence of mobs or riots,\u201d passed April 13th, 1855, to recover damages for the destruction of two houses and their furniture belonging to her, and situate in the village of Niagara City, in Niagara county. The property was destroyed by fire on the 15th September, 1865, in consequence of a mob or riot. The owner never at any time notified the sheriff of Niagara county of any threat or attempt to destroy the property, or of any facts brought to her knowledge. It was shown that she was not apprised of any such threat or attempt until the destruction had considerably progressed, and that when so apprised she was unlawfully taken into custody by the police or others acting in concert with the rioters, and confined in the lock-up of the village, where she was detained until after the destruction was complete.\nThe houses, with the furniture, were kept and maintained by the owner at the time of their destruction, as bawdy houses,. and had been so kept and maintained for a long time previous.\nThe defendants, on the trial, offered to show that the houses and furniture, at the time of their destruction, were kept by the owner not only as bawdy houses, but also as a resort and rendezvous of thieves, robbers and murderers.\nThis evidence was rejected, and the defendants excepted.\nThere was no evidence tending to show that the destruction of the property was occasioned or in any manner aided, sanctioned or permitted by the carelessness or. negligence of Maria Moody; other than that tending to show the purposes for which the houses were kept, and their character.\nMaria Moody assigned the verdict to the present plaintiff before the case was heard at the General Term, and he was substituted as plaintiff by an order of the court. .\nLamont & Ellsworth, for the appellant.\nA. P. Lanning, for the respondent."
+  },
+  "file_name": "0297-01",
+  "first_page_order": 297,
+  "last_page_order": 301
+}

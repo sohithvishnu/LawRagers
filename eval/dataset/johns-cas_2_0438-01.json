@@ -1,0 +1,194 @@
+{
+  "id": 1890553,
+  "name": "John B. Murray, Appellant, against Isaac Gouverneur, Peter Kemble, and Samuel Gouverneur, Respondents",
+  "name_abbreviation": "Murray v. Gouverneur",
+  "decision_date": "1800-03",
+  "docket_number": "",
+  "first_page": "438",
+  "last_page": "441",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Johns. Cas. 438"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Yeates, 370",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812739
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/2/0370-01"
+      ]
+    },
+    {
+      "cite": "3 Call, 234",
+      "category": "reporters:state",
+      "reporter": "Call",
+      "case_ids": [
+        6715901
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/7/0497-04"
+      ]
+    },
+    {
+      "cite": "2 Bai. 574",
+      "category": "reporters:state",
+      "reporter": "Bail.",
+      "case_ids": [
+        2512947,
+        2509332
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/scl/18/0574-01",
+        "/scl/18/0574-02"
+      ]
+    },
+    {
+      "cite": "9 Conn. 23",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753928
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/9/0023-01"
+      ]
+    },
+    {
+      "cite": "5 Day, 511",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "case_ids": [
+        6753709
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/day/5/0511-01"
+      ]
+    },
+    {
+      "cite": "2 Watts, 121",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840117
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0121-01"
+      ]
+    },
+    {
+      "cite": "2 Wash. C. C. 191",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "case_ids": [
+        11656325
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/9/1089-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch, 253",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        530388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/10/0253-01"
+      ]
+    },
+    {
+      "cite": "2 Hall, 547",
+      "category": "reporters:state",
+      "reporter": "Hall",
+      "case_ids": [
+        1361762
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/2/0547-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 345",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/23/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 710,
+    "char_count": 11255,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 8.290623500579145e-07,
+      "percentile": 0.9752412206271486
+    },
+    "sha256": "6c3a4fcdfbd87c2e9f966b6234a0f04608377a1bee8cd30e02ddb7642fbbb9a3",
+    "simhash": "1:f93923e56940943f",
+    "word_count": 2022
+  },
+  "last_updated": "2024-02-27T21:56:18.402000+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John B. Murray, Appellant, against Isaac Gouverneur, Peter Kemble, and Samuel Gouverneur, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Kent, J.\nI do not consider the bills which the respondents took in January, 1796, as a payment of the 5000 dollars ; notwithstanding they gave a receipt, as for so much cash. Receipts are never so conclusive but that they may be explained ;() and we have the Consideration of this receipt fully explained to us. The bills were drawn by Robert Murray & Co. on one of the partners in London. This is, in fact, like a person drawing a bill on himself; the law imposes on him all requisite notice.\nJt is a settled rule of law, that a bill shall not be a discharge of a precedent debt, unless it be so expressly agreed between the parties. (1 Salk. 124.) \u201cThe law is clear,\u201d says Lord Kenyon, (1 Esp. Cases, 8,) \u201c that if, in payment of a debt, the creditor is content to take a bill or note, payable at a future day, he cannot legally commence an action on the original debt, until such bill or note becomes payable or default is made ; but if such bill or note is of no value, as if, for example, it be drawn on a person who has no effects of the drawer in hand, (as was the case here,) and who, therefore, refuses it, in such case he may consider it as waste paper.\u201d()\nIt is evident, that Robert Murray did not consider the bills as payment; for, as the appellant states, on the first, payment Robert Murray was to receive a deed, and yet, after the delivery of the bills, and the receipt was given, he did not require a conveyance. This is pretty decisive proof, that Robert Murray himself did not regard the 5000 dollars as an absolute payment.\nThe appellant, if a bona fide purchaser without notice, (of which there may be some doubt,) took the house and lot, subject to all the equity between the parties, existing prior to the assignment; and, of course, he could not require a specific performance of the contract on other terms than those which Robert Murray could insist upon ; and the latter could not, in equity, demand a conveyance, without tendering the 10,000 dollars, the consideration money for the sale.()\nAs to the sum expended by the appellant for repairs, it may be left for liquidation, in an action for the mesne profits, if the respondents should think proper to sue for *the rents and profits. The action for mesne profits is a liberal and equitable action, and will allow of every kind of equitable defence.( )\nOn the whole, I am of opinion, that the decree of the chancellor ought to be affirmed.\nThe rest of the court being of the same opinion, it was, thereupon, ordered, adjudged and decreed, that the decree of the Chancellor be affirmed.\nJudgment of affirmance.\n(a) See sufra, vol. 1, p. 146, n. (a) to Ensign v. Webster.\n(b) It is well settled as a general principle, that the transfer of a bill or note does not satisfy an existing debt, unless it be paid and accepted in good faith for that purpose. If, however, the bill or note be taken in satisfaction of the debt, or if it be received upon condition that it be collected, and the creditor is guilty of laches in the collection, it is regarded, in the former instance, as a payment, and in the latter, as an appropriation of the note, which is equivalent to a payment in its effect. (Dayton v. Trull, 23 Wend. 345. Copper v. Powell, Anthon\u2019s N. P. 49. Tobey v. Barber, 5 Johnson, 68. Johnson v. Weed, 9 id. 310. Putnam v. Lewis, 8 id. 359. Hoan v. Clute, 15 Johnson, 224. Burdick v. Green, id. 247. Herring v. Sanger, 3 Johnson\u2019s Cas. 71. Woodcock v. Bennett, 1 Cowen, 711. Higgins v. Packard, 2 Hall, 547. Sheehy v. Mandeville, 6 Cranch, 253. Gallagher v. Roberts, 2 Wash. C. C. 191; 1 id. 321; 1 id. 156. Brown v. Jackson, 2 id. 24 ; 1 id. 512. Denniston v. Imbree, 3 id. 396. Parker v. United States, Peters\u2019 C. C. 256. Newell v. Hussey, 6 Shepley, 249. Comstock v. Smith, 2 id. 202. See 4 Mumford, 487. Paine, 285. Henry v. Donnaghy, Addison, 39. M\u2019Ginn v. Holmes, 2 Watts, 121. Abercrombie v. Mosely, 9 Porter, 145. Dougal v. Coles, 5 Day, 511. Anderson v. Henshaw, 2 id. 272. Bill v. Porter, 9 Conn. 23. Coxe v. Hunkinson, Coxe, 85. Chastain v. Johnson, 2 Bai. 574. Kennell v. Hennesy, Peck, 273. M'Guire v. Gadsby, 3 Call, 234. Slocomb v. Holmes, 1 How, (Miss.) 139. Cave v. Hall, 5 Missouri, 59. Pope v. Tunstall, 2 Pike, 209. Watson v. Owens, 1 Richard. 111.) In Maine, however, the presumption is that a negotiable bill given in the state was designed to be an extinguishment of the original demand. This presumption, however, is disputable, and the rule does not apply to notes given in a foreign country. (Descadillas v. Harris, 8 Greenleaf, 298. Varner v. Nobleborough, 2 Greenl. 121. Gilmour v. Bussey, 3 Fairfield, 418. See Wallace v. Agry, 4 Mason, 343.) The same rule exists in Alabama, Massachusetts and Pennsylvania. (Hutchins v. Olcott, 4 Vermont, 555. Plankenhorn v. Cave, 2 Yeates, 370. Wood v. Bodwell, 12 Pickering, 268. Jones v. Kennedy, 11 id. 125. Reed v. Upton, 10 id. 522, Watkins v. Hill, 8 id. 522. Baker v. Briggs, id. 122. Van Cleef v. Therasson, 3 id. 12. Johnson v. Johnson, 11 Massachusetts, 359. Goodenow v. Taylor, 7 id. 36. Mancely v. M\u2019Gee, 6 id. 143. Greenwood v. Curtis, id. 358. Thatcher v. Densmore, 5 id. 299. Emerson v. Prov. Hat Man. Co. 12 id. 237. Butts v. Dean, 2 Metcalf, 76. Ilsley v. Jewett, id. 168. Maynard v. Johnson, 4 Alabama, 116.) The case of Terrey v. Baxter, (13 Vermont,, 452,) seems somewhat to conflict with the rule laid down in Hutchins v. Olcott, (cited supra,) in deciding that a proihissory note of the debtor or of s, third person with the guaranty of the debtor prove unavailable to the creditor without any fault on his part, he may resort to his original demand.\n(c) Beaumon v. Thomas, 1 Louis. An. Rep. 284. Moulton v. Reese, Wright, 381. Saltus v. Everett, 20 Wendell, 267. Bradeen v. Brooks, 9 Shepley, 463.\n(d) See Till. Adams on Ejectment, ed. 1846, 379, et seq. Roscoe on Actions Relative to Real Property, 705, et seq. Stephens\u2019 N. P. p. 1490, et seq. Arehboid\u2019s N. P. 129, 405, et seq. And see Stats. 1 Geo. IV. ch. 87, \u00a7 2, and 2 Rev. Stat. of N. York, 3d ed. 406. See Acts 21st March, 1806, and 13th April, 1807. As to Scotch law, see Erskine, 62, tit. 1, \u00a7 25. Stair, b. 9, tit. 11, 6 23.",
+        "type": "majority",
+        "author": "Kent, J."
+      }
+    ],
+    "attorneys": [
+      "The cause was argued by Rarison and Burr, for the appellant; and by B. Livingston and Hoffman, Attorney General, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "John B. Murray, Appellant, against Isaac Gouverneur, Peter Kemble, and Samuel Gouverneur, Respondents.\nA bill of exchange given for a precedent debt is not payment, unless expressly agreed so to be by the parties.\nWhere A. contracted to sell a house and lot to B. and C. purchased of B. all his-right, &c. it was held, that C. though a bona fide purchaser, without notice, must take the property subject to all the equity existing between the original parties, A. and B.\nAn action for mesne profits is an equitable suit, in which every equitable defence may be set up.\nIn the year 1796, the respondents, Isaac Gouverneur and Peter Kemble, together with Joseph Gouverneur, (since deceased, who. by his last will, appointed Isaac Gouverneur and Joseph Gouverneur his executors,) commenced an action of ejectment in the supreme court, to recover from the appellant a house and lot of ground in the city of New York.\n\u25a0 After the cause was ready for trial, the appellant filed his hill in chancery, stating that in August, 1795, Gouverneur and Kemble, partners in trade, and pretending to be duly authorized by Joseph Gouverneur, (who was then absent beyond seas,) made a proposal in writing, and afterwards agreed with Robert Murray, partner of the house of Robert Murray & Co. for the .sale of a house and lot to the said Robert Murray & Co. for the sum of 10,000 dollars, the one-half to be paid in January, 1796, and the remaining half in May, 1797. Immediate possession was to be given to Robert Murray ; and on making the first payment, a deed was to be executed to the said Robert Murray & Co. who were to give a mortgage to secure the second payment. In pursuance *of this agreement, Robert Murray was put in possession of the premises, and continued in possession until he sold them to the appellant. The time of the first payment was postponed by mutual consent. In January, 1796, Gouverneur and Kemble, on their own account, purchased of Robert Murray & Co. bills of exchange on London to the amount of 25,000 dollars, and in paying for the same, deducted the first instalment of 5000 dollars due for the house and lot, and gave a receipt for the same, as the first instalment. Robert Murray did not then demand a conveyance for the house and lot, nor did Gouverneur and Kemble offer to give it.\nOn the 12th August, 1796, the appellant purchased of Robert Murray & Co. for 5000 dollars, all the right and interest in the said house and lot, and took possession thereof. He afterwards applied to Isaac Gouverneur and Joseph Gouverneur in October, 1796, for a fulfilment of the contract of sale, who made no answer to the application ; but brought an action of ejectment against him, on which the appellant filed his bill in chancery, praying an injunction to stay the suit at law, and that the respondents should be decreed to execute to the appellants a good and sufficient deed for the premises, pursuant to the agreement.\nIsaac Gouverneur, in his answer, stated, that he never pretended to have a power of attorney from Joseph Gouverneur, but had directions from him to sell the premises, in consequence of which he made the agreement with Robert Murray & Co. for the sale of the premises, and delivered the possession to Robert Murray, in 1795; that when the bills of exchange were purchased, the 5000 dollars deducted, was to be considered as on account of the purchase money for the premises, if the bills were duly paid ; that the bills were accepted, but not paid, and that notice of the non-payment was given to Robert Murray & Co. and that he believed that Robert Murray & Co. had no effects in the hands *of the drawees, when the bills were drawn. Joseph Gouverneur stated, that he did not give Gouverneur and Kemble any letter of attorney to sell the house and lot, but merely directed them to sell the premises, as above stated.\nThe respondents, Gouverneur and Kemble, also stated, that they did not agree to accept the notes of Robert Murray & Co. for the first instalment; and that the deed for the house and lot was not to be given until the bills were paid. and the second instalment also paid, and lhat they did not agree to take a mortgage for the second payment.\nRobert Murray & Co were in full credit in January, 1796, but some of their bills were protested in May following, and in July they stopped payment.\nThe appellant had expended, prior to the 12th August, 1796, 600 dollars in repairs on the house, and a further sum after that lime. <\nAfter hearing the cause, the chancellor decreed, that the appellant should pay to the defendants 10,000 dollars, with interest, to be ascertained by a master, and on payment thereof, the respondents should execute a conveyance to the appellant for the premises in question, and that unless this was done in 20 days, the injunction should be dissolved. The master reported the interest to be 2345 dollars and 97 cents.\nFrom this decree and order, the appellant entered an appeal to this court.\nThe cause was argued by Rarison and Burr, for the appellant; and by B. Livingston and Hoffman, Attorney General, for the respondents."
+  },
+  "file_name": "0438-01",
+  "first_page_order": 651,
+  "last_page_order": 656
+}

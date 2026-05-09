@@ -1,0 +1,154 @@
+{
+  "id": 1112042,
+  "name": "ACKER v. ACKER",
+  "name_abbreviation": "Acker v. Acker",
+  "decision_date": "1864-09",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "7",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "28 N. Y. 285",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036846
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0285-01"
+      ]
+    },
+    {
+      "cite": "3 Den., 12",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/3/0012-01"
+      ]
+    },
+    {
+      "cite": "8 Johns. 189",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134511
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0189-01"
+      ]
+    },
+    {
+      "cite": "22 N. Y. 418",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/22/0418-01"
+      ]
+    },
+    {
+      "cite": "12 N. Y. 215",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2016239
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/12/0215-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. 329",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Johns. 149",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        378140,
+        378230
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/16/0149-02",
+        "/johns/16/0149-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 636,
+    "char_count": 12729,
+    "ocr_confidence": 0.473,
+    "pagerank": {
+      "raw": 7.036534591092138e-08,
+      "percentile": 0.42445949551498946
+    },
+    "sha256": "8526b60811053d298e91c8f2fb6b7a2c0fb6ba520b0dccea0254aed3547d4ff2",
+    "simhash": "1:93d796695e568f55",
+    "word_count": 2286
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ACKER v. ACKER."
+    ],
+    "opinions": [
+      {
+        "text": "Denio, Ch. J.\nThe statement upon which this judgment is confessed is challenged on two grounds: first, that the amount professed to have been loaned in one of the items, and the amount professed to have been advanced for the defendant\u2019s use in the other, is not stated: the argument being that the loan or advance of a very small sum, such as one dollar, in each case, would satisfy the language of the paper; and, second, that there is a failure to state the circumstances connected with the indebtedness with the particularity required 'by the statute.\nBy the law and the former practice of the courts, a judgment might he confessed for any amoqnt which the parties pleased to insert in the bond and warrant of attorney; and there was no need of any reference in the papers to the particlars out of which the indebtedness arose. Dnder this state of the law, a subsequent creditor who might suspect the good faith of the incumbrance thus interposed, would have no means furnished by the record, of investigating the subject. The legislature interposed, in 1818, a provision requiring the plaintiff to place on file a particular statement and specification of the nature and consideration of the debt; and, if this was omitted, the judgment was to be deemed fraudulent against subsequent Iona fide creditors. L. 1818, c. 259, \u00a7 8. This act existed but three years, and was repealed in 1831, with a saving of the rights of parties affected by judgments confessed while it was in force. - L. 1821, c. 38. The few existing members of the profession who were' attorneys or law students at that day, will remember that the effect of the requirement was to avoid many judgments honestly confessed, on account of a want of particularity in the statement. Where fraud was designed, the statement would usually be made in all due form, while those who did not suppose that their motives would be suspected were apt to omit descriptive particulars which the statute and the courts had declared indispensable.\nWhen the general revision of the statutes was enacted in 1830, it was not thought wise to return to that policy. It may be that the experienced lawyers who were concerned in compiling that system, had a recollection of the evils which led to the repeal of the act of 1818. However this may be, it has happened that after the lapse of forty years it has been thought judicious to recur in a modified manner to the policy which dictated that act. It is apparent, as has often been mentioned, that the sections of the Code which provide for confessions* of judgment without action, have in view the same ends with the act of 1818, and it may be said, in a general way, to. be a return to the policy of that act. But they adopt somewhat different means to accomplish the end. They require the oath of the alleged debtor as to the existence and amount of the indebtedness, which the former act did not. The statement is to be made by the defendant, and not by the plaintiff. Instead of a f articular statement and specification of the nature and consideration of the debt, as prescribed by the former act, there is to be a concise statement of the facts out of which the debt arose, and showing that the sum confessed is justly due. If the author of this section penned it with the act of 1818 before him, or in his mind, as has been suppdsed, there was certainly an intention to relax the strictness of the requirement and to abridge the extent of detail. The observations of the supreme court in Lawless v. Hackett, 16 Johns. 149, to the effect that the statement ought to be as particular as a bill of particulars, cannot with any propriety be applied to the present provision. Take, for instance, an account for merchandise sold. Under the prior statute, all the items miist have been copied, and for the purpose of showing that the balance was justly due, the entries of credits must have been set forth.\nIn most cases such an account would be anything but concise. This could not possibly have been intended, and we have so held in at least two cases. Neusbaum v. Keim, 24 N. Y. 329; Gandall v. Finn. In my opinion they are the general facts out of which the indebtedness arose, and not a particular specification of these facts, which the law requires. There must be enough to identify the transaction, if there was really one, so that the parties interested may make further inquiries respecting it, and there must be allegations enough, if true, to show that the amount for which the judgment was confessed was justly dtib. We have decided that the mere statement that the plaintiff held the note of the defendant\u00bbwas not sufficient, as it clearly is not; for one might be given on the day on which the judgment was confessed. Chappel v. Chappel, 12 N. Y. 215, 219. But wre have not said that the existence of a note or other obligation in the hands of the creditor is of no account in determining the sufficiency of the statement. If given for a consideration satisfactory to the parties, and in the ordinary course of business, at a considerable period before the confession of judgment, it would be an important fact in showing how the debt arose. It would not be sufficient to state, in general terms, that it was given for a just consideration; but I think a general statement that it was foi* money borrowed, or for the balance due on an account, mentioning the nature of the dealings out of which the account arose, is all that is needed.\nIf we test this judgment by these rules, I think it is above all exception. There is, in the first place, a positive statement that the confession is for debts justly Giving and due from the defendant to the plaintiff. If any part of the amount was not really due and owing, the statement is, to that extent, untrue, and tfie oath is false. It is then averred that this indebtedness arose out of facts next to be stated. The facts are, that the plaintiff is the holder of two promissory notes made by the defendant \u2014 one dated May 1, 1850, for $1,280, on which interest was due from May 1, 1852, the other dated May 16, 1850, for $2,000, also on interest; that the first mentioned note was given for money loaned by the plaintiff to the defendant. The occasion of making the loan is, moreover, stated. It was to enable the defendant to commence business as a merchant. The other note was given for money which the plaintiff had paid for the defendant. The occasion of that advance is shown by the averment that it was on real estate which the defendant then owned at Irving, in the town of Greenburgli. This, according to the common understanding of every one, means that it was on account of the purchase of that real estate. It is then stated that the interest on these notes was $236, and that the aggregate was $3,536, which is the amount of the judgment. These statements satisfactorily identify the transaction out of which the indebtedness arose. They brought, to all persons interested in the subject, the means of a rigid investigation of the business, and the bona fide character of the alleged debts. It would not be precise and certain enough for a special verdict, or circumstantial enough for an answer to a bill for a discovery, calling for all the particulars of the indebtedness for which the judgment was confessed, and it was not the intention of the statute that it should be.\nThe criticism to which the learned counsel for the respondent has subjected the paper, is too severe for the occasion; for it overlooks its legal character and the purpose for which it was required to be given. It Avas not necessary for its statements to exclude all possible circumstances which might affect the integrity of the debt, or to give all the circumstances relating to it. When the defendant swears that the note of $1,280 was given for money loaned him by the plaintiff, it means, to a common intent, that such an amount Avas loaned; and so in respect to the other note, given for money paid. And when it is said that the confession is for debts justly due and OAving by the defendant to the plaintiff, and goes on to specify the paper which he held, and the consideration of that paper, it is hypercritical to say that the indebtedness was not alleged to be to the full amount of the principal and interest of that paper.\nUpon the whole, I am of the opinion that this is one of the most satisfactory statements which have been brought before us in this class of appeals, and I am for reversing the order of the supreme court.\nIngraham, J.\nUnder the first decisions made-in this court, where a question similar to that involved in this case was decided, there may have been some doubt as to the sufficiency of the statement on which this judgment was entered. I refer to Chappel v. Chappel, 12 N. Y. 215, and those immediately following. But since the cases of Freligh v. Brink, 22 N. Y. 418, and Neusbaum v. Keim, 24 Id. 325, a more liberal rule has prevailed. Within those cases I think this statement is sufficient. The cause of action is twofold. First, on a promissory note, giving amount and date, \u201c being for money loaned me by plaintiff to commence business as a merchantand, second, on a promissory note, \u201c being for money paid by plaintiff for me on the real estate I now own at Irving.\u201d The objection to these statements is that they do not state the amount loaned or paid, the terms of the loan, and the time when made, and, in the latter case, the name of the person to whom paid, and whether one or more sums.\nI think such particularity is not called for by the statute. The statement declares the note to be given for money loaned. The presumption is that it was one sum loaned, and that it is due. The terms of the loan are not required to be stated to give it validity. Hor are the names of the persons to whom the payment was made, necessary. Bor is it necessary for the debtor to negative the loan being made to more than one person. The presumption is that it was made to one only. Unless something to the contrary appears, that is sufficient. _\nThe order setting aside the judgment should be reversed.\nDavies, J.,\nwas for reversal, for the reasons assigned, in his\nopinion in Clements v. Gerow.\nAll the other judges concurred in reversal, except H. R. Seeder, J., who was absent.\nOrders of general and special term, reversed, with costs.\nReported in this series.\nReported in this series.",
+        "type": "majority",
+        "author": "Denio, Ch. J. Ingraham, J. Davies, J.,"
+      }
+    ],
+    "attorneys": [
+      "John II. Reynolds, for appellant,",
+      "John E. Porter, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "ACKER v. ACKER.\nSeptember, 1864.\nIn a confession of judgment, under section 383 of the Code of Procedure, the facts essential to be stated are the general facts out of which the debt arose, enough to identify the transaction and enable inquiries to be made.\nWhere a promissory note is stated, it is sufficient to state the consideration by giving the nature of the dealings out of which it arose, without giving all the particulars, such as the amount and time of loans or payments to the debtor\u2019s use, and the person to whom such payments were made.\nJames A. Acker confessed judgment in favor of James Acker, in June, 1855. The statement (after the usual consent to the entry of judgment) was as follows:\n\u201c This confession of judgment is for debts justly owing by me to the said plaintiff, and now due to him, arising upon the following facts, that is to say:\n\u201c One promissory note for $1,280, dated May 1st, 18-50, with interest from May 1st, 1852, being for money loaned me by said plaintiff to commence business as a merchant.\n\u201cOne promissory note for $2,000, dated May 10,1850, with interest, being for the money paid by said plaintiff for me on the real estate I now own at Irving in the town of G-reenburgh, with $236 interest, due thereon at the date of this judgment, amounting in whole to the sum of $3,530.\u201d\nJohn Besson, having subsequently recovered judgment against the same defendant, moved to set -aside the judgment in favor of Acker, for insufficiency of statement.\nThe court at special term granted the motion, holding that in reference to the first note it was essential to state the amount, time and terms of the loan, and in reference to the second, the amount, and time and agreement as to repayment, and the person or persons to whom paid, and, if several, the amount paid each. The order having been affirmed at general term, James Acker appealed.\nJohn II. Reynolds, for appellant,\nbesides authorities in the opinion, cited Thompson v. Ketchum, 8 Johns. 189; Herrick v. Bennett, Id. 374; Gaylord v. Van Loon, 15 Wend. 308Cornell v. Moulton, 3 Den., 12; Murray v. Judson, 9 N. Y. (5 Sold.) 73.\nJohn E. Porter, for respondent.\nIn addition to authorities cited in the text, see Ely v. Cook, reported in this series; and Read v. French, 28 N. Y. 285; Frost v. Koon, 30 Id 428; Ingram v. Robbins, 33 Id. 409 ; Union Bank v. Bush, 36 Id. 631."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 11,
+  "last_page_order": 17
+}

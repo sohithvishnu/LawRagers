@@ -1,0 +1,205 @@
+{
+  "id": 2044009,
+  "name": "Smith v. City of New York",
+  "name_abbreviation": "Smith v. City of New York",
+  "decision_date": "1868-01",
+  "docket_number": "",
+  "first_page": "602",
+  "last_page": "607",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 N.Y. 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Abb. Pr. 179",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 N. Y. 274",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        529000
+      ],
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/68/0274-01"
+      ]
+    },
+    {
+      "cite": "1 Daly 219",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "81 N. Y. 255",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175297
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/81/0255-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 185",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173213
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/80/0185-01"
+      ]
+    },
+    {
+      "cite": "81 N. Y. 428",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/81/0428-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. 326",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/19/0326-01"
+      ]
+    },
+    {
+      "cite": "25 Wend. 680",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2026582
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/25/0519-01"
+      ]
+    },
+    {
+      "cite": "39 Barb. 169",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1943452
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/39/0169-01"
+      ]
+    },
+    {
+      "cite": "2 Denio 272",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186159
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/2/0272-01"
+      ]
+    },
+    {
+      "cite": "7 Hill 8",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wheat. 627",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 N. Y. 285",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        6098089
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/5/0270-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 504,
+    "char_count": 9397,
+    "ocr_confidence": 0.48,
+    "pagerank": {
+      "raw": 2.974516172353016e-06,
+      "percentile": 0.9973907745200589
+    },
+    "sha256": "5eadaebdcedabbfb08a721c4401a67a5de480871746884db774a356a116aa301",
+    "simhash": "1:2c72870c6b89290b",
+    "word_count": 1666
+  },
+  "last_updated": "2024-02-27T20:14:29.858094+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "*Smith v. City of New York."
+    ],
+    "opinions": [
+      {
+        "text": "Hunt, C. J.\n(after stating the case.)\u2014The substance of the plaintiff\u2019s allegations is this: That Roof was appointed to the office of deputy collector of assessments in the city of New York, in July 1857, and continued to hold such office for about nine months; that he was ready and willing to perform its duties, but the defendants would not permit him; that another person did \"\u2018perform them, and receive the fees; that, if he had performed these duties, he would have received fees to an amount set forth; and, upon these facts, he alleges that the defendants are indebted to l ira in the amount he would so have earned, and asks a judgment therefor.\nAn offi'ce, in this country, is not property, nor are the prospective fees of an office the property of the incumbent. (Conner v. City of New York, 5 N. Y. 285.) The incumbent cannot sell his office, nor purchase it, nor incumber it. It will not pass by an assignment of all his property, nor will such assignment affect his right to prospective fees. (Id., and cases cited, p. 290.) The legislature may diminish or abolish the fees at pleasure, or may render it a salaried office. The corporation of the city of New York may do the same, when it fixes the rate of compensation. It is only in the cases of a few of the state offices that the constitution prohibits such interference. (Id.) The same authority holds, and it is conceded by the appellants here, that the right to fees, or compensation, does not grow out of any contract between the government and the officer, but arises from the rendition of the services. (Id.; Dartmouth College v. Woodward, 4 Wheat. 627; People v. Warner, 7 Hill 8; s. c. 2 Denio 272.) An office is simply an appointment or authority on behalf of the government to perform certain duties, usually at and for a certain compensation. Both the office itself and the compensation, upon general principles of law, are entirely within the control of the government, to diminish, increase or abolish. So, it may at any moment be given up by the incumbent. There can be neither property or contract in such a subject; it is but a deputation for the benefit and advantage of the government. As the plaintiff had no contract with the city of New York, upon the principles stated, there could be no indebtedness for a breach of its terms, and the plaintiff\u2019s action must fail.\nThe appellant cites several cases to show that an officer of a municipal corporation may maintain an action as on a contract, against the corporation, for the fees or salary attaching to his office. They are all cases, however, where the *officer, being in possession, had actually performed the duties of his office, and do not involve the principles of the case before us. Thus, in Derry v. City of New York (39 Barb. 169), and in Canniff v. The Same (4 E. D. Smith 430), there had been a change in the manner of appointing clerks of the police court, the appointment having been transferred to the board of police. The officer discharged all the duties, the compensation was fixed by law, and it was held, that a change in the manner of appointment did not affect the liability of the city to pay the salary. So in Lynch v. City of New York (25 Wend. 680), Judge Lynch had performed the duties of a judge of the court of sessions, at a salary fixed by statute; the .defendants refused to pay, and upon an application for a mandamus, the court denied it, holding that he had a perfect remedy by action. So, in Baker v. City of Utica (19 N. Y. 326), the services had all been performed, but were by law to be collected by assessment, and the court held, that the action could not be sustained, until the assessment was collected. If a corporation employ or appoint an officer to perform certain duties, at a compensation agreed, the services being performed, the corporation is liable to an action for the compensation. The action before us goes upon the ground of a contract to give the office to the plaintiff, or to permit him to perform its duties, and that not having given it to him, or not having allowed him to perform its duties and receive its fees, the defendant is liable for this breach of contract. There is no analogy or similarity in the cases.\nIt is suggested, that an amendment of the complaint should be permitted at this time, by which the same may be converted into an action fox money had and received by the defendants to the use of Roof. I have never known the exercise of such a power by this court, and am not aware of any authority for it. In no event could it be granted, except by a motion of which the defendants had notice, and in which the necessary terms could be imposed.\nI have not discussed the rule of damages adopted by the referee, nor whether the plaintiff is entitled to fees for services performed by Libby, nor what defence arises from the injunction, nor what remedy the plaintiff had, or might have had, against *- the parties obtaining the same. The discussion of these points is unnecessary, if I am correct in the position, that the plaintiff has no right of recovery in this action.\nOrder affirmed, and judgment absolute.\nLong v. City of New York, 81 N. Y. 428; Wood v. City of New York, 12 J. & Sp. 327. But see McVeany v. City of New York, 80 N. Y. 185.\nHaswell v. City of New York, 81 N. Y. 255.",
+        "type": "majority",
+        "author": "Hunt, C. J."
+      }
+    ],
+    "attorneys": [
+      "Lawrence, for the appellant.",
+      "Porter, for the resppndent."
+    ],
+    "corrections": "",
+    "head_matter": "*Smith v. City of New York.\nPublic officers.\nAn officer has no right of property in unearned fees ; and, therefore, one who has been improperly kept out of an office, to which he was legally entitled, and has not performed its duties, cannot maintain an action against the municipality, for fees accruing during such period.\nSmith v. City of New York, 1 Daly 219, affirmed.\nAppeal from the general term of the Court of Common Pleas for the city and county of New York, where a judgment entered in favor of\u2019 the plaintiff, upon the report of. a referee, had been reversed, and a new trial awarded; the plaintiff stipulating for judgment absolute, in case of affirmance. (Reported below, 1 Daly 219.)\nThis was an action by Joseph B. Smith, as assignee of John J. Roof, against the Mayor, Aldermen and Commonalty of the City of New York, to recover an amount alleged to be due to Roof for his compensation as deputy collector of assessments.\nThe' case was tried before a referee, who found, that on the 1st July 1857, John J. Roof, the plaintiff\u2019s assignor, was duly appointed a deputy collector of assessments, by Charles Devlin, then street commissioner of New York, and qualified as such. He was removed from office, on the 29th April 1858, by Edward Cooper, then street commissioner. From the 1st July 1857, until the 29tli April 1858, the said Roof was always ready and willing, and daily offered to enter upon and discharge all the duties of his said office; but the defendants neglected and refused to allow him so to do, or to furnish him any employment in his said office, and he did not, in fact, discharge any of the duties thereof. During the same period,. Roof was directed by the street commissioner of the defendants to hold himself daily in readiness to enter upon the duties appertaining to his office, and to attend at the street commissioner\u2019s office every day; and with these directions he complied.\nThere are, by law, one collector and four deputy collectors of assessments, and their compensation depends upon the amount of the assessments collected during their respective *terms of office. Every assessment list includes two and one-half per cent, on the amount of the assessment, as a compensation to the collector and deputy collectors of assessments; and it is provided by ordinance, that the warrants shall be delivered in such manner as that each deputy shall receive an equal number of lists for collection. It is the practice that the compensation of each deputy collector is one-fifth of two and a half per cent, of the whole amount of assessments collected during his continuance in office. The entire amount of assessments collected during Roof\u2019s continuance in office, was $237,678.23: one-fifth of two and a half per cent, of this sum is $1188.39. During the continuance of Roof in his said office, other employment, worth $3000 per year, was offered to him. The claim of Roof was assigned to the appellant on the 20th October 1858.\nThe office of street commissioner of New York is a public office, created by law, and having extensive powers, among which is that of appointing collectors of assessments. There were contesting claimants for the office of street commissioner\u2014Taylor, Devlin and Conover\u2014the plaintiff holding under Devlin. An injunction was issued by the supreme court, restraining Devlin and his subordinates from acting, until the decision of the case by the court. The judgment was in favor of Devlin, under whom the plaintiff claimed. The collections were made by Ira P. Libby, one of the collectors who were retained.\nUnder this state of facts, the referee directed a judgment in favor of the plaintiff, for $1505.60, and costs; but the judgment entered upon his report was reversed at general term, and a new trial awarded; whereupon, the plaintiff appealed to this court, giving the usual stipulation.\nLawrence, for the appellant.\nPorter, for the resppndent.\nDolan v. City of New York, 68 N. Y. 274, 282. But he may recover the amount of fees received, from the intruder. Platt v. Stout, 14 Abb. Pr. 179; Dolan v. City of New York, supra."
+  },
+  "file_name": "0602-01",
+  "first_page_order": 618,
+  "last_page_order": 623
+}

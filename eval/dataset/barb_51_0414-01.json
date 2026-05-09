@@ -1,0 +1,432 @@
+{
+  "id": 2246485,
+  "name": "Ireland and others vs. The City of Rochester",
+  "name_abbreviation": "Ireland v. City of Rochester",
+  "decision_date": "1868-03-02",
+  "docket_number": "",
+  "first_page": "414",
+  "last_page": "435",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 Barb. 414"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "20 N. Y. Rep. 312",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2022889
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/20/0312-01"
+      ]
+    },
+    {
+      "cite": "3 N. Y. Rep. 430",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007209
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/3/0430-01"
+      ]
+    },
+    {
+      "cite": "5 Abb. Pr. 325",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4576262
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/5/0325-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. 104",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1933855
+      ],
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/2/0104-01"
+      ]
+    },
+    {
+      "cite": "2 Denio, 110",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2186136
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/2/0110-01"
+      ]
+    },
+    {
+      "cite": "35 Barb. 177",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5781202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/35/0177-01"
+      ]
+    },
+    {
+      "cite": "15 Barb. 375",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4931834
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/15/0375-01"
+      ]
+    },
+    {
+      "cite": "23 N. Y. Rep. 319",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 N. Y. Rep. 427",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 N. Y. Rep. 238",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16898
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/35/0238-01"
+      ]
+    },
+    {
+      "cite": "28 Barb. 609",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2425230
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0609-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 374",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018820
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0374-01"
+      ]
+    },
+    {
+      "cite": "9 Paige Ch. 16",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        1893887
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/9/0016-01"
+      ]
+    },
+    {
+      "cite": "29 N. Y. Rep. 198",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2038640
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/29/0198-01"
+      ]
+    },
+    {
+      "cite": "4 N. Y. Rep. 423",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "24, 27, 38, 39, 41"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Abb. Pr. 180",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4605993
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/11/0180-01"
+      ]
+    },
+    {
+      "cite": "45 Barb. 210",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Wend. 65",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2155261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/24/0065-01"
+      ]
+    },
+    {
+      "cite": "4 N. Y. Rep. 419",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/4/0419-01"
+      ]
+    },
+    {
+      "cite": "33 Barb. 147",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5059255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/33/0147-01"
+      ]
+    },
+    {
+      "cite": "6 Abb. 6",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 N. Y. Rep. 534",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496093
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/14/0534-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 574",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Wend. 628",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025534
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0627-01"
+      ]
+    },
+    {
+      "cite": "15 John. 537",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0537-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 282",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wend. 547",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012882,
+        2012914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0547-02",
+        "/wend/10/0547-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 374",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018820
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0374-01"
+      ]
+    },
+    {
+      "cite": "4 N. Y. Rep. 419",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005597
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/4/0419-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y. Rep. 534",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496093
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/14/0534-01"
+      ]
+    },
+    {
+      "cite": "15 John. 537",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140972
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/15/0537-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 282",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1090,
+    "char_count": 45639,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 4.991867726162736e-07,
+      "percentile": 0.9358715508124219
+    },
+    "sha256": "c4fa1c0728ee561d89c13fd0d0acb718dbbc2879c44c3989573e3a0ec1923b14",
+    "simhash": "1:90ff0e014b0ee0c6",
+    "word_count": 7799
+  },
+  "last_updated": "2024-02-27T20:10:25.651478+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ireland and others vs. The City of Rochester. ."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Jambs C. Smith, J.\nThere is no foundation for the objection taken by the plaintiffs, to the validity of the ordinance adopted by the common council on the 22d of August, that no opportunity was given to those about to be assessed for the proposed improvement, to make allegations against the ordinance as the city charter requires.\nBefore the common council determined to make the improvement, they caused a notice to be published, as required by the charter, specifying the improvement, the estimated expense thereof, and the portion of the city to be assessed for such expense, and appointing a time for all persons interested in the improvement, to attend the common council, and make their allegations. At the time appointed, to wit, on the 11th July; 1865, the common council met, and without taking final action respecting the proposed improvement, they adjourned from time to time till the 22d of August, when, as appears by the minutes of their proceedings, the board proceeded to hear allegations in relation to the proposed improvement, and after hearing such allegations -from all the persons appearing, they adopted an ordinance for such improvement. All these proceedings were duly published.\nThe original notice being regular, and the board having met at the time therein appointed, they had jurisdiction of the proceeding, and could then hear allegations, if any were to be made, or could adjourn in their discretion, to any other specified time, in which latter case, the proceedings would be carried over to the adjourned day, to be then taken up at the stage at which they were left at the preceding meeting. In fact, the proceedings at the first meeting were adjourned, before allegations were heard, and they were continued in that stage to the 22d of August. At that time, the hearing of allegations was in order, and as is shown by the minutes, an opportunity to make them was then given. It does not appear that any person who attended the first or any subsequent meeting to make allegations, was denied an opportunity of making them, or was not heard. The proceedings were therefore regular in all the respects involved in the objection above stated.\nIt is also claimed by the counsel for the plaintiffs, that the resolution for the assessment of the deficiency of $3319.92, upon the lots on Mount Hope avenue and South avenue, and the assessment in pursuance of it, were void. Several grounds are assigned for this position.\nIt is insisted that the common council were prohibited by the charter, from expending upon the improvement any sum beyond the original estimate of $25,980. The provision of the charter relied upon for this position, is a clause which was adopted in 1865, as an amendment to section 164, and which provides that no contract shall be let for making any public improvement at a price greater than the estimate thereof. The amendment means, simply, that in contracting for making a public improvement, the work included in the estimate shall not be let at a higher price than that specified in the estimate. It does not prohibit the common council from causing other work to be done in addition to that included in the estimate, if they find it necessary in order to complete the improvement, and the amendment is not inconsistent with section 207 of the charter, which provides that if a greater sum of money is expended in the improvement than was estimated, the common council may direct an assessment to collect the same.\nIf it he assumed, therefore, as is done by the plaintiffs\u2019 counsel, in his argument, that the excess of expenditure was not for work included in the estimate, but was for work not embraced in the ordinance, the board had authority, under section 207, to direct an assessment of money to meet such excess.\nIt is also objected that there is no evidence that the expense of the improvement exceeded the estimate. But the common council having authority to make such expenditure in their discretion, and to levy an assessment to meet it, and having passed a resolution for that purpose which recites the fact that an expenditure had been made, in such improvement, of the sum of $3319.92 in excess of the estimate, the resolution itself if valid, is at least prima facie evidence of such expenditure.\nBut another objection is taken to the resolution assessing the deficiency upon lots on South avenue, which is of a more serious character; to wit, that the owners and occupants of those lots, (among whom are the plaintiffs,) are assessed without hearing, and without notice.\nSection 207, already referred to, provides that \u201cif it shall appear that a greater sum of money has been expended in the completion of such improvements than was-estimated as aforesaid, the common council may direct the assessment of the same on the owners and occupants of houses and lands benefited by such improvements, in the same manner as herein directed, and the same proceedings in all respects shall be had thereon, and the common council may enlarge the territory to he assessed for such improvements.\u201d The action of the common council, by which, as the defendants\u2019 counsel contends, the territory was enlarged, and the plaintiffs were made liable to the assessment imposed on them by virtue of the provision above transcribed was as follows: On the 22d of January, 1867, a resolution was duly presented to the common council, reciting that on the 22d of August, 1865, the common council ordained that Mount Hope avenue should be improved, &c. and that the whole expense thereof should be assessed upon the owners and occupants of houses and lands to be benefited thereby; and did estimate such expense at $25,980, and that a greater sum had been expended in making such improvement, amounting to $3319.92, and directing that said sum of $3319.92 be assessed upon the owners and occupants of one tier of lots on each side of Mount Hope avenue, from the Erie canal to the entrance to Mount Hope cemetery, \u201c and one tier of lots on each side of South avenue, from Mount Hope avenue to the city line.\u201d Action upon the resolution was postponed until the 5th of February, 1867, when it was adopted at a regular meeting of the board. There was no express declaration by the board, that the lots on South avenue were deemed to be benefited by the improvement, but the enlargement of the territory was effected, if at all, by directing in the language above transcribed, that said lots be assessed in connection with those on Mount Hope avenue, the latter lots being the portion of the city which alone was expressly declared by the ordinance of August 22, to be benefited by the improvement, and on which the expense of it was ordered to be assessed. The printed case laid before us states that all the proceedings of the common council in relation to such improvement, were published with all other proceedings of the board, as required by section 59 of the charter, as compiled in 1865, and as required by section 4, chapter 699 of the Laws of 1866. Section 59, provides that all ordinances for the violation of which any penalty may be imposed, shall be published for at least one week, and that all votes, ordinances and resolutions directing the payment of money, shall be published at least once within eight days after their passage, and section 4 directs that the common council may designate not more than two daily newspapers of the etiy in which the proceedings, resolutions and ordinances of the common council, and their committees, - and of the city officers, may be published. All that can he assumed from the fact stated in the case, is that the resolution of February, 1867, was published in the proper newspapers, at least once within eight days after its passage. It is also stated in the case, that no time or place was appointed for hearing allegations in regard to assessing the owners and occupants of houses and lots on South avenue, or any enlarged territory, for said improvement \u00f3r deficiency, and no notice requiring persons to attend the common council was published in connection with, or prior to, the passage of the resolution of February, 1867.\nIt is apparent from these facts that the action of the common council in respect to the owners of lots on South avenue was without notice to them, and without giving them an opportunity to he heard upon the question whether they were benefited by the improvement and should be taxed to defray the expense of it. For that reason, the resolution of February, 1867, is a nullity as to the plaintiffs. It is in the nature of a judicial proceeding against them, and its effect is to take their property for public use. It is a plain principle of j ustice, applicable to all judicial proceedings, that no person shall be condemned, or shall suffer judgment against him, without an opportunity to be heard. (15 John. 537. 15 Wend. 374. 23 id. 628. 3 Barb. 282.) The common council did not acquire jurisdiction as to the owners' and occupants of lots on South avenue, by virtue of the original proceeding to which they were not parties. The proceeding was commenced, as to them, by the attempt to enlarge the territory. It is no answer, to say that by the original proceeding, the question whether the improvement should be made was conclusively decided. The question whether it benefited the plaintiffs, and they should consequently be taxed for it, was open, and on that question they had the same right to notice, and to an opportunity to be heard, as had the occupants of the original territory. Boris it an answer to say, as does the counsel for the defendants, that the plaintiffs had an opportunity to be heard before the assessors. There, the only matter open to them, was the amount of their assessment. The defendants\u2019 counsel argued that the statute in question, conferring upon the common council this extended authority over local assessments, is a legitimate exercise of the taxing power. Undoubtedly so, if the statute provides for notice to those assessed, but not otherwise. In the case of The People v. The Mayor of Brooklyn, (4 N. Y. Rep. 419,) a leading authority upon this subject, the statute under which the proceedings were had, provided for a notice which in the language of Judge Buggies, \u201c gave to any person assessed an opportunity to be heard.\u201d (P. 441. See also 15 Wend. 374, 5.) The want of notice is not cured by the provisions of sections 207 and 208, declaring the proceedings valid, notwithstanding any \u201cirregularity, omission or error.\u201d. Those provisions do not extend to jurisdictional defects. As no notice, or opportunity to be heard was given, in fact, to the owners of lots on South avenue, the resolution of February, 1867, is for that reason, as has been said, a nullity as to them, and the defense must fail. This is so, without regard to the question whether the charter requires notice to be given. If it does, the requirement has not been complied with; if it does not, the provision authorizing an enlargement of the territory and the taxing of new parties thus brought in, without notice, transcends the power of the legislature, and is itself void. In either view of the case, the proceedings of the common council were unauthorized, and the plaintiffs are entitled to relief.\nAs, however, the question whether the charter requires notice, is of importance, not only with respect to further proceedings in reference to the very improvement out of which this controversy has arisen, but also to all persons liable to assessment in similar proceedings, it seems proper to consider it, before dismissing the case. The only provision of the charter, to which our attention has been called, expressly relating to the power of the common council to enlarge the territory, is that above transcribed from section 207. The clause giving the power does not, in express terms, require notiee. But it is connected in the same sentence with another clause which provides that in case of deficiency, the common council may direct the assessment of the same on the owners and occupants of lands benefited by the improvement. The statute undoubtedly contemplates that whenever the territory is to be enlarged, such enlargement shall be effected in the same proceeding in which the assessment for the deficiency is directed; and that was the course pursued in the present case. The question therefore arises whether the common council can direct an assessment for a deficiency, without notice to those on whom such assessment will fall, even although they are occupants of -the original territory, and as such had notice of the original proceeding ? The statute provides that in case of a deficiency, \u201c the common council may direct the assessment of the same,\" on the owners and occupants of houses and lands benefited by such improvements, in the same manner as herein directed, and the same proceedings in all respects shall be had thereon.\u201d This language is not altogether perspicuous, but the better construction seems to be that the words \u201cin the same manner,\u201d relate to the preceding word \u201c direct,\u201d and not to the word \u201c assessment.\u201d In other words, that they relate to the action of the common council, and not to that of the assessors merely. This construction is sustained by the context. The next sentence provides that \u201c if it shall appear that any greater sum of money than was originally assessed has been expended for the benefit of the same property originally assessed, although not embraced within the improvement as ordered by the common council, the common council may, in like manner, direct the assessment of the same upon the owners and occupants of houses and lands benefited thereby.\u201d Here, the words \u201cin like manner\u201d refer explicitly to the action of the common council, and they strengthen the position that the corresponding words in the preceding sentence were intended to have the like effect. So, also, the last sentence in the same section, which declares valid all assessments or re-assessments ordered by the common council for local public improvements, \u201cnotwithstanding any irregularity, omission or error in the proceedings relating to the same,\u201d must be deemed to refer to the proceedings before the common council, as well as to those before the assessors. This construction of the words \u201cin the same manner as herein directed,\u201d derives force, too, from the accompanying expression, \u201c and the same proceedings in all respects shall be had therein,\u201d the word \u201c therein\u201d referring, not merely to the assessment, but to the whole proceeding.\nWhat provisions of the charter, then, are adopted by the words in question ? Clearly those relating to proceedings in cases of local assessments for public improvements, among which are sections 163 and 164. Section 162 declares that the common council shall not proceed, &e. except upon, (1.) The petition of at least a majority of the owners of property to be assessed; or (2.) The vote of at least three fourths of all the aldermen in favor of the improvement, after allegations have been heard. Section 164 requires the publication of a notice, and its provisions in that respect have\" been -already referred to. Can there be a doubt that the provision of section 163, requiring a three fourths vote, unless upon a petition of a majority of the owners to be assessed, is necessary to a resolution directing an assessment for a deficiency ? Such a vote was had in the case before us, but we have not been referred to any provision of the charter requiring it, unless it be the one in question. It is not necessary, nor would it be appropriate, that the precise form of notice prescribed by section 164, be adopted in proceedings for a re-assessment. It is enough that the notice specify the action proposed to be taken, and conform to the requisites of section 164, so far as they are applicable to the case. Of course, in the proceedings for a re-assessment, no person can be heard upon any question which was finally decided in the original proceeding. The question whether the improvement should be made, is of that nature. So, the owners and occupants of houses and lots in the original territory, who were duly notified, and were decided to be benefited by the improvement, and ordered to be assessed for it, cannot raise again the question as to their liability to be assessed. But the question whether the work has cost more than the estimate, is open to them, as well as to the occupants of the new territory proposed to be brought in, and the latter may also be heard in respect to the allegation that they are benefited by the improvement and ought to be assessed.\nThe whole policy of the statute, so far as it can be gathered from the language employed, is opposed to the idea that the owners of lands may be assessed for local improvements without notice, whether the assessment is for the purpose of raising the original estimate, or meeting a deficiency, and whether the lands are within the original or the enlarged territory. In short, the legislature have not expressed themselves in language which indicates an intention to exceed their constitutional powers, and such an intention is not to \"be implied, if a different construction can be fairly adopted.\n[Monroe General Term,\nMarch 2, 1868.\nE. D. Smith, Johnson and J. C. Smith, Justices.]\nIt follows, from these views, that the resolution of the fifth February, 1867, should have been preceded by a notice, published as the charter provides, specifying the amount of the deficiency, describing the territory as enlarged on which it was proposed to assess the deficiency, and appointing a time when the common council would hear the allegations of all persons interested. And at the time appointed, an opportunity should have been given to the owners and occupants of lots in the enlarged territory to show cause why they should not be assessed. For the want of these prerequisites the resolution last referred to is void, so far at least, as it affects the owners and occupants of lots on South avenue.\nThe assessment being void as to the plaintiffs, their right to maintain this action is clear, not only to avoid a multiplicity of suits, but also to remove a cloud upon their respective titles, created by the lien of the assessment. (Charter, \u00a7208. 14 N. Y. Rep. 534.) The objection taken dn the argument, that all the persons united in interest are not made plaintiffs, is to be deemed waived, it not having been set up in the pleadings.\nThe judgment should be reversed, and a new trial ordered.\nOrdered accordingly.",
+        "type": "majority",
+        "author": "By the Court, Jambs C. Smith, J."
+      }
+    ],
+    "attorneys": [
+      "R R. S'elden, for the appellants.",
+      "E. A. Raymond, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Ireland and others vs. The City of Rochester. .\nThe charter of the city of Rochester required that before the common council should determine to open, widen or improve any street, &c. the expense of which, in whole or in part, was to be defrayed by a local assessment, they should cause an estimate thereof to be made, and should, by an entry in . their minutes, describe the portion or part of the city which they deemed \u2022 proper to be assessed for such expense. And that they should cause a notice to be published, for a specified time, in a daily newspaper, specifying such improvement, the estimated expense thereof, and the portion or part of the city to be assessed for such expense; and requiring all persons interested, to-attend the common council at the time appointed in such notice. That at the time appointed in such notice the common council should proceed to hear the allegations of the owners and occupants of houses and lots situated within the portion of the city so described, and after hearing the same, should make such further order in respect to such improvement as they should deem proper. Such a notice having been published, in respect to proposed improvements in an avenue, the common council, at the time appointed, viz. on the 11th of July, 1865, met, and without taking any final action, adjourned from time to time till the 22d of August, 1865, when they proceeded to hear allegations in relation to the proposed improvements, and adopted an ordinance for making such improvements.\nHeld that the original notice being regular, and the board having met at the time therein appointed, they had jurisdiction of the proceeding, and could then hear allegations, if they were to be made, or could adjourn, in then-discretion, to any other time specified; in which latter case, the proceedings would be carried over to the adjourned day, to be then taken up at the stage at which they were left at the preceding meeting. That these proceedings of the board were therefore regular; it not appearing that any person who attended the first or any subsequent meeting, to make allegations, was denied an opportunity of making them, or was not heard.\nBy an amendment of section 164 of the charter of the city of Rochester, adopted in 1865 it is provided that no contract shall be let for making any public improvement, at a price greater than the estimate thereof. Held that the amendment means, simply, that in contracting for making a public improvement, the work included in the estimate shall not be let at a higher price than that specified in the estimate. That it does not prohibit the common council from causing other work to be done, in addition to that included in the estimate, if they find it necessary, in order to complete the improvement. Such amendment is not inconsistent with section 207 of the charter, which provides that if a greater sum of money is expended in the improvement than was estimated, the common council may direct an assessment to collect the same.\nIf the excess of expenditure for a given improvement is not for work included in the estimate, but is for work not embraced in the.ordinance, the common council has authority, under section 207, to direct an assessment of money to meet such excess.\nThe common council having authority to make an expenditure, for an improvement in excess of the estimate, in their discretion, and to levy an assessment to meet it, and. having passed a resolution for that purpose, which recites the fact that an expenditure has been made, in such improvement, of a specified sum in excess of the estimate, the resolution itself, if valid, is at least prima facie evidence of such expenditure.\nSection 207 of said charter, provides that \u201c if it shall appear that a greater sum of money has been expended in the completion of such improvements, than was estimated * * the common council may direct the assessment of the same on the owners and occupants of houses and lands benefited by such improvements, in the same manner as herein directed, and the same proceedings in all\" respects shall be had thereon, and the common council may enlarge the territory to he assessed for such improvements.\u201d If the common council, assuming to act under the authority of this section, pass a resolution enlarging the territory to be assessed for the excess of the expense of the improvement of an avenue, beyond the original estimate, without notice to the owners of the lots to be assessed in the enlarged territory, and without giving them an opportunity to be heard upon the question whether they are benefited by the improvement and should be taxed to defray the expense of it, such resolution is a nullity, as to such owners. This is so without reference to the question whether the charter requires notice to be given. It is in the nature of a judicial proceeding against such owners, and its effect is to take their property for public use.\nThe common council do not acquire jurisdiction as to the owners and occupants of lots in the enlarged territory, by virtue of the original proceeding to which they were not parties. The proceeding is commenced, as to them, by the attempt to enlarge the territory.\nThe statute in question, conferring upon the common council this extended authority over local assessments, is a legitimate exercise of the taxing power, if it provides for notice to those assessed; but not otherwise.\nThe want of notice is not cured by the provisions of sections 207 and 208 of the city charter declaring the proceedings valid notwithstanding any \u201c irregularity, omission or error.\u201d These provisions do not extend to jurisdictional defects.\nThe common council cannot direct an assessment for a deficiency, without notice to those on whom such assessment will fall, even though they are occupants of the original territory, and as such had notice of the original proceeding.\nSuch notice, in proceedings for a re-assessment, need not be in the precise form prescribed by section 164 of the charter. It is enough that the notice specify the action proposed to be taken, and conform to the requirements of section 164, so far as they are applicable to the case.\nIn the proceedings for a re-assessment, no person can be heard upon any question which was finally decided in the original proceeding. The question whether the improvement should be made is of that nature. So, the owners and occupants of houses and lots in the original territory, who were duly notified, and were decided to be benefited by the improvement, and ordered to be assessed for it, cannot raise again the question as to their liability to be assessed. But the question whether the work has cost more than the estimate, is open to them, as well as to the occupants of the new territory proposed to be brought in; and the latter may also be heard in respect to the allegation that they are benefited by the improvement and ought to be assessed.\nThe whole policy of the charter of the city of Rochester so far as it can be gathered from the language employed, is opposed, to the idea that the owners of lands may be assessed for local improvements without notice; whether the assessment is for the purpose of raising the original estimate, or meeting a deficiency; and whether the lands are within the original or the enlarged territory. Fer J. C. Smith, J.\nThe legislature have not expressed themselves in language which indicates an intention to exceed their constitutional powers; and such an intention is not to be implied, if a different construction can be fairly adopted. Fer J. C. Smith, J.\nIf an assessment is void as to persons whose property is assessed, their right to maintain an action to restrain the city from collecting it, is clear, not only to avoid a multiplicity of suits, but also to remove a cloud from their respective titles created by the lien of the assessment.\nIt is a plain principle of justice, applicable to all judicial proceedings, that no person shall be condemned, or shall suffer judgment against him, without an opportunity to be heard. Fer J. C. Smith, J.\nAn objection that all the persons united in interest are not made plaintiffs, must be set up in the pleadings, or it will be-deemed waived.\nTHIS action was commenced May 28, 1867, by service of summons and complaint, and temporary injunction, granted by Hon. B. Darwin Smith, justice, restraining the defendants, and all persons acting under their authority, from collecting an assessment levied upon lots owned and occupied by the plaintiffs, (between eighty and ninety in number,) on South avenue, in the City of Bochester, for an alleged deficiency in a previous assessment on Mt. Hope avenue, for the construction of a sidewalk and other improvements connected therewith, on the avenue last named. The complaint alleges various departures from, and want of compliance, with the requisitions of the city charter; that there was no necessity for such additional assessment: and that the action of the common council in the matter was a fraud upon their rights in the premises. The answer of the defendants admitted the assessment and the passage of the resolutions and ordinances set forth in the complaint, and insisted upon the regularity of the proceedings, the compliance with the city charter, the necessity for the assessment, and denied the injustice and fraud alleged in the complaint.\nOn the trial at the Monroe circuit, in December, 1867, the complaint was dismissed, at the close of the plaintiffs\u2019 testimony. Leave was given to the plaintiffs to make a case and exceptions, to be heard, in the first instance, at the general term, and, in the meantime, the injunction was continued, and the defendants\u2019 proceedings were stayed. Th\u00e9 plaintiffs appealed from the judgment of dismissal.\nR R. S'elden, for the appellants.\nI. There was no opportunity given to- those about to be assessed for the improvement, to make allegations against the ordinance, as the city charter requires. (City Charter, \u00a7 164. Laws of 1861, p. 322, \u00a7 165.) It is obvious, from the answer, and from the proceedings, that the parties interested were not called upon by the common council, at the time appointed, as the charter requires, to make allegations against the ordinance. Hot being called upon, they had no right to be heard, as it would have been a contempt for a mere citizen to interrupt the proceedings of the \u201c conscript fathers.\u201d It is obvious, from section 164, (165 of the statute,) that the hearing of allegations and the action of the common council, were designed to be entirely separate and distinct acts, and that the disposition to be made of the ordinance should not betaken up until \u201cafter hearing the allegations.\u201d We insist that the \u201c hearing of allegations \u201d could only take place \u201c at the time appointed in the notice that that part of the business could not be adjourned. And that after action upon the ordinance had been entered upon, and the vote upon its passage- once taken, . which could only be done \u201c after hearing allegations,\u201d an adjournment of further action upon the ordinance cannot he construed as carrying with it an adjournment for the purpose of hearing allegations. At all events, if that part of the business was adjourned, especially after the ordinance had been taken up and acted on, the adjournment was ineffectual without a new notice, and no notice having been given, the persons interested were not called upon ; indeed, had no right to appear at the adjourned day.\nII. The resolution for the assessment of the $3319.92 deficiency, upon .the lots on Mount Hope avenue and South avenue, and the assessment in pursuance of it, were void. 1. The common council were prohibited by the charter from expending upon the improvement any sum beyond the original estimate of $25,980. (Charter, \u00a7 164, as amended. Laws of 1865, p. 1092, \u00a7 15.) This amendment to section 165, prohibiting the expenditure of any sum beyond the amount of the original estimate, having been passed since the provisions of section 207, (Laws of 1861, p. 335, \u00a7 208,) authorizing further assessments for such excess of expenditures, were passed, and being irreconcilable with those provisions, of necessity repeals them. (Harrington v. The Trustees of Rochester, 10 Wend. 547.) 2. In fact, as the case shows, there has been no expenditure for the work described in the original ordinance, beyond the amount of the estimate, all of which was paid. That estimate was $25,980.\nThe contracts were:\nThose contracts \u201c embrace all the improvements mentioned in said ordinance,\u201d and \u201csaid contractors fully completed all the work specified and embraced within said ordinance and the said contracts, according to the terms thereof. This position is not touched by the amendment of the case brought in as \u201c errata.\u201d That amendment shows that \u201c the whole work cost $3319.92 more than the amount stated in the original ordinance,\u201d but the evidence had previously shown that all the work \u201c embraced in the ordinance\u201d had been performed for $1562.80 less than the estimate. The amendment does not, in the least, contradict that evidence. 3. The excess of expenditure was caused, in part, by work not included in the ordinance, as the defendants\u2019 answer shows, to wit, \u201c retaining walls on each side of the approaches to the bridge over the canal,\u201d and the residue of such excess must have been caused by work not embraced in the ordinance, although the case does not show what the work was. 4. The common council had no evidence of the expenditure of any sum beyond the estimate,' nor have they offered any to the court. That was a jurisdictional fact, of which the recital in their resolution is not evidence. (Charter, \u00a7 207. Laws of 1861,p. 334, \u00a7 208.) \u201cIf it shall appear that a greater sum has been expended,\u201d &c. 5. Ho notice was given to the property owners on South avenue, to show cause why they should not be subjected to this assessment. This condemnation of the plaintiffs, without hearing, and without notice, is as inconsistent with the charter as it is with the plainest principles of justice. (Charter, \u00a7\u00a7 163, 164, 207. Laws of 1861, pp. 322-334, \u00a7\u00a7 164, 165. 208.) It will be seen by sections 163-4, above referred to, that no improvement, \u201c the expense of which, in whole or in part, is to be defrayed by a local assessment,\u201d can be entered upon by the common council, without a petition requesting it, \u201c signed by at least a majority of the owners of property to be assessed\u201d therefor; or by a vote of three-fourths of all the aldermen, \u201c after allegations have been heard.\u201d The people of South avenue have had no opportunity to be heard. They have had no opportunity to allege, either that the improvements should not be made, or, if made, that they should not be assessed for it, or if they were to be assessed, that others, equally benefited, should be assessed also. The whole spirit of the charter requires that before any one can be assessed for local improvements, he shall have an opportunity to be heard. That notice of some kind should be given in such cases, is perfectly clear, without reference to the city charter. (Jordan v. Hyatt, 3 Barb. 282-3. Kinderhook v. Claw, 15 John. 537. Elmendorf v. Harris, 23 Wend. 628. Doubleday v. Newton, 9 How. Hr. Rep. 71. 15 Wend. 574.) 6. The common council have not adjudged that the lots on South avenue are benefited by this improvement. They had previously declared, that the lots on Mount Hope avenue alone were benefited, and that declaration has never been rescinded or contradicted. The logic of the proceeding, therefore, is this : Whereas the lots on Mount Hope avenue alone are benefited by this improvement, therefore the lots on South avenue shall be assessed to pay the expense of it.\nIII. The assessment being void, and the defendants about to enforce its collection, it was proper for the plaintiffs to ask the aid of this court to restrain such collection. If the collection had been proceeded with, more than eighty suits would have been necessary to accomplish what can be better accomplished by this suit alone. 1. Avoiding multiplicity of suits is good ground for equity jurisdiction. (Heywood v. City of Buffalo, 14 N. Y. Rep. 534.) 2. By the provisions of the charter, section 208, (209,) as amended in Laws of 1862, page 295, the assessment itself is made a lien, without reference to the prior proceedings, and this suit is proper, therefore, to remove clouds from the plaintiffs\u2019 title. (Heywood v. City of Buffalo, supra.) 3. No objection to the jurisdiction of the court of equity having been taken in the answer, none can be taken now. (Grandin v. Le Roy, 2 Paige, 509. Bank of Utica v. City of Utica, 4 id. 400.) This objection when valid, as the cases above cited show, constitutes a good ground of demurrer for defect of jurisdiction: it was, therefore, waived by neglect to demur. (Code, \u00a7 144, subd. 1. Id. \u00a7 148. Wilson v. Mayor, &c. of New York, 6 Abb. 6.) The defendants rest their defense solely on the question of right. The whole case is before the court. The parties have agreed that the court shall decide it, and it has jurisdiction to decide it. We think this is sufficient.\nE. A. Raymond, for the respondent.\nI. The ordinance for the improvement of Mount Hope avenue, was legally adopted on the 22d day of August, 1865. The requirements of the city charter as to the proceedings of the common council in making public improvements, are contained in sections 162, 163, 164. (Laws of 1861, p. 322.) The principal, if not the only objection made by the plaintiffs to the validity of this ordinance is, that although notice was published under its authority for all persons interested in the improvement, to attend the common council and make their allegations, on the evening of July 11, 1865, no opportunity was given by the council for the hearing of such allegations, at that time, and no other time was ever appointed. 1. The answer to this portion of the complaint is that such opportunity was given, and that all persons desiring it, might have been heard, had they chosen to appear at the time and place appointed. 2. There is no proof in the case that any persons desirous of making allegations on the subject matter of said improvement, attended at the time and place first appointed, offered to make such allegations, or were refused a hearing, or that no opportunity was afforded them. 3. Final action on the ordinance was regularly postponed from time to time, until August 22, 1865, when allegations were heard, and the ordinance passed by a vote of twenty-one, or three fourths of all the aldermen of the city, in its favor, to two against it. There was no evidence offered to show that any persons desirous of making allegations, were denied the opportunity at any of the meetings. 4. The clerk having published the notice for persons to appear and make allegations at the first time appointed, it was unnecessary to repeat that notice. (Section 164 of the charter.) (a.) The first adjournment on the 11th July, 1865, carried with it all the proceedings then pending, and all their incidents, and they were to be taken up at the next meeting, at the precise stage at which the preceding meeting left them. This is a general rule of parliamentary proceedings. (Gashing on the Law of Legislative Assemblies, \u00a7\u00a7 514, 1589, 1590, 1625.) (6.) The common council could determine the rules of its own proceedings. (Section 34 of the charter.) It, therfore, bad the right to adopt that method of proceeding which it did. 5. All the proceedings were published. The charter was- complied with, and before the time of the final passage of the ordinance, all persons interested had legal notice by such publication, of the successive adjournments of this matter, and to appear and make their allegations at each meeting, including the last. All who appeared then were heard. The council acquired jurisdiction of the proceedings. They were regular, and the ordinance binding. (Sandford v. Mayor, &c. of New York, 33 Barb. 147.)\nII. The resolution passed February 5th, 1867, directing an assessment of the- deficiency of $3319.92 upon the same persons originally assessed for the improvement, and enlarging the territory to be assessed, was legally adopted. It is authorized by section 207 of the charter. The only objection made to it is, that no notice was given to the tax-payers on \u25a0 South avenue that allegations against it could be heard. This is unfounded. 1. The improvement had been previously ordered and completed. Sections 163 and 164, which, it is claimed by the plaintiffs, are made applicable to the proceeding for an- assessment of an excess in the cost of the improvement, by the phrase, \u201c and the same proceedings in all respects shall be had thereon,\u201d prescribe the manner in which the original ordinance shall be adopted. 2. The common council does not make\" the assessment. It directs the assessors to make it. (\u00a7 191.) It does not necessarily hear allegations against the assessment. The assessors hear and decide upon such objections. (\u00a7 196.) Ho objection can be heard against the improvement when an assessment to collect the excess in the cost of the work is to be made. Therefore the council in taking \u201c the same proceedings \u201d as in making the original improvement, is required only to order the re-assessment by the assessors upon the enlarged territory properly described. The assessors are required to notify the taxpayers within the enlarged territory of the time and place to make their objections. (\u00a7 196.) They are to report the roll to the council, who may confirm it, or not, as it pleases. (\u00a7 197.) When confirmed, it is final and conclusive. (\u00a7 198.) The proceedings of the council commence with directing an assessment. As to that, the charter does not require that allegations should be heard. If the assessment had been only upon the persons originally assessed, of course they could not demand to be heard before the council again. They were once heard upon the subject matter of the improvement. (\u00a7 164.) And as the council does not make an assessment, but merely directs it to be made, they could not be heard upon that subject before the council, but might have been before the assessors. Therefore, the council is not bound to hear allegations upon the question as to who shall be assessed. The next-paragraph of section 207 is susceptible of this construction only, and thus helps to interpret the first paragraph now under discussion. 3. The resolution was published after its introduction, January 22, 1867, in the manner prescribed by the charter. Therefore the plaintiffs had due notice of the intention of the council to direct the assessment upon them. 4. The assessors gave due notice to the plaintiffs to appear before them and make objections to the assessment. (Sections 196, 7, of charter.) The assess-' ment roll was duly confirmed by the council, March 6, 1867. It then became final' and conclusive. (Section 198 of charter.) 5. The charter, as enacted April 8, 1861, (Sess. Laws, 1861, p. 264,) prescribed that the council should hear appeals from assessments. (\u00a7\u00a7 195-199.) These sections were amended by chapter 553 of Laws of 1865, p. 1092, and proceedings upon assessments were materially changed. These amendments are now in force. But section 208, (or 207 in the compiled charter,) has remained unchanged. Therefore, there is now no provision in force for the council to h\u00e9ar any allegations from persons owning property within the enlarged territory, against the passage of a resolution or ordinance declaring them benefited, or proper to be assessed for the excess in the cost of the improvement, as there was before the amendment. They can only be heard before the assessors as to the amount of their respective assessments. 6. The legislature, by virtue of its supreme authority over the subject of taxation, had the right to confer upon the council, such an extended authority over this branch of local assessments, to be exercised in its discretion. (The People v. Mayor of Brooklyn, 4 N. Y. Rep. 419. Brewster v. City of Syracuse, 19 id. 116. 31 id. 574. 24 Wend. 65.) Taxation may be made without consent of the tax-payers. (45 Barb. 210. 11 Abb. Pr. 180.) 7. The effect of the exercise of such a discretionary power, is not the taking of private property without compensation. It is a mere apportionment of the burdens of a local improvement upon such persons as the local legislature deems benefited thereby. (4 N. Y. Rep. 423, 24, 27, 38, 39, 41.) 8. The council had authority to assess the whole expense of the work, whether it was correctly estimated when the contracts were let or not. (Meech v. City of Buffalo, 29 N. Y. Rep. 198.)\nIII. The objection to the question put to the surveyor, as to what the whole work cost, is not well founded. 1. The same question was asked him by the plaintiffs\u2019 counsel, but not directly answered. 2. This objection, and the general obj ection of the plaintiffs, that the common council could not assess the deficiency without showing the evidence of such deficiency in its proceedings, nor even then, are not tenable, (a.) The contracts provided for an increased expense. (5.) The court is bound to assume that good reasons existed for the exercise of this discretionary power by the common council, both in causing the increased expense, if such be the case, and in making a new assessment upon the original parties assessed, and upon others. (1 Hilt. 562. Luther v. Borden, 7 How. U. S. 147.)\nIV. The apportionment of the excess in the cost of the work over the estimate made by the common council and the assessors, is conclusive, unless fraud or corruption are alleged and proved. (9 Paige Ch. 16. 15 Wend. 374. Lyon v. City of Brooklyn, 28 Barb. 609, and cases there cited. Barhyte v. Shepherd, 35 N. Y. Rep. 238.) 1. It is not otherwise the subject of judicial review. (Bank of Commerce Case, 2 Black, U. S. 630.) 2. The power of taxing, and the power of apportioning taxation, are identical and inseparable. (The People v. Mayor, fc. of Brooklyn, 4 N. Y. Rep. 427, 429.) Abuses in the exercise of this power cannot be corrected by courts. (Id. 431, 432.) 3. Fraud is alleged in the complaint, but no proof of it was made.\nV. All the persons united in interest not being made plaintiffs, this action cannot be sustained. (Roosevelt v. Draper, 23 N. Y. Rep. 319. 15 Barb. 375.) They were assessed only one fourth of the deficiency, and nothing on the original assessment which does not seem to be an excessive apportionment for building crosswalks and improving a street and sidewalks which they are constantly using. Upon the merits of that question, if properly cognizable by the court, the judgment should be affirmed, with costs.\nVI. The location of South avenue, as appears upon the map, shows that the residents upon it are interested in the improvement of Mount Hope avenue, and benefited by it.\n. VII. The corporation is not liable for the unlawful or fraudulent acts of the common council. (35 Barb. 177. 2 Denio, 110. 2 Barb. 104, 111. 5 Abb. Pr. 325. 3 N. Y. Rep. 430. 3 Seld. 364. ' 20 N. Y. Rep. 312.)"
+  },
+  "file_name": "0414-01",
+  "first_page_order": 414,
+  "last_page_order": 435
+}

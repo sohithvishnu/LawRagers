@@ -1,0 +1,85 @@
+{
+  "id": 5125436,
+  "name": "Luke and others vs. The City of Brooklyn",
+  "name_abbreviation": "Luke v. City of Brooklyn",
+  "decision_date": "1864-09-12",
+  "docket_number": "",
+  "first_page": "54",
+  "last_page": "58",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "43 Barb. 54"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wheat. 428",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 John. 175",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380603
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/19/0175-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 440,
+    "char_count": 7800,
+    "ocr_confidence": 0.513,
+    "pagerank": {
+      "raw": 5.507193173985291e-07,
+      "percentile": 0.9462922355704908
+    },
+    "sha256": "7c33a02bee788ed7246073f9114d17e32891d08f45bce7b619abb4568be0dc2d",
+    "simhash": "1:1a20ccfa1ffeabaf",
+    "word_count": 1354
+  },
+  "last_updated": "2024-02-27T18:03:57.740259+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luke and others vs. The City of Brooklyn."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nBrown, J.\nThe question of the carelessness and negligence of the plaintiffs, and their reasonable diligence to avert the injury, arose upon the evidence, in the process of the trial. It was distinctly presented by the judge to the jury, without exception, and as they found it in favor of the plaintiffs, the verdict upon the point can not be disturbed. So, also, a question was raised in regard to the locus in quo; the defendant insisting that the building destroyed was not within the city of Brooklyn. It was situated on what is called the south middle pier of the Atlantic dock, about the center of the basin, and. on the end of the pier extending from the main dock on the south side of the basin. The pier was some 900 feet, commencing on the south side and running north about 100 feet from the bulkhead. The elevator building was erected below low water mark, in water originally 5 or 10 feet deep, but afterwards made 20 or 25 feet deep by dredging. Low water mark is claimed by the defendant to be the dividing line between the cities of New York and Brooklyn. But we think it is low water mark for all the purposes of this action, as the water flows after the land is reclaimed from the river or bay by the erection of wharves and piers, and the filling in from the shore for that purpose. The jurisdiction of the city of Brooklyn must from necessity follow the shore as it advances into the river or bay, whether the accretion proceeds from alluvion or artificial deposits and erections. This is asserted in Udall v. Brooklyn, (19 John. 175.) So, also, the act of the 17th of April, 1854, to consolidate the cities of Brooklyn and Williamsburgh and the town of Bushwick, &c. bounds the consolidated city \u201c west by the- town of New Utrecht and the bay of New York,\u201d and \u201cnorth by the East river.\u201d The piers and buildings are taxed by the city of Brooklyn, and must therefore be regarded as within its corporate limits and boundaries.\nThe first section of the act under which this action is brought declares, that \u201c when any building or other real or personal property shall be destroyed or injured in consequence of any mob or riot, the city or county in which such property was situated shall be liable to an action by and in behalf of the party whose property was thus destroyed or injured, for the damages sustained by reason thereof.\u201d This section recognizes the duty and obligation of the state to secure and protect the property of the citizen from injury and destruction by lawless and riotous bodies of men, and in the event of its failure or inability to furnish such security and protection, from any causes other than the carelessness and negligence of the owners of such property, it imposes upon the political community\u2014the cityorcounty\u2014when such property shall be injured or destroyed, the further obligation of paying the full value thereof, or the extent of such injury, by moneys to be assessed and collected upon the taxable property of such city or county, in the same manner as other public moneys are assessed and collected.\nThe principal question raised upon the appeal in this action is upon the force and validity of the act referred to, and the constitutional power of the legislature to pass the law. If any rule of legislative authority may be regarded as settled and established in the courts of this state, it is that which declares that the power of the legislature is supreme in all respects, and unlimited in all matters pertaining to legitimate legislation, except when it is limited and restrained by the fundamental law. After the numerous decisions by the courts, asserting the existence of this authority, to the extent stated, we may safely decline the attempt to reexamine and re-state it; for it is apparent that the subject is in a manner exhausted, and his must be a fertile mind, indeed, who can add to the force of the arguments already rendered, or shed any additional light upon the subject. (Providence Bank v. Billings, 4 Peters, 561. MoCullough v. Maryland, 4 Wheat. 428. The People v. Mayor of Brooklyn, 4 Comst. 419. Brewster v. City of Syracuse, 19 New York Rep. 116. The Town of Guilford v. Supervisors of Chenango, 3 Kern. 143.) In this last case we find the authority asserted in these words: \u201cTaxation is indisputably a legislative power. The constitution of this state will be searched in vain for any clause which contains any restriction or limitation on the taxing power of the legislature. Provisions there are, regulating the manner in which bills appropriating the public moneys for local or private purposes, or bills imposing taxes, shall be passed.\u201d After referring to these provisions by their article and section, the opinion proceeds: \u201cThese, it will be seen, are not limitations of the absolute power of the legislature over the public moneys, or of the like power in the imposition of taxes, hut rules prescribing the manner of its exercise. Whenever these formalities are observed, the legislature has the right to appropriate the public moneys for local and private purposes, and to impose a tax upon the property of the whole or any part of the state, or any particular and specified kind of property.\u201d The duty and obligation of the state to provide for the safety of property against the destructive violence of mobs of lawless and riotous men, is too plain for question; and the supplemental obligation imposed upon cities and counties to provide compensation for the injury or destruction of property which they could not or would not prevent, is but another application of the same principle of public duty.\n[Orange General Term,\nSeptember 12, 1864.\nThe judgment should be affirmed.\nBrawn, Lott, Scrugham and T. B. Barnard, Justices.]",
+        "type": "majority",
+        "author": "Brown, J."
+      }
+    ],
+    "attorneys": [
+      "H. C. Murphy and J. W. Gilbert, for the plaintiffs.",
+      "John G. Schumalcer, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Luke and others vs. The City of Brooklyn.\nFor the purpose of ascertaining whether particular property is situated within the city of Brooklyn, the line of low water, as the water flows in the East river after the land is reclaimed from the river or by the erection of wharves and piers and the filling in from the shore for that purpose, is to de deemed the dividing line between the cities of New York and Brooklyn.\nThe jurisdiction of the city of Brooklyn must, from necessity, follow .the shore as it advances into the river or bay, whether the accretion proceeds from alluvion or artificial deposits and erections.\nPiers and buildings which are taxed by the city of Brooklyn, must, in an action against the city, to recover the value thereof on their being destroyed in consequence of a mob or riot, be regarded as within the corporate limits and boundaries of Brooklyn.\nThe act of April 13, 1855, \u201c to provide for compensating parties whose property may be destroyed in consequence of mobs or riots,\u201d was a valid and constitutional act.\nThe duty and obligation of the state to provide for the safety of property against the destructive violence of mobs of lawless and riotous men, is too plain for a question: and the suplemental obligation imposed upon cities and counties to provide compensation for the injury or destruction of property which they could not, or would not, prevent, is but another application of the same principle of public duty. Per Bbowb, J.\nTHE plaintiffs obtained a verdict in this action, under the act of the 13th of April, 1855, \u201cto provide for compensating parties whose property may be destroyed in consequence of mobs or riots.\u201d The property destroyed was a grain elevator of great value, situate at the Atlantic dock, upon the Brooklyn side of Hew York bay, on the night of the 15th of July, 1863, during the prevalence of the Hew York riots. Judgment was entered upon the verdict, and the defendants appealed.\nH. C. Murphy and J. W. Gilbert, for the plaintiffs.\nJohn G. Schumalcer, for the defendant.\nLaws of 1855, p. 800."
+  },
+  "file_name": "0054-01",
+  "first_page_order": 56,
+  "last_page_order": 60
+}

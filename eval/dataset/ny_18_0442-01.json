@@ -1,0 +1,66 @@
+{
+  "id": 2021221,
+  "name": "Hunt v. The City of Utica",
+  "name_abbreviation": "Hunt v. City of Utica",
+  "decision_date": "1858-12",
+  "docket_number": "",
+  "first_page": "442",
+  "last_page": "447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 N.Y. 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 485,
+    "char_count": 10698,
+    "ocr_confidence": 0.572,
+    "pagerank": {
+      "raw": 1.0634259067495837e-06,
+      "percentile": 0.9846062453834181
+    },
+    "sha256": "6c5767d1ccc4446e5d8ed731fb6f00ea42805bf759a1aa486d2dcceb5e95d2d5",
+    "simhash": "1:3f9fb40d042dc1e8",
+    "word_count": 1866
+  },
+  "last_updated": "2023-07-14T21:18:03.381856+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hunt v. The City of Utica"
+    ],
+    "opinions": [
+      {
+        "text": "Strong, J.\nThe first question in this case, and the only one which need be considered if that be decided against the plaintiff, is whether the defendants, by the contract under which the work in question was performed, undertook absolutely to pay Cossleman for the work or to pay for the same only by assessing and collecting the sum to be paid according to the provisions of their charter, and applying it to that object. If the latter was their undertaking, the plaintiff-failed to establish a cause of action.\nThe contract is to be learned from the notice of the defendants inviting proposals for the work, the proposal made and bond executed by Cossleman, and the acceptance of the proposal by the common council of the defendants. These constitute the contract, and they must be considered and construed together in seeking for the intention of the parties and the obligations they assumed. The notice specifies the work to be done: the manner of performance: when to be commenced and completed; and states that the expense of the work will be assessed pursuant to the provisions of the charter of the city. The proposal is to do the work at specified prices for the several parts of it according to the plans and specifications, and bond. The bond is conditioned for the construction of the work according to the plans and specifications, &c., and the acceptance by the common council of the proposal is without any qualification , the entry in their book of records being that it \u201c was deemed the most reasonable and accepted.\u201d\nThe clause in the notice in reference to the assessment of the expense of the work, for the performance of which proposals were desired, must be deemed to have been inserted for some purpose; and this purpose must, if practicable, be ascertained, and have effect in determining what was the substance of the contract. It is a general rule that in its exposition effect should, if possible, be given to every part of a contract. This notice was published in pursuance of a provision in the charter of the city for a similar notice ^-ch a case, which provision has apparently a twofold bject: to inform the citizens of the pending application for the improvement, and when it will be finally acted upon, and to call for proposals to do the work; but the charter does not require any such clause in the notice as that in question. It is hardly reasonable to suppose that the common council deemed it important to insert that clause in the notice in this case for the information of the citizens; for it must be assumed that the citizens were so far acquainted with the charter of the city as to know, what appears by it, that it imposes upon the common council the duty of assessing the expense in the case of such an improvement precisely as if that clause is expressed. It is not apparent that it would be of any service, so far as the citizens were concerned. It must then be regarded, if it had any purpose, as designed for those who might propose for the work; and it is not easy to see how it would be of the slightest moment to them unless it would enter into a contract formed by the making of a proposal under the notice, and the acceptance of the proposal by the city. If the city would be bound to pay the expense before it should be assessed and collected with due diligence, it would be wholly immaterial to a contractor how the city would raise the money. But viewing the provision as intended to be a part of the contract, its importance in the notice, in reference to making proposals, is obvious, as it would bind the contractor for the work to look for his compensation to the proceeds of an assessment, if proper diligence was employed by the city, after the completion of the work and the ascertainment of its cost, to raise the amount in that mode. I am unable, after much consideration, to attach any other purpose to this clause and this appears to me to be a plain and sensible one. The common council probably were not willing, if they could do so, to subject the city to the payment of this expense otherwise than by raising the amount by assessment and then handing it over to the contractor; and a contract to this effect would seem to be precisely what the charter contemplates in reference to paying for such improvements. The- charter may properly be regarded, in giving a construction to the contract, as both parties must be considered to have acted in view of it; the common council because it prescribes their powers and duties, and the contractor because it is expressly referred to in. the notice, and because it was his duty, in making the contract, to look into the charter and learn the duties and powers of the public agents with whom he was dealing.\nThe statement in the notice, \u201c the expense thereof to he assessed,\u201d being a part of the contract, obviously imports that the demand of Cossleman was to be paid through such an assessment; and there being no other express provision for payment none other exists. The provision made excludes the idea of any other.\nEntertaining these views of the case, I think the nonsuit was properly granted, and that the judgment should be affirmed.\nHarris, J., dissented; all the other judges concurring,\"\nJudgm\u00e9nt affirmed.",
+        "type": "majority",
+        "author": "Strong, J."
+      }
+    ],
+    "attorneys": [
+      "Ward Hunt, appellant, in person.",
+      "Francis Kcrnan, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Hunt v. The City of Utica\nThe city of Utica advertised for proposals for grading and paving a street, \u201c the expense thereof to be assessed pursuant to the 66th section of the charter.\u201d The plaintiff made proposals, which were accepted without qualification, no provision in respect to payment being made, except such as might be inferred from these facts: Held, that the provisions of the charter, in the section referred to in the advertisement, in respect to the time and mode of payment, were to be taken as a part of the contract.\n2. The effect was to require the city authorities to make and collect an assessment, with reasonable diligence after the expense of the work shquld be ascertained, and to pay over the money when collected.\n3. That no action was maintainable by the plaintiff against the city until after the assessment and collection of his compensation, or the default of its officers to proceed therein as required by law.\nAppeal from the Supreme Court. The action was brought to recover an amount claimed to be due from the defendant for grading and paving one of its streets, by one Cossleman, who had assigned his demand therefor to the plaintiff: and was brought to trial before Justice Bacon at the Oneida Circuit, in November, 1856. It was proved that, in July, 1855, the common council of Utica published in the newspapers of that city a notice, signed by their clerk, stating that an application was pending and would be finally acted on, the third of August following, for the paving said street, to be done according to the plan on file with the city clerk, and the following specifications.\u201d Specifications of the manner of constructing the pavement, after mentioning the street and the limits of the work, follow under several heads, as grading, pavement, crosswalks and superintendence. It is then added that contractors will state in their proposals certain particulars; that the work must be commenced on or after the fourth, of August and completed on or before the 14th of September, 1855 ; that proposals for the work would be received until a certain day, which must be accompanied by a bond for the faithful performance of the work as required by the 66th section of the charter, \u201cthe expense thereof to be assessed pursuant to the 66th section of the city charter and the seventh section of the act amending the same, passed April 10, 1850, and the third section of the act amending the same, passed June 39, 1853.\u201d Cossleman made a proposal for the work and furnished a bond. The proposal stated that, \u201c I hereby propose to construct the pavement,\u201d &c., specifying the different kinds of work, at specified prices per square foot; \u201cto be done according to plans and specifications thereof on file with the city clerk, and according to the conditions of the accompanying bond.\u201d The bond provided for the construction of the work \u201c at the price and upon the term proposed, according to the plans and specifications thereof filed with the city clerk,\u201d &c. On the 3d of August, 1855, the proposal of Cossleman was accepted, as appears by an entry in the records of the common council stating that it \u201c was deemed the most reasonable, and accepted; \u201d and an ordinance was passed for the construction of the pavement \u201c according to the plans and specifications on file with the city clerk; \u201cthe expenses thereof to be assessed according to the G6th section of the city charter,\u201d and acts amending the same. On the ninth of November the account of Cossleman for work, which it was proved was not completed until about that time, was presented to the common council; and on the sixteenth of the same month it was allowed, \u201c payable when collected by assessment.\u201d An assessment list was prepared, and, on the 7th of December, 1855, the common council determined the whole expense of the work, and assessed the same upon lots fronting on the street, and directed the treasurer to take the necessary measures for the collection thereof. About the 1st of February, 185G\u2014no part of the assessments having been paid\u2014the treasurer issued a warrant for their collection, which was in the hands of the collector at the time of the trial, the return day thereof not having then arrived; and it was proved that no part of the assessments had been paid or collected. The demand of Cossleman was assigned to the plaintiff, November 21, 1855. This action was commenced the 26th of January, 1856. It was proved by the defendant, under objection and exception, that Cossleman had been during several years, prior to 1855, a resident of the city; and it was admitted that the city had no money or funds after the work was done exceeding a few hundred dollars.\nThe evidence being closed, the defendant moved for a non-suit on various grounds, and among others that the agreement of the defendant, as to payment for the work, was only to cause the expense to be assessed and collected and then paid over, and that they were not in default when the action was commenced, they having been since the work was completed diligently engaged in complying with the contract on their part; and that the common council had not power to bind the defendant to pay for the work absolutely. The motion was granted, and the plaintiff excepted. Judgment was entered for the defendant, which on appeal was affirmed at the general term in the fifth district, the plaintiff appealed to this court.\nWard Hunt, appellant, in person.\nFrancis Kcrnan, for the respondent."
+  },
+  "file_name": "0442-01",
+  "first_page_order": 446,
+  "last_page_order": 451
+}

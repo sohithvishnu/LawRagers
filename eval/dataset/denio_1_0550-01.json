@@ -1,0 +1,103 @@
+{
+  "id": 483933,
+  "name": "Green vs. Armstrong",
+  "name_abbreviation": "Green v. Armstrong",
+  "decision_date": "1845-10",
+  "docket_number": "",
+  "first_page": "550",
+  "last_page": "556",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Denio 550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 9581,
+    "name": "New York Court for the Correction of Errors"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Wend. 387",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 John. 421",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 John. 128",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6064791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/17/0110-01"
+      ]
+    },
+    {
+      "cite": "2 John. 418",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 673,
+    "char_count": 14071,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 2.3866982385647585e-06,
+      "percentile": 0.99627140424017
+    },
+    "sha256": "53f6137986c058e601079bc34c82b29ff7cfe3eeeacf8a138cb20e3715e10c5c",
+    "simhash": "1:e8d66631940618c6",
+    "word_count": 2535
+  },
+  "last_updated": "2024-02-27T20:08:40.180637+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Green vs. Armstrong."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Beardsley, J.\nA verbal contract was made between these parties, by which the defendant agreed to sell certain trees then standing and growing on his land, to the plaintiff, with liberty to cut and remove the same at any time within twenty years from the making of the contract. A part of the trees were cut and removed under this agreement, but the defendant then refused to permit any more to be taken, and for this the plaintiff brought his action in the justice\u2019s court, where a judgment was rendered in his favor. On the trial of the cause the defendant objected to proof of such parol contract, but the objection was overruled. The judgment was removed by certiorari to the court of common pleas of Oneida county, and was reversed by that court, on the ground, as the record states, that the contract, not being in writing, was void by the statute of frauds.\nAs the declaration stated that the contract was by parol and not in writing, and the defendant pleaded .instead of demurring, it is now urged on behalf of the plaintiff in error, that the defendant was precluded from objecting, on the trial of the cause before the justice, or in the court of common pleas, to proof of a parol contract, or that such contract was void. It is insisted the defendant should have demurred, if a verbal contract like this was invalid, and that by pleading to the declaration, its sufficiency, and consequently the validity of the contract as stated, were admitted; and if, in truth, the contract was for this reason void, the defendant, having failed to make the objection at the proper time and in an appropriate manner, is now remediless.\nIf the action had been pending in this court, or in a court of common pleas, the principles stated would, to a certain extent, have been applicable; for the objection that the contract was by parol and not in writing, could not have been made on the trial of the issue joined. But a verdict on the issue would not have concluded the defendant, for he might still move in arrest of judgment, and thus raise the question as to the validity of the contract declared on. A motion in arrest, however, cannot be made in the justice\u2019s court, and where issue has been joined, as in this case, if the defendant cannot, on the trial or on certio rari, object that the contract is void, he is without any redress whatever. But pleading to a declaration, when the party might have demurred, cannot be allowed to have any such conclusive effect upon the rights of the party: it cannot make a void contract valid, or at all change the real rights of the litigant parties. The orderly and formal mode of making the objection would be by demurrer or motion in arrest; but this is only a matter of form. And as it was too late to demur, and a motion in arrest could not be made, I have no difficulty in saying, the objection was properly made on the trial, and in the common pleas, and it must now be determined by this court.\nThe revised statutes declare that no \u201c interest in lands\u201d shall be created, unless by deed or conveyance in writing; and that every contract for the sale of \u201c any interest in lands\u201d shall be void unless in writing. (2 R. S. 134, \u00a7\u00a7 6, 8.) Certain exceptions and qualifications to these enactments are contained in the sections referred to, but none which touch the question now before the court: and so far as respects this question the former statute of New-York, and the English statute of 29 Charles 2, ch. 3, contain similar provisions. (1 R. L. of 1813, p. 78; Chit. on Cont. 299.)\nThe precise question, in this case is, whether an agreement for the sale of growing trees, with a right to enter on the land at a future time and remove them, is a contract for the sale of an interest in land. If it is, it must follow that the one declared on in this case, not being in writing, was invalid, and the judgment of the common pleas, reversing that of the justice, was correct and must be affirmed.\nAnd in the outset I must observe, that this question has not, to my knowledge, been decided in this state. It has, however, arisen in the English courts, and in some of those of our sister states; but their decisions are contradictory, and the views of individual judges wholly irreconcilable with each other. (Greenleaf's Ev. 2d ed. \u00a7 271, and notes; Chit. on Cont. 299 to 302; 4 Kent's Com. 5th ed. 450, 1.) We are, therefore, as it seems to me, at full liberty to adopt a broad principle, if one can be found, which will determine this precise question in a manner which our judgments shall approve, and especially if it be equally applicable to other and analogous cases.\nBy the statute, a contract for the sale of \u201c any interest in lands\u201d is void unless in writing. The word land is comprehensive in its import, and includes many things besides the earth we tread on, as waters, grass, stones, buildings, fences, trees and the like; for all these may be conveyed by the general designation of land. (1 Shep. Touch, by Preston, 91; 1 Inst. 4; 1 Preston. on Estates, 8; 2 Black. Com. 17, 18; 1 R. S. 387, \u00a72; 2 id. 137, \u00a7 6.) Standing trees are therefore part and parcel of the land in which they are rooted, and as such are real property. They pass to the heir by descent as part of the inheritance, and not, as personal chattels do, to the executor or administrator. (Toller's Law of Executors, 193,4,5; 2 Black. Com. by Chitty, 122. note; Rob. on Frauds, 365, 6; Richard Liford's case, 11 Rep. 46; Com. Dig. Biens, (H).) And being strictly real property, they cannot be sold on an execution against chattels only. (Scorell v. Boxall, 1 Younge & Jer. 396; Evans v. Roberts, 5 Barn. & Cress. 829.)\nIt is otherwise with -growing crops, as wheat and corn, the annual produce of labor and cultivation of the earth; for these are personal chattels, and pass to those entitled to the personal estate, and not to the heir. (Toller, 150, 194; 2 Black. Com. 404.) They may also be sold on execution like other personal chattels. (Whipple v. Foot, 2 John. 418; Jones v. Flint, 10 Adol. & Ellis, 753 ; Peacock v. Purvis, 2 Brod. & Bing. 362; Hartwell v. Bissell, 17 John. 128.)\nThese principles suggest the proper distinction. An interest in personal chattels may be created without a deed or conveyance in writing, and a contract for their sale may be valid although by parol. But an interest in that which is land, can only be created by deed or written conveyance: and no contract for the sale of such an interest is valid unless in writing.. It is not material and does not affect the principle, that the subject of the sale will be personal property when transferred to the purchaser. If, when sold, it is, in the hands of the seller, a part of the land itself, the contract is within the statute. These trees were part of the defendant\u2019s land and not his personal chattels. The contract for their sale and transfer, being by parol, was therefore void.\nThe opinion of the court in the case of Dunne v. Ferguson, (1 Hayes (Irish) R. 542,) contains one of the best illustrations of this question. That case is thus stated in Stephens\u2019 N. P. (1971.) \u201c The (acts of the case were, that in October, 1830, the defendant sold to the plaintiff a crop of turnips, which he had sown a short time previously, for a sum less than ten pounds. In February, 1831, and previously, while the turnips were still in the ground, the defendant severed and carried away considerable quantities of them, which he converted to his own use. No note in writing was made of the bargain. It was contended for the defendant, that the action of trover did not lie for things annexed to the freehold, and that the contract was of no validity for want of a note or memorandum in writing pursuant to the statute of frauds. Upon the foregoing facts Chief Baron Joy observed, (Barons Smith, Pennefeather and Foster, concurring,) \u201c The general question'for our decision is, whether there has been a contract for an interest concerning lands, within the second section of the statute of frauds ? or whether it merely concerned goods and chattels? And that question resolves itself into another, whether or not a growing crop is goods and chattels? In one case it has been held, that a contract for potatoes did not require a note in writing, because the potatoes were ripe: and in another case, the distinction turned upon the hand that was to dig them, so that if dug by A. B. they were potatoes, and if by C. D they were an interest in lands. Such a course always involves the judge in perplexity, and the case in obscurity. Another criterion must, therefore, be had recourse to ; and, fortunately, the later cases have rested the matter on a more rational and solid foundation. At common law, growing crops were uniformly held to be goods \u2022 and they were subject to all the leading consequences of being goods, as seizure in execution, <fcc. The statute of frauds takes things as it finds them, and provides for lands and goods according as they were so esteemed before its enactment. In this way the question may be satisfactorily decided. If, before the statute, a growing crop has been held to be an interest in lands, it would come within the second section of the act, but if it were only goods and chattels, then it came within the thirteenth section. On this, the only rational ground, the cases of Evans v. Roberts, (5 Barn. & Cress. 829;) Smith v. Surman, (9 id. 561;) and Scorell v. Boxall, (1 Younge & Jer. 396,) have been decided. And as we think that growing crops have all the consequences of chattels, and are like them, liable to be taken in execution, we must rule the points saved for the plaintiff.\u201d\nVarious other decisions have proceeded on the same principle, although it has no where been stated and illustrated with the j same clearness and force as in the opinion of Chief Baron Joy.\nThe following cases may be cited to show that growing / crops of grain and vegetables, fructus industriales, being goods \u00cd and chattels, and not real estate, may be conveyed by a verbal : contract, as they may also be sold on execution as personal \u00a1 chattels. (Carrington v. Roots, 2 Mees. & Wels. 248; Sainsbury v. Matthews, 4 id. 343; Randall v. Ramer, 2 John. 421, note; Mumford v. Whitney, 15 Wend. 387; Austin v. Sawyer, 9 Cowen, 39 ; Jones v. Flint, 10 Adol. & Ellis, 753 ; Warwick v. Bruce, 2 Maule & Selw. 205; Graves v. Weld, 5 Barn. & Adol. 105.)\ni But where the subject matter of a contract of sale, is growing trees, fruit or grass, the natural produce of the earth, and not annual productions' raised by manurance and the industry of man, as they are parcel of the land itself, and not chattels, the contract, in order to be valid, must be in writing. (Teal v. Auty, 2 Brod. & Bing. 99 ; Putney v. Day, 6 N. Hamp. R. 430; Olmstead v. Niles, 7 id. 522; Crosby v. Wadsworth, 6 East, 602; Rodwell v Phillips, 9 Mees. & Wels. 501; Jones v. Flint, 10 Adol. & Ellis, 753.) :\nThe contract in this case was within the statute, and being by parol was void. The judgment of the common pleas must be affirmed.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "By the Court, Beardsley, J."
+      }
+    ],
+    "attorneys": [
+      "O. S'. Williams for the plaintiff in error.",
+      "John Dean, for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Green vs. Armstrong.\nThe plaintiff in a justice\u2019s court declared for the breach of a \u201c verbal contract\u201d in a case where the statute of frauds requires a contract in writing, and the defendant pleaded specially instead of demurring; held that a motion in arrest of judgment not being allowed in that court, the defendant could take advantage of the invalidity of the contract on the trial; or upon certiorari where there was a recovery before the justice.\nAn agreement for the sale of growing trees, with a right to enter on the land at a future time and remove them, is a contract for the sale of an interest in lands, and to be valid must be in writing.\nThe distinction, on this subject, is between growing trees, fruit or grass and other natural products of the earth on the one hand, and growing crops of grain and other annual productions raised by cultivation of the earth and the industry of man on the other. The former are parcel of the land, and a contract in writing is required to make a valid transfer: the latter are personal chattels and not within the statute. Pur Beardsley, J.\nError to the Oneida common pleas. Green sued Armstrong before a justice of the peace in February, 1844, and declared for the breach of a verbal contract made in January, 1838, by which the defendant sold to the plaintiff twenty-two basswood trees standing on the defendant\u2019s land, at the rate of one shilling and six pence per saw-log, said trees to be paid for when cut and carried away, the plaintiff being at liberty to cut and take them away at any time within twenty years after the time of making the contract, averring that a part of the timber had been cut, taken and paid for, and that the defendant had forbidden the plaintiff to cut or take away any more of said trees. Plea, the general issue, with notice of special matter.\nOn the trial before the justice and a jury, the contract by parol, in the terms stated in the declaration, was proved to have been made between the parties about six years before the trial. It appeared that all the trees which the plaintiff was to have, were selected and marked by the parties, except two. After the plaintiff had cut and taken away a part of the trees, the defendant forbad him from cutting any more. In the course of the trial, the defendant objected to the plaintiff\u2019s evidence on the ground that the contract was invalid, being by parol and for an interest in lands, and also because it was not to be performed within one year ; which objections the justice overruled. The jury found a verdict for the plaintiff for nine dollars, upon which the justice rendered judgment, which was reversed by the common-pleas on certiorari, for the reason, as stated in the record in that court, \u201c that the sale of the trees under a stipulation to be cut and taken away by the defendant in twenty years, is a contract for the sale of land, and not being in writing is void by the statute.\u201d\nO. S'. Williams for the plaintiff in error.\nJohn Dean, for the defendant in error."
+  },
+  "file_name": "0550-01",
+  "first_page_order": 550,
+  "last_page_order": 556
+}

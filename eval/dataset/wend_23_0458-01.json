@@ -1,0 +1,73 @@
+{
+  "id": 2025552,
+  "name": "McCullough vs. The Mayor, &c. of Brooklyn",
+  "name_abbreviation": "McCullough v. Mayor of Brooklyn",
+  "decision_date": "1840-05",
+  "docket_number": "",
+  "first_page": "458",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "23 Wend. 458"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 9547,
+    "name": "New York Supreme Court of Judicature"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Wend. 863",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 422,
+    "char_count": 7862,
+    "ocr_confidence": 0.428,
+    "pagerank": {
+      "raw": 2.4164452313732037e-06,
+      "percentile": 0.9963486288196725
+    },
+    "sha256": "dc91878d601b7e4e7d8d72e7476377d33b26b53d2f7058be22264860df1a055b",
+    "simhash": "1:ce61c06c458ff6c8",
+    "word_count": 1384
+  },
+  "last_updated": "2024-02-27T16:29:45.349040+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McCullough vs. The Mayor, &c. of Brooklyn."
+    ],
+    "opinions": [
+      {
+        "text": "Bronson, J.\nBy the Court, When an order is made by the corporation of the city of Brooklyn to lay out or open any new street, or to widen or extend an old one, commissioners are appointed to estimate and assess the amount of damages and benefit to be sustained and derived by the owners of lands and buildings affected by it. Statutes of 1833, p. 499, \u00a7 1, 2. Within sixty days after the report is confirmed, persons assessed for benefit. may pay the money to the city treasurer, without any additional expense ; if not paid within that time, it is to be collected, on the warrant of the corporation, by the city collector, who is authorized to levy it of the goods and chattels of the persons assessed, in the manner of collecting town taxes ; and when collected, pay it over to the treasurer. \u00a7 8,11. The treasurer is to pay over the money to the persons to whom damages have been awarded by the commissioners. \u00a7 12. If the collector is unable to find goods and chattels to satisfy the assessments, he is to certify the fact to the common council; upon which they are authorized, after the publication of a notice for twelve weeks, to sell the lands upon which the tax is imposed, for the payment of the assessments, .with interest and expenses. Statutes of 1834, p. 106, \u00a7 42. The sums awarded for damages are not declared to be debts against the city, nor is it made the duty of the corporation to pay the money.\nOn this case, I do not see how the action of assumpsit can be maintained. But if it will lie in any form, it must be on a different assumpsit from that laid in the declaration. The conclusioii which the plaintiff has drawn does not follow from the inducement, or premises which he has alleged. *After setting out the order for opening the road, the assessment [ *460 ] of the plaintiff\u2019s damages and the confirmation of the report, the pleader alleges, that by reason of the premises, and by force of the statute, the defendants became liable to pay the money ; and that liability is the consideration for the promise. No such duty is imposed on the corporation by the statute. Had it be.en alleged that the money was paid by the persons assessed for benefit, or that it had been collected from them, either by the collector or by sale of the lands assessed, there would, perhaps, be a good foundation, or sufficient inducement, for a promise by the corporation to pay over the money which had gone into the hands of their treasurer. But the declaration contains no such averment.\nThis corporation -was instituted for the purposes of public government within the chartered-limits of the city. Some of the acts which it is authorized to perform have respect to the whole territory and body politic, and operate alike upon every citizen; while other acts have a more narrow influence, and only affect particular individuals. The opening this road was an act belonging to the latter class. The statute does not contemplate that the direct benefits of the improvement will accrue to the whole city; and on that ground, as may be presumed, the burden was not laid upon the corporation. The damages which some will sustain, are to be assessed upon other land owners in the immediate vicinity of the road, who are supposed to receive an equivalent benefit from the improvement. As the persons interested would not be likely to agree as to how much one should pay and another receive, the corporation, or the local government in that district, is made the instrument of adjusting the matter between them. The corporation uses the proper means for procuring just and equitable assessment and awards, and collects the money from one, and pays it over to another, without having itself any direct interest in the matter.\nIn such a case, I am unable to see that any other duty or obligation rests on the corporation, than that of putting the necessary machinery [ *461 ] in motion according to the requirements *of the statute. If the common council has neglected that duty, or has been wanting in diligence, an action on the case would perhaps lie in favor of any one, who, like the plaintiff, would be entitled to the money when collected. Rut a mandamus would be a more appropriate remedy. The People v. The Supervisors of Columbia, 10 Wend. 863. The People v. The Mayor of N. York, id. 393. Ex parte Rogers, 7 Cowen, 626. Although, as a general rule, a mandamus will not lie where the party has another remedy, it is not universally true in relation to corporations and ministerial officers. Notwithstanding they may be liable in an action on the case for a neglect of duty, they may bo compelled by mandamus to exercise their functions according to law.\nThe plaintiff relies on the case of Stafford, v. The Mayor of Albany, 6 Johns. R. 1, and 7 id. 541, where an action of assumpsit by the land owner against the corporation was maintained. Rut under the Albany act, the benefits of the improvement were not charged upon individuals, and there was an express provision that the damages should be paid by the corporation. 2 R. L. of 1801, p. 158, \u00a7 22. There was a duty on the corporation to pay the money, and the decision was put upon that ground. So in New-York, although the burden is ultimately to fall upon the persons benefitted, the damages awarded are, after a limited time, to be paid by the corporation. 2 R. L. 418, \u00a7 183. The legislature has not imposed any such burden upon the corporation of Brooklyn, and this action cannot be maintained.\nJudgment for defendants.",
+        "type": "majority",
+        "author": "Bronson, J."
+      }
+    ],
+    "attorneys": [
+      "J. M. Van Cott, for defendants.",
+      "A. Taber, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "McCullough vs. The Mayor, &c. of Brooklyn.\nIn an action of assumpsit against the mayor and common council of Brooklyn, to recover the amount awarded to an owner of lands taken in the opening of streets or roads, it is not enough to sustain the action to allege the order for the opening of the road, the appointment of commissioners of estimate and assessment, the award in favor of the owner, the confirmation of the report of the commissioners, and a promise to pay. On the facts alleged, the duty to pay is not incurred; the payment by the persons benefitted, of the sums assessed upon them, should have been averred.\nIt is the duty of the common council to take the necessary measures to have the sums assessed collected, and if they neglect to do so they are liable to an action on the case ; but a mandamus would be the more appropriate remedy.\nAlthough as a general rule a mandamus will not lie whore the party has another remedy, it is not universally true ip relation to corpoi-ations and ministerial officers ; notwithstanding they may be liable in an action on the case for a neglect of duty, they may be compelled by mandamus to exercise their functions according to law.\nDemurrer to declaration. The plaintiff, in the first count of the declaration, alleged that the defendants, on the 14th March, 1836, on petition and in pursuance of the statutes relating to the city of Brooklyn, determined to open, lay out and continue Bedford road; that commissioners were after-wards appointed, who, on the 10th October, 1836, reported that three pieces of land, describing them, belonging to the plaintiff, would be required for making the improvement; and that the loss and damage which the plaintiff would sustain in the premises would amount to $4200, which they awarded to him; and that the report of the commissioners was confirmed by the supreme court on the 22d December, 1836. By reason of all which said several premises, and by force of the statute in such case made and provided, the defendants became liable to pay, \u2021o.; and being so liable, [ *459 ] in consideration thereof, afterwards, to wit, *on the 30th June, 1838, at, &c. promised to pay the plaintiff the said sum of $4200, when thereunto afterwards requested. The second count was substantially the same as the first. Demurrer and joinder.\nJ. M. Van Cott, for defendants.\nA. Taber, for plaintiff."
+  },
+  "file_name": "0458-01",
+  "first_page_order": 340,
+  "last_page_order": 342
+}

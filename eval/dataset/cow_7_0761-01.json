@@ -1,0 +1,133 @@
+{
+  "id": 2035094,
+  "name": "Rockwell against Adams",
+  "name_abbreviation": "Rockwell v. Adams",
+  "decision_date": "1827-10",
+  "docket_number": "",
+  "first_page": "761",
+  "last_page": "762",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "7 Cow. 761"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "17 John. 29",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6064629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/17/0034-01"
+      ]
+    },
+    {
+      "cite": "9 John. 100",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/9/0100-01"
+      ]
+    },
+    {
+      "cite": "8 John. 367",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134321
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/8/0367-01"
+      ]
+    },
+    {
+      "cite": "7 John. 245",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 John. 269",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129934
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0269-01"
+      ]
+    },
+    {
+      "cite": "3 John. 8",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129906
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0008-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 283,
+    "char_count": 4027,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 3.637995790735752e-07,
+      "percentile": 0.8894682662966065
+    },
+    "sha256": "f33558abdd5fa0add070267edccab645b049242dbacdbde28e32aa5ea90afb65",
+    "simhash": "1:93f28600771bb8e8",
+    "word_count": 716
+  },
+  "last_updated": "2024-02-27T17:59:29.352125+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rockwell against Adams."
+    ],
+    "opinions": [
+      {
+        "text": "Curia, per Sutherland, J.\nThe jury, I think, would naturally infer from the charge, that though the defendant had, in the first place, established, and subsequently, uniformly recognized the line set up by the plaintiff, yet if he was ignorant at the time, that it would give him short of what his deed would warrant, he was not bound to abide by it, unless he had expressly agreed so to do.\nNow I apprehend that it is not necessary, in order to make an actual practical location control the courses and distances in a deed, that the party making such location, or subsequently recognizing it, should, in all cases, know that the effect of it would be to give him less land than he would otherwise be entitled to ; nor that there should be an express agreement to abide by such line. An acquiescence for a length of time is evidence of such agreement. Where the line has been acquiesced in for a great number of years by all the parties interested, it is conclusive evidence of an agreement to that line; as in Jackson v. Bowen, (1 Caines, 363;) Jackson v. Vedder, (3 John. 8;) and Jackson v Dieffendorf & Zoller, (3 John. 269.) In each of these cases erroneous locations had been made; and they had been acquiesced in (not with a full knowledge that they were erroneous, but under a belief that they were correct,) for from 30 to 40 years; and the court held all the parties concluded. Van Ness, J., in Jackson v. Ogden, (7 John. 245,) thus states the principle applicable to this subject: 11 When two persons already having a title, have settled the line of division between them, or where one having title, has made an actual location according to what he supposed to be his true line, and his neighbors have acquiesced in such location, for a considerable length of time, the boundary thus established shall remain undisturbed.\u201d He dissented from a majority of the court in that case, because he supposed they went beyond the rule which he thus laid down. (And see 8 John. 367; 9 John. 100; 17 John. 29.)\nNew trial granted.",
+        "type": "majority",
+        "author": "Curia, per Sutherland, J."
+      }
+    ],
+    "attorneys": [
+      "R. Weston, for the plaintiff, moved for a new trial.",
+      "*D. Russell, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Rockwell against Adams.\nALBANY,\nOct. 1827.\nA practical par^or^his of him^ess^land thanUie actual distances in his \u2019though he do^ not time that- it suoh\nTo bind him, t,e an express agreement,\nfor a length of dence of such agreement; and where the line has been number of ^\u201cparties h> terested, it is dence of an to\nReplevin for saw logs; tried at the Warren circuit, June 21st, 1825, before Duer, 0. Judge.\nThe logs in question were of trees felled by the ant on unenclosed timber land, which the plaintiff claimed as his own. And the dispute related to the dividing line between the parties, as described m conveyances to each, The plaintiff contended that the defendant was from disputing the line to which the former claimed, on the ground that the defendant had, by various acts of practical location and recognition, established the line set up by the plaintiff, as the true partition line between the parties. There was also a question whether the defendant knew at the time, that the location would diminish the quantity of land which he might otherwise claim under his conveyance, according to courses and distances.\nIt is not necessary to state the case farther; as the only , \u2022 i ,, . , . , . , .. law question passed upon by the bench, related to the charge of the judge to the jury upon the point of location, He charged, that if the defendant had fixed upon a line, with a full knowledge of his rights, short of that which his deed would give him, such deliberate location would regulate and control his grant, and he would not be permitted afterwards to extend it beyond the limits of his actual location. Tf he had agreed to the line set up by the plaintiff as the true line, he' must be bound by suoh agreement, and the verdict should be for the plaintiff; but if the jury should find that no line had been agreed upon, they must ascertain the boundary upon other principles.\nThe jury found for the defendant.\nR. Weston, for the plaintiff, moved for a new trial.\n*D. Russell, contra."
+  },
+  "file_name": "0761-01",
+  "first_page_order": 841,
+  "last_page_order": 842
+}

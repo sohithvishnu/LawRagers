@@ -1,0 +1,145 @@
+{
+  "id": 1111968,
+  "name": "BARTLETT v. TARBOX",
+  "name_abbreviation": "Bartlett v. Tarbox",
+  "decision_date": "1864-12",
+  "docket_number": "",
+  "first_page": "120",
+  "last_page": "124",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Abb. Ct. App. 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Barb. 489",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4954563
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/17/0489-01"
+      ]
+    },
+    {
+      "cite": "34 Wend. 464",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Cush. 35",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1991468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/64/0035-01"
+      ]
+    },
+    {
+      "cite": "33 Wend. 50",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Cush. (Mass) 36",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        9453873
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/63/0036-01"
+      ]
+    },
+    {
+      "cite": "39 Me. 19",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8846060
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/39/0019-01"
+      ]
+    },
+    {
+      "cite": "24 Pick. 242",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2069304
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/41/0242-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 207",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 482,
+    "char_count": 9955,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 1.7734005157060345e-07,
+      "percentile": 0.7124336206473814
+    },
+    "sha256": "b850ac5a3e3c30c901ee57c86145c493cfe9248d369a64c101286c5657ea5d41",
+    "simhash": "1:a22336369b1992af",
+    "word_count": 1728
+  },
+  "last_updated": "2024-02-27T21:44:55.637972+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BARTLETT v. TARBOX."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court.\nWright, J.\n[After stating the facts, and holding that a person transferring a promissory note is not the assignor of a thing in action, within section 399 of the Code of Procedure, as amended in 1857, requiring ten days\u2019 notice of the intended examination of such assignor to bo given; \u2014 a question superseded by subsequent amendments.]\n2. A witness by the name of Estes detailed the particulars of an interview between the defendant and Brown at Brown\u2019s office, about October 1, 1851, some two months before the transfer of the notes. The parties were trying to settle. The account books of Brown were produced, and his account with the defendant looked over and examined, as his book exhibited it. The defendant claimed against Brown seventy-five dollars for political services, in promoting his election to the office of district attorney, and that of his brother John to the office of sheriff, and this was all the claim he made. Estes further testified: \u201cI recollect defendant said Brown\u2019s account was all right, and he would allow it, if Brown would allow his.\u201d This evidence was objected to by the defendant for the reason that the parties were negotiating a settlement; but the objection was overruled, and the evidence received. It was not objectionable, at least not for the reason assigned. The fact that the parties were attempting to settle was no ground for excluding any admission by the defendant of the correctness of Brown\u2019s account against him. It was not an offer or proposition made for the purpose of effecting a settlement, but the declaration of a fact after looking over the items, viz: that \u201cBrown\u2019s account was all right.\u201d The admissions of distinct facts during negotiation for a settlement are always competent evidence against the party making them In this case the proof was extremely pertinent, as a distinct admission that all the items of account then looked over were correct; and also, as tending to show that the defendant then (some two months before the commencement of the action) made no claim or pretense that he had paid anything on the notes in suit, or that he had any set-off or claim against Brown, not credited on Brown\u2019s books, except the claim for political services.\n3. At the close of the examination of Estes and Brown, the plaintiff offered Brown\u2019s book containing the accounts looked over and examined by defendant, as testified to by both those witnesses, not as evidence of any items not proved, but to identify the accounts, and as confirmatory testimony. This book had been in court, and referred to on the examination of both Brown and Estes. The defendant objected to it as being incompetent and immaterial, and not being proved according to the rules of evidence, and that the admissions in reference to it were made - during an effort to settle. After receiving further proof that the book was the same produced at Brown\u2019s office, that it contained the same charges, and they were all correct, and were all looked over by defendant, and there had been no alteration in the account since such \"examination, the referee overruled the objections, and decided to receive the book for the purposes offered. This was not error. The book had been looked over by the defendant, and the accounts admitted to be correct, on which were all the credits of the defendant, which he claimed, except for pretended political services. It showed a balance due to Brown over and above the notes in suit, as Brown had previously testified was the fact, of fifty dollars and fifty-six cents; but what these herns were that went to make up such account, and which the defendant ad - mitted was all right, could not be understood by the referee except by an inspection of the book. It was not offered as any evidence of itself, of the correctness of its contents, but to show what were the items of account referred to in the testimony of Estes and Brown. It is to be observed that the evidence as to the state of the accounts between Brown and defendant in October, 1851, was principally pertinent as bearing on the question, whether, at the time of the transfer of the notes, Brown had not an unsettled account against the defendant for professional services, more than enough to balance any claims of the latter against him, and which could be the subject of a set-off.\n4. The evidence tended to show that the note against Huntington was, by agreement, received by Brown from the defendant toward costs due to him from the latter in the Angel\u00ed chancery suit, and that Brown was to make that application of a proportion of its proceeds. With the view of showing the application of the note on these costs, the plaintiff offered Brown\u2019s chancery register in evidence. It was objected to for the same reason as his account book before mentioned. I think the evidence was admissible; but if otherwise, it could not possibly have prejudiced the defendant. Brown had previously testified to the application, by him of enough of the note to satisfy the bill of costs in the Angel\u00ed suit, and the entry of the fact in his chancery register had been proved without objection.\n5. The case states that before the termination of the trial, the plaintiff offered in evidence all the papers, receipts and bills of costs before proved, and marked by the referee, and that, the defendant Objected to them, on the ground that they were incompetent and immaterial evidence, and the acts and declarations of third persons. There was no force in the objection. There were receipts for money which Brown testified he paid for the defendant, and his bills of costs against him. After the bills of costs were proved without objection, they were properly produced and put in evidence. Had they been received as proof of the services, and their value, from the amount at which they were taxed, without other proof, there might have been some ground for the objection; but after proof of the services, and the value, and taxation, and the charges on the account book of such bills, and credits to the defendant of the amount belonging to him, and his declaration that the account was all right, it cannot be pretended that it was illegal to produce the bills as taxed.\n[Remarks to the effect that the objection to certain other evidence was lost by not insisting on it at the trial are omitted.]\nThese were all the rulings on the trial' now claimed to have been erroneous. I am of the opinion that the defendant\u2019s exceptions to them were not well taken. The judgment of the supreme court should be affirmed,\nAll the judges concurred.\nJudgment affirmed, with costs.",
+        "type": "majority",
+        "author": "Wright, J."
+      }
+    ],
+    "attorneys": [
+      "L. L. Bundy, for defendant, appellant,",
+      "Edgar F. Brown, for plaintiff, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "BARTLETT v. TARBOX.\nDecember, 1864.\nTlie admission by a party that an account examined by him was correct, is admissible in evidence against him, although made during a negotion for settlement, and coupled with an offer to allow the account on a condition. 0 1\nAfter the correctness of the items of an account has been proved, the ac- \u25a0 count, and entries and vouchers concerning the items, are admissible.\nDelos Bartlett sued Levi B. Tarbox, in the supreme court, to recover the. amount of four promissory notes made by defendant, all of which had been transferred to plaintiff by one Elijah Brown, on November 25, 1851, after they were overdue!\nTwo defenses were interposed. First. That the plaintiff was not then owner, but that they were the property of Brown; and, Second. A set-off against Brown. The set-off claimed was the amount of a note (two hundred and eighty-three dollars and eighty-three cents) made by one Huntington, which it was alleged the defendant sold to Brown in 1849, and which had been paid to the latter; also, for moneys received by Brown, to and for the use of the defendant, and money paid by the latter to the former during the six years prior to 1851; and also, for work and labor done and performed by the defendant for Brown, in the years 1846, 1847 and 1848. The finding of the referee disposed of both these defenses adversely to the defendant. He found that the plain-5 tiff was, at the commencement of the action, the owner and holder of the notes, having purchased them for a valuable consideration; that at the time of the sale of the Huntington note to Brown, the defendant was indebted to him in a sum of money exceeding the amount of the note, for certain professional services as attorney, toward the payment of which, by an agreement between the parties, the note was to apply ; and Brown, at the receipt thereof, in pursuance of the agreement, applied it in part payment of the defendant\u2019s indebtedness ; and that the defendant failed to prove any matter of set-off mentioned in his answer.\nThe nature of the evidence material to the decision of this appeal is fully stated in the opinion. Plaintiff had judgment for the amount of the notes with interest.\nThe supreme court, at general term, affirmed the judgment, holding that the admission of the correctness of the account was a distinct fact, which might be proved against defendant notwithstanding it was coupled with an offer to compromise; and that Brown\u2019s book was admissible to identify the admitted account, and show its amount, although it would not have been admissible for the purpose of proving items, as Brown was not a party. Also, that the testimony of Brown that he applied the note toward costs, in a specified suit, rendered it proper to produce the book in evidence, to show that Brown made an entry of such application.\nDefendant appealed to this court.\nL. L. Bundy, for defendant, appellant,\nAs to admissibility of the account book and register, cited Larne v. Rowland, 6 Barb. 207; Ogden v. Peters, 15 Id. 560; Smith v. Webb, 1 Id. 230; 24 Pick. 242 ; 39 Me. 19; 9 Cush. (Mass) 36; Robb v. Hackley, 33 Wend. 50; Keith v. Kiddy, 10 Cush. 35; Dudley v. Bald, 34 Wend. 464; Smith v. Stickney, 17 Barb. 489; People v. Finigan, Park. Cr. 147; 1 Greenl. Ev. \u00a7 469; Conard v. Griffith, 11 How. U. S. 480.\nEdgar F. Brown, for plaintiff, respondent."
+  },
+  "file_name": "0120-01",
+  "first_page_order": 130,
+  "last_page_order": 134
+}

@@ -1,0 +1,66 @@
+{
+  "id": 5071239,
+  "name": "Barnard vs. Monnot",
+  "name_abbreviation": "Barnard v. Monnot",
+  "decision_date": "1861-02-04",
+  "docket_number": "",
+  "first_page": "90",
+  "last_page": "95",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 Barb. 90"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 461,
+    "char_count": 9885,
+    "ocr_confidence": 0.489,
+    "pagerank": {
+      "raw": 3.2021956169489226e-07,
+      "percentile": 0.8659470108102828
+    },
+    "sha256": "c7437852a6d401105a22c02ddf8ccd44e6fc4baeeefc7b3af1a8525344b571ce",
+    "simhash": "1:ceed6430bf017ee5",
+    "word_count": 1695
+  },
+  "last_updated": "2023-07-14T20:32:58.212471+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barnard vs. Monnot."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Clerke, P. J.\nIt appears to me very evident that the plaintiff had no agency whatever in negotiating the second agreement effected between the defendant and Eno, It was essentially different from the bargain by which the latter was to give $250,000 for the property. It was only for a portion of it; of which the consideration money was $170,000; for which Eno gave the defendant Ho. 74 Broadway at a valuation of $100,000 instead of $110,000; Eno assuming a mortgage for $80,000 on the property which he purchased from the defendant. He also agreed to lend the defendant $50,000, and $10,000 being due on the difference in the valuation of the property to be exchanged, the defendant agreed to give a bond and mortgage on 74 Broadway for $60,000, with other special provisions. The first negotiation was for the whole property for $250,000, for which Eno was to pay by giving the defendant 555 Broadway at $120,000, 74 Broadway at $110,000, and $20,000 in cash.\nIt is evident, then, that the terms expressed in each negotiation would make the agreements entirely different. The first was never effectuated, so as to give it the character of a binding agreement. Undoubtedly, the broker\u2019s compensation is earned by the completion of his service, which terminates when the vendor and vendee have agreed. But. it must be an agreement by which the parties are legally bound. Any thing less is-merely loose conversation. Parties may agree upon the price, and generally upon the other terms. But many questions remain to be adjusted and investigated, and arrangements to be settled, which can never be properly provided- for until the contract is formally reduced to writing; and if the owner of real estate is to be liable for a commission to a broker before the agreement is completed, in this way he maybe compelled to pay a great many commissions before he finally disposes of it. He, also, may discover that the purchaser is entirely irresponsible, or that he never intended to complete the agreement, or that he kept up a feigned negotiation for some sinister purpose of his own, or to give his friend the broker a ground for recovering his commissions. Of course nothing of this kind could be predicated of this transaction; broker,-vendor \u00bfnd vendee having conducted the negotiation apparently with the sincere intention of completing an agreement. I only mention these supposed cases to show the necessity of perfecting the agreement, in the method required by law, before the agent should be entitled to his commission. I am, therefore, of opinion that the signing of a contract for the purchase of real property is essential before the broker has a legal right to compensation; and for this reason, even if the plaintiff adduced testimony of his retainer by the defendant, sufficient to go to the jury, he could not recover any commissions for his agency in the first negotiation.\nAnd with regard to the second, which, as we have seen, was a transaction totally different from the first, and which was completed so as to make it binding on the parties, -the plaintiff had no agency in it whatever. Eno, the purchaser, and the plaintiff\u2019s own witness, says that the plaintiff had nothing to do with the agreement of -the 9th of June, (the one reduced to writing and signed by the parties,) that it was made by him and the defendant personally; \u201cthe plaintiff was not present and had nothing to do with it; it was made at my office.\u201d This is not contradicted ; indeed it is not pretented by the plaintiff that he had any agency in the second negotiation, except, I suppose, so far as he maintains it was only a modification of the first, and that his services rendered in effecting that, entitled him to compensation on the agreement that was finally and legally concluded between the parties. But we have seen that although the first related to the whole property, and the second to a part of it, the transactions were entirely different.\nThe plaintiff, therefore, failed to make out his case; and the judge properly-dismissed the complaint.\nI have not thought it necessary to inquire whether the plaintiff produced any evidence sufficient to go to the jury on the subject of the retainer. Even if he did, which I very much doubt, his case, for the reason above stated, would be incomplete.\n[New York General Term,\nFebruary 4, 1861.\nThe judgment should be affirmed with costs.\nClerke, Sutherland and Ingraham, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Clerke, P. J."
+      }
+    ],
+    "attorneys": [
+      "H. Barnard, for the appellant.",
+      "E. Logan, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Barnard vs. Monnot.\nAlthough a broker\u2019s compensation is earned on the completion of his service, which terminates when the vendor and vendee have agreed, yet there must be an agreement by which the parties are legally bound.\nOn a negotiation for the sale of real estate the parties must agree upon the terms, and the contract must be formally reduced to writing and executed by them, before the broker will be entitled to his commissions.\nWhere a negotiation, conducted by a broker, is broken off before any binding agreement is entered into between the parties, and thereupon a new contract is executed by them for a part of' the property, only, and varying essentially in its terms, from the first, without any agency or intervention of the broker, the latter will not be entitled to a commission.\nTHIS is an appeal brought by the plaintiff, from a judgment of this court dismissing the complaint, rendered at a trial term thereof, held by Hon. William F. All,en, on the 8th day of March, 1859. The complaint alleges a retainer of the plaintiff as a real estate broker, by the defendant, to negotiate the sale of the large block of ground bounded on the Fifth avenue, Twenty-third and Twenty-fourth streets, in the city of Hew York, known as the Hippodrome property. That on the 31s# May, 1855, the defendant and a purchaser met at the plaintiff\u2019s office, and the defendant agreed to sell, and the purchaser to buy, the whole property for $250,000. That the purchaser was ready to execute a written contract, but the defendant refused, but in consequence of that negotiation the defendant, on the 9th of June, 1855, executed to the same purchaser \u00e1 Written contract for part of the prop- \u25a0 erty for $170,000, and on the 15th June a deed was delivered for such part. That upon such negotiation the usual customary brokers\u2019 commission for selling real estate became due to the plaintiff, one per cent upon the price; and demands $2500, with interest from 31st May, 1855. The answer denies that the defendant employed the plaintiff as his broker, or that he ever negotiated, as his broker, any sale, and denies that on the 31st May he agreed to sell, as in the complaint stated; and alleges that the alleged sale was merely a negotiation; that the minds of the parties never met therein. Denies that from any intervention or services of the plaintiff, the defendant made a sale of part of the property, but that that sale was made without any intervention or services of the plaintiff, and was founded upon different considerations and terms from the first negotiation. The evidence tended to show that the plaintiff was never retained by the defendant, who was a perfect stranger to him, and the defendant had his own broker to sell the property for him, a Mr. Grood^ speed. But that the plaintiff sent for the defendant, writing and sending him letters, and spoke and acted as if he was applying to purchase on his own behalf, or as brolcer for Mr. Eno, his landlord, for whom he had acted largely as broker, and so the defendant was led to believe. On the 31st May, Eno, the purchaser, and the defendant, met at the plaintiff\u2019s office, and entered into a preliminary agreement as to the price, provided the defendant was satisfied, upon investigation, that the value which Mr. Eno set upon the property he gave in exchange was fair, and that the leases on it were satisfactory. The defendant had never seen the deeds of the property he was to receive, knew nothing of the dimensions of the lots, had never seen the leases, which turned out to be very complicated and with objectionable provisions in them; the defendant therefore refused to commit himself by a written contract, until he and his lawyer; Mr. Logan, had satisfied themselves as to those matters. On inquiry; the defendant ascertained that the property, 74 Broadway, which he was to receive as $110,000 in part payment, was over-valued $10,000, of which neither Mr. Bno nor the plaintiff had informed him, and the defendant\u2019s wife refused to accede to the sale. There were also objectionable clauses in the leases. Bor these reasons the defendant refused to complete the negotiation or to sell, and no valid agreement for sale, in writing, was made, nor did the parties\u2019 minds ever meet in the details of negotiation by parol. After the negotiation was ended, and the parol agreement was declared off, a new negotiation commenced between Mr. Bno and the defendant for part of the property, without not only the agency or intervention, but without the knowledge of the plaintiff. A contract, having no element in common with the first negotiation, but entirely different, was then executed between said Bno and the defendant. The first negotiation was for the whole property for $250,000, for which Mr. Bno was to pay by selling him 555 Broadway, at $120,000, 74 Broadway at $110,000, and $20,000 cash. The second negotiation, and the contract executed under the same, was for part of the property at $170,000, for which Bno gave the defendant Ho. 74 Broadway for $100,000, ($10,000 less than the first negotiation.) Mr. Bno was to assume a mortgage of $80,000 on the property he bought of the defendant. Bno agreed to lend the defendant $50,000, and the defendant was to give Bno a bond and mortgage on 74 Broadway for $60,000, with other special provisions, showing that the two negotiations were entirely different.\nH. Barnard, for the appellant.\nE. Logan, for the respondent."
+  },
+  "file_name": "0090-01",
+  "first_page_order": 90,
+  "last_page_order": 95
+}

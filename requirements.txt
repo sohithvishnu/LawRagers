@@ -1,0 +1,27 @@
+# Backend (existing — from CLAUDE.md install line)
+fastapi
+uvicorn
+chromadb
+torch
+sentence-transformers
+ollama
+python-multipart
+PyPDF2
+
+# Phase 0 — eval harness (CLERC-style)
+ranx
+numpy
+eyecite
+httpx
+tqdm
+
+# Phase 1 — retriever service skeleton
+pydantic-settings
+tantivy
+pyyaml
+
+# Phase 2 — retrieval pipeline + chunking
+pysbd
+
+# Phase 7 — operational polish
+structlog

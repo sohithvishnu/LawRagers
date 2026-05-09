@@ -1,0 +1,79 @@
+{
+  "id": 5096989,
+  "name": "Ericsson vs. James Brown and Stewart Brown",
+  "name_abbreviation": "Ericsson v. Brown",
+  "decision_date": "1862-11-03",
+  "docket_number": "",
+  "first_page": "390",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "38 Barb. 390"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "24 Barb. 87",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4991872
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/24/0087-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 336,
+    "char_count": 5650,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 6.675182912819794e-07,
+      "percentile": 0.9625437622038968
+    },
+    "sha256": "ce2715bda467499e692e2106d882bcfa0de08f6c44e310f5109c5127a0177444",
+    "simhash": "1:9d55ffb38f39d671",
+    "word_count": 946
+  },
+  "last_updated": "2024-02-27T20:23:25.354292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ericsson vs. James Brown and Stewart Brown."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court, Peckham, J.\nIn the act incorporating \u201cThe Hew York and Liverpool United States Mail Steamship Company,\u201d passed April'11, 1859, section 10, is the following provision: \u201cThe stockholders of the said company shall be jointly and severally individually liable for all the debts that may be due and owing to all their laborers and operatives for services performed for said corporation.\u201d From the 9th of April to the 10th of October, 1857, the plaintiff, as consulting engineer, rendered services at different times upon some twenty different days, for said company, of the value of $500, as particularly stated in his account.\nThe charge is first stated in the account in this form: \u201cFor professional services as consulting engineer,\u201d $500, and the particular items are then set forth. The plaintiff is a very able and eminent engineer, and his services were found by the referee before whom the cause was heard, to be of the value charged.\nThe plaintiff brought an action against these defendants, as stockholders in the company, claiming to recover for his said services, under the section of the act before quoted. The referee, after finding the facts, reported for the defendants, on the ground that the plaintiff was .not a \u201claborer or operative,\u201d within the meaning of the act. The plaintiff has appealed from the judgment rendered thereon, and the only question is, was the referee correct in his interpretation of the statute.\nFirst. Was the plaintiff within the language of the act? If we should attempt to define the plaintiff in reference to the services he rendered, we should scarcely describe him as a \u201claborer\u201d or an \u201coperative.\u201d We should not regard such language as apt or appropriate. Such words we should ordinarily apply to an entirely different class of men. To a class who obtain their living \u2022 by coarse manual labor, as distinguished from professional men; men who work with their hands, rather than their heads. Operative, though of very nearly the same signification, is somewhat more comprehensive than labor. The legislature enacted that ten hours should be a day\u2019s work, for mechanics and laborers on all public works. (2 R. S. 5th ed. p. 828, \u00a7 164.) Could it be contended that the plaintiff would be included in such an . enactment, under.the word \u201claborers?\u201d I think not. He would no more be included than a lawyer who rendered professional services. The services of the plaintiff were very like those rendered by the lawyer. Bach may involve some manual labor, but that is the incident, rather than the principal of the service. The plaintiff in my opinion correctly described his services as \u201cprofessional\u201d as contradistinguished from those of a \u201claborer\u201d or \u201coperative.\u201d\nSecond. Is the plaintiff within the policy or reason of the law ? The purpose of the legislature was to protect a class of men not well qualified to protect themselves. Men who usually labor for small compensation, and who are regarded, to a certain extent, as in the power of their employers\u2014men who usually take no security for their services, who would generally be dismissed for requiring it, and therefore never make the attempt. Though the plaintiff in this instance has failed to take security, he obviously does not belong to the class referred to. I believe the legislature has not considered professional men as requiring the aid of such laws. Clearly the law did not intend to make the stockholders liable for all the debts of this company. It does not protect the merchant, though his demand be just as worthy and honest; it does not protect the lawyer. As a general thing they take care to protect themselves.\nThe plaintiff therefore, in my judgment, is neither within the language nor the reason of the law. The decision in Conant v. Van Schaick, (24 Barb. 87,) does not touch this case.\n[New York General Term,\nNovember 3, 1862.\nThe finding of facts by the referee covers the whole ground. If the plaintiff should desire to review the decision of this court, facts may be settled here.\nThe judgment is therefore affirmed, with costs.\nIngraham, Leonard and Peckham, Justices.]",
+        "type": "majority",
+        "author": "By the Court, Peckham, J."
+      }
+    ],
+    "attorneys": [
+      "E. Sprout, for the appellant.",
+      "Clarkson N. Potter, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Ericsson vs. James Brown and Stewart Brown.\nA consulting engineer, who renders services as such, is not within the language, or the policy or reason, of the 10th section of the act of April 11, 1849, incorporating the New York and Liverpool United States Mail Steamship Company, which provides that the stockholders shall be individually liable for debts due and owing to their \u201c laborers and operatives \u201d for services performed for the corporation,\nAPPEAL from a judgment entered upon the report of a referee. The action was brought against the defendants, as stockholders of the New York and Liverpool United States Hail Steamship Company, to recover for services rendered to the company by the plaintiff in the capacity of civil engineer. The plaintiff had previously recovered a judgment against the corporation for the amount claimed, and an execution issued thereon had been returned unsatisfied. The action was referred to a referee, who found, as matter of law, that the plaintiff at the time of the performance by bim of the services did not occupy or hold toward the company the relation of laborer or operative, and did not render and perform such services in the character or quality of a laborer or operative of said company, within the true intent and meaning of the 10th section of tlae act of incorporation of said company. And that the plaintiff was not entitled to recover of the defendants in this action, and that the complaint be dismissed with costs.\nE. Sprout, for the appellant.\nClarkson N. Potter, for the respondent."
+  },
+  "file_name": "0390-01",
+  "first_page_order": 390,
+  "last_page_order": 393
+}
