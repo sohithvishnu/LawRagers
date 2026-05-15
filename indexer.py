@@ -166,19 +166,17 @@ def stream_index(config: IndexConfig) -> Generator[dict, None, None]:
         nonlocal chunks_total
         if not batch_docs:
             return
-        if config.rebuild:
-            collection.add(
-                documents=batch_docs,
-                metadatas=batch_meta,
-                ids=batch_ids,
-            )
-        else:
-            collection.upsert(
-                documents=batch_docs,
-                metadatas=batch_meta,
-                ids=batch_ids,
-            )
-        chunks_total += len(batch_docs)
+        # Deduplicate by ID within the batch to avoid ChromaDB DuplicateIDError
+        seen: dict[str, int] = {}
+        for i, id_ in enumerate(batch_ids):
+            if id_ not in seen:
+                seen[id_] = i
+        unique = list(seen.values())
+        docs  = [batch_docs[i] for i in unique]
+        metas = [batch_meta[i] for i in unique]
+        ids   = [batch_ids[i]  for i in unique]
+        collection.upsert(documents=docs, metadatas=metas, ids=ids)
+        chunks_total += len(docs)
         batch_docs.clear()
         batch_meta.clear()
         batch_ids.clear()
